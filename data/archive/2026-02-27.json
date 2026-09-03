@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVUTVRRXBIS1FHbXhJRnJLWmpZYlRBTEd0WXhzc25LckNvMUd1WmJwcDY1WjJEQUZnZjh0Rm5ZdG9BV3Y5Z3MxMGYxUzB4bXNHd2U0MkxsSm9rdE9QNlB3?oc=5\" target=\"_blank\">A family of large language models for materials research with insights into model adaptability in continued pretraining</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1163-7d2e0561ff",
+   "source_id": "news",
+   "source_name": "chineseherald.co.nz",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "2亿美元也留不住？！从苹果到Meta，硅谷“最贵华人”转投OpenAI - chineseherald.co.nz",
+   "summary": "2亿美元也留不住？！从苹果到Meta，硅谷“最贵华人”转投OpenAI &nbsp;&nbsp; chineseherald.co.nz",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pOWo1UUVzWDctcGJCbUdpTXo3TzdaT2NwRE1yNm13WGkzM0wwNklBSTNtTkE4M251UHlkMGhwVTI4X1NJTXZHSmpqcjNFa21KdzlEV2tGRVhZMnBwS3pDVTNMQm5vR0JSZlhpNnR5YVZZa3NUOUpCVzdVM3ZRWUk?oc=5",
+   "published_at": "2026-02-27T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5pOWo1UUVzWDctcGJCbUdpTXo3TzdaT2NwRE1yNm13WGkzM0wwNklBSTNtTkE4M251UHlkMGhwVTI4X1NJTXZHSmpqcjNFa21KdzlEV2tGRVhZMnBwS3pDVTNMQm5vR0JSZlhpNnR5YVZZa3NUOUpCVzdVM3ZRWUk?oc=5\" target=\"_blank\">2亿美元也留不住？！从苹果到Meta，硅谷“最贵华人”转投OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chineseherald.co.nz</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

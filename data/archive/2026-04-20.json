@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNSDlNSE5tR1doVHp4Yll3VjJMeXloQkpadHc0STRsODB1QnowaUxKTXY4U0dHVUQ1ZTFVa2ZsTDZRQnNCWG1oVTd0eUVfMG9JWDlqSl8tMnRpRG10NURMUENWT3JUbkRScWdpQllDTXhfdkVPUUdOSW1vcUVYa2tmYkFiRXZYMWVJREdrbDFyRjI?oc=5\" target=\"_blank\">16 Ways to make a Small Language Model think bigger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oracle Blogs</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-274-13c85409ab",
+   "source_id": "news",
+   "source_name": "2 Minute Medicine",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models (LLMs) performed poorly in navigating early clinical diagnostic uncertainty - 2 Minute Medicine",
+   "summary": "Large language models (LLMs) performed poorly in navigating early clinical diagnostic uncertainty &nbsp;&nbsp; 2 Minute Medicine",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXhyd1RlR0dwZ0d3S0o4aEU0ZHMyVjZjZjlRdk52RFBLRFpHSVVtWEVaNERyRThTZ3ZnUXgwNFNSQnRmbFNscklpTDd5ai1NemFXR2NHOGFJV2dEYjBNLXRGT2JlZUlzYVp1VmNNOHFTc2RWekstbTVNWndsX0VLT1J2Ulk2VW9rdW5TX2RuNU9RU3RxNXJjakctbnhXSVUwREstcC1sbTdLSHRqQ1BfMHpEVllVaGhHWGpCU2djYkJIcGVjeF9z?oc=5",
+   "published_at": "2026-04-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXhyd1RlR0dwZ0d3S0o4aEU0ZHMyVjZjZjlRdk52RFBLRFpHSVVtWEVaNERyRThTZ3ZnUXgwNFNSQnRmbFNscklpTDd5ai1NemFXR2NHOGFJV2dEYjBNLXRGT2JlZUlzYVp1VmNNOHFTc2RWekstbTVNWndsX0VLT1J2Ulk2VW9rdW5TX2RuNU9RU3RxNXJjakctbnhXSVUwREstcC1sbTdLSHRqQ1BfMHpEVllVaGhHWGpCU2djYkJIcGVjeF9z?oc=5\" target=\"_blank\">Large language models (LLMs) performed poorly in navigating early clinical diagnostic uncertainty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">2 Minute Medicine</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

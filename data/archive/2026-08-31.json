@@ -626,6 +626,71 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3cWlSRUdSdG1SNzlmU05OWl9BM2tSMU4tV21TQ0NoVlRCbk16RFBSSU5KZnc2XzRWUHJmU213TWtPdWU2aVV1bGNZUVc2b1Jf?oc=5\" target=\"_blank\">华为云：深耕城市公共云，以AI智能体共筑“AI CITY”新生态</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C114通信网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-182-83496501e5",
+   "source_id": "news",
+   "source_name": "TechTarget",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI agent security: How reliable is enterprise AI testing? - TechTarget",
+   "summary": "AI agent security: How reliable is enterprise AI testing? &nbsp;&nbsp; TechTarget",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlNfcFMtemkzZlJKbnZiUVlxVzB5eWk5UXBYeHJpTE5ielljSTlDLVp5VER0OHEwc052VlJ2MHZpQ0FtbjdtQmt2R1NoeXZ3bWZ2VURrYTZpVTloejZkVUgzd1IwWm9HZV9RX1FkUWx0SndtWTYya2NPSF9lVnh5VHJuQnUtelV0a0JxdFcxX0ZPbG53Mk1aX0ZGcHNNd0dzVGc?oc=5",
+   "published_at": "2026-08-31T21:45:16+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlNfcFMtemkzZlJKbnZiUVlxVzB5eWk5UXBYeHJpTE5ielljSTlDLVp5VER0OHEwc052VlJ2MHZpQ0FtbjdtQmt2R1NoeXZ3bWZ2VURrYTZpVTloejZkVUgzd1IwWm9HZV9RX1FkUWx0SndtWTYya2NPSF9lVnh5VHJuQnUtelV0a0JxdFcxX0ZPbG53Mk1aX0ZGcHNNd0dzVGc?oc=5\" target=\"_blank\">AI agent security: How reliable is enterprise AI testing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechTarget</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-1019-b8ce0e6952",
+   "source_id": "news",
+   "source_name": "36 Kr",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "2026 AI智能体指南：该学什么、用什么做以及避开什么？ - 36 Kr",
+   "summary": "2026 AI智能体指南：该学什么、用什么做以及避开什么？ &nbsp;&nbsp; 36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yY21UYzhNa1dRMlZRbk8tT3QxRUVDY0ZOR1pUb3JSVzhYR29Gb2xCQ3NxSzlJZ1ZkZ0swd2t2TGpRTHpPLXl0YWg2OUUtZw?oc=5",
+   "published_at": "2026-08-31T19:39:27+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yY21UYzhNa1dRMlZRbk8tT3QxRUVDY0ZOR1pUb3JSVzhYR29Gb2xCQ3NxSzlJZ1ZkZ0swd2t2TGpRTHpPLXl0YWg2OUUtZw?oc=5\" target=\"_blank\">2026 AI智能体指南：该学什么、用什么做以及避开什么？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-79-b94d9ab230",
+   "source_id": "news",
+   "source_name": "United Nations Development Programme",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Artificial Intelligence and Electoral Administration - United Nations Development Programme",
+   "summary": "Artificial Intelligence and Electoral Administration &nbsp;&nbsp; United Nations Development Programme",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTVqc1J6YV93c3hnbzAzOVdQR2FFVHZPMzVSaFRkMGpzMmNmYXVSVkxFSHVwUHJrdkFpc1pQeTNkVTM1bWpxZUNWcHFOMkZ2ZW9YbTZHSGcyZWh4LVh4Q2FRd04zOF9YQWFmRGZoNnc5RGxWWVVlZGlhVFppd3V3UkpfWGJqMHFzQ1g5R0dTZTZYYXc?oc=5",
+   "published_at": "2026-08-31T16:36:53+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTVqc1J6YV93c3hnbzAzOVdQR2FFVHZPMzVSaFRkMGpzMmNmYXVSVkxFSHVwUHJrdkFpc1pQeTNkVTM1bWpxZUNWcHFOMkZ2ZW9YbTZHSGcyZWh4LVh4Q2FRd04zOF9YQWFmRGZoNnc5RGxWWVVlZGlhVFppd3V3UkpfWGJqMHFzQ1g5R0dTZTZYYXc?oc=5\" target=\"_blank\">Artificial Intelligence and Electoral Administration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">United Nations Development Programme</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQbkUyS1RuVEFCQlZ4MFk3Z25tWkJxSnM2NHRBSVJlZkdNZzQwaEtkN1FUR0owU29kNm9WMHNRTEotUTdBeWJISXNMR0drRi1DUHVGMU41UXYxWmY2cHdPek54S0x3SzB6dGhiX2tlQ2dQeDRDMzBQU3g4MkZGT2czNW5WbXJROFBCakE?oc=5\" target=\"_blank\">AI大模型的Token是什么？一个视频带你了解</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">广州日报新花城</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-272-9dcfb34b5e",
+   "source_id": "news",
+   "source_name": "EurekAlert!",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models and creativity - EurekAlert!",
+   "summary": "Large language models and creativity &nbsp;&nbsp; EurekAlert!",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMWDUydzNwSXNBZmoxVkxiVXZtelhlUjhsQnB5RFJpcVRMeHRjWTdOSk9jOS1uTEU2ZTNhMHFTbTRRdW9tczdNN19hNVZvVVlnQzNfZTVYNnlYVE9E?oc=5",
+   "published_at": "2026-03-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMWDUydzNwSXNBZmoxVkxiVXZtelhlUjhsQnB5RFJpcVRMeHRjWTdOSk9jOS1uTEU2ZTNhMHFTbTRRdW9tczdNN19hNVZvVVlnQzNfZTVYNnlYVE9E?oc=5\" target=\"_blank\">Large language models and creativity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EurekAlert!</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

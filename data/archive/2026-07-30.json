@@ -21,6 +21,71 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE54amxCdWNVNzVyVUF2ZjFYQWdwdlkwRFJyeXJtREQ3bld2anAtcEtiV3ZiOWd1eXA5cm4yLUpBYVRmYzZrbDJzaURiVG1hYWwtdXdMMUR2Tm1ISlVtRENnOVFfaG5kMTl6?oc=5\" target=\"_blank\">OpenAI 模型入侵Hugging Face 系統，引發對自主型AI 攻擊的擔憂| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-487-3d05027802",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
+   "summary": "Investigating three real-world incidents in our cybersecurity evaluations &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
+   "published_at": "2026-07-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5\" target=\"_blank\">Investigating three real-world incidents in our cybersecurity evaluations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-695-35af1743e5",
+   "source_id": "news",
+   "source_name": "Tech Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "European Startup Funding Hits Six-Year Deal-Count Low as AI Absorbs 60 Percent - Tech Times",
+   "summary": "European Startup Funding Hits Six-Year Deal-Count Low as AI Absorbs 60 Percent &nbsp;&nbsp; Tech Times",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSXFMQVREUGkwUUxkRUtuR19JUUFfeG5pRUdPemp3Y1pkckpsaVRlNnJCVk82anI5a3ZEWlhzY3FWX0NrT29hWTBPRk5DQVlKb25BR0xpQnJfZmlnTVNIQnlKMzhOYk12SmVCX3ItbkJGcWRlWUk1T1VNUGNYVWs5SEVlVFVSdXBNZmN3NGJ1Rk9HTVU3cElQVElkTG5uQmVMQUgxNi1FQnlYeWlNQmFRMUVJcUh6MERYYmI4djROMS02X1htcEtnTVhn?oc=5",
+   "published_at": "2026-07-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQSXFMQVREUGkwUUxkRUtuR19JUUFfeG5pRUdPemp3Y1pkckpsaVRlNnJCVk82anI5a3ZEWlhzY3FWX0NrT29hWTBPRk5DQVlKb25BR0xpQnJfZmlnTVNIQnlKMzhOYk12SmVCX3ItbkJGcWRlWUk1T1VNUGNYVWs5SEVlVFVSdXBNZmN3NGJ1Rk9HTVU3cElQVElkTG5uQmVMQUgxNi1FQnlYeWlNQmFRMUVJcUh6MERYYmI4djROMS02X1htcEtnTVhn?oc=5\" target=\"_blank\">European Startup Funding Hits Six-Year Deal-Count Low as AI Absorbs 60 Percent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-1042-542e00d101",
+   "source_id": "news",
+   "source_name": "美国高通",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "从 AI 设备到个人AI：智能体驱动的终端进化与产业重构 - 美国高通",
+   "summary": "从 AI 设备到个人AI：智能体驱动的终端进化与产业重构 &nbsp;&nbsp; 美国高通",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05YUF3YXVNR01hSHV0TFVTcy1wMmdwSTRzTVA3YmpKMUVZdU1hM0FwM2x3VVB0VEZoZjVIbzJ6SUNTSmdBN21SamVwTnk0RW53aHhzWi12dE5RZw?oc=5",
+   "published_at": "2026-07-30T06:53:14+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE05YUF3YXVNR01hSHV0TFVTcy1wMmdwSTRzTVA3YmpKMUVZdU1hM0FwM2x3VVB0VEZoZjVIbzJ6SUNTSmdBN21SamVwTnk0RW53aHhzWi12dE5RZw?oc=5\" target=\"_blank\">从 AI 设备到个人AI：智能体驱动的终端进化与产业重构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">美国高通</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

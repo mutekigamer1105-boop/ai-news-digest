@@ -22,6 +22,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nvidianews.nvidia.com</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-245-284238bc6c",
+   "source_id": "news",
+   "source_name": "diagnosticimaging.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large Language Models and Clinical Reasoning: What New Research Reveals - diagnosticimaging.com",
+   "summary": "Large Language Models and Clinical Reasoning: What New Research Reveals &nbsp;&nbsp; diagnosticimaging.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVJvZFZBWDlZTjFZeVpzTWpJSjZzS25kQXRmOW9aNXNlSTF2aDFXRENfanlKLVlzc1U1dzgtQXIzNVJQVHJyRGVkNExlS1hJZy1CM09DRHhLbkZGSnQxVWptbHBLS3hBaklfM21kS09YYWdNZWhNNHFnM0NERkkwTWFEaXZCY1U1SnZEc3RielpsOGROdHprNg?oc=5",
+   "published_at": "2026-04-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVJvZFZBWDlZTjFZeVpzTWpJSjZzS25kQXRmOW9aNXNlSTF2aDFXRENfanlKLVlzc1U1dzgtQXIzNVJQVHJyRGVkNExlS1hJZy1CM09DRHhLbkZGSnQxVWptbHBLS3hBaklfM21kS09YYWdNZWhNNHFnM0NERkkwTWFEaXZCY1U1SnZEc3RielpsOGROdHprNg?oc=5\" target=\"_blank\">Large Language Models and Clinical Reasoning: What New Research Reveals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">diagnosticimaging.com</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

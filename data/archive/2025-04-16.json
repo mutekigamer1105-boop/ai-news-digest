@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1122-57acb23e2c",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "OpenAI o3 和 o4-mini 系统卡 - OpenAI",
+   "summary": "OpenAI o3 和 o4-mini 系统卡 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PLS1RQURDNVJocWdOS2tfWnIyQ0Yxb2UxUTgtQ0I0dWhEcVRoWnJzLTJoMjNLby1lbWlVRFMwWEZ1QlQ0bW1mNlNjYlpHd0VsMXB0QUxxRzZJRkV1ZnVRd1ZmZjh3aFZKSU9N?oc=5",
+   "published_at": "2025-04-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1PLS1RQURDNVJocWdOS2tfWnIyQ0Yxb2UxUTgtQ0I0dWhEcVRoWnJzLTJoMjNLby1lbWlVRFMwWEZ1QlQ0bW1mNlNjYlpHd0VsMXB0QUxxRzZJRkV1ZnVRd1ZmZjh3aFZKSU9N?oc=5\" target=\"_blank\">OpenAI o3 和 o4-mini 系统卡</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  }
+ ]
+}

@@ -65,6 +65,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA1eTA5dFRQSkpoMDlOMEY5bnNOMUF6Vm8yeEcwbEVOcUtCdUxtVGJfb1lvdEhxeDFpem1oZHlNM2cwRkkyYjRFbXM5cHg3OXVNcXFfNkpXMVFEY01ObkNodWxOUHlMaUdfMWplMnl4aw?oc=5\" target=\"_blank\">全球首个AI智能体原生操作系统发布</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-673-bb1c414058",
+   "source_id": "news",
+   "source_name": "calcalistech.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "One in four startups now has a solo founder as AI transforms entrepreneurship - calcalistech.com",
+   "summary": "One in four startups now has a solo founder as AI transforms entrepreneurship &nbsp;&nbsp; calcalistech.com",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95LUtBUHBQV0hIbDRacy1zVVlzN1BMNE1KMnFuVlVoTW1zMjIxcjJGcHhyTE9JOFdPalNOVEtJR2RHLU9MZFQ1M01iR2xvbzVaeWthbl84X1RSbEhhaFZnVlJySkRoNXN3?oc=5",
+   "published_at": "2026-07-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE95LUtBUHBQV0hIbDRacy1zVVlzN1BMNE1KMnFuVlVoTW1zMjIxcjJGcHhyTE9JOFdPalNOVEtJR2RHLU9MZFQ1M01iR2xvbzVaeWthbl84X1RSbEhhaFZnVlJySkRoNXN3?oc=5\" target=\"_blank\">One in four startups now has a solo founder as AI transforms entrepreneurship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-901-e8292dd32a",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "学习手记｜习近平总书记指引人工智能发展与治理 - 新华网",
+   "summary": "学习手记｜习近平总书记指引人工智能发展与治理 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3l1YndMenBLdC1xUHU0MFJMQXdoQTJxNU1KWGhXR2ltekMwYlJYXzlnTGNTVlQ3N2ZOeFFJOVVqRWcwTGRRWmd1ZGlpTXBFWkZjZXJGb2FDS3VJVVFsdW5ZSGl2d1hkbEpheU9pZ0E0RndRUnBNaDJGUjJtbWpYVHRaQWxPM1BxREhIRFV3?oc=5",
+   "published_at": "2026-07-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3l1YndMenBLdC1xUHU0MFJMQXdoQTJxNU1KWGhXR2ltekMwYlJYXzlnTGNTVlQ3N2ZOeFFJOVVqRWcwTGRRWmd1ZGlpTXBFWkZjZXJGb2FDS3VJVVFsdW5ZSGl2d1hkbEpheU9pZ0E0RndRUnBNaDJGUjJtbWpYVHRaQWxPM1BxREhIRFV3?oc=5\" target=\"_blank\">学习手记｜习近平总书记指引人工智能发展与治理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

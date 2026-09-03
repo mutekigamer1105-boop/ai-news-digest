@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE53eGlndktfMll0bGtWZzRsSzg5My1rMzJ0X2RUcEI3UzI2TEtqVksydEN5VnVQdFFUam56SnplUC1NMWZ4SEppaE0xOU9Nandzc1JpUWs0d3lrLUVDS3c?oc=5\" target=\"_blank\">Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ-CN</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-898-fad2160cb3",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "首届“人工智能治理全球对话”聚焦机遇与合作 - 新华网",
+   "summary": "首届“人工智能治理全球对话”聚焦机遇与合作 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RY0ZkUmJhZ2J4V2FpbHNnRUFoekdNZ0ktTkdkblBFZGxBQWtLYmpJS2R3LTg0eGg3U2hGMmQ5bGFETTN1MWFiMlZ2dE1aa3BWVTlONWVzVUV1TVhoWEk5OVRLNnUzYXduZV9HdGoyWHFEdEE3V180X1JocGlaT1k?oc=5",
+   "published_at": "2026-07-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9RY0ZkUmJhZ2J4V2FpbHNnRUFoekdNZ0ktTkdkblBFZGxBQWtLYmpJS2R3LTg0eGg3U2hGMmQ5bGFETTN1MWFiMlZ2dE1aa3BWVTlONWVzVUV1TVhoWEk5OVRLNnUzYXduZV9HdGoyWHFEdEE3V180X1JocGlaT1k?oc=5\" target=\"_blank\">首届“人工智能治理全球对话”聚焦机遇与合作</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJZGxDQ28xMnBKOXFSN3VhUVRTdDlzcnBJd0VXdFV4SEQ0cEN3eGRkcFpUT3dVZWxiRi1zMGlDWWN0cjcyQjBkSWYxZEo4WWdLelE?oc=5\" target=\"_blank\">可将界面改为简体中文，OpenAI悄然为ChatGPT推出多语言功能Alpha版</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C114通信网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1167-bcf59579ef",
+   "source_id": "news",
+   "source_name": "Sohu",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI更新ChatGPT：新增“多语言功能”支持简体中文界面 - Sohu",
+   "summary": "OpenAI更新ChatGPT：新增“多语言功能”支持简体中文界面 &nbsp;&nbsp; Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HN2hFQkR0NEVOb2xTWnhWdFJjOWJIUHlvTGRjQkEyRGVaUVNzbjYwNWx2NTlBVXVwT01hN3VPTTBCQlhaYTZJQUVrMjJNdkpy?oc=5",
+   "published_at": "2024-01-26T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HN2hFQkR0NEVOb2xTWnhWdFJjOWJIUHlvTGRjQkEyRGVaUVNzbjYwNWx2NTlBVXVwT01hN3VPTTBCQlhaYTZJQUVrMjJNdkpy?oc=5\" target=\"_blank\">OpenAI更新ChatGPT：新增“多语言功能”支持简体中文界面</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

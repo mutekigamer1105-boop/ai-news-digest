@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1152-0fd5d38268",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "阿里开源图像大模型，实测中文渲染能力绝了！精准搞定复杂字体排版，硬刚字节OpenAI - 新浪财经",
+   "summary": "阿里开源图像大模型，实测中文渲染能力绝了！精准搞定复杂字体排版，硬刚字节OpenAI &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00STVaZTdjaEtjbkl5RlFFOWc5d0h2S1Qxd0NiSlQ0V19ENUM3UjBZWFF6RFNGdnFGZ283T3g4NmZTUjBfVUt2MWllejd1UWJEOWtVZnc2NXR6eDh6NTNGUWtKMU9ONlVlc1ktQmtpdkM1c3JqZ2Z0d05GaHk?oc=5",
+   "published_at": "2025-08-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE00STVaZTdjaEtjbkl5RlFFOWc5d0h2S1Qxd0NiSlQ0V19ENUM3UjBZWFF6RFNGdnFGZ283T3g4NmZTUjBfVUt2MWllejd1UWJEOWtVZnc2NXR6eDh6NTNGUWtKMU9ONlVlc1ktQmtpdkM1c3JqZ2Z0d05GaHk?oc=5\" target=\"_blank\">阿里开源图像大模型，实测中文渲染能力绝了！精准搞定复杂字体排版，硬刚字节OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  }
+ ]
+}

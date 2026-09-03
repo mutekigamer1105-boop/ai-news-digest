@@ -1,0 +1,49 @@
+{
+ "items": [
+  {
+   "id": "web-1092-226b0fb273",
+   "source_id": "news",
+   "source_name": "安全内参",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "五眼联盟发布《智能体AI服务的审慎采用》指导性文件 - 安全内参",
+   "summary": "五眼联盟发布《智能体AI服务的审慎采用》指导性文件 &nbsp;&nbsp; 安全内参",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01X2xqNFFfeTVqNmVNdVVUUXNqT1FRbWxCU1dlN19tREItV1VMZWVHOTRVRE8wenBWckxJUmRqaGQxWXp5VXdSRHJrOEYxZw?oc=5",
+   "published_at": "2026-05-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE01X2xqNFFfeTVqNmVNdVVUUXNqT1FRbWxCU1dlN19tREItV1VMZWVHOTRVRE8wenBWckxJUmRqaGQxWXp5VXdSRHJrOEYxZw?oc=5\" target=\"_blank\">五眼联盟发布《智能体AI服务的审慎采用》指导性文件</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">安全内参</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-1111-48d172249e",
+   "source_id": "news",
+   "source_name": "凤凰网科技",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "那个在OpenAI修中文的人 - 凤凰网科技",
+   "summary": "那个在OpenAI修中文的人 &nbsp;&nbsp; 凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05VkIzMWR4YmpXclplUXVSVnZzYk1ELW5PQnFlWmFuVnBrUFR5TUNWQVljSk1MUHRpaFROcDY1MkRWNVR3eU5TYUZ4T2E?oc=5",
+   "published_at": "2026-05-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE05VkIzMWR4YmpXclplUXVSVnZzYk1ELW5PQnFlWmFuVnBrUFR5TUNWQVljSk1MUHRpaFROcDY1MkRWNVR3eU5TYUZ4T2E?oc=5\" target=\"_blank\">那个在OpenAI修中文的人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网科技</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  }
+ ]
+}

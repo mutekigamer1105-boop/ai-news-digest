@@ -85,6 +85,48 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFJTdWtYZzBuMHVULWhJWFV3dVB3d0NfeEE1V0RMcV82Z2VFZ2ZtV2x2ZDBYTG1ZUnQ1RGFsZ0pFWmNFZW1rczNCOFRDUjFCTlFvUEplLVFuZmpHRVpfS2pZX3M1ZjZDaFUzZVV3QURjclpScmZlVndpaWlaN3hBNU11dWRpMkxmamp5ZXhR?oc=5\" target=\"_blank\">Fierce Healthcare Fundraising Tracker '26: Arintra lands $25M; Happy Health buoyed by $75M round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fiercehealthcare.com</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1104-f5de86ad9c",
+   "source_id": "news",
+   "source_name": "人民日报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "如何给AI支付立规矩（有问有答） - 人民日报",
+   "summary": "如何给AI支付立规矩（有问有答） &nbsp;&nbsp; 人民日报",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3eTZ5d2FNT0lfeTc3LUkzMVRVMXhzZ1cxUmw4Skpkc3p6NURkc2gwTGVkN1VIblQ5dldXNGFLVEtTV3hrWFBRQ0RMSEVrdEVFajdYNl9TUFlibGl4YWxzSnptczJXX29rSGdZWHc5enRTeFFlSWhyUHlrOFV0Tlk?oc=5",
+   "published_at": "2026-08-27T13:14:27+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA3eTZ5d2FNT0lfeTc3LUkzMVRVMXhzZ1cxUmw4Skpkc3p6NURkc2gwTGVkN1VIblQ5dldXNGFLVEtTV3hrWFBRQ0RMSEVrdEVFajdYNl9TUFlibGl4YWxzSnptczJXX29rSGdZWHc5enRTeFFlSWhyUHlrOFV0Tlk?oc=5\" target=\"_blank\">如何给AI支付立规矩（有问有答）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民日报</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-866-699a763c1f",
+   "source_id": "news",
+   "source_name": "sasac.gov.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中电信人工智能科技（北京）有限公司2027届校园招聘全面启动 - sasac.gov.cn",
+   "summary": "中电信人工智能科技（北京）有限公司2027届校园招聘全面启动 &nbsp;&nbsp; sasac.gov.cn",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN3o3LUZCaDJLZlJNV3BvTks5MlI4R3BPOV9uMVJjQmwzV3FqalhOTnhoQ0JhYkVLRHJGUllJSFp4NnZ6cE5tUENlejhmeDRnSDhrMnFpb0hrMHFibnhkbGRzU2pzc2JIUnoxa1dOMXB1VXliZXUxM2tjSWQ3dw?oc=5",
+   "published_at": "2026-08-27T06:47:35+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN3o3LUZCaDJLZlJNV3BvTks5MlI4R3BPOV9uMVJjQmwzV3FqalhOTnhoQ0JhYkVLRHJGUllJSFp4NnZ6cE5tUENlejhmeDRnSDhrMnFpb0hrMHFibnhkbGRzU2pzc2JIUnoxa1dOMXB1VXliZXUxM2tjSWQ3dw?oc=5\" target=\"_blank\">中电信人工智能科技（北京）有限公司2027届校园招聘全面启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sasac.gov.cn</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

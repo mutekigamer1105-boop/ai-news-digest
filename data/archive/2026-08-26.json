@@ -131,6 +131,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvVUtZSUlYTWl1SWtCTDk5eEluZmtxd0thekVZRUpLTHBWc3RoOXRPY051NUk0RGlCaHhueXRGcDAtV3pzdXF0VjFkU2ZDNzBqTXFyVTRQV0tkanFvc2c?oc=5\" target=\"_blank\">DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ-CN</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-413-48dec59ac5",
+   "source_id": "news",
+   "source_name": "Salesforce",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM - Salesforce",
+   "summary": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM &nbsp;&nbsp; Salesforce",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5\" target=\"_blank\">Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salesforce</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

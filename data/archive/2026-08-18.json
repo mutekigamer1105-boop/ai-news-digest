@@ -131,6 +131,93 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BdjZSeWNMVlNObm5QZndhbWZCdWZ6Qnd3Ri1hQWZ1SjRWUGphWlhDQk5jMHBzM2IwRUcwRHQ5bTRkSl9JRjdGUg?oc=5\" target=\"_blank\">港股AI大模型双雄重挫逾13% 卖空数据创阶段新高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-627-6f2eafc7c9",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Reach Capital raises $265M Fund V to back AI founders building to 'expand human potential' - TechCrunch",
+   "summary": "Reach Capital raises $265M Fund V to back AI founders building to 'expand human potential' &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZzRUbFhFV2ROTTNLXzFsYkhsQUE4S1pZYzlMQ1g4LUhNOUdUTlgxZ0VhRTlOdU9rdGNaZEZpY2U4Mngtb1o3OHQwZGRhVDZfY3R3SklnNFB2SFBrTHZkNG9TOWpoZ3huMS0tcjE5MkpDOXRwRTRjRkd0MmRhRUVmLXBEc3lVMjZVRml3LTBoX1BqSkpja191VjBMLUVPb2lYQlVjd0huY1hQeExDV2lzUUZQbnRzMFptM0NTdmI4NA?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZzRUbFhFV2ROTTNLXzFsYkhsQUE4S1pZYzlMQ1g4LUhNOUdUTlgxZ0VhRTlOdU9rdGNaZEZpY2U4Mngtb1o3OHQwZGRhVDZfY3R3SklnNFB2SFBrTHZkNG9TOWpoZ3huMS0tcjE5MkpDOXRwRTRjRkd0MmRhRUVmLXBEc3lVMjZVRml3LTBoX1BqSkpja191VjBMLUVPb2lYQlVjd0huY1hQeExDV2lzUUZQbnRzMFptM0NTdmI4NA?oc=5\" target=\"_blank\">Reach Capital raises $265M Fund V to back AI founders building to 'expand human potential'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-633-858f99cdde",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal - Yahoo Finance",
+   "summary": "Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmVpVnFGZTV6Z3RQS1E3N0NZa2dUTjN1ak5rRFdrbFhrLWJ6dk5peWVub0tiSkV4ckF0UURWVkNmVmQwVS1odTc4aXZhZzRNQU9STFRnRTFxYzBLU2xNUUd2RFBwSGJUNDQxT2lfcEQ2OVRJWXFaQnRWYU5QYU9xUVNGY1drS0lBUUswZnVnVlFaeU00eHctdQ?oc=5\" target=\"_blank\">Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-638-7834f00705",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion - Bloomberg.com",
+   "summary": "AI Startup Temporal in Talks for a Valuation of at Least $12 Billion &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcm5rQy1OTWVub2ZXeEdDaXJsdXkzbnBEUTA3TWJfWmswM1FtTGZkXzl3Q3NRWktMWU4xaFoxTTExcFV0R1RBd01wQTZSMU0tenFFNkV0aE1uaEJSVlNMNVBGV2tuZUxGUWxjUTgyY3JBUFFOWkFpYXpmYzBOZDRCX0dCTE8wTmRyZE9aUzhSd1dIdFVHR0Y2cWJiQzNBbEw2S2tkbnZDeUN0OHFHYTJyRzFUWHVMeC1CRUE?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNcm5rQy1OTWVub2ZXeEdDaXJsdXkzbnBEUTA3TWJfWmswM1FtTGZkXzl3Q3NRWktMWU4xaFoxTTExcFV0R1RBd01wQTZSMU0tenFFNkV0aE1uaEJSVlNMNVBGV2tuZUxGUWxjUTgyY3JBUFFOWkFpYXpmYzBOZDRCX0dCTE8wTmRyZE9aUzhSd1dIdFVHR0Y2cWJiQzNBbEw2S2tkbnZDeUN0OHFHYTJyRzFUWHVMeC1CRUE?oc=5\" target=\"_blank\">AI Startup Temporal in Talks for a Valuation of at Least $12 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-894-b053ed55a8",
+   "source_id": "news",
+   "source_name": "广州市人民政府",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "广州拟立法促进人工智能发展 建设统一算力调度平台和应用赋能中心 - 广州市人民政府",
+   "summary": "广州拟立法促进人工智能发展 建设统一算力调度平台和应用赋能中心 &nbsp;&nbsp; 广州市人民政府",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmNk1SU0cyeVJVWkhfZzVYMjdqSzExZGp1Wm45S2VBaU1WbnFzdXhPVmFIbUZYNllLZGxqRFh2amU2dl9TQXRfOEh6Y3R3eGthQzZFV0NNeHhCcE1MR1Jnd2FIZ2dPNU40ZkxDeXJXOHpTX3BX?oc=5",
+   "published_at": "2026-08-18T02:03:51+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBmNk1SU0cyeVJVWkhfZzVYMjdqSzExZGp1Wm45S2VBaU1WbnFzdXhPVmFIbUZYNllLZGxqRFh2amU2dl9TQXRfOEh6Y3R3eGthQzZFV0NNeHhCcE1MR1Jnd2FIZ2dPNU40ZkxDeXJXOHpTX3BX?oc=5\" target=\"_blank\">广州拟立法促进人工智能发展 建设统一算力调度平台和应用赋能中心</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">广州市人民政府</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

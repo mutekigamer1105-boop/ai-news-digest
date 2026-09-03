@@ -44,6 +44,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE84SUZXODRPbS1TSHl5MTFJMjRONm81SndPMmFibUZXdko3dWszT255NjEydlhmbWstOUNFVElIcnZqc1pjZjhIcXpSZ2ZCc0JJOXE4a1NQeXVmQ1E?oc=5\" target=\"_blank\">Databricks 将 GPT-5.5 引入企业智能体工作流</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-675-a3eb260538",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "5 Interesting Startup Deals You May Have Missed: A Law Firm Operating System, Building Defense Tech Near The Battlefield, And Cell-Based Milk - Crunchbase News",
+   "summary": "5 Interesting Startup Deals You May Have Missed: A Law Firm Operating System, Building Defense Tech Near The Battlefield, And Cell-Based Milk &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNODZlTXR2ZWFCWlJ1cktKTGRWLVNCRTliNVIxd1hUWVdYcnl6ejUycDFWdWJGSjBNcHBlTUQ4VTc0QVhSNk1qTHVFcDVyWHRuQmFaXzhyOUQzcUg5YXpPVFQ0TXNFbDhKTEI3ZDgwaV9ZTkx1RnBJSUVid3pYeFkzaWFvbEFpZWpXWGUxeklyZXBjOXU5Mm5mMHFsaWx2bjl1ZHlHaktMdEoweGVHM2lldXBuRHk5SDJrVW1zZXF3?oc=5",
+   "published_at": "2026-05-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNODZlTXR2ZWFCWlJ1cktKTGRWLVNCRTliNVIxd1hUWVdYcnl6ejUycDFWdWJGSjBNcHBlTUQ4VTc0QVhSNk1qTHVFcDVyWHRuQmFaXzhyOUQzcUg5YXpPVFQ0TXNFbDhKTEI3ZDgwaV9ZTkx1RnBJSUVid3pYeFkzaWFvbEFpZWpXWGUxeklyZXBjOXU5Mm5mMHFsaWx2bjl1ZHlHaktMdEoweGVHM2lldXBuRHk5SDJrVW1zZXF3?oc=5\" target=\"_blank\">5 Interesting Startup Deals You May Have Missed: A Law Firm Operating System, Building Defense Tech Near The Battlefield, And Cell-Based Milk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

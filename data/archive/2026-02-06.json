@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GeEplb3VMeHJwUGJuM1pKMlJWUWg3eGpRenRlR3ViU3pZZ2ZCVDBsbXdOVm1VUDZOTTYwS1NMRXhCMHQ1UVlKTjh1Sll0NW1ydlhKZlpla3JvZnFMVWVj?oc=5\" target=\"_blank\">Phase transitions in large language model compression - npj Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-692-06d5fe1669",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The Week’s 10 Biggest Funding Rounds: Waymo Leads An AI-Driven Lineup Of Large Financings - Crunchbase News",
+   "summary": "The Week’s 10 Biggest Funding Rounds: Waymo Leads An AI-Driven Lineup Of Large Financings &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVVNhd1FjeW82Q01WaktRMnkxUW85RUtHeTBMZEZseWxpS1Exa1lHeG0zRmF2MlVPUUQtSlpXcDdGOGY4eXpHS2gwU2gxYTM0RnBZaXQwcHRjSFlMd18xNFk2SnBId0Noc2JmREpHcEVSMlZ4YU9tcmFBLWNKSXlJOFJCaw?oc=5",
+   "published_at": "2026-02-06T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPVVNhd1FjeW82Q01WaktRMnkxUW85RUtHeTBMZEZseWxpS1Exa1lHeG0zRmF2MlVPUUQtSlpXcDdGOGY4eXpHS2gwU2gxYTM0RnBZaXQwcHRjSFlMd18xNFk2SnBId0Noc2JmREpHcEVSMlZ4YU9tcmFBLWNKSXlJOFJCaw?oc=5\" target=\"_blank\">The Week’s 10 Biggest Funding Rounds: Waymo Leads An AI-Driven Lineup Of Large Financings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

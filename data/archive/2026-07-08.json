@@ -132,6 +132,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2JqU1F6NXJfWW9yNkxPc0FRME1nbTZhaWN1ZW9JNzRFVWRsWlVXNEMyNVhoR1dyR1lUVXFZUkxya2FVQzhFTzZQc1NMVGVjTTBkd1Jpc0tSUnd6aGJWVGdBUWRpdDFhTTk5QlZfa2tfcDBJaFRiVXJ6WFFaWHdHNndPc2Zva0VxYnZwODY1U01WQ2dmNjdfUFlfQkx6U0hXOS1RVHFCellqNFBL?oc=5\" target=\"_blank\">OpenAI launches GPT-Live voice model series ahead of broad GPT-5.6 release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-221-3286f46c15",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models can predict the results of social science experiments - Nature",
+   "summary": "Large language models can predict the results of social science experiments &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvZ2p4aS1CQ2tNa2wxSkd3YkFaVXFWWDZVRVM0NkhEdGxMT3pEclZXSG9qSmNyeGdTRG80T3NKVEJ1cUQ0ZDBXTDdldjdNTVBDQmNOZ0JyeWdpMlRvR3p3?oc=5",
+   "published_at": "2026-07-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvZ2p4aS1CQ2tNa2wxSkd3YkFaVXFWWDZVRVM0NkhEdGxMT3pEclZXSG9qSmNyeGdTRG80T3NKVEJ1cUQ0ZDBXTDdldjdNTVBDQmNOZ0JyeWdpMlRvR3p3?oc=5\" target=\"_blank\">Large language models can predict the results of social science experiments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

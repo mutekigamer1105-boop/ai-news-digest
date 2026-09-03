@@ -21,6 +21,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IWHI4SWM2TG10RndfRUpCU2FLVzJLLVdXbFctUU9OOV9oUGsza1NidFZ4RXpzRS03T2lQZ0JBU3E1Zi1lcjJNRlZRSng3d1BienNRMVZtSkwxZ19jTTZrdjhNbzI2QQ?oc=5\" target=\"_blank\">聚焦“人工智能+城市建设”应用落地，2026年AI智能体决赛举办</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1080-02396e8ebe",
+   "source_id": "news",
+   "source_name": "InfoQ-CN",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩 - InfoQ-CN",
+   "summary": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩 &nbsp;&nbsp; InfoQ-CN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vX2Jhb3kwdE1RbnRLQnV1QTI5TWtaZlN3NFY5MVo0M1U4NGE3dXhXUW9ONWF6SlgyaU1Ca2VBRFk2Y1BUS0dwa1UyOW41WDZwcGthdENXcmZCNGZTaXc?oc=5",
+   "published_at": "2026-08-23T09:03:53+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vX2Jhb3kwdE1RbnRLQnV1QTI5TWtaZlN3NFY5MVo0M1U4NGE3dXhXUW9ONWF6SlgyaU1Ca2VBRFk2Y1BUS0dwa1UyOW41WDZwcGthdENXcmZCNGZTaXc?oc=5\" target=\"_blank\">亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ-CN</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-861-114164217e",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "2026绿色算力（人工智能）大会：聚焦词元经济 - 新华网",
+   "summary": "2026绿色算力（人工智能）大会：聚焦词元经济 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sS1A1dEJKbWhBMFpjNmlad1R2TGpTVVBhUW9aSW92bXFObjBuU3lYQTM1c1hTSjRvemFEMDZtby1rZXFtRGhFU3hnd01GUDVkRy1mb3pJVUJfLTZJY3Vkc29lcEl6anZ2WE81bFo4MWVRVDRGNlVHbjBOQXBpUQ?oc=5",
+   "published_at": "2026-08-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1sS1A1dEJKbWhBMFpjNmlad1R2TGpTVVBhUW9aSW92bXFObjBuU3lYQTM1c1hTSjRvemFEMDZtby1rZXFtRGhFU3hnd01GUDVkRy1mb3pJVUJfLTZJY3Vkc29lcEl6anZ2WE81bFo4MWVRVDRGNlVHbjBOQXBpUQ?oc=5\" target=\"_blank\">2026绿色算力（人工智能）大会：聚焦词元经济</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

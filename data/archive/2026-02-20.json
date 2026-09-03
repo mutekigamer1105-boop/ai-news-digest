@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IY0ROZ2UwSW01UVNpNmQ5X3pKY3pJQUNhU0ptYVI1dWphQ3ROWmp4UmVOTXpCZkVUSl9TTXZMd1h5WVc5Nk4xVjdkSmNPbmU5ZGdiOFJWcw?oc=5\" target=\"_blank\">7天狂飙超250%！AI大模型，彻底爆发！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stcn.com</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-240-da49afa3e5",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "CancerLLM: a large language model in cancer domain - npj Digital Medicine - Nature",
+   "summary": "CancerLLM: a large language model in cancer domain - npj Digital Medicine &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WaVpBQ2o5ZWdBdC1vVTlITXAyZDZnUGVFdmNfRHZPcUFaYXBNUXhSSDk0Q0pZTENKb1NWZGtULTVRdU9zZUR5a0ZPNktpQl9fbUxNZ2J0dWkxc0lwVjFz?oc=5",
+   "published_at": "2026-02-20T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WaVpBQ2o5ZWdBdC1vVTlITXAyZDZnUGVFdmNfRHZPcUFaYXBNUXhSSDk0Q0pZTENKb1NWZGtULTVRdU9zZUR5a0ZPNktpQl9fbUxNZ2J0dWkxc0lwVjFz?oc=5\" target=\"_blank\">CancerLLM: a large language model in cancer domain - npj Digital Medicine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

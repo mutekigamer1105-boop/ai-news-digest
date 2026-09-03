@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uem1pYkh2dnBOWDFXSUlqNjRNYl9Qbi01M0Z6MDg5QVlNSzBxdGJVNm5kTjlBZkJTVHVVandfN0pjUTVMSFpsVjFuSThBQThVU1VOWVV0SUpBRmRWMzM4?oc=5\" target=\"_blank\">Grounding large language models in clinical diagnostics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-280-ec0c7726bd",
+   "source_id": "news",
+   "source_name": "medRxiv",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Medical errors in large language models revealed using 1,000 synthetic clinical transcripts - medRxiv",
+   "summary": "Medical errors in large language models revealed using 1,000 synthetic clinical transcripts &nbsp;&nbsp; medRxiv",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kSjVfWGd5ZE42eFNfZXdjUS1vdXZWV2RjMmwtZDVDY3NQUkIwRmQ3bktzVklGdy1GNF8yVk1feHBXMlVJTTVVcFZYMm1YZWpucm1ISzNjNFdjSGxBMF96bG5DdGRKNzhOc0NQbnhsWDNnWGJPWnphcTNCeno?oc=5",
+   "published_at": "2026-03-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5kSjVfWGd5ZE42eFNfZXdjUS1vdXZWV2RjMmwtZDVDY3NQUkIwRmQ3bktzVklGdy1GNF8yVk1feHBXMlVJTTVVcFZYMm1YZWpucm1ISzNjNFdjSGxBMF96bG5DdGRKNzhOc0NQbnhsWDNnWGJPWnphcTNCeno?oc=5\" target=\"_blank\">Medical errors in large language models revealed using 1,000 synthetic clinical transcripts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">medRxiv</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

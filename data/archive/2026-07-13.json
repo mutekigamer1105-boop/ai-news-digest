@@ -152,6 +152,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaTGk5NG43aW9jTWFvN2FleHRreHdfUkdMb0NQQnJ6VVdnU0dsSlhDTnp3Q0pMeENpQTMzSEdGckVibU1pc010bUs4TmpfS0QxNU1GV3ctQlRuSTM5cFYxajgwM19oRXRkN0liOTVWdU8?oc=5\" target=\"_blank\">总编辑圈点丨通用生物医学AI智能体可自主执行科研任务，其表现接近人类专家</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-290-313ce88b5e",
+   "source_id": "news",
+   "source_name": "Technology Networks",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large Language Models in Life Science Research: What Scientists Need To Know - Technology Networks",
+   "summary": "Large Language Models in Life Science Research: What Scientists Need To Know &nbsp;&nbsp; Technology Networks",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMzJHUG0tcGFUMHR0TDdLcHozTExkU3ZTZXAwSU1ESVBlNkJGbEpvWjB5cVl1M0RqRklnYWVFY2pvMThLdWUyN0xlNXZJcG4zT1RCRnlPZWJaRUlFN0x1b3lhMXp4U1JTZzJfMk9PR3BqX21ZYlN5cVZYVXRuUmlMN0JyUUJIYndiY1NtVFNyMEJ2RGY1alRLaFNFZDhDY3IxWS04djVHcC1odkgzdlZwY3YxZFlNejBMTzV1SWFRLWxkc3pmeXItenRkTTltWG56QUYzSw?oc=5",
+   "published_at": "2026-07-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMzJHUG0tcGFUMHR0TDdLcHozTExkU3ZTZXAwSU1ESVBlNkJGbEpvWjB5cVl1M0RqRklnYWVFY2pvMThLdWUyN0xlNXZJcG4zT1RCRnlPZWJaRUlFN0x1b3lhMXp4U1JTZzJfMk9PR3BqX21ZYlN5cVZYVXRuUmlMN0JyUUJIYndiY1NtVFNyMEJ2RGY1alRLaFNFZDhDY3IxWS04djVHcC1odkgzdlZwY3YxZFlNejBMTzV1SWFRLWxkc3pmeXItenRkTTltWG56QUYzSw?oc=5\" target=\"_blank\">Large Language Models in Life Science Research: What Scientists Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Technology Networks</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

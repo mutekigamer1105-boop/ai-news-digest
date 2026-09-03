@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE51V0pDRDN2N19FS00wbHlyLXF6bkp4RS1DV3RjMEhzZTJxd2JMbjYxR0FKSGVqdTNLVDlOajFNWFhqdU5sdnVXbTJla3RtTDU3bVRqSDlkR01PNnpmSTEtNHFWbWc?oc=5\" target=\"_blank\">中国开源大模型海外救场，国产AI何以领跑全球？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">科学网—新闻</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1094-e0db352631",
+   "source_id": "news",
+   "source_name": "21财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "智能体第一案反转：亚马逊也阻止不了AI代理 - 21财经",
+   "summary": "智能体第一案反转：亚马逊也阻止不了AI代理 &nbsp;&nbsp; 21财经",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd3R1Z0RlSUtiVzFxUHJKVnZrSzQzU2FFaXlqZjUwQjlIVkRhVjZtdHNNSk05cDh4QzhER0l1Sk1qeEk3YWF4cEFwZ2NKS2xib0FIdHlNWnVhRkJCV2RWeDJ1TTg4Sms1YmpRWVpBbTlEY1hBUEhHODl0bEY5aUs1ZUJmZmlPcHNtTFVHZHlOOWhrZDBs?oc=5",
+   "published_at": "2026-08-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQd3R1Z0RlSUtiVzFxUHJKVnZrSzQzU2FFaXlqZjUwQjlIVkRhVjZtdHNNSk05cDh4QzhER0l1Sk1qeEk3YWF4cEFwZ2NKS2xib0FIdHlNWnVhRkJCV2RWeDJ1TTg4Sms1YmpRWVpBbTlEY1hBUEhHODl0bEY5aUs1ZUJmZmlPcHNtTFVHZHlOOWhrZDBs?oc=5\" target=\"_blank\">智能体第一案反转：亚马逊也阻止不了AI代理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

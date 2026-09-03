@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5\" target=\"_blank\">Introducing Grok 4.6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">X.ai</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-632-af72c42afd",
+   "source_id": "news",
+   "source_name": "Law.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Swedish Legal AI Startup Aloi Announces $7M Funding Round - Law.com",
+   "summary": "Swedish Legal AI Startup Aloi Announces $7M Funding Round &nbsp;&nbsp; Law.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkJOTlUwandDSzgwcGV6a0xHc041Y0R1OVlOWHdDUGpWNk9Hb2NoaUIwMTBWWVp0NTN0OUVQOUZkSVlYZEtTTDl3OGRIOEVfMTc4Q2poR3hZdS0yM0VQUlRDUGRkTFN4RzZqWk5MUUwxV2RLaS1tVlNEc1U4MDhoVS1WWF9SLTk2a1VDdHI2V09kZ255RjRHRFZoUkhNRHZaSEcwbWtn?oc=5",
+   "published_at": "2026-08-12T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkJOTlUwandDSzgwcGV6a0xHc041Y0R1OVlOWHdDUGpWNk9Hb2NoaUIwMTBWWVp0NTN0OUVQOUZkSVlYZEtTTDl3OGRIOEVfMTc4Q2poR3hZdS0yM0VQUlRDUGRkTFN4RzZqWk5MUUwxV2RLaS1tVlNEc1U4MDhoVS1WWF9SLTk2a1VDdHI2V09kZ255RjRHRFZoUkhNRHZaSEcwbWtn?oc=5\" target=\"_blank\">Swedish Legal AI Startup Aloi Announces $7M Funding Round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Law.com</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

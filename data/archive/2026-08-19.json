@@ -130,6 +130,52 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzUkhTbUk2QTI1V0ZvTnQzNlBnb1hCTGNINzJBVXBBRG5QT0hXQ21tN3RzX3Q0SzRsLUtwTVBEZGxzd0JUbEJjRW5IXzVFSGRwdWdHc2EzNkpTSzFkZ0VZZE9nSUs4bUE?oc=5\" target=\"_blank\">暑期科普新体验 沈阳一高校自研AI智能体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jwview.com</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-650-c4e459c787",
+   "source_id": "news",
+   "source_name": "Seeking Alpha",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia considers funding AI startup Mercor, which helps it develop open-source models: report - Seeking Alpha",
+   "summary": "Nvidia considers funding AI startup Mercor, which helps it develop open-source models: report &nbsp;&nbsp; Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWdIVlFLdlg1ZDRzMlpHQWJ4dm93eVFMN3I0aEZKN2xpZkdUNlp3NnVFYkdZNGpXWjFFN1RMVDZheFBJaDIzVEY5UV92QVdza0lEdklacC1QWnF0RkNTWUVWTlNMYVFHd2c4cm04T3NWZ1RCVlBybFY0eTdYUFJXRWFZSlU0Z3JXUC0zbm9PZTYxek4wN1pNQUJZY0wwaHlFQjlrZmpUVHF3cHRfaXY3TWNPS01QcEo4eTNjU0JCVXAtVzQ4aTV4SQ?oc=5",
+   "published_at": "2026-08-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWdIVlFLdlg1ZDRzMlpHQWJ4dm93eVFMN3I0aEZKN2xpZkdUNlp3NnVFYkdZNGpXWjFFN1RMVDZheFBJaDIzVEY5UV92QVdza0lEdklacC1QWnF0RkNTWUVWTlNMYVFHd2c4cm04T3NWZ1RCVlBybFY0eTdYUFJXRWFZSlU0Z3JXUC0zbm9PZTYxek4wN1pNQUJZY0wwaHlFQjlrZmpUVHF3cHRfaXY3TWNPS01QcEo4eTNjU0JCVXAtVzQ4aTV4SQ?oc=5\" target=\"_blank\">Nvidia considers funding AI startup Mercor, which helps it develop open-source models: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-1132-ddbc284697",
+   "source_id": "news",
+   "source_name": "华尔街日报中文网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI第二季度收入增长乏力，增速逊于Anthropic - 华尔街日报中文网",
+   "summary": "OpenAI第二季度收入增长乏力，增速逊于Anthropic &nbsp;&nbsp; 华尔街日报中文网",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObnNPTVk2cGZRQVRZY3o5UU1wRXJjSmpIMm5PdkEtMTNsYWhkY0FycVJDN1VjN01QR1NYSGJ6eXowMUNuNDdZcS1YdUZqMjNIeVpGSkFPT3RsUE1HbkF0alZURC1LbFlWYVJ3S3g5dFdXUVV5c25iSGNzTUVTc3d4eFdfOUMxM09CZ0JxS0dvOU1qRktrNTA2NkdabW9WX3NUSDdDWGlKM0g1dGw5dHVZeUM2MjZWRFBCSU5IdHJhcjdFZmYzX1pUbjBKem1penZmdjN6Mkk2ZlpmVGk5V2piek9zcFlhM3ozNDBkaU5MM1RZR1dBSVJXa09RVHZmclU?oc=5",
+   "published_at": "2026-08-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxObnNPTVk2cGZRQVRZY3o5UU1wRXJjSmpIMm5PdkEtMTNsYWhkY0FycVJDN1VjN01QR1NYSGJ6eXowMUNuNDdZcS1YdUZqMjNIeVpGSkFPT3RsUE1HbkF0alZURC1LbFlWYVJ3S3g5dFdXUVV5c25iSGNzTUVTc3d4eFdfOUMxM09CZ0JxS0dvOU1qRktrNTA2NkdabW9WX3NUSDdDWGlKM0g1dGw5dHVZeUM2MjZWRFBCSU5IdHJhcjdFZmYzX1pUbjBKem1penZmdjN6Mkk2ZlpmVGk5V2piek9zcFlhM3ozNDBkaU5MM1RZR1dBSVJXa09RVHZmclU?oc=5\" target=\"_blank\">OpenAI第二季度收入增长乏力，增速逊于Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街日报中文网</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

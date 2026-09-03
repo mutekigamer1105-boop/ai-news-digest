@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOdndEamFkRHdzTmFacTlhNEdiLWYyNy01QnlDYVpSQkhHa3gwVmZwNFB2b21ET2VLRkVCNEJ2YUVoUjhEdS0tSkltS2xvOWRHUjJ1NndCR1l2a3g1MlA1UzdNeVdiV2dYYTVyVzU3d0pGNDNUb1pjWFJZOXRzakJsVkxKb3J6QUZhcnJfNFRfdm5NM3lPelZmdzRaVC1ETEJ2YjNySGZn?oc=5\" target=\"_blank\">报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1069-2ade397792",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "如何在企业中部署 AI 智能体 - IBM",
+   "summary": "如何在企业中部署 AI 智能体 &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zZEE1ckpPdC04bnlnaEJZbnd4TjQtZVhRM29Ndnh1a3ZkRWVocmU1R0ZMM1BsWVlnRVFoVkJBQ2ZKX2UwcGlmcDk5OVp6U2lvZ2ViSzVMVTlUTnY2Ymd1MWFWUmpWaDlLMGc?oc=5",
+   "published_at": "2026-06-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9zZEE1ckpPdC04bnlnaEJZbnd4TjQtZVhRM29Ndnh1a3ZkRWVocmU1R0ZMM1BsWVlnRVFoVkJBQ2ZKX2UwcGlmcDk5OVp6U2lvZ2ViSzVMVTlUTnY2Ymd1MWFWUmpWaDlLMGc?oc=5\" target=\"_blank\">如何在企业中部署 AI 智能体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

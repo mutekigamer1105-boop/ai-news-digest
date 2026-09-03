@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE02bGR5aVBLc3JQb0NjZzlwTEp6eDNtMnBQb1lGOHhTblNRTU1CMGJGRHMwWFU4di1pZ3NyTmZUUzV6cGhZSERTTw?oc=5\" target=\"_blank\">如何理解 OpenAI o3 ？以及对其的技术分析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">智源社区</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1131-78fefd079c",
+   "source_id": "news",
+   "source_name": "智东西",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型权威评测：豆包中文对话最强，OpenAI o1推理和数学占优 - 智东西",
+   "summary": "AI大模型权威评测：豆包中文对话最强，OpenAI o1推理和数学占优 &nbsp;&nbsp; 智东西",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yOUxjLTdrdnVUT2ZiTVNZYjFoSVhadEx2SjV2eHE1VzFKbk5mT3NXaEFybXdJb0stanNSM0pHZnpFSGdOeWQtTQ?oc=5",
+   "published_at": "2024-12-25T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yOUxjLTdrdnVUT2ZiTVNZYjFoSVhadEx2SjV2eHE1VzFKbk5mT3NXaEFybXdJb0stanNSM0pHZnpFSGdOeWQtTQ?oc=5\" target=\"_blank\">AI大模型权威评测：豆包中文对话最强，OpenAI o1推理和数学占优</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">智东西</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

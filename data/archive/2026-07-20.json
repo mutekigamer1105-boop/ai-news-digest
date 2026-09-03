@@ -86,6 +86,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CQVQ2MmJWaGpjTVpKNzRVZ3puM3Y0NmYybS1fajJFVjN2TE43Rk13TFNFZm1XUllfLVlPSndFTWpKakEtRXl1dklJRmRXb0lYdWJuYUpnX2VfTlF5UURZ?oc=5\" target=\"_blank\">罕见病诊断、轻合金研发、病理大模型……AI未来发展论坛发布五大前沿成果</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.sjtu.edu.cn</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-893-e201af898d",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "2026世界人工智能大会观察 - 新华网",
+   "summary": "2026世界人工智能大会观察 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNWkyTTAtUjhaREU5SzFRV1hlSDcyUkE1SGxrYndOTDBtUGpCNzI4MFptaE9Jc21JaDN2ZUxJSm5pbHQ0bFV1QVBVNDR4S0txRlRqbXduQ3RkUXNtamh1NTllX3R4YzAzUERJdjEweWoyVnJKU0ZqVXRxVWxaZw?oc=5",
+   "published_at": "2026-07-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNWkyTTAtUjhaREU5SzFRV1hlSDcyUkE1SGxrYndOTDBtUGpCNzI4MFptaE9Jc21JaDN2ZUxJSm5pbHQ0bFV1QVBVNDR4S0txRlRqbXduQ3RkUXNtamh1NTllX3R4YzAzUERJdjEweWoyVnJKU0ZqVXRxVWxaZw?oc=5\" target=\"_blank\">2026世界人工智能大会观察</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

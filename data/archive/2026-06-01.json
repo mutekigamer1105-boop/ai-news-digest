@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmdtV2RFQk5wQ2IycWRuMEk2a1hvek1xZW9ad0JJZVA3TmhFQzA0Z1p3N0NoWS1lLUN1NlA5NHpZZ094bG1BTmxXQTl1ZHdkemZGY05ObGVXcWt2SnRxU3Q3UU5DNXJNU2RKczQwdXdGQnVfbThpU0dkZE1HLVFGTlh5eG1xaFAtY2JjRGZtcFRrbE1HNEN3MmRwMTZiYjcySURobVZNeUhCblE?oc=5\" target=\"_blank\">How human error became a weapon against large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Scientist</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1119-2052a2504a",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "OpenAI 前沿模型和 Codex 现已在 AWS 上可用 - OpenAI",
+   "summary": "OpenAI 前沿模型和 Codex 现已在 AWS 上可用 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2hBVS1xc1gxR3kyOEFrWmluWWNEdmhxdmJNQ1Nyc0ZoRGE5VkRJSklGWkRUVkdLclR5eEllZVgxQmxCak1vRnBmVmxFaE5MRXpDakhMZzBRanNSbkUtd2dFOXhoaXlqczRwN05fT2lOaXRwS194WUVmNVZ5dThmS2xnWkFuUzZOS1JseFhOeXlEZnQtSFdhUEdn?oc=5",
+   "published_at": "2026-06-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxON2hBVS1xc1gxR3kyOEFrWmluWWNEdmhxdmJNQ1Nyc0ZoRGE5VkRJSklGWkRUVkdLclR5eEllZVgxQmxCak1vRnBmVmxFaE5MRXpDakhMZzBRanNSbkUtd2dFOXhoaXlqczRwN05fT2lOaXRwS194WUVmNVZ5dThmS2xnWkFuUzZOS1JseFhOeXlEZnQtSFdhUEdn?oc=5\" target=\"_blank\">OpenAI 前沿模型和 Codex 现已在 AWS 上可用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }

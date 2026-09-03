@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRWRCTzZXLWRlVV9jYTRzN3ktc1lFLWExbVlPa09HSVEwR0VyVWhxYkcxNG5mRUVHcDdGRVFaQ0hoOU95OHQ5ZmtRWkYxcnh6Z2dkYUowZ0FmQQ?oc=5\" target=\"_blank\">China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-872-b80b3df34d",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 - 新华网",
+   "summary": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbTVsTy02RWhGU3BsWVpvUDNoOVZIX0ZQcmkxTTZ3Y2hNR0lfbjgtdWNuMGJhbVl5WGpNM29zaERYaFRGc2RDRTVPQ0JrUDBrRmhWdmpjbTZGWjhCdDR0T2hfSVdJRE5yMmM0aXFCWk1DMi1SRVRYRE4yNVIyeXFJM3VyQXFla3RPQy11dURR?oc=5",
+   "published_at": "2026-07-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbTVsTy02RWhGU3BsWVpvUDNoOVZIX0ZQcmkxTTZ3Y2hNR0lfbjgtdWNuMGJhbVl5WGpNM29zaERYaFRGc2RDRTVPQ0JrUDBrRmhWdmpjbTZGWjhCdDR0T2hfSVdJRE5yMmM0aXFCWk1DMi1SRVRYRE4yNVIyeXFJM3VyQXFla3RPQy11dURR?oc=5\" target=\"_blank\">习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-03T18:53:36+00:00"
   }
  ]
 }
