@@ -45,9 +45,12 @@ jobs:
             git push origin "HEAD:$GITHUB_REF_NAME"
             echo "已提交归档"
           fi
-      - name: 组装近 30 天查看器(web 模式)
+      - name: 组装近 30 天查看器(web 模式,并统一中译)
         env:
           DIGEST_FETCHER: web
+          DIGEST_LLM_API_KEY: ${{ secrets.DIGEST_LLM_API_KEY }}
+          DIGEST_LLM_BASE_URL: https://api.deepseek.com/v1
+          DIGEST_LLM_MODEL: deepseek-chat
         run: python build_viewer.py --days 30
       - uses: actions/upload-pages-artifact@v3
         with:
