@@ -2,7 +2,7 @@ name: 真实AI新闻 · 每日自动构建发布(GitHub Pages)
 
 on:
   schedule:
-    - cron: "0 4 * * *"      # 04:00 UTC = 北京时间 12:00
+    - cron: "0 4 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -24,9 +24,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: 抓取今日真实新闻并归档
+      - name: 抓取今日真实新闻并归档(含 DeepSeek 中译)
         env:
           DIGEST_FETCHER: web
+          DIGEST_LLM_API_KEY: ${{ secrets.DIGEST_LLM_API_KEY }}
+          DIGEST_LLM_BASE_URL: https://api.deepseek.com/v1
+          DIGEST_LLM_MODEL: deepseek-chat
         continue-on-error: true
         run: python ingest_today.py
       - name: 把每日归档提交回仓库
@@ -49,7 +52,7 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: viewer
-      - name: 可选:触发 Netlify 重建
+      - name: 可选触发 Netlify 重建
         env:
           HOOK: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
         run: |
