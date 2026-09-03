@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8wOVNoWEN5WjJ2Y2hXQzVYbFE5UnE2T0k5VHlNQlB4cS1sdlYyNzZ6MkZIOGM1RHUxWmVxcVNTVHNkZFRjRTVaZ0Vrb3p5T1BVVE12U0ZQRU9nM2xzUVhHb2FXU0lyT0VZLVh5NzJSRHltdUNEcDBJUnRXSENCdDg?oc=5\" target=\"_blank\">OpenAI 发布 MMMLU 数据集：更广、更深评估 AI 模型，支持简体中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1169-211ac571a8",
+   "source_id": "news",
+   "source_name": "数码科技",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI发布ChatGPT语音助手 会说中文等50种语言 - 数码科技",
+   "summary": "OpenAI发布ChatGPT语音助手 会说中文等50种语言 &nbsp;&nbsp; 数码科技",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MMV9YNFhUZ2VJLVhuSGREdmtxNzZfRmhicUxTUkNvOTgzTmxlaXlqOGZxejFLVnY2N0E2VnNkeUo2UlNmVjlCekdfOTVSTGxuakxBaWZPN1ZvR3BzQ3c?oc=5",
+   "published_at": "2024-09-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MMV9YNFhUZ2VJLVhuSGREdmtxNzZfRmhicUxTUkNvOTgzTmxlaXlqOGZxejFLVnY2N0E2VnNkeUo2UlNmVjlCekdfOTVSTGxuakxBaWZPN1ZvR3BzQ3c?oc=5\" target=\"_blank\">OpenAI发布ChatGPT语音助手 会说中文等50种语言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">数码科技</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
   }
  ]
 }

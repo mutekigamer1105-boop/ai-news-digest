@@ -109,6 +109,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5mdnJ1TXBnSVBfOS1EMkk5UmgwUnpEMWxuTWFlLWFJUjZVN1V1SjNWSHg3bDlwdERGT1R2anNnLVN6MEJHbjU2SmJDUDQwSXcwMXZYa1dObHRQT1hWTGJtSzZTRklJcFJPVktPVlBWeUZFX3h1Nkp4NHlkQ2luZw?oc=5\" target=\"_blank\">AI智能体自主性的核心卡点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-1098-01a64cb7e0",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体：“工具”还是“合作者”？ - 新华网",
+   "summary": "AI智能体：“工具”还是“合作者”？ &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vTW5zX3dLQ2JaQUt0b21tRUlIZDkzWUdhek5EV3N5RHdMVDFndDk0aUZsWFVKY3VBN2pqSGpYVnl3YlpLM1hROVJUMEpkcHJmcXdHS1Fuejc1bGVWYjh6bDAwQWtSVUlQMkpXU1pHZDRBZXN5U0tHZjhMekZjUQ?oc=5",
+   "published_at": "2026-04-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9vTW5zX3dLQ2JaQUt0b21tRUlIZDkzWUdhek5EV3N5RHdMVDFndDk0aUZsWFVKY3VBN2pqSGpYVnl3YlpLM1hROVJUMEpkcHJmcXdHS1Fuejc1bGVWYjh6bDAwQWtSVUlQMkpXU1pHZDRBZXN5U0tHZjhMekZjUQ?oc=5\" target=\"_blank\">AI智能体：“工具”还是“合作者”？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
   }
  ]
 }

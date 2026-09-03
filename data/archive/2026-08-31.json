@@ -822,6 +822,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPQld2RWtFcDZKTFdOekJMY2NCclRFeWJnN1I0NUVrZHBzUXY4Z2t5Z2FZdEZmTmQtTkg2REtlWVZhcVhYSTViNG4zZzlzOVlPa09vVXVkV1g4ZWNScWNwdzllVm5ndUgzQzBjcUdJdTFGWndWcUp1aFY3MTNzVWY2YVN5M1dYRFpQbG9hLWZINlo1bHVqamxLN1VYWHJPREJQMEE?oc=5\" target=\"_blank\">Anthropic sued over alleged theft of ‘tens of thousands’ of songs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-1113-2c08138613",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI宣布广告业务年化收入达10亿美元，ChatGPT加速拓展全球市场| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI宣布广告业务年化收入达10亿美元，ChatGPT加速拓展全球市场| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMTDh6eko0TmZUTkQ2dk40M0huMW1KNlcxZ2YycmFkWXVNZ3lEUzdfQ2pXUmZudmtDOW0yVmQ1cUU5Tzc2emtTM3JqUkVPVDMtUDFsQklNMUZ3UDZ4anpVc0VDMmRtdw?oc=5",
+   "published_at": "2026-08-31T10:53:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMTDh6eko0TmZUTkQ2dk40M0huMW1KNlcxZ2YycmFkWXVNZ3lEUzdfQ2pXUmZudmtDOW0yVmQ1cUU5Tzc2emtTM3JqUkVPVDMtUDFsQklNMUZ3UDZ4anpVc0VDMmRtdw?oc=5\" target=\"_blank\">OpenAI宣布广告业务年化收入达10亿美元，ChatGPT加速拓展全球市场| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
   }
  ]
 }

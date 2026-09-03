@@ -44,6 +44,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVJvZFZBWDlZTjFZeVpzTWpJSjZzS25kQXRmOW9aNXNlSTF2aDFXRENfanlKLVlzc1U1dzgtQXIzNVJQVHJyRGVkNExlS1hJZy1CM09DRHhLbkZGSnQxVWptbHBLS3hBaklfM21kS09YYWdNZWhNNHFnM0NERkkwTWFEaXZCY1U1SnZEc3RielpsOGROdHprNg?oc=5\" target=\"_blank\">Large Language Models and Clinical Reasoning: What New Research Reveals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">diagnosticimaging.com</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-1084-dfe5cba44b",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "Zendesk 借助 OpenAI 技术，打造以“高效解决”为核心的自适应服务智能体 - OpenAI",
+   "summary": "Zendesk 借助 OpenAI 技术，打造以“高效解决”为核心的自适应服务智能体 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ORlhDNS1OYmVZcDRlVndGSHVXOFpKbU5teURjQ3VoX2lrOWh6ejlwdUFkUVJmR0dhQ1FoZVJ4eGpHc0d3Y2JIRmtOekdYeUpXLXk4Snh5RQ?oc=5",
+   "published_at": "2026-04-14T11:57:33+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ORlhDNS1OYmVZcDRlVndGSHVXOFpKbU5teURjQ3VoX2lrOWh6ejlwdUFkUVJmR0dhQ1FoZVJ4eGpHc0d3Y2JIRmtOekdYeUpXLXk4Snh5RQ?oc=5\" target=\"_blank\">Zendesk 借助 OpenAI 技术，打造以“高效解决”为核心的自适应服务智能体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
   }
  ]
 }

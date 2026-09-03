@@ -109,6 +109,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3l1YndMenBLdC1xUHU0MFJMQXdoQTJxNU1KWGhXR2ltekMwYlJYXzlnTGNTVlQ3N2ZOeFFJOVVqRWcwTGRRWmd1ZGlpTXBFWkZjZXJGb2FDS3VJVVFsdW5ZSGl2d1hkbEpheU9pZ0E0RndRUnBNaDJGUjJtbWpYVHRaQWxPM1BxREhIRFV3?oc=5\" target=\"_blank\">学习手记｜习近平总书记指引人工智能发展与治理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-492-0d3a82fa23",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Claude for Teachers - Anthropic",
+   "summary": "Introducing Claude for Teachers &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5",
+   "published_at": "2026-07-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5\" target=\"_blank\">Introducing Claude for Teachers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
   }
  ]
 }

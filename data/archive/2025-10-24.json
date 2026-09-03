@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1108-d1a34df736",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "利用 AI 智能体减少警报疲劳 - IBM",
+   "summary": "利用 AI 智能体减少警报疲劳 &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSi1naHgxNnZEYjJER0lKTkhxRE1jMEVBUEVNa0lxUUc5MURScWItRno4eXhCUFNMWUxLZGdSTHBBdXk4bUREUzljcUlyTi1HUDNBQkhIV01oYURrMGp4ZmtYUUxvQkk1bm5nNDUyNDYxV0JRRTlFZDNiNEVyeFJqTTJUTzlYdw?oc=5",
+   "published_at": "2025-10-24T13:55:17+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOSi1naHgxNnZEYjJER0lKTkhxRE1jMEVBUEVNa0lxUUc5MURScWItRno4eXhCUFNMWUxLZGdSTHBBdXk4bUREUzljcUlyTi1HUDNBQkhIV01oYURrMGp4ZmtYUUxvQkk1bm5nNDUyNDYxV0JRRTlFZDNiNEVyeFJqTTJUTzlYdw?oc=5\" target=\"_blank\">利用 AI 智能体减少警报疲劳</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
+  }
+ ]
+}

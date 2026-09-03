@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE12aXpLN0dLaTNIS1dfczZGNGdVeXRKVnV6ZGVvY1oxRnMzVFJpcXBycGZYY3BEWjV5UnVvRHBWclNjbnRqYnByTzVMM0hZQTI4OWNNMFZhYVZIckw0S0xz?oc=5\" target=\"_blank\">Bayesian teaching enables probabilistic reasoning in large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1106-bf6096f1e4",
+   "source_id": "news",
+   "source_name": "Amazon Web Services (AWS)",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体赋能广告行业：创意素材生成解决方案实践 - Amazon Web Services (AWS)",
+   "summary": "AI智能体赋能广告行业：创意素材生成解决方案实践 &nbsp;&nbsp; Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHdMVGQ2QlQ1MVg3MzJRRy0tOGZsYzFEUVVfb05RQmZmLTdzQTQ1bndoMDRnYUVqUVc3YTVYZU1wUXJydXdORmt0cWhJYkpGR3NCQkF1cVRULUlvSFR2cHZoMjhrdjBmdTZGa1JzR2R4Y0hRSzFXZVBpOGhyRGg0QjJWN1NUaUJJLVZOU1ppV0ROM2htSTI0eXRldXhJNWhTYnRCSmJPRENTSDlVWjRrRUhPS1dsQ3hQdGduTVpFUF9pWTg?oc=5",
+   "published_at": "2026-01-07T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHdMVGQ2QlQ1MVg3MzJRRy0tOGZsYzFEUVVfb05RQmZmLTdzQTQ1bndoMDRnYUVqUVc3YTVYZU1wUXJydXdORmt0cWhJYkpGR3NCQkF1cVRULUlvSFR2cHZoMjhrdjBmdTZGa1JzR2R4Y0hRSzFXZVBpOGhyRGg0QjJWN1NUaUJJLVZOU1ppV0ROM2htSTI0eXRldXhJNWhTYnRCSmJPRENTSDlVWjRrRUhPS1dsQ3hQdGduTVpFUF9pWTg?oc=5\" target=\"_blank\">AI智能体赋能广告行业：创意素材生成解决方案实践</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
   }
  ]
 }

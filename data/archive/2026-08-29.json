@@ -85,6 +85,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RTGVUa2gxQmRqNVVGM1ZIa0ZHbmhWYXkwM0pMZVBoZWFZZ2tKdWlnTGRvTFlPSXZlRGFKZmFzWW5PTmdGSmgzZXo5b1dueWJ4bjZ5V1VuWEk?oc=5\" target=\"_blank\">小米AI大模型创新突破：8篇论文入选国际顶会EMNLP 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">驱动之家</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-403-d5e28604f8",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The 5 craziest discoveries from OpenAI's Hugging Face investigation - Axios",
+   "summary": "The 5 craziest discoveries from OpenAI's Hugging Face investigation &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
+   "published_at": "2026-08-29T13:13:32+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5\" target=\"_blank\">The 5 craziest discoveries from OpenAI's Hugging Face investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
   }
  ]
 }

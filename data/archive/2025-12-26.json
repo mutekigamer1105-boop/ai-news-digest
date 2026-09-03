@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1105-d539ad4596",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "当 AI 智能体加入组织架构时 - IBM",
+   "summary": "当 AI 智能体加入组织架构时 &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CaTg5c0xIYU83SmdTT3BibHByT2o3NzY2OWJIWG00a0l5TmlNS2dfYmlkODdWcVJvU0xkekg3anFXenBBOWsxdk54ZXNLMFhMeUR0WW10bjUxeG1BM241cGJSMEFwcWtjeVVSYk9XazNRT3du?oc=5",
+   "published_at": "2025-12-26T20:16:50+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1CaTg5c0xIYU83SmdTT3BibHByT2o3NzY2OWJIWG00a0l5TmlNS2dfYmlkODdWcVJvU0xkekg3anFXenBBOWsxdk54ZXNLMFhMeUR0WW10bjUxeG1BM241cGJSMEFwcWtjeVVSYk9XazNRT3du?oc=5\" target=\"_blank\">当 AI 智能体加入组织架构时</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
+  }
+ ]
+}

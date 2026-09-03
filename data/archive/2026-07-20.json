@@ -107,6 +107,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNWkyTTAtUjhaREU5SzFRV1hlSDcyUkE1SGxrYndOTDBtUGpCNzI4MFptaE9Jc21JaDN2ZUxJSm5pbHQ0bFV1QVBVNDR4S0txRlRqbXduQ3RkUXNtamh1NTllX3R4YzAzUERJdjEweWoyVnJKU0ZqVXRxVWxaZw?oc=5\" target=\"_blank\">2026世界人工智能大会观察</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-1079-8ca9da83cd",
+   "source_id": "news",
+   "source_name": "NVIDIA",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "NVIDIA Agent Toolkit 扩展全新 Omniverse 库，赋能 AI 智能体构建“仿真就绪”世界 - NVIDIA",
+   "summary": "NVIDIA Agent Toolkit 扩展全新 Omniverse 库，赋能 AI 智能体构建“仿真就绪”世界 &nbsp;&nbsp; NVIDIA",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeksxdURwQWcySWxHUEJZbFhicEZvVV9abXJ3TE1ZWkR4TmZJY2I5WEp3S25kSndsRUdEclYyNjB3QWRtcjNtRGtBWU8xeHhFNngzYXdwcjJjUEc0Q0FXWk1qa0VNQ191TGZONVBONkZIaklGSElkcG5DVDFYelU1eEc4YkthTENTQUdwN1VMNUgxZEJWUjJ2RUJ0Q1AxQ1M0dmEzeHo3TVdTejZXbmoweER3VmhRUEJjaUM1b2h0OGhmUE5WZm1lbHd3M2RQWW1LYUdnN01rUGMzVWRXZllZ?oc=5",
+   "published_at": "2026-07-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeksxdURwQWcySWxHUEJZbFhicEZvVV9abXJ3TE1ZWkR4TmZJY2I5WEp3S25kSndsRUdEclYyNjB3QWRtcjNtRGtBWU8xeHhFNngzYXdwcjJjUEc0Q0FXWk1qa0VNQ191TGZONVBONkZIaklGSElkcG5DVDFYelU1eEc4YkthTENTQUdwN1VMNUgxZEJWUjJ2RUJ0Q1AxQ1M0dmEzeHo3TVdTejZXbmoweER3VmhRUEJjaUM1b2h0OGhmUE5WZm1lbHd3M2RQWW1LYUdnN01rUGMzVWRXZllZ?oc=5\" target=\"_blank\">NVIDIA Agent Toolkit 扩展全新 Omniverse 库，赋能 AI 智能体构建“仿真就绪”世界</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
   }
  ]
 }

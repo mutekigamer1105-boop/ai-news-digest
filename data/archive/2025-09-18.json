@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1107-5ddb4c9a91",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "为什么可观测性对于 AI 智能体至关重要 - IBM",
+   "summary": "为什么可观测性对于 AI 智能体至关重要 &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DVVpTV3ZOb2lMR3pUaXp3bU1uSjFZM3E3c29CN1VZQmt1MGx0NUpTRkRFeUl1SENvNlJ0V2VMRFhPRUpnNVNXc2JySmdWd20tbGQwdUVvZ0lGbDlTR2ZZXzdOd2JnUjJpT3NuUUxKTUg?oc=5",
+   "published_at": "2025-09-18T20:28:37+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9DVVpTV3ZOb2lMR3pUaXp3bU1uSjFZM3E3c29CN1VZQmt1MGx0NUpTRkRFeUl1SENvNlJ0V2VMRFhPRUpnNVNXc2JySmdWd20tbGQwdUVvZ0lGbDlTR2ZZXzdOd2JnUjJpT3NuUUxKTUg?oc=5\" target=\"_blank\">为什么可观测性对于 AI 智能体至关重要</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
+  }
+ ]
+}

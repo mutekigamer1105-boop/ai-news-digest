@@ -65,6 +65,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lVHZfSXZmUnZ0YnBIR055NG9MMkxwenVrbk5FMTRhTUFrRXR3b29YWnR5N0dabjN3SDB1R1AxQm9YTEVWV2FYMjRyc0kwSG96V3lRWUswek9iUkVkYUF5UGpR?oc=5\" target=\"_blank\">6款AI大模型挑战高考数学！一款拿下148分，压轴题成分水岭</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-1009-39ef6355f7",
+   "source_id": "news",
+   "source_name": "stcn.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续六周超美国，全球前五中占四席：MiniMax M3冲进前三，Claude两大模型跌出前五 - stcn.com",
+   "summary": "中国AI大模型调用量连续六周超美国，全球前五中占四席：MiniMax M3冲进前三，Claude两大模型跌出前五 &nbsp;&nbsp; stcn.com",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4TVdaS2VoTHJyXzZvQ1V5SnpkT1dSWlc2cXNNb18zM1VCdzluRVRhaklQLXJtNzlkS3NTemRFYnZfVzlCbl9ld0x3cVJsQlpocnJSUm5BcVdvOXJP?oc=5",
+   "published_at": "2026-06-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4TVdaS2VoTHJyXzZvQ1V5SnpkT1dSWlc2cXNNb18zM1VCdzluRVRhaklQLXJtNzlkS3NTemRFYnZfVzlCbl9ld0x3cVJsQlpocnJSUm5BcVdvOXJP?oc=5\" target=\"_blank\">中国AI大模型调用量连续六周超美国，全球前五中占四席：MiniMax M3冲进前三，Claude两大模型跌出前五</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stcn.com</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-1141-d194cfb1f3",
+   "source_id": "news",
+   "source_name": "thepaper.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "ChatGPT开始靠“做梦”，稳稳地记住你 - thepaper.cn",
+   "summary": "ChatGPT开始靠“做梦”，稳稳地记住你 &nbsp;&nbsp; thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ieEhXUEpHRjdWZnFxekltLWgxcThRMVNYTzI4eGdBT09obmtvQ3ZEdXZNNl9YQmg0WHpSdDNBU2kxbVNwQi1lY3dZeHUtNzFMTHFqMU9ZYXBvM05SVWc?oc=5",
+   "published_at": "2026-06-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ieEhXUEpHRjdWZnFxekltLWgxcThRMVNYTzI4eGdBT09obmtvQ3ZEdXZNNl9YQmg0WHpSdDNBU2kxbVNwQi1lY3dZeHUtNzFMTHFqMU9ZYXBvM05SVWc?oc=5\" target=\"_blank\">ChatGPT开始靠“做梦”，稳稳地记住你</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
   }
  ]
 }

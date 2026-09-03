@@ -2282,6 +2282,95 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmxYUHpiREdBU3FzeFJLTmVTTkh6anNIUUt6RDlQa2hUTzhLN2JlMEdHVjZJdmNjZ1RIRURldmtmSjVNUjRsc2F2OFFBekViQ0RVSmtfWkFxcXVrRU9NUzVXd2lMMFlTNXpRUHYxZVJ4NDlKellncHBWSnhaM2h2cFBxSHAwZG1CR1dVaWt5eTRaS21zSHM2MzVmbjNDdVF6VGsybzlqZGxRUWMtRFhDdkNVLUoyVV9hMmlFNndFN05Ea085c3ItTl9ib0RTUQ?oc=5\" target=\"_blank\">Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-323-4dd6f51090",
+   "source_id": "news",
+   "source_name": "Forbes",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Cursor Pays The Price For The SpaceX Acquisition: No More OpenAI Models - Forbes",
+   "summary": "Cursor Pays The Price For The SpaceX Acquisition: No More OpenAI Models &nbsp;&nbsp; Forbes",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0NSQ2tucGpQNERScmg1elVlSXdqenVuVmd2dS10TV9vUmJRN0lTYXMtWUl1WDdsbTFzLXFsV2RKSHk2ZXVObk9xNVZOQTdPUnY5dVRfdFdlU2hucnRkOFBTS3YtYkh5dWw0VzVVYi1lSS1fVzJ6WDItQVlXdXBuUE85aE9uN3hESGNRTm9Ya1BVX2MzWV9DWEM3TzJmWjVVQVdtVDdyVVBCSEFLcGNFeWE1YWlPX2xnMjZhNGY4OA?oc=5",
+   "published_at": "2026-09-01T20:58:46+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0NSQ2tucGpQNERScmg1elVlSXdqenVuVmd2dS10TV9vUmJRN0lTYXMtWUl1WDdsbTFzLXFsV2RKSHk2ZXVObk9xNVZOQTdPUnY5dVRfdFdlU2hucnRkOFBTS3YtYkh5dWw0VzVVYi1lSS1fVzJ6WDItQVlXdXBuUE85aE9uN3hESGNRTm9Ya1BVX2MzWV9DWEM3TzJmWjVVQVdtVDdyVVBCSEFLcGNFeWE1YWlPX2xnMjZhNGY4OA?oc=5\" target=\"_blank\">Cursor Pays The Price For The SpaceX Acquisition: No More OpenAI Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-129-8e70fa3530",
+   "source_id": "news",
+   "source_name": "Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company - Fortune",
+   "summary": "OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company &nbsp;&nbsp; Fortune",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZUxnZnZ2VXA1SGpTWm9TWGxQcUV2c25hVEtmbU0xT0hFemYwNjltS1Z2UnAyblV1WExDbWJVM1Q5WVJBTmZEXzF1THJYME1ZYV9PRFgwdHQ2SzE0M2lsV0x5VFc4Q1EzT3lBQnF3Y3l6cUZTNThjZGZHUXlmd1VjRTFFRHNOMEpwREVXa3FtRXktMnMwRVRkSzZXMmJVVjFKZG40VTVtQkdfNVhyRjk4TEpKcDlWM2VBSm11cDNiVHlvaEZBZVowbFlHRlFXODl2LWpBajVCZUI4WWZCQndoT3VWa0cxUWFUVHBHQVh6emJuQVZnM1VOakxVWkFHUHFWVVFRT29R?oc=5",
+   "published_at": "2026-09-01T18:49:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOZUxnZnZ2VXA1SGpTWm9TWGxQcUV2c25hVEtmbU0xT0hFemYwNjltS1Z2UnAyblV1WExDbWJVM1Q5WVJBTmZEXzF1THJYME1ZYV9PRFgwdHQ2SzE0M2lsV0x5VFc4Q1EzT3lBQnF3Y3l6cUZTNThjZGZHUXlmd1VjRTFFRHNOMEpwREVXa3FtRXktMnMwRVRkSzZXMmJVVjFKZG40VTVtQkdfNVhyRjk4TEpKcDlWM2VBSm11cDNiVHlvaEZBZVowbFlHRlFXODl2LWpBajVCZUI4WWZCQndoT3VWa0cxUWFUVHBHQVh6emJuQVZnM1VOakxVWkFHUHFWVVFRT29R?oc=5\" target=\"_blank\">OpenAI's reports into its agents' attack on Hugging Face holds lessons for every company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-518-d75e43ccd3",
+   "source_id": "the-verge",
+   "source_name": "The Verge",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.92,
+   "title": "Nvidia’s DLSS 5, explained - The Verge",
+   "summary": "Nvidia’s DLSS 5, explained &nbsp;&nbsp; The Verge",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3eE9PSU52MDdJQ0c5bzQzUUFBWDZDM1A1VVl6VWRjcDZUQUF5WjlVZ19Ka0FPZHNIdkRWN3NYWUpOa3p1dExseDY1bVhrQ2tqYV9WS3k2NXg4eWhGM0pMaFFndDI0ZEJBVEFNVGQtcw?oc=5",
+   "published_at": "2026-09-01T13:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA3eE9PSU52MDdJQ0c5bzQzUUFBWDZDM1A1VVl6VWRjcDZUQUF5WjlVZ19Ka0FPZHNIdkRWN3NYWUpOa3p1dExseDY1bVhrQ2tqYV9WS3k2NXg4eWhGM0pMaFFndDI0ZEJBVEFNVGQtcw?oc=5\" target=\"_blank\">Nvidia’s DLSS 5, explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-339-0005b74872",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
+   "summary": "Previewing GPT-5.6 Sol: a next-generation model &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+   "published_at": "2026-09-01T12:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5\" target=\"_blank\">Previewing GPT-5.6 Sol: a next-generation model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-03T19:42:44+00:00"
   }
  ]
 }
