@@ -49,11 +49,16 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: viewer
-      - name: 可选触发 Netlify 重建
-        if: ${{ secrets.NETLIFY_BUILD_HOOK_URL != '' }}
+      - name: 可选:触发 Netlify 重建
         env:
           HOOK: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
-        run: curl -sS -X POST "$HOOK"
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "未配置 NETLIFY_BUILD_HOOK_URL,跳过 Netlify"
+          else
+            curl -sS -X POST "$HOOK"
+            echo "已触发 Netlify 重建"
+          fi
   deploy:
     needs: build
     runs-on: ubuntu-latest
