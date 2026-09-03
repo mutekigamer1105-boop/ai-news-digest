@@ -66,6 +66,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5zZkFyMEl5U0trblVaUFM0dXAxMXdTLURxTW9YZ2VXZG9UQ3ZiV2dmN010aWdVaEV6SmdkZFRsYy1QSHJRVmE3VjR0Tk90VEY0RS16anlTVjRvY2twZnVFVWVfUFdFazBVNHN4YQ?oc=5\" target=\"_blank\">OpenAI研发Jalapeño芯片，瞄准大规模人工智能推理加速| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-308-ef149ba1ad",
+   "source_id": "news",
+   "source_name": "SemiAnalysis",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI Jalapeño: Better Than Nvidia Blackwell - SemiAnalysis",
+   "summary": "OpenAI Jalapeño: Better Than Nvidia Blackwell &nbsp;&nbsp; SemiAnalysis",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wUWNzQzNua3BlcVlyRkQ3cVAza2pXdjNZLWZVVWFyakZqWmhXVnlYYXFvbzA5d2VmNVpyeTdlY29SSEFJZ3VQWVl1YmtGcERjS01MR1ljM1ZiN3d0UWFhVDNsQUZLUmIyaUNlT1Vya3N6SV8wZjRrMzhLR2c?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0wUWNzQzNua3BlcVlyRkQ3cVAza2pXdjNZLWZVVWFyakZqWmhXVnlYYXFvbzA5d2VmNVpyeTdlY29SSEFJZ3VQWVl1YmtGcERjS01MR1ljM1ZiN3d0UWFhVDNsQUZLUmIyaUNlT1Vya3N6SV8wZjRrMzhLR2c?oc=5\" target=\"_blank\">OpenAI Jalapeño: Better Than Nvidia Blackwell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SemiAnalysis</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

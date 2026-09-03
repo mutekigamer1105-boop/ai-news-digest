@@ -21,6 +21,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE53RWdxTjV6V0hZZkZxU1NueDhHS1FXX2tTQWxMRGw0aVItbHBMNUNXbkRRbG4wNmdDVmo4Zl85Q19DNUJDX3NKR0xER0k5TDR1eWZYUGg3ZVZaS0VkS3Y4?oc=5\" target=\"_blank\">Leveraging large language models to maintain a branded food product database</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1008-57e14fb7a6",
+   "source_id": "news",
+   "source_name": "21财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "全球AI大模型调用量连续八周上涨，中国模型包揽前四！机构称CPO技术进展有望重塑光模块估值体系 - 21财经",
+   "summary": "全球AI大模型调用量连续八周上涨，中国模型包揽前四！机构称CPO技术进展有望重塑光模块估值体系 &nbsp;&nbsp; 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdEMzckppR3NfVjZFY01IWE95LWJOeHhMZWlVX2M5TEtsVGFUa2lhTG9oYmFYcjdldFhvejFVZ3BOVldCWkUzN05EYl9GT1hBNVU3bDEtS2h5UWJ1eGpfZmNEQXVJT2NCVU90M2ljUUFIRzFMVFcxMXVOVWZLNUFXcWhXdFI2b19vbThlenp1RQ?oc=5",
+   "published_at": "2026-06-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdEMzckppR3NfVjZFY01IWE95LWJOeHhMZWlVX2M5TEtsVGFUa2lhTG9oYmFYcjdldFhvejFVZ3BOVldCWkUzN05EYl9GT1hBNVU3bDEtS2h5UWJ1eGpfZmNEQXVJT2NCVU90M2ljUUFIRzFMVFcxMXVOVWZLNUFXcWhXdFI2b19vbThlenp1RQ?oc=5\" target=\"_blank\">全球AI大模型调用量连续八周上涨，中国模型包揽前四！机构称CPO技术进展有望重塑光模块估值体系</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

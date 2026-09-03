@@ -174,6 +174,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMzJHUG0tcGFUMHR0TDdLcHozTExkU3ZTZXAwSU1ESVBlNkJGbEpvWjB5cVl1M0RqRklnYWVFY2pvMThLdWUyN0xlNXZJcG4zT1RCRnlPZWJaRUlFN0x1b3lhMXp4U1JTZzJfMk9PR3BqX21ZYlN5cVZYVXRuUmlMN0JyUUJIYndiY1NtVFNyMEJ2RGY1alRLaFNFZDhDY3IxWS04djVHcC1odkgzdlZwY3YxZFlNejBMTzV1SWFRLWxkc3pmeXItenRkTTltWG56QUYzSw?oc=5\" target=\"_blank\">Large Language Models in Life Science Research: What Scientists Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Technology Networks</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-1006-0d26e1b515",
+   "source_id": "news",
+   "source_name": "stcn.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "连续七周增长！中国大模型周调用量达27.58万亿Token，是美国的四倍以上 - stcn.com",
+   "summary": "连续七周增长！中国大模型周调用量达27.58万亿Token，是美国的四倍以上 &nbsp;&nbsp; stcn.com",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xdTBpRHhtOFRIWXpmd01aanZOSUxNMHJHREEyelJjMlA5S3M0MklKU0hXMjU5UkVWeTZUQzA0ZWJJdEFOTlZaZFc4NEYxN0pvTzZoeUlYNTlDMEZS?oc=5",
+   "published_at": "2026-07-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xdTBpRHhtOFRIWXpmd01aanZOSUxNMHJHREEyelJjMlA5S3M0MklKU0hXMjU5UkVWeTZUQzA0ZWJJdEFOTlZaZFc4NEYxN0pvTzZoeUlYNTlDMEZS?oc=5\" target=\"_blank\">连续七周增长！中国大模型周调用量达27.58万亿Token，是美国的四倍以上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stcn.com</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

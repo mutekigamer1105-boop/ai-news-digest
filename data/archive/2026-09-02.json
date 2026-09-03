@@ -3669,6 +3669,267 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ091dXQzckNTR3h1N3NhRkpmT3VrUktGRXM0blFDTUJDVGJXM09BV0VkZXlubXlIaE9QLW9LR3BRUVhieUJGOVpObnlpbEliSkRuVEtxaVpvbGF1c29YOC1hUXA5Qm1tQkZRLTN5aDN3d3A1LWVhbXpyR2ppRjFqa3poOGxXWmdtVzdkYk04bUVOX3ZUUU8wY3hlTmdUcDR1OEUxb3QzSkh1VGdiVTdvU294R3dtTVExcGx3MFc1TUdYT1JQZ0k2akxCbHREOXc3?oc=5\" target=\"_blank\">Balancing capabilities and safeguards crucial for next-gen AI models, says Sam Altman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-533-a12bba01dd",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "How Equinix has found a niche in the multitrillion-dollar AI data center boom - CNBC",
+   "summary": "How Equinix has found a niche in the multitrillion-dollar AI data center boom &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFJEczUtYm8zMzZSOVJnLU5tYWRYNG9pSWlOUjBfUm0zRElHbkZ4SmVTR2MyQmw4bHhuQzZESVVqemJMSFUyaGlERlJBQW5ndFZ4bmljZVZ4TldpVFdqanVUbzJxZjNwa3B1emdjclV5aEtHbFpmbUM2bDEzNnhjQ0lwMjBKaVFkX01BS2hYc2xYX2tXNV9JZ0lHb01tNS1ETzFJ0gGoAUFVX3lxTE15bmpzdUttS09NQ2NYQ0lJRXo0TEpLd2VLVjVRdjdrZHRtbjlqalFBNFNTMXNjS2hHMzRGODVfZjZCQW1OWFFZd0V1dm1xVk91UFdmN1g4TTBKem1EWGNrS2dmdUgxOWJFTmdETV9FS0xhNEVhLWdtSENRYkJzeEFDc1VjMTE5R0sxSzNtZWlSR21QNThwekdOeFZDa1Z5anNQdGt6VzRLZQ?oc=5",
+   "published_at": "2026-09-02T22:49:01+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQMFJEczUtYm8zMzZSOVJnLU5tYWRYNG9pSWlOUjBfUm0zRElHbkZ4SmVTR2MyQmw4bHhuQzZESVVqemJMSFUyaGlERlJBQW5ndFZ4bmljZVZ4TldpVFdqanVUbzJxZjNwa3B1emdjclV5aEtHbFpmbUM2bDEzNnhjQ0lwMjBKaVFkX01BS2hYc2xYX2tXNV9JZ0lHb01tNS1ETzFJ0gGoAUFVX3lxTE15bmpzdUttS09NQ2NYQ0lJRXo0TEpLd2VLVjVRdjdrZHRtbjlqalFBNFNTMXNjS2hHMzRGODVfZjZCQW1OWFFZd0V1dm1xVk91UFdmN1g4TTBKem1EWGNrS2dmdUgxOWJFTmdETV9FS0xhNEVhLWdtSENRYkJzeEFDc1VjMTE5R0sxSzNtZWlSR21QNThwekdOeFZDa1Z5anNQdGt6VzRLZQ?oc=5\" target=\"_blank\">How Equinix has found a niche in the multitrillion-dollar AI data center boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-427-264b579ae6",
+   "source_id": "news",
+   "source_name": "The New Stack",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic’s Claude failures have made agent observability a security priority - The New Stack",
+   "summary": "Anthropic’s Claude failures have made agent observability a security priority &nbsp;&nbsp; The New Stack",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTVlZQVNyUVRyQ2dhYjY0UmFsWkRld2NySkVOdWNiZk9WNWlpQ3B2eFJfUm1jbkJadENDZ19UQTdOQnVPdlpNdUVIQURSOWVyNnNJcE9jT0V1bThFR2Z4RjBjRHNOdw?oc=5",
+   "published_at": "2026-09-02T20:14:18+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTVlZQVNyUVRyQ2dhYjY0UmFsWkRld2NySkVOdWNiZk9WNWlpQ3B2eFJfUm1jbkJadENDZ19UQTdOQnVPdlpNdUVIQURSOWVyNnNJcE9jT0V1bThFR2Z4RjBjRHNOdw?oc=5\" target=\"_blank\">Anthropic’s Claude failures have made agent observability a security priority</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Stack</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-461-ce0ef1f868",
+   "source_id": "news",
+   "source_name": "9to5Mac",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic upgrades Claude’s computer use to run in the background on Mac - 9to5Mac",
+   "summary": "Anthropic upgrades Claude’s computer use to run in the background on Mac &nbsp;&nbsp; 9to5Mac",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzk4S0dwcE1fakhpUU94TFRwVzBfdHBWRlF2VW1yX1A5WXNmWE5sWWlmYjR4WHBkNFNXYTFEa2Vmb2NQT2N1cTR0SWlnc1R0LW9udEE0bnpibURDd2xoMER2bUFiTlkyOEdCcHJuUEZ3QUhuaUxDZkEyMG1kOFRaSUVHVHgwSU9YZ0xDamd5QzVWOXlSZW85YUEtOWdxRHB2TlNyMTNnQjJvdHJU?oc=5",
+   "published_at": "2026-09-02T19:14:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzk4S0dwcE1fakhpUU94TFRwVzBfdHBWRlF2VW1yX1A5WXNmWE5sWWlmYjR4WHBkNFNXYTFEa2Vmb2NQT2N1cTR0SWlnc1R0LW9udEE0bnpibURDd2xoMER2bUFiTlkyOEdCcHJuUEZ3QUhuaUxDZkEyMG1kOFRaSUVHVHgwSU9YZ0xDamd5QzVWOXlSZW85YUEtOWdxRHB2TlNyMTNnQjJvdHJU?oc=5\" target=\"_blank\">Anthropic upgrades Claude’s computer use to run in the background on Mac</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-1028-d31f71f782",
+   "source_id": "news",
+   "source_name": "麦肯锡",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "破解三难困局：打造有用、敢用、好用的智能体– McKinsey Greater China - 麦肯锡",
+   "summary": "破解三难困局：打造有用、敢用、好用的智能体– McKinsey Greater China &nbsp;&nbsp; 麦肯锡",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNeE1uTWU0SG5BMXJoYmNacG8xZHpXUHdFalhfNFEtMTVoR0pnUXdWTk9DX1ZPekZIdl83OFNBejdDc3JaN1ppZ3JhLTQwZVpaTVY4NldhU01IQU9aMnVSRkZvbUNmU3RjeThobDZXcDdqTDJlbVdDZkJtQXpxSEQxaEhWblFpVzBnOElSaHVfNDg2d0pkVVlvU0VPV1ItMFRndzhZdUxFVmxyYWlKZFVtSXB5c2N5R1hzWTYwbkpoUkZyMDhoLVRUcmJKZ0ZNOUQ4ZnN6ci1LRU4tNUpBOU5KdHJNcUpVMVd4dDNZa0JnRFVsNnUtVzNlNnhuVy10MWFhQzcweUZta3pqSWJQbDdER01yR3NJcXlFRlpEalB2SWxrOFVvY2k5bkRBRjcwM3VPNlI1ck5HMU9Sb2h3T0h3?oc=5",
+   "published_at": "2026-09-02T19:12:26+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxNeE1uTWU0SG5BMXJoYmNacG8xZHpXUHdFalhfNFEtMTVoR0pnUXdWTk9DX1ZPekZIdl83OFNBejdDc3JaN1ppZ3JhLTQwZVpaTVY4NldhU01IQU9aMnVSRkZvbUNmU3RjeThobDZXcDdqTDJlbVdDZkJtQXpxSEQxaEhWblFpVzBnOElSaHVfNDg2d0pkVVlvU0VPV1ItMFRndzhZdUxFVmxyYWlKZFVtSXB5c2N5R1hzWTYwbkpoUkZyMDhoLVRUcmJKZ0ZNOUQ4ZnN6ci1LRU4tNUpBOU5KdHJNcUpVMVd4dDNZa0JnRFVsNnUtVzNlNnhuVy10MWFhQzcweUZta3pqSWJQbDdER01yR3NJcXlFRlpEalB2SWxrOFVvY2k5bkRBRjcwM3VPNlI1ck5HMU9Sb2h3T0h3?oc=5\" target=\"_blank\">破解三难困局：打造有用、敢用、好用的智能体– McKinsey Greater China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">麦肯锡</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-311-488a7632ec",
+   "source_id": "news",
+   "source_name": "nytimes.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit - nytimes.com",
+   "summary": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit &nbsp;&nbsp; nytimes.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGtNSzl0QmNqeGlPOWVTOGNIdHVLajBvelRIZVpUN0tLWHBYTHpUUjVNREZ4U0JGNklqc1N6VnlHY0pOcnFNdFcwZk9YVVM3YzJ2eEF6ZERyMzNNbEpHU05lSmJJNk9kbGxQU1RjTmpiTmlYblowTm1yUEhhd3pwZ1dkQ05sVEFwajhuUjNrOGVieDlPc2c?oc=5",
+   "published_at": "2026-09-02T18:41:41+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGtNSzl0QmNqeGlPOWVTOGNIdHVLajBvelRIZVpUN0tLWHBYTHpUUjVNREZ4U0JGNklqc1N6VnlHY0pOcnFNdFcwZk9YVVM3YzJ2eEF6ZERyMzNNbEpHU05lSmJJNk9kbGxQU1RjTmpiTmlYblowTm1yUEhhd3pwZ1dkQ05sVEFwajhuUjNrOGVieDlPc2c?oc=5\" target=\"_blank\">Justice Dept. Sides With OpenAI in New York Times Copyright Suit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-482-5662b0c4ec",
+   "source_id": "news",
+   "source_name": "gadgetreview.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic's Claude Models Breached Three Real Organizations – Admits AI Isn't 'Perfectly Aligned' - gadgetreview.com",
+   "summary": "Anthropic's Claude Models Breached Three Real Organizations – Admits AI Isn't 'Perfectly Aligned' &nbsp;&nbsp; gadgetreview.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXZ2SW56SGZEakJSTUF1cXVNNjRFdWFlWVhxamI2WXpHNGRVNXBsYmRfcmxmQ0c1SWVpbnlxZnp2ejIxUTVfMjFIOWhUOVA4TmpMT2pWUjlJTDktMmRrUWFQdzRidVNtUnVQSUo5MHRpS3pBQUU4TTNMWEh4blJNNnROUUpTeTV1TVlmMkZCRElITC1ESVRja185a2lkcHJmU1RQRnN1UXpiSlFkTDV5U0xISzMxUDFHWnBsUQ?oc=5",
+   "published_at": "2026-09-02T18:04:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXZ2SW56SGZEakJSTUF1cXVNNjRFdWFlWVhxamI2WXpHNGRVNXBsYmRfcmxmQ0c1SWVpbnlxZnp2ejIxUTVfMjFIOWhUOVA4TmpMT2pWUjlJTDktMmRrUWFQdzRidVNtUnVQSUo5MHRpS3pBQUU4TTNMWEh4blJNNnROUUpTeTV1TVlmMkZCRElITC1ESVRja185a2lkcHJmU1RQRnN1UXpiSlFkTDV5U0xISzMxUDFHWnBsUQ?oc=5\" target=\"_blank\">Anthropic's Claude Models Breached Three Real Organizations – Admits AI Isn't 'Perfectly Aligned'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gadgetreview.com</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-8-d8f24287e0",
+   "source_id": "news",
+   "source_name": "ABC7 Los Angeles",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "LAUSD blocks students from using AI on district-issued devices - ABC7 Los Angeles",
+   "summary": "LAUSD blocks students from using AI on district-issued devices &nbsp;&nbsp; ABC7 Los Angeles",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXFhNmVSS1FGdE5QWXhGMzRvNEVWSHcwaWhCY3djWEZwUzdrRHdROHp6MjcxNDZweGd6ckhtYUVwR1g2Tmd2NUwzVkY0S2VnX0NqeHdaTk13eGpXZEcwcXNjMF9kcnp5OFhDZ3V0YzNuSHpLUlphWE9ZenkyUVdmam9QU3YxeHVIUnJxZDFJR2p2R2tHMXExbEt3TG9hTkx2Z2p1R1BTdmJtNWpQUzFF0gG0AUFVX3lxTE9xWUw5NXZIVUR0MWdRSlNSNjgzQm00c3prN2Z2bTRRTC1Mb196alN5SXQtS0JZSjc1eHZ4eXdEMnc2NXBvSWVUSG1tdHJDMmdrWnp3NWtCTmJMc2FsWWJJMnUyS00tQ2RHOGQ3bDB0S0I3RzU2R2dVLXl2RXlqQ0VnbjdnVWZhclRGV3kyd3MtRW91WHN0X1FzMmhpdmpzbGNWcGFjT002OGNEODJPbDRIZ0VzcQ?oc=5",
+   "published_at": "2026-09-02T15:19:08+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXFhNmVSS1FGdE5QWXhGMzRvNEVWSHcwaWhCY3djWEZwUzdrRHdROHp6MjcxNDZweGd6ckhtYUVwR1g2Tmd2NUwzVkY0S2VnX0NqeHdaTk13eGpXZEcwcXNjMF9kcnp5OFhDZ3V0YzNuSHpLUlphWE9ZenkyUVdmam9QU3YxeHVIUnJxZDFJR2p2R2tHMXExbEt3TG9hTkx2Z2p1R1BTdmJtNWpQUzFF0gG0AUFVX3lxTE9xWUw5NXZIVUR0MWdRSlNSNjgzQm00c3prN2Z2bTRRTC1Mb196alN5SXQtS0JZSjc1eHZ4eXdEMnc2NXBvSWVUSG1tdHJDMmdrWnp3NWtCTmJMc2FsWWJJMnUyS00tQ2RHOGQ3bDB0S0I3RzU2R2dVLXl2RXlqQ0VnbjdnVWZhclRGV3kyd3MtRW91WHN0X1FzMmhpdmpzbGNWcGFjT002OGNEODJPbDRIZ0VzcQ?oc=5\" target=\"_blank\">LAUSD blocks students from using AI on district-issued devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-317-01f261137f",
+   "source_id": "news",
+   "source_name": "The Guardian",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI - The Guardian",
+   "summary": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI &nbsp;&nbsp; The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMV90YW15alhlRmlUN1lBSFN2LXhnaEpHTG9tRkVXa2tlZGN2a2xqVW9TU19ldTRZNm9NVDBRV2N5VDlnc0EzMjFldHozVVNGT3k5NkxfTWV0WjRXbndVNjNLMF9xTTNJMzMzOXBUaXhkX3YxOFB2bEY2dXZyWlJIdjR5UnFYUVppOGdjVkNLV1RRU2s?oc=5",
+   "published_at": "2026-09-02T13:22:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMV90YW15alhlRmlUN1lBSFN2LXhnaEpHTG9tRkVXa2tlZGN2a2xqVW9TU19ldTRZNm9NVDBRV2N5VDlnc0EzMjFldHozVVNGT3k5NkxfTWV0WjRXbndVNjNLMF9xTTNJMzMzOXBUaXhkX3YxOFB2bEY2dXZyWlJIdjR5UnFYUVppOGdjVkNLV1RRU2s?oc=5\" target=\"_blank\">Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-1004-a4dc67b1a6",
+   "source_id": "news",
+   "source_name": "汽车之家",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "全新换代途胜值得入手吗？17英寸大屏带AI大模型，聊聊真实优缺点 - 汽车之家",
+   "summary": "全新换代途胜值得入手吗？17英寸大屏带AI大模型，聊聊真实优缺点 &nbsp;&nbsp; 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4azVIVldaaGVzTW41b3RsMC1mNW9zbDRKdHd5M0VYZi1CelpTZWhjX0VtQ29FLWZDX3BUZVluaEpac0xBQ0RxYlkzQ2hsTDYwaWtnTmMxUEJCUkE?oc=5",
+   "published_at": "2026-09-02T10:57:23+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4azVIVldaaGVzTW41b3RsMC1mNW9zbDRKdHd5M0VYZi1CelpTZWhjX0VtQ29FLWZDX3BUZVluaEpac0xBQ0RxYlkzQ2hsTDYwaWtnTmMxUEJCUkE?oc=5\" target=\"_blank\">全新换代途胜值得入手吗？17英寸大屏带AI大模型，聊聊真实优缺点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">汽车之家</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-794-a49d0c1fae",
+   "source_id": "news",
+   "source_name": "The Star",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI to launch new model with 'stronger safeguards' after hack - The Star",
+   "summary": "OpenAI to launch new model with 'stronger safeguards' after hack &nbsp;&nbsp; The Star",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbnJGcjdoT255MHBUMFpVMDBtTzF2UUNVaU8yQjc3bTRYd24ydWg3cXRKZk5WM0NvTkk2bDdaN0xmVkdGMTNBTWcxTU14aUpqQ1FyeGs2a0o0Vll4b2I3UHJKWVU0al92aEU3SzVGMGJpUEdaaktrVFlFRVhOandFbzZRZ2R4WUZIUkhKNmNyN0FEZks5UkVwTjd4S1lEVDlranFkUmtOWW9tZUdSZUlrQ3JxUl8xTGR2TDA1MTN3?oc=5",
+   "published_at": "2026-09-02T04:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNbnJGcjdoT255MHBUMFpVMDBtTzF2UUNVaU8yQjc3bTRYd24ydWg3cXRKZk5WM0NvTkk2bDdaN0xmVkdGMTNBTWcxTU14aUpqQ1FyeGs2a0o0Vll4b2I3UHJKWVU0al92aEU3SzVGMGJpUEdaaktrVFlFRVhOandFbzZRZ2R4WUZIUkhKNmNyN0FEZks5UkVwTjd4S1lEVDlranFkUmtOWW9tZUdSZUlrQ3JxUl8xTGR2TDA1MTN3?oc=5\" target=\"_blank\">OpenAI to launch new model with 'stronger safeguards' after hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Star</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-952-05bfdfe47e",
+   "source_id": "news",
+   "source_name": "风闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "罗永浩试了几十辆新能源车，最后把车企大模型骂成了“垃圾” - 风闻",
+   "summary": "罗永浩试了几十辆新能源车，最后把车企大模型骂成了“垃圾” &nbsp;&nbsp; 风闻",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sTF90dkpHVDJZbEZUX0E2a0NFUDROclJYRHlkbW4zTjIzUXNFMFk1T0NxczJrdnJ2Vm9ETjZtVlBnY0REcTRFbXpmM09FUTNvelN3TzF5MXE2VGc?oc=5",
+   "published_at": "2026-09-02T02:39:21+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sTF90dkpHVDJZbEZUX0E2a0NFUDROclJYRHlkbW4zTjIzUXNFMFk1T0NxczJrdnJ2Vm9ETjZtVlBnY0REcTRFbXpmM09FUTNvelN3TzF5MXE2VGc?oc=5\" target=\"_blank\">罗永浩试了几十辆新能源车，最后把车企大模型骂成了“垃圾”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">风闻</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-374-afb45d776f",
+   "source_id": "the-information",
+   "source_name": "The Information",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.93,
+   "title": "OpenAI Technique in ‘Astra’ Model Sparks Security Concerns - The Information",
+   "summary": "OpenAI Technique in ‘Astra’ Model Sparks Security Concerns &nbsp;&nbsp; The Information",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkk4TnhJLWdVdVgzMDBFejB6dWNlLW95V3liSkJwbzI2U1hON2pIVk9XX1ZzN3dIZWR3amQ2UjBOWmEtVC13bm9qYkNfOTFTeFZzTkJXYXJya1NXNm5iTFB1Q0k5X25VUnJZSnVuSmQ1dDF4RU5xd2VwclJOUC1uU1dHaXJEQmszWTBNQ1g5VUtjWl9DTXo2NzZBNG85VjZwcGtfNm1CdGc4akJf?oc=5",
+   "published_at": "2026-09-02T00:40:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkk4TnhJLWdVdVgzMDBFejB6dWNlLW95V3liSkJwbzI2U1hON2pIVk9XX1ZzN3dIZWR3amQ2UjBOWmEtVC13bm9qYkNfOTFTeFZzTkJXYXJya1NXNm5iTFB1Q0k5X25VUnJZSnVuSmQ1dDF4RU5xd2VwclJOUC1uU1dHaXJEQmszWTBNQ1g5VUtjWl9DTXo2NzZBNG85VjZwcGtfNm1CdGc4akJf?oc=5\" target=\"_blank\">OpenAI Technique in ‘Astra’ Model Sparks Security Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

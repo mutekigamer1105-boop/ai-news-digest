@@ -193,6 +193,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9RX2JuMVpJSmdQTkJrU0pUSnVoLVpBclZQcmlQZzZGUVR4dlN1eE1KVjl6SWNtRnJOMFc5eks3ZmtpUnMydi1WWjdYZm80U0hvSkg2RUxfclNtMkhCVEI5V3g1RURnWUNDZ1VCYg?oc=5\" target=\"_blank\">黑龙江省“1＋13”人工智能教育教学研究中心启动建设</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">黑龙江省人民政府</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-452-da34e565cc",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "How Claude's text watermarking works - Anthropic",
+   "summary": "How Claude's text watermarking works &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+   "published_at": "2026-08-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5\" target=\"_blank\">How Claude's text watermarking works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-954-e654df4cec",
+   "source_id": "news",
+   "source_name": "观察者",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "苹果被曝联合阿里自研中国专属大模型 - 观察者",
+   "summary": "苹果被曝联合阿里自研中国专属大模型 &nbsp;&nbsp; 观察者",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51ekdnVVFvY1pDcTNYY2JieC0td05mQmpLMndLRUxTVzNuNjJSTWZQLUJjM21MUVVPbTZXaDB0NVlzUmJtcGRpMkNvc3ItSEJGSmJmNkZFcm50YVh0c3dPaHp5NTA?oc=5",
+   "published_at": "2026-08-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE51ekdnVVFvY1pDcTNYY2JieC0td05mQmpLMndLRUxTVzNuNjJSTWZQLUJjM21MUVVPbTZXaDB0NVlzUmJtcGRpMkNvc3ItSEJGSmJmNkZFcm50YVh0c3dPaHp5NTA?oc=5\" target=\"_blank\">苹果被曝联合阿里自研中国专属大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

@@ -63,6 +63,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Cd1haMldBa1Q2Z1lBaHpfeXljTzE4cnZMd3RaQ1p4WDEwU3FWak00VjAyc2U2YWtta1MzZ3dlYVBKNVlUZ3NzUVdPWEtFZDl6SHEzTDhsWktCYUZzRU9Z?oc=5\" target=\"_blank\">SmileyLlama: modifying large language models for directed chemical space exploration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-979-ba74da08b1",
+   "source_id": "news",
+   "source_name": "每日经济新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "2.11倍领先！中国AI大模型周调用量再超美国：腾讯这款大模型蝉联第一，DeepSeek三款模型上榜，MiniMax M2.7落榜 - 每日经济新闻",
+   "summary": "2.11倍领先！中国AI大模型周调用量再超美国：腾讯这款大模型蝉联第一，DeepSeek三款模型上榜，MiniMax M2.7落榜 &nbsp;&nbsp; 每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wTWxzMngyc21pRDJidm1TcjlwVldSX1dxN2taVnEtZzRGaGNUbWl6azBybFZBaklvYVNPTTl6UzBXOVpMckVld0JnZU5mMDdPTnYtcVBOV1BnTmtHeVNKd215a0FyUQ?oc=5",
+   "published_at": "2026-05-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wTWxzMngyc21pRDJidm1TcjlwVldSX1dxN2taVnEtZzRGaGNUbWl6azBybFZBaklvYVNPTTl6UzBXOVpMckVld0JnZU5mMDdPTnYtcVBOV1BnTmtHeVNKd215a0FyUQ?oc=5\" target=\"_blank\">2.11倍领先！中国AI大模型周调用量再超美国：腾讯这款大模型蝉联第一，DeepSeek三款模型上榜，MiniMax M2.7落榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">每日经济新闻</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

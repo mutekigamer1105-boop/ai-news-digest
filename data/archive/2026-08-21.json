@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAzLWl0ZzZvd29vUzhidlJycTZqVF92Q2lyWFVKS1RPcE1qY3VXRWhOdnB5UTlNYmliTU5ybnp0b0dEZ0FBWjN0RGxsOHJ0MXctWUFqMVJleW5aMGJyTkxCMFcwY2JnZVFtTWREY1loOA?oc=5\" target=\"_blank\">OpenAI加速追赶Anthropic，企业人工智能竞争持续升温| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1158-3fee0aee4e",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI推出苹果信息插件，ChatGPT可读取编辑并发送聊天消息| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI推出苹果信息插件，ChatGPT可读取编辑并发送聊天消息| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TZk5ZZ2cteEFnaHA4MkxjVHZIS0U4dGlPSV9uZ29UWnI0Mm40NkZWQ3RpOVZtME9KUFRJNVdIYm9oSmRpcWR4MnlQQmwtYXhpT0dEUXlOSTc3MGdzOU01Z0NRbXRxbUtLZmpR?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9TZk5ZZ2cteEFnaHA4MkxjVHZIS0U4dGlPSV9uZ29UWnI0Mm40NkZWQ3RpOVZtME9KUFRJNVdIYm9oSmRpcWR4MnlQQmwtYXhpT0dEUXlOSTc3MGdzOU01Z0NRbXRxbUtLZmpR?oc=5\" target=\"_blank\">OpenAI推出苹果信息插件，ChatGPT可读取编辑并发送聊天消息| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

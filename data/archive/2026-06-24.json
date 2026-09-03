@@ -111,6 +111,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1SWEFYM0NLcDZMVFlVMDN5cVZ2QmtWanExSmRjbC0yWlV5VjBUZEpubTl5UThTc0drMlI5LUtzYzlFNTJ1andKMVRZMDI4dkFaQUNJT2poRU1wX3JtVFVEeVpDbWZBektiYWc?oc=5\" target=\"_blank\">中国AI大模型词元调用量连续稳居全球首位</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">世界互联网大会</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1001-6f218ea655",
+   "source_id": "news",
+   "source_name": "21财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "广东高考放榜，大模型“高考全科”测评：8款AI谁是全科“学霸”？ - 21财经",
+   "summary": "广东高考放榜，大模型“高考全科”测评：8款AI谁是全科“学霸”？ &nbsp;&nbsp; 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcG42M1N3STZtT0dya0Zya0c3bGloOEJOT1MxZU5mUVo2c1FsYW13djltd1BPRkY2WG5lS1o2VnEyOHhyeE1zSnNOSjE3TjkxUFJ2dV9MWENmUXpvTF9lN2dtVm9SWm5TSjByLXJtSkp3TmNfamZMbGZJdjZmMk43NVRkZ3pVNEFEM1VCcXFuTQ?oc=5",
+   "published_at": "2026-06-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcG42M1N3STZtT0dya0Zya0c3bGloOEJOT1MxZU5mUVo2c1FsYW13djltd1BPRkY2WG5lS1o2VnEyOHhyeE1zSnNOSjE3TjkxUFJ2dV9MWENmUXpvTF9lN2dtVm9SWm5TSjByLXJtSkp3TmNfamZMbGZJdjZmMk43NVRkZ3pVNEFEM1VCcXFuTQ?oc=5\" target=\"_blank\">广东高考放榜，大模型“高考全科”测评：8款AI谁是全科“学霸”？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

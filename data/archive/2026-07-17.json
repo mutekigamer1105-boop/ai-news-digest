@@ -86,6 +86,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVNJNC1WR1VUN20tQWdWVHhXNU9DSUR4U2N2ZndVMDlGSEl4SW9HQkIyaTgyRFZWZHlGeWVZaE1nY250SkpPTGw1YmxlWFhDeDZ4WWQ4VHpQcHdVQ2JmM1E3QzZuZmwtTWhHV3hDYXc3MnVHcEhYQkpxX3lIRF94ZGZDWTFTRmcyRnFqamkyMWI4WDFaRVV1YWJITW15RXJL?oc=5\" target=\"_blank\">China’s Moonshot AI Releases Model to Challenge Top U.S. Systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-903-5c23d7a0c4",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "新华时评丨携手构建普惠包容的全球人工智能治理体系 - 新华网",
+   "summary": "新华时评丨携手构建普惠包容的全球人工智能治理体系 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEp6UzJrR0RGWDQ3VlpTTWJHX2s1TzhtbHVaUG5QdWwzVEo3WnhmeW14QnVJa0VBT1dlQmxicE91bWdXVTlYQm9Xb0l2X2RXUHpEZnFOWXV1WU1fSGV5UnJyT0I1RUlzejdZZTBHcWVhOEl2NmgtWGhiQkw2RFFUSWZsMA?oc=5",
+   "published_at": "2026-07-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEp6UzJrR0RGWDQ3VlpTTWJHX2s1TzhtbHVaUG5QdWwzVEo3WnhmeW14QnVJa0VBT1dlQmxicE91bWdXVTlYQm9Xb0l2X2RXUHpEZnFOWXV1WU1fSGV5UnJyT0I1RUlzejdZZTBHcWVhOEl2NmgtWGhiQkw2RFFUSWZsMA?oc=5\" target=\"_blank\">新华时评丨携手构建普惠包容的全球人工智能治理体系</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

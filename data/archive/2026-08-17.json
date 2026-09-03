@@ -172,6 +172,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5aVWhvTVcxZGhMc0UyQUJlOF9NVVYwTFNVTzVPWnIwRm1KV2ZzX0ZQbUhWN29UZEpfdVlZcmpYQ1ZaZnBiVFRQbmhwal9uUmsybk14QklvdWNuYXJXSnRFblJOTXZTdFhpVFFYbXp2TWF2TnFISWZLd21UcnA?oc=5\" target=\"_blank\">人工智能的善与恶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">求是</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-981-a374650b31",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Anthropic营收暴增13倍+实现盈利 AI大模型迈入\"赚钱\"阶段 - 财联社",
+   "summary": "Anthropic营收暴增13倍+实现盈利 AI大模型迈入\"赚钱\"阶段 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oSkhHS2dvOFJKbnhwSk1yZHc4M20tNGhuN19NblRsMFVYYTRWcUNZYWxKOWdEOFZOY2tqQUlMMkZuajI4d25xOQ?oc=5",
+   "published_at": "2026-08-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oSkhHS2dvOFJKbnhwSk1yZHc4M20tNGhuN19NblRsMFVYYTRWcUNZYWxKOWdEOFZOY2tqQUlMMkZuajI4d25xOQ?oc=5\" target=\"_blank\">Anthropic营收暴增13倍+实现盈利 AI大模型迈入\"赚钱\"阶段</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

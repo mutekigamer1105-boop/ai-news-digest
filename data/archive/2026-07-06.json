@@ -43,6 +43,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9RY0ZkUmJhZ2J4V2FpbHNnRUFoekdNZ0ktTkdkblBFZGxBQWtLYmpJS2R3LTg0eGg3U2hGMmQ5bGFETTN1MWFiMlZ2dE1aa3BWVTlONWVzVUV1TVhoWEk5OVRLNnUzYXduZV9HdGoyWHFEdEE3V180X1JocGlaT1k?oc=5\" target=\"_blank\">首届“人工智能治理全球对话”聚焦机遇与合作</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-987-b8afcce2d3",
+   "source_id": "news",
+   "source_name": "stcn.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "23.45万亿Token！中国大模型周调用量连续十周领跑，包揽榜单前六：DeepSeek-V4-Flash连续七周位居榜首，智谱GLM-5.2冲进前五 - stcn.com",
+   "summary": "23.45万亿Token！中国大模型周调用量连续十周领跑，包揽榜单前六：DeepSeek-V4-Flash连续七周位居榜首，智谱GLM-5.2冲进前五 &nbsp;&nbsp; stcn.com",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVdEM3OWFMSk0xTFA1Q3hjS3RoZUZGaGEwamt2ZTNCLWV4Nml6Z0duWUxOWDhkNUQ3dExmZWNESFJXRThIa3NRS0Q4QlZXSjZ4M1gyNkxzUQ?oc=5",
+   "published_at": "2026-07-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVdEM3OWFMSk0xTFA1Q3hjS3RoZUZGaGEwamt2ZTNCLWV4Nml6Z0duWUxOWDhkNUQ3dExmZWNESFJXRThIa3NRS0Q4QlZXSjZ4M1gyNkxzUQ?oc=5\" target=\"_blank\">23.45万亿Token！中国大模型周调用量连续十周领跑，包揽榜单前六：DeepSeek-V4-Flash连续七周位居榜首，智谱GLM-5.2冲进前五</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stcn.com</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-999-f3748bcfb9",
+   "source_id": "news",
+   "source_name": "21财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "腾讯发布最新一代AI大模型 - 21财经",
+   "summary": "腾讯发布最新一代AI大模型 &nbsp;&nbsp; 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDBNREJRWWJ0QmsybDFvUmhaUmpiMVlyOXNQdlBYRmNrV2ZGU3RMSjZ6OVFBOFI4OHlfWnR4WVVBa19tSzZMS0tpcUFvQm9MZnpqbTFRYTBCZlNpTy1iTVYzd0lYbmJGSko1cDhibTQtSDl1UDMwOFBiNXByeFBQaEwzRGdNVWdnRDllVA?oc=5",
+   "published_at": "2026-07-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDBNREJRWWJ0QmsybDFvUmhaUmpiMVlyOXNQdlBYRmNrV2ZGU3RMSjZ6OVFBOFI4OHlfWnR4WVVBa19tSzZMS0tpcUFvQm9MZnpqbTFRYTBCZlNpTy1iTVYzd0lYbmJGSko1cDhibTQtSDl1UDMwOFBiNXByeFBQaEwzRGdNVWdnRDllVA?oc=5\" target=\"_blank\">腾讯发布最新一代AI大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

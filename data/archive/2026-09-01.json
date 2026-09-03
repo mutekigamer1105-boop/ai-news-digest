@@ -2132,6 +2132,156 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVEZEWS1Fbmd5aS1IOVdOVTk0YUIzV3NSN2ZVbi1UUlFxZ0o2X1NlOXRJX3l1VXFUOC1qOXUtWlNzUWJMYXFhRDgxXzJDaUJUd2ZqN3FEaFk3OXFsdThLM0hfaldDcHpRM3RmRXNBMWZYTkQ0cWZhSk11dDBNbU5kWXNmbWNWdmQ0TVdGUXlmUjlmZi12ZURLNW5ZeGxQVW5wMkhsUFJwTDNvVGhPdF96Z2RKYXZGMU5oeW5ER1Fvc1k?oc=5\" target=\"_blank\">人工智能或先令经济承压再助推繁荣 | 摩根大通私人银行亚洲</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">J.P. Morgan Private Bank</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-587-19743d630d",
+   "source_id": "news",
+   "source_name": "SemiAnalysis",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Korea’s Trillion-Dollar Sovereign AI Investment: Nvidia Wins, Hynix Loses - SemiAnalysis",
+   "summary": "Korea’s Trillion-Dollar Sovereign AI Investment: Nvidia Wins, Hynix Loses &nbsp;&nbsp; SemiAnalysis",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBheWJ6UTBxWllFaEljamRvOVY1XzZabzFYUVpPcmhRNzJRNlZuYlB3TS1tOU1ONWRwX0tuZHVsZmhSbFROUjFCT1kyQk04RmNDNHc5UlJsXzZkRV9yUkZHdFNfOVRHTm4ySmtZLWNxVVRHcWE4aUJXb2N3?oc=5",
+   "published_at": "2026-09-01T20:14:32+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBheWJ6UTBxWllFaEljamRvOVY1XzZabzFYUVpPcmhRNzJRNlZuYlB3TS1tOU1ONWRwX0tuZHVsZmhSbFROUjFCT1kyQk04RmNDNHc5UlJsXzZkRV9yUkZHdFNfOVRHTm4ySmtZLWNxVVRHcWE4aUJXb2N3?oc=5\" target=\"_blank\">Korea’s Trillion-Dollar Sovereign AI Investment: Nvidia Wins, Hynix Loses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SemiAnalysis</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-436-3846d24b1e",
+   "source_id": "news",
+   "source_name": "Amazon Web Services (AWS)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Introducing Claude Fable 5.1 on AWS | Amazon Web Services - Amazon Web Services (AWS)",
+   "summary": "Introducing Claude Fable 5.1 on AWS | Amazon Web Services &nbsp;&nbsp; Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRktHdVJiSWtrU2l4ZnJ6a3R5OXo1QzVoWjF0WjMwTUFkU1hPeGFKRC03UWpMMGNkYzdidTlBWUJacVFpRGxuMDRaNW5xcm9DRmxWSnpyZTNiTHhpb3ZjT2xlV1lJdXIwR2NNUEljcjAxenlKcDhackkyc1dUazdYeDU3SngySEFmcVE?oc=5",
+   "published_at": "2026-09-01T19:12:43+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRktHdVJiSWtrU2l4ZnJ6a3R5OXo1QzVoWjF0WjMwTUFkU1hPeGFKRC03UWpMMGNkYzdidTlBWUJacVFpRGxuMDRaNW5xcm9DRmxWSnpyZTNiTHhpb3ZjT2xlV1lJdXIwR2NNUEljcjAxenlKcDhackkyc1dUazdYeDU3SngySEFmcVE?oc=5\" target=\"_blank\">Introducing Claude Fable 5.1 on AWS | Amazon Web Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-399-1a7eb46290",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI - CNBC",
+   "summary": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02WjktbGRkY3BXT2x4TmhXWGRvcnVyZHcyaFl0X2pTOEp5ZjFoa1F5cGNGSEJUME13bDBPT3ZBdWhxR2dQNTJsTjdoNUFIa3dua241V2RIXzh6OWhET0ZOUGRMVWF4cDVvRThOZTNudVhKWHRkSFYxR2g2Sll0bzDSAYQBQVVfeXFMTmtTeUdFWGpBZWpZWnVYYWVTZkZfdnJreTBqQW1TQVc0ZlZkdDhtU20wWWU5VzFTbFZJNDhsMFMwcEhuemYyUm9JRmxGNnZiRVF1ekZLTEtTWExjQ3c2RTY1QVBNSG9iZXdFSnFrVEo4dTlKbzl6VXpTYVJwWVExdS1sNE9U?oc=5",
+   "published_at": "2026-09-01T15:32:36+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE02WjktbGRkY3BXT2x4TmhXWGRvcnVyZHcyaFl0X2pTOEp5ZjFoa1F5cGNGSEJUME13bDBPT3ZBdWhxR2dQNTJsTjdoNUFIa3dua241V2RIXzh6OWhET0ZOUGRMVWF4cDVvRThOZTNudVhKWHRkSFYxR2g2Sll0bzDSAYQBQVVfeXFMTmtTeUdFWGpBZWpZWnVYYWVTZkZfdnJreTBqQW1TQVc0ZlZkdDhtU20wWWU5VzFTbFZJNDhsMFMwcEhuemYyUm9JRmxGNnZiRVF1ekZLTEtTWExjQ3c2RTY1QVBNSG9iZXdFSnFrVEo4dTlKbzl6VXpTYVJwWVExdS1sNE9U?oc=5\" target=\"_blank\">Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-26-3b0e2095ef",
+   "source_id": "news",
+   "source_name": "U.S. National Science Foundation (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "NSF establishes operations center for the National Artificial Intelligence Research Resource - U.S. National Science Foundation (.gov)",
+   "summary": "NSF establishes operations center for the National Artificial Intelligence Research Resource &nbsp;&nbsp; U.S. National Science Foundation (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVZBSjRSTk1jemxJVWRDUzBfWUNuY09FUUsyU25tekdlaGh3bzlDcF9wZlFOZi1reEtNRWk0X1g0VVZRZHVfV2hRbWVMakRfaWtPYmc0QUtMaWlEQW5vaThDdjBEeTQwVnJiMkVXa1BGZWtaUTZpT0Z4MEZ6Y09uVVJoTnVPNmRfaHB3cDZmUQ?oc=5",
+   "published_at": "2026-09-01T15:31:51+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVZBSjRSTk1jemxJVWRDUzBfWUNuY09FUUsyU25tekdlaGh3bzlDcF9wZlFOZi1reEtNRWk0X1g0VVZRZHVfV2hRbWVMakRfaWtPYmc0QUtMaWlEQW5vaThDdjBEeTQwVnJiMkVXa1BGZWtaUTZpT0Z4MEZ6Y09uVVJoTnVPNmRfaHB3cDZmUQ?oc=5\" target=\"_blank\">NSF establishes operations center for the National Artificial Intelligence Research Resource</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. National Science Foundation (.gov)</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-450-e75813d893",
+   "source_id": "news",
+   "source_name": "The GitHub Blog",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Claude Fable 5.1 is generally available in GitHub Copilot - The GitHub Blog",
+   "summary": "Claude Fable 5.1 is generally available in GitHub Copilot &nbsp;&nbsp; The GitHub Blog",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVENXRE9rRktzczFKZkJBb3M2NXJBS2lNcWpfMHExMHB1ZzFHTjFjWHA2cnU4QVVMdGdIOV9Pal92bmVPTkVaRzg4OTJqZFhGS1FrUFhQRzRUajhvLU1UblVsLXlzM1B1UVZkUzg2S3p5V2dfVzJ1a21sVjVpMG9KY3RsVFBxazdpQ3ZEZFJXcWVHVGY3UjFxRWkwNlo?oc=5",
+   "published_at": "2026-09-01T14:29:23+00:00",
+   "author_handle": null,
+   "builder_id": "satya-nadella",
+   "builder_name": "Satya Nadella",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVENXRE9rRktzczFKZkJBb3M2NXJBS2lNcWpfMHExMHB1ZzFHTjFjWHA2cnU4QVVMdGdIOV9Pal92bmVPTkVaRzg4OTJqZFhGS1FrUFhQRzRUajhvLU1UblVsLXlzM1B1UVZkUzg2S3p5V2dfVzJ1a21sVjVpMG9KY3RsVFBxazdpQ3ZEZFJXcWVHVGY3UjFxRWkwNlo?oc=5\" target=\"_blank\">Claude Fable 5.1 is generally available in GitHub Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The GitHub Blog</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-392-9fa7c5a006",
+   "source_id": "news",
+   "source_name": "Platformer",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The Hugging Face attack was worse than we thought - Platformer",
+   "summary": "The Hugging Face attack was worse than we thought &nbsp;&nbsp; Platformer",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRTDV5dnAzR2xwWXdjQmFBN2ZLZVlKOVpVSmttVnRiWi1jNGEtdWJQTVlWekxLbktnaC1ZTmZBOHRsQmRGRTlWOGdwNHlNRVprcHJ4SFlxenNleVVfTTNjd08wdEpTSkZRakd1SGhLNFJkRlliQ0c0?oc=5",
+   "published_at": "2026-09-01T00:44:36+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBRTDV5dnAzR2xwWXdjQmFBN2ZLZVlKOVpVSmttVnRiWi1jNGEtdWJQTVlWekxLbktnaC1ZTmZBOHRsQmRGRTlWOGdwNHlNRVprcHJ4SFlxenNleVVfTTNjd08wdEpTSkZRakd1SGhLNFJkRlliQ0c0?oc=5\" target=\"_blank\">The Hugging Face attack was worse than we thought</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Platformer</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-398-b060557ac8",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI - TechCrunch",
+   "summary": "Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmxYUHpiREdBU3FzeFJLTmVTTkh6anNIUUt6RDlQa2hUTzhLN2JlMEdHVjZJdmNjZ1RIRURldmtmSjVNUjRsc2F2OFFBekViQ0RVSmtfWkFxcXVrRU9NUzVXd2lMMFlTNXpRUHYxZVJ4NDlKellncHBWSnhaM2h2cFBxSHAwZG1CR1dVaWt5eTRaS21zSHM2MzVmbjNDdVF6VGsybzlqZGxRUWMtRFhDdkNVLUoyVV9hMmlFNndFN05Ea085c3ItTl9ib0RTUQ?oc=5",
+   "published_at": "2026-09-01T00:13:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmxYUHpiREdBU3FzeFJLTmVTTkh6anNIUUt6RDlQa2hUTzhLN2JlMEdHVjZJdmNjZ1RIRURldmtmSjVNUjRsc2F2OFFBekViQ0RVSmtfWkFxcXVrRU9NUzVXd2lMMFlTNXpRUHYxZVJ4NDlKellncHBWSnhaM2h2cFBxSHAwZG1CR1dVaWt5eTRaS21zSHM2MzVmbjNDdVF6VGsybzlqZGxRUWMtRFhDdkNVLUoyVV9hMmlFNndFN05Ea085c3ItTl9ib0RTUQ?oc=5\" target=\"_blank\">Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

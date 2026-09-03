@@ -218,6 +218,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBmNk1SU0cyeVJVWkhfZzVYMjdqSzExZGp1Wm45S2VBaU1WbnFzdXhPVmFIbUZYNllLZGxqRFh2amU2dl9TQXRfOEh6Y3R3eGthQzZFV0NNeHhCcE1MR1Jnd2FIZ2dPNU40ZkxDeXJXOHpTX3BX?oc=5\" target=\"_blank\">广州拟立法促进人工智能发展 建设统一算力调度平台和应用赋能中心</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">广州市人民政府</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-896-f755363535",
+   "source_id": "news",
+   "source_name": "BBC",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "人工智慧（AI）：日本企业应用为何如此缓慢 - BBC",
+   "summary": "人工智慧（AI）：日本企业应用为何如此缓慢 &nbsp;&nbsp; BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WbHhjdEdkaUM1YkdEb2tWaTdJSFQyVUxta2hUdU5kcG1fd255S0NkeDlURTA0dnJuZUNPemQ4NTROcnNJcTQwNTBGOTBscXdzWVFubi1Wa0JaZGNhQmVvMnZ2VnU4d9IBa0FVX3lxTE43bWFxZHprTmNEVTJGRnhVdWl2TFNIZ19RQldoYmgxdGRLMFktYzk4SDdtMTk1NXhNbGRuZWlaNjNDazFObHo2d0pXcThxZ0NITEdGbFpDVUJfamJiYkQ2OWUtSTJrT2ctNWpV?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WbHhjdEdkaUM1YkdEb2tWaTdJSFQyVUxta2hUdU5kcG1fd255S0NkeDlURTA0dnJuZUNPemQ4NTROcnNJcTQwNTBGOTBscXdzWVFubi1Wa0JaZGNhQmVvMnZ2VnU4d9IBa0FVX3lxTE43bWFxZHprTmNEVTJGRnhVdWl2TFNIZ19RQldoYmgxdGRLMFktYzk4SDdtMTk1NXhNbGRuZWlaNjNDazFObHo2d0pXcThxZ0NITEdGbFpDVUJfamJiYkQ2OWUtSTJrT2ctNWpV?oc=5\" target=\"_blank\">人工智慧（AI）：日本企业应用为何如此缓慢</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }

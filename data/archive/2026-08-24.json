@@ -155,6 +155,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VSXNFX29NcE1Nb1RvbGY1SDMtbzZaMktyNmV4eWdIdmJjVU4zY1dxeE0wMkZiU0w3TDd3dm9SWlBLZHdRVFo0M3dZX3R2Y0dvTllUZGpNc2poSG01ZFE?oc=5\" target=\"_blank\">武汉AI智能体创新大赛种下27颗“金种子”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">湖北日报传媒集团</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1156-09b434b813",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI打造办公智能体，ChatGPT Work将连接企业服务执行任务| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI打造办公智能体，ChatGPT Work将连接企业服务执行任务| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MdzNHWGplVy0tZUVBUjRVdk50YUNzSXZwZzlSNHFnQkpIb2hqSHpYWGROamRsTl9yTTJyc3R1RmZqZ3UxWnMxU21paDNNTUg0NEE5UHRUWndjQ2JEdUlMX0NEbkJDeGRGNjM4?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9MdzNHWGplVy0tZUVBUjRVdk50YUNzSXZwZzlSNHFnQkpIb2hqSHpYWGROamRsTl9yTTJyc3R1RmZqZ3UxWnMxU21paDNNTUg0NEE5UHRUWndjQ2JEdUlMX0NEbkJDeGRGNjM4?oc=5\" target=\"_blank\">OpenAI打造办公智能体，ChatGPT Work将连接企业服务执行任务| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-03T19:40:14+00:00"
   }
  ]
 }
