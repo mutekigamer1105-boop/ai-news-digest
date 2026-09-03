@@ -844,6 +844,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMTDh6eko0TmZUTkQ2dk40M0huMW1KNlcxZ2YycmFkWXVNZ3lEUzdfQ2pXUmZudmtDOW0yVmQ1cUU5Tzc2emtTM3JqUkVPVDMtUDFsQklNMUZ3UDZ4anpVc0VDMmRtdw?oc=5\" target=\"_blank\">OpenAI宣布广告业务年化收入达10亿美元，ChatGPT加速拓展全球市场| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-492-0beebfdd0e",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says - Reuters",
+   "summary": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZwYjlLQzYtTmVrNTNjeXU1QlVIa1l6X1N4MDdPTHlhVkE0UkZHRUZjanllWEN1d1lzR08yRFQyNDVaZ0hIY2hGWUh0Vi1qLU1kaG1fT1NraWJqTFAyVkdQbFhPMUVTaFo3RUJiZGQ1S3A0VGxVT0xZSTdWcWhSaFZ2TGl4TnRzdWlucGNnTHhuSW1YNXEzVU1ZUjFzdTI5MWlhX01hY3FLZml1eUI2bWdnSVptd21IMURKSzlJaw?oc=5",
+   "published_at": "2026-08-31T23:59:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZwYjlLQzYtTmVrNTNjeXU1QlVIa1l6X1N4MDdPTHlhVkE0UkZHRUZjanllWEN1d1lzR08yRFQyNDVaZ0hIY2hGWUh0Vi1qLU1kaG1fT1NraWJqTFAyVkdQbFhPMUVTaFo3RUJiZGQ1S3A0VGxVT0xZSTdWcWhSaFZ2TGl4TnRzdWlucGNnTHhuSW1YNXEzVU1ZUjFzdTI5MWlhX01hY3FLZml1eUI2bWdnSVptd21IMURKSzlJaw?oc=5\" target=\"_blank\">Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-09-03T19:55:14+00:00"
   }
  ]
 }
