@@ -15,6 +15,7 @@ from datetime import date, timedelta
 
 from digest import store
 from digest.pipeline import build_pipeline
+from digest.translate import translate_items, is_zh
 
 
 def main() -> int:
@@ -28,6 +29,13 @@ def main() -> int:
     if not raw:
         print("[ingest] 未能抓取到真实新闻(网络受限?),当天不入库")
         return 1
+
+    # 线上要全中文:把非中文的标题/摘要经 DeepSeek 翻译成简体中文
+    before = sum(1 for i in raw if not is_zh(i.title))
+    raw = translate_items(raw)
+    after = sum(1 for i in raw if not is_zh(i.title))
+    print(f"[ingest] 中译:待翻译 {before} 条 -> 完成后仍为原文 {after} 条"
+          + ("(未配置 DIGEST_LLM_API_KEY,保持原文)" if os.environ.get("DIGEST_LLM_API_KEY") == "" else ""))
 
     added = store.save_items(raw)
     total_added = sum(added.values())

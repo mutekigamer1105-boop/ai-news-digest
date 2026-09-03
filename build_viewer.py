@@ -94,7 +94,23 @@ def build_bundle_web(days_n: int) -> dict:
     }
 
 
+# 杂志栏目规则(按标签优先级给每条新闻分栏目)
+_SECTION_RULES = [
+    ("大厂动向", {"模型", "算力", "大模型", "OpenAI", "Gemini"}),
+    ("初创与生态", {"融资", "创业"}),
+    ("技术与观点", {"Agent", "开源", "模型", "技术"}),
+    ("资本与治理", {"治理", "安全"}),
+]
+_WEEKDAYS_CN = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
+
+
+def _cn_date(date_str: str) -> str:
+    d = date.fromisoformat(date_str)
+    return f"{d.year}年{d.month}月{d.day}日 {_WEEKDAYS_CN[d.weekday()]}"
+
+
 def _day(rep) -> dict:
+    m = _magazine(rep)
     return {
         "date": rep.report_date,
         "title": rep.title,
@@ -105,6 +121,13 @@ def _day(rep) -> dict:
         "trend_notes": rep.trend_notes,
         "items": _items(rep),
         "qualified": len(_items(rep)),
+        "date_cn": m["date_cn"],
+        "headline": m["headline"],
+        "one_line_read": m["one_line_read"],
+        "trends": m["trends"],
+        "core_signals": m["core_signals"],
+        "total_signals": m["total_signals"],
+        "sections": m["sections"],
     }
 
 
@@ -114,6 +137,50 @@ def _items(rep) -> list:
         for c in cards:
             out.append({**c, "date": rep.report_date, "category": cat})
     return out
+
+
+def _magazine(rep) -> dict:
+    items = _items(rep)
+    if not items:
+        return {
+            "date_cn": _cn_date(rep.report_date),
+            "headline": "今日暂无核心情报",
+            "one_line_read": "该日尚未累积到通过质量审核的新闻，系统持续归档中将逐步补全。",
+            "trends": [], "core_signals": [], "total_signals": 0, "sections": [],
+        }
+    ranked = sorted(items, key=lambda i: i.get("importance") or 0, reverse=True)
+    headline = ranked[0]["title"]
+    tagfreq = {}
+    for i in items:
+        for t in i.get("tags", []):
+            if t == "AI":          # 全局通用标签，不作为“趋势”
+                continue
+            tagfreq[t] = tagfreq.get(t, 0) + 1
+    trends = [{"label": k, "count": v} for k, v in sorted(tagfreq.items(), key=lambda kv: -kv[1])[:3]]
+    top_tags = "、".join(t["label"] for t in trends) or "行业动态"
+    one_line_read = (f"本期聚焦「{top_tags}」，共 {len(items)} 条通过 5 道质量审核门的情报。"
+                     f"头条为「{headline}」。" if items else "本期暂无核心情报。")
+    return {
+        "date_cn": _cn_date(rep.report_date),
+        "headline": headline,
+        "one_line_read": one_line_read,
+        "trends": trends,
+        "core_signals": ranked[:5],
+        "total_signals": len(items),
+        "sections": _sections(items),
+    }
+
+
+def _sections(items) -> list:
+    buckets = {}
+    for i in items:
+        name = "行业动态"
+        for sec, keys in _SECTION_RULES:
+            if set(i.get("tags", [])) & keys:
+                name = sec
+                break
+        buckets.setdefault(name, []).append(i)
+    return [{"name": name, "items": bucket} for name, bucket in buckets.items()]
 
 
 # --------------------------------------------------------------------------
