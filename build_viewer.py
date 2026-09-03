@@ -23,6 +23,7 @@ from digest.pipeline import build_pipeline
 from digest.quality import QualityEngine
 from digest.sources import SourceRegistry
 from digest.synthesizer import TemplateSynthesizer
+from digest.translate import translate_items
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 VIEWER = os.path.join(HERE, "viewer")
@@ -72,6 +73,8 @@ def build_bundle_web(days_n: int) -> dict:
     days_data, total = [], 0
     for d in daylist:
         raw = store.load_raw(d)
+        # 构建时统一中译:把归档里任何非中文条目(含历史英文)翻成简体中文,保证线上全中文
+        raw = translate_items(raw)
         qres = eng.run(raw, d)
         if not qres.qualified:
             continue
