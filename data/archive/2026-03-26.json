@@ -43,6 +43,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ERmQtRzNGc2p1Qk5SenM5UktteTlmUVVlQzFPN2oxTmJiOWs3YjJpcUpFQnA5Mkpmbk1DZXNMNWNGVlJOZUZFdmhNUFYybVlNVkNyS1lORUJDd3QyUTR3?oc=5\" target=\"_blank\">Investigating expectations and needs regarding the use of large language models at Bavarian university clinics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1112-8573bd301b",
+   "source_id": "news",
+   "source_name": "36 Kr",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Token 刚定了中文名，AI 圈又多了个翻译不了的词 - 36 Kr",
+   "summary": "Token 刚定了中文名，AI 圈又多了个翻译不了的词 &nbsp;&nbsp; 36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3MHRKQk9TWFBPWEc1RnhvNDdLeXNmdVd1TG95TkFTdmFxdmx0VEdxV1dqM1JLR3N3X2ZtM0ZKQ2VLOXAtYWJyMjlvUVpTZw?oc=5",
+   "published_at": "2026-03-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3MHRKQk9TWFBPWEc1RnhvNDdLeXNmdVd1TG95TkFTdmFxdmx0VEdxV1dqM1JLR3N3X2ZtM0ZKQ2VLOXAtYWJyMjlvUVpTZw?oc=5\" target=\"_blank\">Token 刚定了中文名，AI 圈又多了个翻译不了的词</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

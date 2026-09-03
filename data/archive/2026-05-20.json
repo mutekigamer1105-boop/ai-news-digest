@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-222-666c4783bd",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Training-free active learning framework in materials science with large language models - Nature",
+   "summary": "Training-free active learning framework in materials science with large language models &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12dlNzYTJWS0dzcGFzbzVFNERmUWZQRFhxRXhSMjFyWmxXQjlqa2twdmtWSUlUUG9yQkdkUVQ5ajdUcDJBZTQ1emtFRzQxX2puYW1sOVlOYWROY19ackQ4?oc=5",
+   "published_at": "2026-05-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE12dlNzYTJWS0dzcGFzbzVFNERmUWZQRFhxRXhSMjFyWmxXQjlqa2twdmtWSUlUUG9yQkdkUVQ5ajdUcDJBZTQ1emtFRzQxX2puYW1sOVlOYWROY19ackQ4?oc=5\" target=\"_blank\">Training-free active learning framework in materials science with large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  }
+ ]
+}

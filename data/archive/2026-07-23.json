@@ -65,6 +65,48 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5WclZEQTNQMVhFQnFpTzRzckxMMXI4MjRmX1IzZGVmVUV3cnJFazA0Y24wUTlHUUZTeWlBNUgzZ25mbFRWWGtBYVVOSW13RkxDS3dDSmV6YjdqVXktUWZCWVFuM1VVZUc2VHdvVVZibmp2aVgxcWVyWDU5MjQ?oc=5\" target=\"_blank\">WAIC 2026丨从单点智能到全厂自主，工业AI大模型重塑中国智造</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-654-4b9a97f35e",
+   "source_id": "news",
+   "source_name": "The College Today",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Next Generation of AI Literacy Finds Success in Hard Work - The College Today",
+   "summary": "Next Generation of AI Literacy Finds Success in Hard Work &nbsp;&nbsp; The College Today",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBENEdIYzRaOTlrNlZRdFkzT3c1S25rcGNHY3hFV2hnTjdGQUs5eGVEZWxsNTRBV2NDdmJTOENyNHF5eUFZM1hoOUlNTHI5bWdjMUNjb3Vyb3Y2ZzR5Z2w0ZW1EMXBEa2l0d1E1Tk9uamkySzNNMkd3?oc=5",
+   "published_at": "2026-07-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBENEdIYzRaOTlrNlZRdFkzT3c1S25rcGNHY3hFV2hnTjdGQUs5eGVEZWxsNTRBV2NDdmJTOENyNHF5eUFZM1hoOUlNTHI5bWdjMUNjb3Vyb3Y2ZzR5Z2w0ZW1EMXBEa2l0d1E1Tk9uamkySzNNMkd3?oc=5\" target=\"_blank\">Next Generation of AI Literacy Finds Success in Hard Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The College Today</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-1108-5f29929131",
+   "source_id": "news",
+   "source_name": "36 Kr",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "刚刚，Claude爆改语音，11种语言，就是没中文 - 36 Kr",
+   "summary": "刚刚，Claude爆改语音，11种语言，就是没中文 &nbsp;&nbsp; 36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nbk1Nc2pPTWhaWHZrZGZ6bDloLXU2RmxKdE5vdTI5TFgtNjVVRWJTWVJOR3dLXzdTTnlJTHBhN2ZKYmZ6X1VqR2FnYlk3Zw?oc=5",
+   "published_at": "2026-07-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nbk1Nc2pPTWhaWHZrZGZ6bDloLXU2RmxKdE5vdTI5TFgtNjVVRWJTWVJOR3dLXzdTTnlJTHBhN2ZKYmZ6X1VqR2FnYlk3Zw?oc=5\" target=\"_blank\">刚刚，Claude爆改语音，11种语言，就是没中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

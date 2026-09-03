@@ -151,6 +151,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE90N0NXSzJWQ0NPdVBUZWc0bzhHTWd0RjZFdzV2ZFQxSmRCYUtxMTYtRVo5YlBGTG5JQU5hSExubzlEMERscWF4eDdJejY4SVJzU1B0bWVRNA?oc=5\" target=\"_blank\">学校举办人工智能赋能高等教育专题报告会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西北工业大学</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-890-23eb1575b2",
+   "source_id": "news",
+   "source_name": "Gartner",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "新闻室 - Gartner",
+   "summary": "新闻室 &nbsp;&nbsp; Gartner",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSVJvZVl3d0pjeHRFVUliT0xETGNmQ2Nmd1QtVDJBQS1Ud2ZiZWZrdHBIX05QekRzcmRLZW9vMHA2WWF2MXo3NEFuQXV1TDlhVWJlOWs4dXNYWFJROG9BLTRVTm4wQ3REbEVMWkRnVFR5emxaZUxObzRDOVRld3pXRGZTY2FPajBGT3lWOURXdzdZbDZjT3lmVW5UVjV0X2NmQy1iUmhCTk1fZkswMXdNV2tGMzYwUlFKaE40el93?oc=5",
+   "published_at": "2026-08-28T04:44:36+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPSVJvZVl3d0pjeHRFVUliT0xETGNmQ2Nmd1QtVDJBQS1Ud2ZiZWZrdHBIX05QekRzcmRLZW9vMHA2WWF2MXo3NEFuQXV1TDlhVWJlOWs4dXNYWFJROG9BLTRVTm4wQ3REbEVMWkRnVFR5emxaZUxObzRDOVRld3pXRGZTY2FPajBGT3lWOURXdzdZbDZjT3lmVW5UVjV0X2NmQy1iUmhCTk1fZkswMXdNV2tGMzYwUlFKaE40el93?oc=5\" target=\"_blank\">新闻室</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gartner</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

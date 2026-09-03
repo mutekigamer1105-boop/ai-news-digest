@@ -43,6 +43,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5kSjVfWGd5ZE42eFNfZXdjUS1vdXZWV2RjMmwtZDVDY3NQUkIwRmQ3bktzVklGdy1GNF8yVk1feHBXMlVJTTVVcFZYMm1YZWpucm1ISzNjNFdjSGxBMF96bG5DdGRKNzhOc0NQbnhsWDNnWGJPWnphcTNCeno?oc=5\" target=\"_blank\">Medical errors in large language models revealed using 1,000 synthetic clinical transcripts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">medRxiv</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-287-4067b8798e",
+   "source_id": "news",
+   "source_name": "Wiley Online Library",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large-language-models for pediatric diagnosis: Performance evaluation using real-world clinical notes from common and rare cases - Wiley Online Library",
+   "summary": "Large-language-models for pediatric diagnosis: Performance evaluation using real-world clinical notes from common and rare cases &nbsp;&nbsp; Wiley Online Library",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54ZUtlaEJfMDBZNGxxSWV0Rkc3S2hac1pfYlJQWWNQWFNfR1p2SXluZGFpc3RCVlY0VUltTDlqanBvWi1HVzBMVmFMbFdQekUzWjU1WjhqZXRqYWprcmtheE9lc2pDMFRDOGRj?oc=5",
+   "published_at": "2026-03-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE54ZUtlaEJfMDBZNGxxSWV0Rkc3S2hac1pfYlJQWWNQWFNfR1p2SXluZGFpc3RCVlY0VUltTDlqanBvWi1HVzBMVmFMbFdQekUzWjU1WjhqZXRqYWprcmtheE9lc2pDMFRDOGRj?oc=5\" target=\"_blank\">Large-language-models for pediatric diagnosis: Performance evaluation using real-world clinical notes from common and rare cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiley Online Library</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-1123-8554b8de73",
+   "source_id": "news",
+   "source_name": "新西兰中文先驱网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "视频生成模型Sora将被关停 - 新西兰中文先驱网",
+   "summary": "视频生成模型Sora将被关停 &nbsp;&nbsp; 新西兰中文先驱网",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RbFZZNGx6eWpZRnFXeE0wNzIySmVkLTBDdm5pQkFKRE1oQ3lSSGd2UnRfcG9mUGU4UGdCeWszUmFGM21hNEIzNmxDU01IbTA2LXRvZ24xTzdoQUoxSVF6UGhDa0lvZEc1U2pxNVJWTldIa1E?oc=5",
+   "published_at": "2026-03-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9RbFZZNGx6eWpZRnFXeE0wNzIySmVkLTBDdm5pQkFKRE1oQ3lSSGd2UnRfcG9mUGU4UGdCeWszUmFGM21hNEIzNmxDU01IbTA2LXRvZ24xTzdoQUoxSVF6UGhDa0lvZEc1U2pxNVJWTldIa1E?oc=5\" target=\"_blank\">视频生成模型Sora将被关停</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新西兰中文先驱网</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

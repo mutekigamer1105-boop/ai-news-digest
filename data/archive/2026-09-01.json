@@ -2089,6 +2089,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWlZCaWFPUk5WbGF1YmlfcmNYYzZWV2EyZk1idF94X2pqamJKTnAyVjMzclowb3ZBVWtMZUdCSVM1UW5FRWk0QkZmd0p0VHc3TWVKLVh4dHhQUTJUenlqN092NEs1THc?oc=5\" target=\"_blank\">OpenAI驳回苹果商业机密诉讼，称对方未证明前员工窃取信息| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-714-e4d6d54046",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Google Could Release New 3.8 Flash AI Model As Soon As Wednesday, Says Report — GOOGL Stock Gains After-Hours - Yahoo Finance",
+   "summary": "Google Could Release New 3.8 Flash AI Model As Soon As Wednesday, Says Report — GOOGL Stock Gains After-Hours &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUHpMaWo2Zmt5TFAwZVhnQ2pFcWpueHkyWk1Yb0dfS1ZsNmVPV3FMSzJPUW1Wb1Bfakx6aHZpTmtFSjFuaGhXdVFKYkRYWVZMZi1WNVlXa1o4eFdvOEt1NWcxVzRBM3dKMjdvVmJuYW9nWEt0VnM0allpbXRGSUZzNFNod19YWUNiUFp4bUZJTUF4dw?oc=5",
+   "published_at": "2026-09-01T22:30:16+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUHpMaWo2Zmt5TFAwZVhnQ2pFcWpueHkyWk1Yb0dfS1ZsNmVPV3FMSzJPUW1Wb1Bfakx6aHZpTmtFSjFuaGhXdVFKYkRYWVZMZi1WNVlXa1o4eFdvOEt1NWcxVzRBM3dKMjdvVmJuYW9nWEt0VnM0allpbXRGSUZzNFNod19YWUNiUFp4bUZJTUF4dw?oc=5\" target=\"_blank\">Google Could Release New 3.8 Flash AI Model As Soon As Wednesday, Says Report — GOOGL Stock Gains After-Hours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-820-5431a77a84",
+   "source_id": "news",
+   "source_name": "J.P. Morgan Private Bank",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "人工智能或先令经济承压再助推繁荣 | 摩根大通私人银行亚洲 - J.P. Morgan Private Bank",
+   "summary": "人工智能或先令经济承压再助推繁荣 | 摩根大通私人银行亚洲 &nbsp;&nbsp; J.P. Morgan Private Bank",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVEZEWS1Fbmd5aS1IOVdOVTk0YUIzV3NSN2ZVbi1UUlFxZ0o2X1NlOXRJX3l1VXFUOC1qOXUtWlNzUWJMYXFhRDgxXzJDaUJUd2ZqN3FEaFk3OXFsdThLM0hfaldDcHpRM3RmRXNBMWZYTkQ0cWZhSk11dDBNbU5kWXNmbWNWdmQ0TVdGUXlmUjlmZi12ZURLNW5ZeGxQVW5wMkhsUFJwTDNvVGhPdF96Z2RKYXZGMU5oeW5ER1Fvc1k?oc=5",
+   "published_at": "2026-09-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVEZEWS1Fbmd5aS1IOVdOVTk0YUIzV3NSN2ZVbi1UUlFxZ0o2X1NlOXRJX3l1VXFUOC1qOXUtWlNzUWJMYXFhRDgxXzJDaUJUd2ZqN3FEaFk3OXFsdThLM0hfaldDcHpRM3RmRXNBMWZYTkQ0cWZhSk11dDBNbU5kWXNmbWNWdmQ0TVdGUXlmUjlmZi12ZURLNW5ZeGxQVW5wMkhsUFJwTDNvVGhPdF96Z2RKYXZGMU5oeW5ER1Fvc1k?oc=5\" target=\"_blank\">人工智能或先令经济承压再助推繁荣 | 摩根大通私人银行亚洲</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">J.P. Morgan Private Bank</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

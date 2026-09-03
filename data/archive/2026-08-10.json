@@ -175,6 +175,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FWmVjczdfWjc4M04wQkh5dFJ0Y25tMS1PMGN2Ti1iMDl3U0FQa1hLYnJ0OXJMY1FCOXl6eFdEeGljdHhoa29JdTBiV2RtNEozNTRSdzB6Q1ZrYkZv?oc=5\" target=\"_blank\">中国AI大模型调用量连续十五周领跑：环比增长570%，DeepSeek-V4-Flash正式版登顶！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stcn.com</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-788-7d20f7ed15",
+   "source_id": "venturebeat",
+   "source_name": "VentureBeat",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.88,
+   "title": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter LLM available now - VentureBeat",
+   "summary": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter LLM available now &nbsp;&nbsp; VentureBeat",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSzlhcXY2UHFyUF9jTFE3QjZGS0QwRFNmRDJYbjE3Tmt2YURQUTBjeUhpbG9YRTFwVk1nYVY5a3RZVzYzVHNZd3hfc1ZHd1ByUm5WSk5nV2ZUN21oako0TmE1TUhwNjdKajJ3Z2VSRUR2UG9SdWZYcjROUGZScXFrV1ZueldSMENmM1UwaUVsbzVZcTRpdzlOS0dSWkd2QmNBU1pyT1BDLU9NRjl5OUxtUEwxTXJHVkRlcU1FV2ZnRDNrS2I1TU41cTVtWFRnd0VmODB3UW1yZ3BMaGZWVkEyYlJmSkQwNkNqbnVMNTFDYTkyTk0?oc=5",
+   "published_at": "2026-08-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSzlhcXY2UHFyUF9jTFE3QjZGS0QwRFNmRDJYbjE3Tmt2YURQUTBjeUhpbG9YRTFwVk1nYVY5a3RZVzYzVHNZd3hfc1ZHd1ByUm5WSk5nV2ZUN21oako0TmE1TUhwNjdKajJ3Z2VSRUR2UG9SdWZYcjROUGZScXFrV1ZueldSMENmM1UwaUVsbzVZcTRpdzlOS0dSWkd2QmNBU1pyT1BDLU9NRjl5OUxtUEwxTXJHVkRlcU1FV2ZnRDNrS2I1TU41cTVtWFRnd0VmODB3UW1yZ3BMaGZWVkEyYlJmSkQwNkNqbnVMNTFDYTkyTk0?oc=5\" target=\"_blank\">Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter LLM available now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

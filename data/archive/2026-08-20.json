@@ -150,6 +150,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9BNGU0SFBwNFQydFNjNk9TWldTMkRsNnB2aTJvRXZ3SEdleEtoNkpSenlaNHpZTGdmZmQ2WjZHZF9oMjJlNmZ3c3hkajJqLUhCYzh0RVQ2V0dUOWZhSEZTbzFQYjNaOUFhdktFYXBMdw?oc=5\" target=\"_blank\">越秀集中发布一批人工智能成果</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">广州市人民政府</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-894-d1270a7302",
+   "source_id": "news",
+   "source_name": "tsinghua.edu.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "医学院黄天荫团队合作提出医疗人工智能安全风险分级框架 - tsinghua.edu.cn",
+   "summary": "医学院黄天荫团队合作提出医疗人工智能安全风险分级框架 &nbsp;&nbsp; tsinghua.edu.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WclV2dUphcTlGM1RyYnhMX2hFNTRqejI4VUowQ0hDQTJVd29EaThhRzdSTVVLNTNPU3MzcklOR283QkRacERlRGhLMV9tRnpUVkNqeFpLUEwyWGo1?oc=5",
+   "published_at": "2026-08-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WclV2dUphcTlGM1RyYnhMX2hFNTRqejI4VUowQ0hDQTJVd29EaThhRzdSTVVLNTNPU3MzcklOR283QkRacERlRGhLMV9tRnpUVkNqeFpLUEwyWGo1?oc=5\" target=\"_blank\">医学院黄天荫团队合作提出医疗人工智能安全风险分级框架</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tsinghua.edu.cn</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

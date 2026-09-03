@@ -21,6 +21,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWR3VheVBPODFUaXpvMzA5QVFsUTU3LXJ6MF85TzJobjYzLXBZaFVtdmwtUDVuVzFhR0dvSEJKU2FGN0tOMHFxSnJKS0RDSTlKQlhqaA?oc=5\" target=\"_blank\">OpenAI类人高级AI语音助手正式上线，会说中文等50多种语言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1157-383934ad4b",
+   "source_id": "news",
+   "source_name": "腾讯新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "ChatGPT重磅功能全量开放：支持中文普通话，能说50种语言 - 腾讯新闻",
+   "summary": "ChatGPT重磅功能全量开放：支持中文普通话，能说50种语言 &nbsp;&nbsp; 腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oZV8xWTJqbjZsWGdxRDRGOU43OWNvYXlIVHNHVEhaNElheWdkQkUtWnlJQXM4QUJBWFZpaU13WVpIbEF2ajdyRHVPRWxJbDVxTndYNWdR?oc=5",
+   "published_at": "2024-09-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oZV8xWTJqbjZsWGdxRDRGOU43OWNvYXlIVHNHVEhaNElheWdkQkUtWnlJQXM4QUJBWFZpaU13WVpIbEF2ajdyRHVPRWxJbDVxTndYNWdR?oc=5\" target=\"_blank\">ChatGPT重磅功能全量开放：支持中文普通话，能说50种语言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">腾讯新闻</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

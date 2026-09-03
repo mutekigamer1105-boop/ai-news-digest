@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-220-ca960945f8",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Evaluating large language models for pharmacotherapy simulations: a mixed-methods study - Nature",
+   "summary": "Evaluating large language models for pharmacotherapy simulations: a mixed-methods study &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0TEhBV1RiNk1tVXg3TWVXQTRkVUtqb2pfb3NJLUpuQXJnaVNhaFlpU2ZkSDFrSTdZVGRLdHk0MGIwMlNldU5zTkM4RlpoNTloYWowSkVXYi1aZ1RQMUJZ?oc=5",
+   "published_at": "2026-05-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0TEhBV1RiNk1tVXg3TWVXQTRkVUtqb2pfb3NJLUpuQXJnaVNhaFlpU2ZkSDFrSTdZVGRLdHk0MGIwMlNldU5zTkM4RlpoNTloYWowSkVXYi1aZ1RQMUJZ?oc=5\" target=\"_blank\">Evaluating large language models for pharmacotherapy simulations: a mixed-methods study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  }
+ ]
+}

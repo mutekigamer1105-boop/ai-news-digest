@@ -42,6 +42,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0xCU3BXUlRPLXhUb3Y2UEhtalFvOGdfMHQ0WVJPTVJwcWlGczJmTUNVNllaXzcta1V0VWV3bldKVEoybXFXYUdwZFNjcllnUDNaaGduWUwzMFMzd2pYRUpSb3M5aGhlMEJjWndYakk2T2RTVE81ZFZpM0hFV0hZdlFqaw?oc=5\" target=\"_blank\">主动拥抱人工智能时代的积极尝试——写在权威AI时政资讯智能体“新华语典”上线之际</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-660-117ae47b81",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "US investors lead $30M funding for Gulf AI startup 1001 - Yahoo Finance",
+   "summary": "US investors lead $30M funding for Gulf AI startup 1001 &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb1M0OHBBN2l1RE1oVjZnNXl6QU9QX2NyS1luZ243MkthU1RMb0o4RUJULUF2ZVpaU0paX0x3VmFjREx0TG5JVE40U3Rwc19tZ1Zlb0dLdGFMLUpVZGY1VDVUdENQR3dWYUhsbklybTk5OVMxQjNGLWJFalNLeU9VdnByWmp4eE5TQnJka3BSLVdnSWtQeURXSg?oc=5",
+   "published_at": "2026-06-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPb1M0OHBBN2l1RE1oVjZnNXl6QU9QX2NyS1luZ243MkthU1RMb0o4RUJULUF2ZVpaU0paX0x3VmFjREx0TG5JVE40U3Rwc19tZ1Zlb0dLdGFMLUpVZGY1VDVUdENQR3dWYUhsbklybTk5OVMxQjNGLWJFalNLeU9VdnByWmp4eE5TQnJka3BSLVdnSWtQeURXSg?oc=5\" target=\"_blank\">US investors lead $30M funding for Gulf AI startup 1001</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

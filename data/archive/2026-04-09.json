@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-279-e855e02e43",
+   "source_id": "news",
+   "source_name": "Apple Machine Learning Research",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "LaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss - Apple Machine Learning Research",
+   "summary": "LaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss &nbsp;&nbsp; Apple Machine Learning Research",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CYmlldzlyRXZqNGNNem95c1d1MXMwZzZ2OEF1VjZxdmk1MDFiZk43NU5uS05RUm5LdFNIWVh0bEZvMDRRUnZsUnhTZm5Nc2Z6OERISWVCaVlyRkE?oc=5",
+   "published_at": "2026-04-09T21:28:53+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CYmlldzlyRXZqNGNNem95c1d1MXMwZzZ2OEF1VjZxdmk1MDFiZk43NU5uS05RUm5LdFNIWVh0bEZvMDRRUnZsUnhTZm5Nc2Z6OERISWVCaVlyRkE?oc=5\" target=\"_blank\">LaCy: What Small Language Models Can and Should Learn is Not Just a Question of Loss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple Machine Learning Research</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  }
+ ]
+}

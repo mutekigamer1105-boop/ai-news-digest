@@ -3536,6 +3536,139 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkw1U0NxOUxZUGVQaXlLRWJ3ZDAyNW1iNnRPeHlNb1JfSkZVWmNLaVM5RlJ2bHp6YkhwV1FmeEhRM0FPWDd2cmRfekxSSEdkUEdHdmFUSVpXd3FTMnJzekhvdVFweEs3YjhwSXIwZ0hOTlRCSHpCeDJILTNqTzNlc2hyY2g3eVphQnpsRnA3dWpFQ2lsMEJtYXA5M1Y0Yk15Vk1KNkdWbXFoREYwbkdNV1ByOExwNENmcEhN?oc=5\" target=\"_blank\">人与机器的界线：哲学家和科学家在梵蒂冈举行人工智能会议- 梵蒂冈新闻网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vatican News</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-512-cfccb29ef7",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia’s $1 Billion Nokia Bet Was Worth About $2.2 Billion by June. Is 6G the Hidden AI Trade? - Yahoo Finance",
+   "summary": "Nvidia’s $1 Billion Nokia Bet Was Worth About $2.2 Billion by June. Is 6G the Hidden AI Trade? &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRlJnZThhcHFxNTJLWE10VFhWNUl5Mzk1ZmI0NEJxVWdVUTNDWkpNNUNLdUxkcGVHNUZTNnc5MnhfM1RjNjBHR0JlN2VITThhT2FEVUl6U3J5N2daTkd4RkNRQm1tVE9fYllOZVZDbUxhNU1Va0w4aG82NTVjUzd1NE9GT3MwQy13NkZoWXlzZkdFSFRS?oc=5",
+   "published_at": "2026-09-02T21:56:06+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRlJnZThhcHFxNTJLWE10VFhWNUl5Mzk1ZmI0NEJxVWdVUTNDWkpNNUNLdUxkcGVHNUZTNnc5MnhfM1RjNjBHR0JlN2VITThhT2FEVUl6U3J5N2daTkd4RkNRQm1tVE9fYllOZVZDbUxhNU1Va0w4aG82NTVjUzd1NE9GT3MwQy13NkZoWXlzZkdFSFRS?oc=5\" target=\"_blank\">Nvidia’s $1 Billion Nokia Bet Was Worth About $2.2 Billion by June. Is 6G the Hidden AI Trade?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-104-16ab4374d7",
+   "source_id": "news",
+   "source_name": "PBS",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI agents are hacking systems without any input from humans. How did we get here? - PBS",
+   "summary": "AI agents are hacking systems without any input from humans. How did we get here? &nbsp;&nbsp; PBS",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWNqakdWTUt2ZWxDcTBkdDBaRGs5c0Zoa21LSm85WE0xZ0ppTFlna3F4OW5yQ0gyd2NaVW10N3hralFUVFBpam9Kek00TjhGU2R6bm5tbmpzd2JGSU9Ib1ZsVlRLcnZTT1dnbXlrWXJkNzZ6WDlScjlMbEJmVGcxOEx5T3ZLTjkta0ZidzVrM2RQNmROM3F2LWNaZThnN0hsMmNQYUgyeHNLUGVWdkJIQ2gtWmh6bWPSAbwBQVVfeXFMUDgwMkZ1U1VJTjdzNHRKSkVTZW1lYlItamc2VHZaVndHc2RCbDF2NVJFcjNraHJkelJ1aHBqdDQ3VkdSSVRiQldHNGRZcUxQRS15RkZhTmp0TFpmQTJrSjJVZndDcVI2Ym01MEdhM0hFY3ZFeXQ1TTItWFJ2WjNFY1R3VVRTejcxemdSVE8yRXFvNnpFRTNhZXJGWU5WTUFxWHdKY0ItOU85ZWVOM1lPVGhHeHh0U3Z4Nm1aZVU?oc=5",
+   "published_at": "2026-09-02T18:46:26+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWNqakdWTUt2ZWxDcTBkdDBaRGs5c0Zoa21LSm85WE0xZ0ppTFlna3F4OW5yQ0gyd2NaVW10N3hralFUVFBpam9Kek00TjhGU2R6bm5tbmpzd2JGSU9Ib1ZsVlRLcnZTT1dnbXlrWXJkNzZ6WDlScjlMbEJmVGcxOEx5T3ZLTjkta0ZidzVrM2RQNmROM3F2LWNaZThnN0hsMmNQYUgyeHNLUGVWdkJIQ2gtWmh6bWPSAbwBQVVfeXFMUDgwMkZ1U1VJTjdzNHRKSkVTZW1lYlItamc2VHZaVndHc2RCbDF2NVJFcjNraHJkelJ1aHBqdDQ3VkdSSVRiQldHNGRZcUxQRS15RkZhTmp0TFpmQTJrSjJVZndDcVI2Ym01MEdhM0hFY3ZFeXQ1TTItWFJ2WjNFY1R3VVRTejcxemdSVE8yRXFvNnpFRTNhZXJGWU5WTUFxWHdKY0ItOU85ZWVOM1lPVGhHeHh0U3Z4Nm1aZVU?oc=5\" target=\"_blank\">AI agents are hacking systems without any input from humans. How did we get here?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-200-ed41b4df4c",
+   "source_id": "news",
+   "source_name": "blog.google",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions - blog.google",
+   "summary": "4 engineering patterns behind the strongest AI Agents Challenge submissions &nbsp;&nbsp; blog.google",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeF9wS0s0UjhqdzZZZkhvU1BESHRraExYOUlybTE5eVJ3MGkxSkxtLVBWOEVWVkh2dWtYRFVYSHIzbTQ3LVZvT0tWYWxDTlNxZ0g1NHZuZXdFUmYxT3JqNjRJNDZ1c3NPeW1WeElNbjFBRW1Pdng3U1I4R1BNSXZ3MnNXYjRhcC1NUDFFM0dCYUd2RnNoU0M1cl9jYURPeGhUSjEtY3Q5NFdBbS1KOUcw?oc=5",
+   "published_at": "2026-09-02T16:06:30+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNeF9wS0s0UjhqdzZZZkhvU1BESHRraExYOUlybTE5eVJ3MGkxSkxtLVBWOEVWVkh2dWtYRFVYSHIzbTQ3LVZvT0tWYWxDTlNxZ0g1NHZuZXdFUmYxT3JqNjRJNDZ1c3NPeW1WeElNbjFBRW1Pdng3U1I4R1BNSXZ3MnNXYjRhcC1NUDFFM0dCYUd2RnNoU0M1cl9jYURPeGhUSjEtY3Q5NFdBbS1KOUcw?oc=5\" target=\"_blank\">4 engineering patterns behind the strongest AI Agents Challenge submissions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-199-1fbd6520c7",
+   "source_id": "news",
+   "source_name": "ChannelE2E",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "SkySwitch launches native AI agent, bringing enterprise AI communications to every white-label partner - ChannelE2E",
+   "summary": "SkySwitch launches native AI agent, bringing enterprise AI communications to every white-label partner &nbsp;&nbsp; ChannelE2E",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQkZYNlpZdUpXZGlMQi05VTZ4VWlEajBHa29CSWpYSzN1cmI4M1FKY21lQ1ltbkppOHhFNXh3MjZTUi1fVnNmZ0RsLU4yU1hwY2dKMVJjcTdnMGQ4b3B4a2wxLUxRWGZwN0FwdTBrRlhUVEdOdFdNN3pwbDc3bjdTV3UtWC1FbmxYWTBNc3N2UUpqZGs1YlI3OUJRR01maWFrd1pKSUdoemo4c3lHSTlkcVRrblF5Q0J6UUw4TjgxT3Voa2ZtalNKMkY4Qm5zUQ?oc=5",
+   "published_at": "2026-09-02T15:56:41+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQQkZYNlpZdUpXZGlMQi05VTZ4VWlEajBHa29CSWpYSzN1cmI4M1FKY21lQ1ltbkppOHhFNXh3MjZTUi1fVnNmZ0RsLU4yU1hwY2dKMVJjcTdnMGQ4b3B4a2wxLUxRWGZwN0FwdTBrRlhUVEdOdFdNN3pwbDc3bjdTV3UtWC1FbmxYWTBNc3N2UUpqZGs1YlI3OUJRR01maWFrd1pKSUdoemo4c3lHSTlkcVRrblF5Q0J6UUw4TjgxT3Voa2ZtalNKMkY4Qm5zUQ?oc=5\" target=\"_blank\">SkySwitch launches native AI agent, bringing enterprise AI communications to every white-label partner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChannelE2E</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-721-be58800999",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic releases new models, cuts agent costs - Axios",
+   "summary": "Anthropic releases new models, cuts agent costs &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2phY0R2b1N5eTVJRXNMM21ubUlFYUhaWjZCY0VDb3pFMXJsSWlxOWhsQ0RXRmVVM0RTejN0OVp4TEtVRm02SlRydW5yS2YzV1dtbVNGeVZocDNaeTIwYzNVSnBST1hSbGZvR25Ba3IwaWowTklveUhyZHo0M21HSEI3V1Mtbk1kdkgwYWwtamt5UzYtenZfVQ?oc=5",
+   "published_at": "2026-09-02T08:41:59+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2phY0R2b1N5eTVJRXNMM21ubUlFYUhaWjZCY0VDb3pFMXJsSWlxOWhsQ0RXRmVVM0RTejN0OVp4TEtVRm02SlRydW5yS2YzV1dtbVNGeVZocDNaeTIwYzNVSnBST1hSbGZvR25Ba3IwaWowTklveUhyZHo0M21HSEI3V1Mtbk1kdkgwYWwtamt5UzYtenZfVQ?oc=5\" target=\"_blank\">Anthropic releases new models, cuts agent costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-773-6fcbae2d3f",
+   "source_id": "news",
+   "source_name": "ANI News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Balancing capabilities and safeguards crucial for next-gen AI models, says Sam Altman - ANI News",
+   "summary": "Balancing capabilities and safeguards crucial for next-gen AI models, says Sam Altman &nbsp;&nbsp; ANI News",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ091dXQzckNTR3h1N3NhRkpmT3VrUktGRXM0blFDTUJDVGJXM09BV0VkZXlubXlIaE9QLW9LR3BRUVhieUJGOVpObnlpbEliSkRuVEtxaVpvbGF1c29YOC1hUXA5Qm1tQkZRLTN5aDN3d3A1LWVhbXpyR2ppRjFqa3poOGxXWmdtVzdkYk04bUVOX3ZUUU8wY3hlTmdUcDR1OEUxb3QzSkh1VGdiVTdvU294R3dtTVExcGx3MFc1TUdYT1JQZ0k2akxCbHREOXc3?oc=5",
+   "published_at": "2026-09-02T03:10:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ091dXQzckNTR3h1N3NhRkpmT3VrUktGRXM0blFDTUJDVGJXM09BV0VkZXlubXlIaE9QLW9LR3BRUVhieUJGOVpObnlpbEliSkRuVEtxaVpvbGF1c29YOC1hUXA5Qm1tQkZRLTN5aDN3d3A1LWVhbXpyR2ppRjFqa3poOGxXWmdtVzdkYk04bUVOX3ZUUU8wY3hlTmdUcDR1OEUxb3QzSkh1VGdiVTdvU294R3dtTVExcGx3MFc1TUdYT1JQZ0k2akxCbHREOXc3?oc=5\" target=\"_blank\">Balancing capabilities and safeguards crucial for next-gen AI models, says Sam Altman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

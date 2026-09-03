@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-1150-eed324e32f",
+   "source_id": "news",
+   "source_name": "Thông tấn xã Việt Nam",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "越南画报中文版 - Thông tấn xã Việt Nam",
+   "summary": "越南画报中文版 &nbsp;&nbsp; Thông tấn xã Việt Nam",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOMmhocC1ra1p5ajZ1RWFacE9URjM5RVJ5SjZmeDVKYzZBRll2ODhUand0X0JKYlgzelhwLUFkYWhuSmJndmphUW85NTZ2cDVhanhGbUpPbWtYT2cyTnJoVFY5TnhMaTRQSzlhTVhZbzN4eXNqXzBKVFpJUWViejhyZWYyY3p3M0JFMHlsMHB4WHVDMndqbTRjVHJ1ZDM1QUJ1b2JNcWE0dURMLXVmZjNOM0lhNlNabTBKZk1vdjNkZzBrMndzR0M1ODNWbkJ3WGlNaktGbjRfOVh3WkVvSFlEaWx3XzMxaDZfOEU3WUNDYUwxSTVXMjVkM2xoVjFYZ21uaFJDRzBTREcxWVhRSnkyRmM4RUswZUpBQ3JFWW9pTzlxUkdVcjdEVHdiTzc4VnN5bHNkUXZIVXdOcEhHLTVYX0hJNEs4cE5pTWZR?oc=5",
+   "published_at": "2026-08-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiywJBVV95cUxOMmhocC1ra1p5ajZ1RWFacE9URjM5RVJ5SjZmeDVKYzZBRll2ODhUand0X0JKYlgzelhwLUFkYWhuSmJndmphUW85NTZ2cDVhanhGbUpPbWtYT2cyTnJoVFY5TnhMaTRQSzlhTVhZbzN4eXNqXzBKVFpJUWViejhyZWYyY3p3M0JFMHlsMHB4WHVDMndqbTRjVHJ1ZDM1QUJ1b2JNcWE0dURMLXVmZjNOM0lhNlNabTBKZk1vdjNkZzBrMndzR0M1ODNWbkJ3WGlNaktGbjRfOVh3WkVvSFlEaWx3XzMxaDZfOEU3WUNDYUwxSTVXMjVkM2xoVjFYZ21uaFJDRzBTREcxWVhRSnkyRmM4RUswZUpBQ3JFWW9pTzlxUkdVcjdEVHdiTzc4VnN5bHNkUXZIVXdOcEhHLTVYX0hJNEs4cE5pTWZR?oc=5\" target=\"_blank\">越南画报中文版</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thông tấn xã Việt Nam</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-1153-c6f4242a10",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI暂停Astra部分开发，模型网络攻击能力引发安全担忧| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI暂停Astra部分开发，模型网络攻击能力引发安全担忧| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03NHpjamg5RDRwMUI3QXRadWxqOFpSNEF4M1k3cV9ycXRpbDFLdmJwX0VSeGMtMFdwRTgyN3hvUUQ2MEU1YkJZV1pSal9jcFdLUFRzdFRjM05HWURJX0l0Tk5PcU8wZw?oc=5",
+   "published_at": "2026-08-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE03NHpjamg5RDRwMUI3QXRadWxqOFpSNEF4M1k3cV9ycXRpbDFLdmJwX0VSeGMtMFdwRTgyN3hvUUQ2MEU1YkJZV1pSal9jcFdLUFRzdFRjM05HWURJX0l0Tk5PcU8wZw?oc=5\" target=\"_blank\">OpenAI暂停Astra部分开发，模型网络攻击能力引发安全担忧| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  }
+ ]
+}

@@ -64,6 +64,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LWnFBSmd3bkxScml0NV9ubThzOE1yWlNhVkxGdXdZT1RNbENVLTRkeU8xWWZUSmpteVM1YzB4UFBUUDdRelV1ZA?oc=5\" target=\"_blank\">奥特曼亲自上阵，Images 2.0登顶王座！大米刻字，生图跨入GPT-5时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">智源社区</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-223-415c90848c",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The effect of medical explanations from large language models on diagnostic accuracy in radiology - Nature",
+   "summary": "The effect of medical explanations from large language models on diagnostic accuracy in radiology &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16eFV4OEVsQUlNR2FBbjRpRFRlaE1CcWdhYXRON00xWUU5dElOclV4dmo3MU5RdlVFelRkM21QZWcyTW9naGZuR1F1STFUNGhPeWhXdU13RFRkMXAwV2o0?oc=5",
+   "published_at": "2026-04-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE16eFV4OEVsQUlNR2FBbjRpRFRlaE1CcWdhYXRON00xWUU5dElOclV4dmo3MU5RdlVFelRkM21QZWcyTW9naGZuR1F1STFUNGhPeWhXdU13RFRkMXAwV2o0?oc=5\" target=\"_blank\">The effect of medical explanations from large language models on diagnostic accuracy in radiology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

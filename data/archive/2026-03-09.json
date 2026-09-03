@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQTXJ4aHZPTEVMRVhhM0NGZWtqanFmWHhxX0JPbm52Wmp1elZBOF9MM1JWQm5Da2lPZlZGdk5sbURpcnh6QU96UGJhYnRGTTZHallxQWVmcDNxMEFuTGFr?oc=5\" target=\"_blank\">The evolving landscape of large language models and non-large language models in health care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-668-961b23b77d",
+   "source_id": "news",
+   "source_name": "Business Insider",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Brazilian AI startup fund Shiva raised $10 million, and it's betting on tiny teams. Read its pitch deck. - Business Insider",
+   "summary": "Brazilian AI startup fund Shiva raised $10 million, and it's betting on tiny teams. Read its pitch deck. &nbsp;&nbsp; Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMGQ4UlBoUHlmOW9JZjlBaFZrVU1OVG5FWE55bXVkTDJ0SUlsR2hhTlFwR2ZpenBBcG5jXzZQNlMwRnp4Q1ViN2daUW4zQVRRZTFwZHdLVWNvRHU2Wk1FeVhiNzJMbnZpZXdmcHZTWXVnUmFVZXZMTW9od3JxNGdvNmd3?oc=5",
+   "published_at": "2026-03-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPMGQ4UlBoUHlmOW9JZjlBaFZrVU1OVG5FWE55bXVkTDJ0SUlsR2hhTlFwR2ZpenBBcG5jXzZQNlMwRnp4Q1ViN2daUW4zQVRRZTFwZHdLVWNvRHU2Wk1FeVhiNzJMbnZpZXdmcHZTWXVnUmFVZXZMTW9od3JxNGdvNmd3?oc=5\" target=\"_blank\">Brazilian AI startup fund Shiva raised $10 million, and it's betting on tiny teams. Read its pitch deck.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

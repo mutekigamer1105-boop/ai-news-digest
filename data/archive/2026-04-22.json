@@ -152,6 +152,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBORTlZZWt1VDY1RExaakNzTUJzU0R4ejQteDBkUlVFSl8xeGs4dnUyNEFYajlHMmNCV3ZGWDI4bVZtVHlNenRrbXNPOXNtU2xuX3M2X0dkTkpLTEFxb01veHZQRzdZWTRwSDVCcUJ3RVR6R0R1T3c?oc=5\" target=\"_blank\">OpenAI新图像模型超越谷歌登顶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-1146-128ca80074",
+   "source_id": "news",
+   "source_name": "jpchinapress.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI新图像模型超越谷歌登顶！设计行业又要被颠覆了？ - jpchinapress.com",
+   "summary": "OpenAI新图像模型超越谷歌登顶！设计行业又要被颠覆了？ &nbsp;&nbsp; jpchinapress.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnlRWGF2MzdCcDBvZ3JuRzUyeDdBZHNOYVdIMFU0YW93NEFpclhZRGNqVVhRMnoyallpWHcwdUZrR2JGU1Axa3FBY0VncllqakpKRW51OUdISTdVVk8zLWlfYzZUWGJVdEVlU21pbm02V1FfOVFYczlRLWNTZUdwX0kwaUpweHVkU1E?oc=5",
+   "published_at": "2026-04-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnlRWGF2MzdCcDBvZ3JuRzUyeDdBZHNOYVdIMFU0YW93NEFpclhZRGNqVVhRMnoyallpWHcwdUZrR2JGU1Axa3FBY0VncllqakpKRW51OUdISTdVVk8zLWlfYzZUWGJVdEVlU21pbm02V1FfOVFYczlRLWNTZUdwX0kwaUpweHVkU1E?oc=5\" target=\"_blank\">OpenAI新图像模型超越谷歌登顶！设计行业又要被颠覆了？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jpchinapress.com</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

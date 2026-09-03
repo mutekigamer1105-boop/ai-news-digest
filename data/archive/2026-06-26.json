@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXJDYVpEeTBVVWcyMjhia3N1dzk3VC1XdkZXNVR1cVJQbFJsVWxHLTVCamdpclk4WEdzWG9qS0V6aDdKeVZBN29IMm5IRlpfUERhN0VXa2szUzRObHZSMU4yTW55VTN6UW0zMUNHYWZvNUhpVDMwQWpZS3hGbDUtWUlGWHVaYUNHYWktbw?oc=5\" target=\"_blank\">中国AI模型与Anthropic、OpenAI性能差距缩小</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-798-761b62dec0",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI Limits Access to New Models, Citing Government Security Concerns - WSJ",
+   "summary": "OpenAI Limits Access to New Models, Citing Government Security Concerns &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0FjSVdydU0tWTBoZXIteHVvenBCeTRJSDZfZTdjMFdMZFZMZ0ppY3UzbXU5d3E3dDgtVnYtWV93WWtmVmxwVVZvVlBvN3VzbHFUODRVem5HNjlGUkVTS2t5dUdhSlFfLUJJRzRjZEZubXU3ZFhnZ1hhSURsOEpEQ3NleWFMUGxpOTdmVXdBazBWbXZuN2x6cUZIcGtER1JFR1N1by1Ndkl2Zw?oc=5",
+   "published_at": "2026-06-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0FjSVdydU0tWTBoZXIteHVvenBCeTRJSDZfZTdjMFdMZFZMZ0ppY3UzbXU5d3E3dDgtVnYtWV93WWtmVmxwVVZvVlBvN3VzbHFUODRVem5HNjlGUkVTS2t5dUdhSlFfLUJJRzRjZEZubXU3ZFhnZ1hhSURsOEpEQ3NleWFMUGxpOTdmVXdBazBWbXZuN2x6cUZIcGtER1JFR1N1by1Ndkl2Zw?oc=5\" target=\"_blank\">OpenAI Limits Access to New Models, Citing Government Security Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

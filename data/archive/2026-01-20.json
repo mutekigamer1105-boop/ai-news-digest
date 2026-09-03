@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOUWRQc0E1YnhmZExvMHFkaWVlTXJzTS1yWHpjd0ctcU4yM2s4QUJXTE4yeTZnRXAyRXZLa1JfQkhTTnRTaldwVkdGX19VRXhOWGhsR1FrcWRUNzFhRjFGTWszV0c0UWU4eVlaYWFwcjFWX0xIWkcwWlFHMklyU01pZnpDbjNmVm9BY2dlYS1VR3lNVXVIeWc?oc=5\" target=\"_blank\">ServiceNow 携手 OpenAI 推动“行动化”企业级 AI 落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-298-6c5e8b0291",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Holistic evaluation of large language models for medical tasks with MedHELM - Nature",
+   "summary": "Holistic evaluation of large language models for medical tasks with MedHELM &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JaGR6UGtoNjRVMGFMRjJ0Ti1FdGlhaTdYR3FoZkJaWXAzY3gzWXhiQ0JJdkdPOThtdVJvazdnblcxWDdhNFhPLXVqTjFkZUZ2aXVrQ2R1eUdZYU5rZEZr?oc=5",
+   "published_at": "2026-01-20T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JaGR6UGtoNjRVMGFMRjJ0Ti1FdGlhaTdYR3FoZkJaWXAzY3gzWXhiQ0JJdkdPOThtdVJvazdnblcxWDdhNFhPLXVqTjFkZUZ2aXVrQ2R1eUdZYU5rZEZr?oc=5\" target=\"_blank\">Holistic evaluation of large language models for medical tasks with MedHELM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

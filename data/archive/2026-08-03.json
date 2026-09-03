@@ -66,6 +66,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnd6ckhOVUhwcGJjRmxRdlhObS1ncXRhZm9OeVUwaEgwOTg5YmNBTGVWcHZsdXd4dXVrWWdlZGtsYkw0eDIyY1A3NjdSM0o0bFBGUEZRNDF2NjYwZEtCamNpeTFqN3ZaQVlTclNuQWYxNXh4ZVlqaWF3WkNNVk1fbmJXcTdISlBmUVVWS01STmFYZldLSGk5akJQZVB5X09OSzVoVWF4Wko4TEF4cGozQUlWM202dFJWMGxSRTdpcTNaaUp6bmNyZXpWbVRFb2JoSzdCVQ?oc=5\" target=\"_blank\">DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-768-b82652d26b",
+   "source_id": "news",
+   "source_name": "South China Morning Post",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Alibaba’s AI model Qwen3.8-Max widely accessible ahead of open-weights release - South China Morning Post",
+   "summary": "Alibaba’s AI model Qwen3.8-Max widely accessible ahead of open-weights release &nbsp;&nbsp; South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2JaU2cyc2JoeTZWTk5Sa0JWOVZxUnlSaTd0NDhLZzVWX3U1RHZaRjBZTVg5cExTdVluWFZQamkyeVh2RklTVDYwNXQ0eER0eXpPbDJIWUVwSHZsNm1WbVBoOWItN3RiWUtyMVliZGIzVlZxb054MlpPd2JiLWlXSDVwQjd5ZmVlNjV0UV9QY1lTeFNqMkxPMUR2VGMwZG5iVWhNSE5XdFdkQ0pfNnRGZEZrMjlvVDhUYURyedIBvAFBVV95cUxNUjRzZjVrM0hfN3FGVUoyaFMzRUdvdjQxLUlsWVdTNjNXU3FzWGk4SXp0dDJQUElUdTNhTEVKYnZCNVhnWWJyb0tDWVlldXhlVDBqQnlvV1NxeGw4U3ZsLUJ6NzZzSlR2cDY3ekNPTlVmekotUGJfNmtLSWV1c1I3NDdDR21NVFVXSDNQTU5QWEE1bW11UkVPY2ZsbDhqWEdiSXg1ZnlwcmEwN2RzdzF1RGQzLWtxQXJxTW5ZRw?oc=5",
+   "published_at": "2026-08-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2JaU2cyc2JoeTZWTk5Sa0JWOVZxUnlSaTd0NDhLZzVWX3U1RHZaRjBZTVg5cExTdVluWFZQamkyeVh2RklTVDYwNXQ0eER0eXpPbDJIWUVwSHZsNm1WbVBoOWItN3RiWUtyMVliZGIzVlZxb054MlpPd2JiLWlXSDVwQjd5ZmVlNjV0UV9QY1lTeFNqMkxPMUR2VGMwZG5iVWhNSE5XdFdkQ0pfNnRGZEZrMjlvVDhUYURyedIBvAFBVV95cUxNUjRzZjVrM0hfN3FGVUoyaFMzRUdvdjQxLUlsWVdTNjNXU3FzWGk4SXp0dDJQUElUdTNhTEVKYnZCNVhnWWJyb0tDWVlldXhlVDBqQnlvV1NxeGw4U3ZsLUJ6NzZzSlR2cDY3ekNPTlVmekotUGJfNmtLSWV1c1I3NDdDR21NVFVXSDNQTU5QWEE1bW11UkVPY2ZsbDhqWEdiSXg1ZnlwcmEwN2RzdzF1RGQzLWtxQXJxTW5ZRw?oc=5\" target=\"_blank\">Alibaba’s AI model Qwen3.8-Max widely accessible ahead of open-weights release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-795-f43639f682",
+   "source_id": "news",
+   "source_name": "Forbes",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Here’s How China-Based Alibaba’s New AI Model Compares With ChatGPT And Fable - Forbes",
+   "summary": "Here’s How China-Based Alibaba’s New AI Model Compares With ChatGPT And Fable &nbsp;&nbsp; Forbes",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbEt4eWd5SmIzSnZKSElsd0JCZ1hzQk4xUEFNVXFqLUNMWTVNcTc5Q19sYm1uak1zTVF5UzFudEM3cGUxaUxtQUhxaHFrRFhSNTFmNl85NjFobVZIMkJKMDcwMEtBNDFuRjJtT2l6NHM5YVhBSFZxTWR6bmpzemp2NW5FMkRhbVRLMV94clA5X1prVGtKeHBURkd2MFJ0R3ByV05XMkpzM3o2Rkp4eU5tZG03ancxYi1XdVRLcTJzeVltWjIxdTJmd2tqaTdEcUlnSVE?oc=5",
+   "published_at": "2026-08-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbEt4eWd5SmIzSnZKSElsd0JCZ1hzQk4xUEFNVXFqLUNMWTVNcTc5Q19sYm1uak1zTVF5UzFudEM3cGUxaUxtQUhxaHFrRFhSNTFmNl85NjFobVZIMkJKMDcwMEtBNDFuRjJtT2l6NHM5YVhBSFZxTWR6bmpzemp2NW5FMkRhbVRLMV94clA5X1prVGtKeHBURkd2MFJ0R3ByV05XMkpzM3o2Rkp4eU5tZG03ancxYi1XdVRLcTJzeVltWjIxdTJmd2tqaTdEcUlnSVE?oc=5\" target=\"_blank\">Here’s How China-Based Alibaba’s New AI Model Compares With ChatGPT And Fable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }

@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQd3R1Z0RlSUtiVzFxUHJKVnZrSzQzU2FFaXlqZjUwQjlIVkRhVjZtdHNNSk05cDh4QzhER0l1Sk1qeEk3YWF4cEFwZ2NKS2xib0FIdHlNWnVhRkJCV2RWeDJ1TTg4Sms1YmpRWVpBbTlEY1hBUEhHODl0bEY5aUs1ZUJmZmlPcHNtTFVHZHlOOWhrZDBs?oc=5\" target=\"_blank\">智能体第一案反转：亚马逊也阻止不了AI代理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-746-aa88cec68b",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios",
+   "summary": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5",
+   "published_at": "2026-08-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5\" target=\"_blank\">Exclusive: OpenAI slows release of Astra model citing cyber capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-09-03T18:57:31+00:00"
   }
  ]
 }
