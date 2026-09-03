@@ -1,66 +1,87 @@
-"""英文 AI 新闻 → 简体中文 翻译钩子(DeepSeek / OpenAI 兼容接口)。"""
-from __future__ import annotations
-import json, os, re
-from typing import Any, Dict, List
-from urllib import request as urlreq
-from .models import RawItem
+name: 真实AI新闻 · 每日自动构建发布(GitHub Pages)
 
-DEFAULT_BASE = "https://api.deepseek.com/v1"
-DEFAULT_MODEL = "deepseek-chat"
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
 
-def is_zh(text: str | None) -> bool:
-    return bool(re.search(r"[\u4e00-\u9fff]", text or ""))
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
-def call_chat(messages: List[Dict[str, str]], api_key: str, base: str, model: str, timeout: int = 90) -> str:
-    """调用 OpenAI 兼容的 /chat/completions(不加 response_format 等特殊参数,确保兼容 DeepSeek)。"""
-    body = json.dumps({"model": model, "messages": messages, "temperature": 0.2}).encode("utf-8")
-    req = urlreq.Request(base.rstrip("/") + "/chat/completions", data=body, method="POST",
-                         headers={"Content-Type": "application/json", "Authorization": "Bearer " + api_key})
-    with urlreq.urlopen(req, timeout=timeout) as resp:
-        return json.loads(resp.read().decode("utf-8"))["choices"][0]["message"]["content"]
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
-def _extract_json(text: str) -> Dict[str, Any]:
-    m = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", text, re.S)
-    if m:
-        text = m.group(1)
-    else:
-        s = text.find("{"); e = text.rfind("}")
-        if s >= 0 and e > s:
-            text = text[s:e + 1]
-    return json.loads(text)
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检仓库
+        uses: actions/checkout@v4
 
-def translate_items(items: List[RawItem], api_key: str | None = None,
-                    base: str | None = None, model: str | None = None) -> List[RawItem]:
-    api_key = api_key if api_key is not None else os.environ.get("DIGEST_LLM_API_KEY", "")
-    if not api_key:
-        print("[translate] 未配置 DIGEST_LLM_API_KEY,保持原文")
-        return items
-    base = base or os.environ.get("DIGEST_LLM_BASE_URL", DEFAULT_BASE)
-    model = model or os.environ.get("DIGEST_LLM_MODEL", DEFAULT_MODEL)
-    positions = [i for i, it in enumerate(items) if not is_zh(it.title)]
-    if not positions:
-        return items
-    tasks = [{"i": i, "title": items[i].title, "summary": items[i].summary} for i in positions]
-    sys_msg = "你是专业科技翻译。把给定的英文 AI 新闻标题与摘要翻译成简体中文。标题要简洁有力，摘要通顺自然，保留专有名词。只输出 JSON。"
-    user_msg = json.dumps({"tasks": tasks,
-                           "output_schema": {"translations": [{"i": 0, "zh_title": "", "zh_summary": ""}]}}, ensure_ascii=False)
-    try:
-        text = call_chat([{"role": "system", "content": sys_msg}, {"role": "user", "content": user_msg}], api_key, base, model)
-        data = _extract_json(text)
-        tr_map = {}
-        for t in data.get("translations", []):
-            try:
-                tr_map[int(t.get("i"))] = (t.get("zh_title") or "", t.get("zh_summary") or "")
-            except (TypeError, ValueError):
-                continue
-        done = 0
-        for i in positions:
-            zh = tr_map.get(i)
-            if zh:
-                items[i].title = zh[0] or items[i].title
-                items[i].summary = zh[1] or items[i].summary
-                done += 1
-        print(f"[translate] DeepSeek 中译完成 {done}/{len(positions)} 条")
-    except Exception as exc:
-        print(f"[translate] DeepSeek 中译失败,保持原文: {type(exc).__name__}: {exc}")
-    return items
+      - name: 装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 抓取今日真实新闻并归档(含 DeepSeek 中译)
+        env:
+          DIGEST_FETCHER: web
+          DIGEST_LLM_API_KEY: ${{ secrets.DIGEST_LLM_API_KEY }}
+          DIGEST_LLM_BASE_URL: https://api.deepseek.com/v1
+          DIGEST_LLM_MODEL: deepseek-chat
+        continue-on-error: true
+        run: python ingest_today.py
+
+      - name: 把每日归档提交回仓库
+        continue-on-error: true
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "本次无新增归档"
+          else
+            git commit -m "chore: daily real-news archive $(date -u +%F)"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+            echo "已提交归档"
+          fi
+
+      - name: 组装近 30 天查看器(web 模式,读归档,并统一中译)
+        env:
+          DIGEST_FETCHER: web
+          DIGEST_LLM_API_KEY: ${{ secrets.DIGEST_LLM_API_KEY }}
+          DIGEST_LLM_BASE_URL: https://api.deepseek.com/v1
+          DIGEST_LLM_MODEL: deepseek-chat
+        run: python build_viewer.py --days 30
+
+      - name: 上传 Pages 产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: viewer
+
+      - name: 可选:触发 Netlify 重建
+        env:
+          HOOK: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "未配置 NETLIFY_BUILD_HOOK_URL,跳过 Netlify"
+          else
+            curl -sS -X POST "$HOOK"
+            echo "已触发 Netlify 重建"
+          fi
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 发布到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
