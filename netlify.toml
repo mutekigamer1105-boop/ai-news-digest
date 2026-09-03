@@ -1,0 +1,15 @@
+# Netlify 自动构建配置（TOML）
+# 路径 A（保留你现有网址）：把本仓库 Link 到 Netlify 后，每次构建/定时构建都会：
+#   1) 执行 build command 重新生成近 30 天查看器
+#   2) 把 publish 目录发布到你的 <site>.netlify.app
+# 之后开启「Scheduled build」每天 12:00 即可实现「每日自动更新 + 人人可访问」。
+
+[build]
+  command = "python build_viewer.py --days 30"
+  publish = "viewer"
+
+# 构建环境：本仓库为纯标准库 Python（3.10+），无需额外 pip 依赖
+[build.environment]
+  PYTHON_VERSION = "3.12"
+  # 真实新闻模式：构建时读 data/archive 归档（归档由 daily-deploy.yml 每天写好并提交）
+  DIGEST_FETCHER = "web"

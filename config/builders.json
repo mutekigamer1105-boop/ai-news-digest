@@ -1,0 +1,31 @@
+{
+  "$schema": "digest-builder-registry/v1",
+  "description": "追踪的 25 位海外顶级 Builder 注册表（人物线：兜底关键动态，避免被资讯流淹没）",
+  "builders": [
+    { "id": "sam-altman",      "name": "Sam Altman",       "role": "OpenAI CEO",                 "category": "创始人/操盘者", "handles": { "x": "sama" },               "signals": ["OpenAI", "AGI", "GPT", "创业"] },
+    { "id": "elon-musk",      "name": "Elon Musk",        "role": "xAI / Tesla CEO",            "category": "创始人/操盘者", "handles": { "x": "elonmusk" },           "signals": ["xAI", "Grok", "Tesla", "AI 算力"] },
+    { "id": "demis-hassabis", "name": "Demis Hassabis",   "role": "Google DeepMind CEO",        "category": "研究者/学者",  "handles": { "x": "demishassabis" },     "signals": ["DeepMind", "AlphaFold", "Gemini"] },
+    { "id": "jensen-huang",   "name": "Jensen Huang",     "role": "NVIDIA CEO",                 "category": "创始人/操盘者", "handles": { "x": "officialjit" },        "signals": ["NVIDIA", "GPU", "CUDA", "算力"] },
+    { "id": "satya-nadella",  "name": "Satya Nadella",    "role": "Microsoft CEO",              "category": "创始人/操盘者", "handles": { "x": "satyanadella" },       "signals": ["Microsoft", "Copilot", "Azure"] },
+    { "id": "sundar-pichai",  "name": "Sundar Pichai",    "role": "Google / Alphabet CEO",      "category": "创始人/操盘者", "handles": { "x": "sundarpichai" },       "signals": ["Google", "Gemini", "Search"] },
+    { "id": "mark-zuckerberg","name": "Mark Zuckerberg",  "role": "Meta CEO",                   "category": "创始人/操盘者", "handles": { "x": "zuck" },               "signals": ["Meta", "Llama", "开源"] },
+    { "id": "dario-amodei",   "name": "Dario Amodei",     "role": "Anthropic CEO",              "category": "创始人/操盘者", "handles": { "x": "darioamodei" },        "signals": ["Anthropic", "Claude", "安全"] },
+    { "id": "andrej-karpathy","name": "Andrej Karpathy",  "role": "Eureka Labs 创始人",         "category": "研究者/学者",  "handles": { "x": "karpathy" },           "signals": ["LLM", "教育", "教程", "开源"] },
+    { "id": "andrew-ng",      "name": "Andrew Ng",        "role": "DeepLearning.AI 创始人",     "category": "研究者/学者",  "handles": { "x": "AndrewYNg" },          "signals": ["教育", "AI 课程", "应用落地"] },
+    { "id": "yann-lecun",     "name": "Yann LeCun",       "role": "Meta 首席 AI 科学家",         "category": "研究者/学者",  "handles": { "x": "ylecun" },             "signals": ["研究", "开源", "世界模型"] },
+    { "id": "ilya-sutskever", "name": "Ilya Sutskever",   "role": "SSI 联合创始人",              "category": "创始人/操盘者", "handles": { "x": "ilyasut" },            "signals": ["安全", "预训练", "AGI"] },
+    { "id": "mira-murati",    "name": "Mira Murati",      "role": "Thinking Machines 创始人",    "category": "创始人/操盘者", "handles": { "x": "miramurati" },         "signals": ["产品", "多模态", "创业"] },
+    { "id": "aidan-gomez",    "name": "Aidan Gomez",      "role": "Cohere CEO",                 "category": "创始人/操盘者", "handles": { "x": "aidangomez" },         "signals": ["Cohere", "企业级", "RAG"] },
+    { "id": "clem-delangue",  "name": "Clem Delangue",    "role": "Hugging Face CEO",           "category": "创始人/操盘者", "handles": { "x": "ClementDelangue" },     "signals": ["Hugging Face", "开源", "社区"] },
+    { "id": "thomas-wolf",    "name": "Thomas Wolf",      "role": "Hugging Face 首席科学家",     "category": "研究者/学者",  "handles": { "x": "thomwolf" },           "signals": ["开源", "Transformers", "模型"] },
+    { "id": "noam-brown",     "name": "Noam Brown",       "role": "OpenAI 研究科学家",          "category": "研究者/学者",  "handles": { "x": "polynoamial" },        "signals": ["推理", "博弈", "效率"] },
+    { "id": "patrick-collison","name": "Patrick Collison","role": "Stripe CEO",                 "category": "创始人/操盘者", "handles": { "x": "patrickc" },           "signals": ["支付", "创业", "增长"] },
+    { "id": "marc-andreessen","name": "Marc Andreessen",  "role": "a16z 联合创始人",            "category": "意见领袖",    "handles": { "x": "pmarca" },             "signals": ["投资", "趋势", "创业"] },
+    { "id": "aravind-srinivas","name": "Aravind Srinivas", "role": "Perplexity CEO",            "category": "创始人/操盘者", "handles": { "x": "AravindSrinivas" },    "signals": ["搜索", "Perplexity", "产品"] },
+    { "id": "mustafa-suleyman","name": "Mustafa Suleyman", "role": "Microsoft AI CEO",          "category": "创始人/操盘者", "handles": { "x": "mustafasuleyman" },    "signals": ["Microsoft AI", "Copilot", "产品"] },
+    { "id": "kevin-scott",    "name": "Kevin Scott",      "role": "Microsoft CTO",              "category": "创始人/操盘者", "handles": { "x": "kevin_scott" },         "signals": ["Microsoft", "Azure", "Copilot"] },
+    { "id": "jeff-dean",      "name": "Jeff Dean",        "role": "Google DeepMind 首席科学家",  "category": "研究者/学者",  "handles": { "x": "JeffDean" },           "signals": ["Google", "Gemini", "研究"] },
+    { "id": "jim-fan",        "name": "Jim Fan",          "role": "NVIDIA 研究科学家",          "category": "研究者/学者",  "handles": { "x": "DrJimFan" },           "signals": ["NVIDIA", "模型", "研究"] },
+    { "id": "emad-mostaque",  "name": "Emad Mostaque",    "role": "Stability AI 创始人",        "category": "创始人/操盘者", "handles": { "x": "EMostaque" },           "signals": ["Stability AI", "开源", "生成式"] }
+  ]
+}

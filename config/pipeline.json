@@ -1,0 +1,37 @@
+{
+  "$schema": "digest-pipeline-config/v1",
+  "description": "流水线运行参数：5 道质量审核门阈值、重要性打分权重、输出与调度配置",
+  "gates": {
+    "credibility_min": 0.60,
+    "recency_hours": 26,
+    "importance_top_n": 12,
+    "cross_ref_min": 2,
+    "bundle_min": 1
+  },
+  "weights": {
+    "credibility": 0.35,
+    "authority": 0.20,
+    "recency": 0.15,
+    "builder": 0.15,
+    "engagement": 0.10,
+    "keyword": 0.05
+  },
+  "report": {
+    "highlights_n": 5,
+    "max_items": 45,
+    "lang": "zh",
+    "title_prefix": "AI 智讯日报"
+  },
+  "schedule": {
+    "hour": 12,
+    "minute": 0,
+    "run_at": "12:00",
+    "timezone": "local",
+    "task_name": "AI_News_Digest_Daily_Noon"
+  },
+  "output": {
+    "root": "output",
+    "archive_days": 30,
+    "formats": ["markdown", "json", "csv"]
+  }
+}
