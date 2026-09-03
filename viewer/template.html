@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AI 智讯日报 · 情报中心</title>
+<style>
+  :root{
+    --bg:#0d1017; --bg-soft:#141922; --panel:#1a2029; --panel-2:#212a38;
+    --line:#2a3442; --line-soft:#232b36; --ink:#e8ecf2; --ink-soft:#a7b0bf; --ink-dim:#79839a;
+    --accent:#5b8cff; --accent-2:#22d3ee; --accent-3:#9c6bff; --ok:#3ecf9a; --warn:#ffb454; --danger:#ff6b6b;
+    --radius:16px; --radius-s:11px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:"Segoe UI","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+    background:radial-gradient(1100px 500px at 12% -8%,rgba(91,140,255,.14),transparent 60%),
+               radial-gradient(900px 480px at 96% 0%,rgba(34,211,238,.09),transparent 55%),
+               var(--bg);
+    color:var(--ink);-webkit-font-smoothing:antialiased;line-height:1.6}
+  a{color:var(--accent-2);text-decoration:none} a:hover{text-decoration:underline}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+
+  header{position:sticky;top:0;z-index:40;backdrop-filter:blur(12px);background:rgba(13,16,23,.8);border-bottom:1px solid var(--line-soft)}
+  .bar{display:flex;align-items:center;gap:16px;height:60px}
+  .brand{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:.2px}
+  .brand .logo{width:28px;height:28px;border-radius:8px;background:linear-gradient(135deg,var(--accent),var(--accent-2));display:grid;place-items:center;font-size:15px;color:#0b0e14;font-weight:900}
+  .tabs{margin-left:auto;display:flex;gap:6px;background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:4px}
+  .tab{padding:8px 18px;border-radius:999px;font-size:13.5px;font-weight:700;color:var(--ink-soft);cursor:pointer;transition:.15s;border:none;background:transparent}
+  .tab.active{background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#0b0e14}
+  .meta{font-size:12px;color:var(--ink-dim);margin-left:8px}
+
+  main{padding:26px 0 60px}
+  .layout{display:grid;grid-template-columns:250px 1fr;gap:20px}
+  @media(max-width:860px){.layout{grid-template-columns:1fr}}
+
+  .side{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:16px}
+  .side h3{font-size:13px;color:var(--ink-soft);margin:0 0 10px;font-weight:700;letter-spacing:.5px}
+  .daylist{list-style:none;margin:0;padding:0;max-height:70vh;overflow:auto}
+  .daylist li{padding:11px 13px;border-radius:10px;cursor:pointer;font-size:13.5px;color:var(--ink-soft);display:flex;align-items:center;gap:10px;transition:.12s;border:1px solid transparent}
+  .daylist li:hover{background:var(--panel-2)}
+  .daylist li.active{background:linear-gradient(90deg,rgba(91,140,255,.22),rgba(91,140,255,.05));color:var(--ink);border-color:rgba(91,140,255,.35);font-weight:700}
+  .daylist .cnt{margin-left:auto;font-size:11px;color:var(--ink-dim);background:var(--panel-2);padding:2px 7px;border-radius:999px}
+  .side .hint{font-size:11.5px;color:var(--ink-dim);margin-top:10px;line-height:1.5}
+
+  .main{min-width:0}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:22px;margin-bottom:18px}
+  .card h2{margin:0 0 4px;font-size:24px;font-weight:800}
+  .card .sub{color:var(--ink-dim);font-size:12.5px;margin-bottom:14px}
+  .pillrow{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+  .pill{font-size:12px;font-weight:650;color:var(--ink-soft);border:1px solid var(--line);background:var(--panel-2);border-radius:999px;padding:5px 12px}
+  .cath{font-size:17px;font-weight:750;margin:18px 0 10px;display:flex;align-items:center;gap:8px}
+  .cath .dot{width:9px;height:9px;border-radius:50%;background:var(--accent-2)}
+  .item{background:var(--panel-2);border:1px solid var(--line-soft);border-radius:var(--radius-s);padding:14px 16px;margin-bottom:10px}
+  .item .t{font-size:15px;font-weight:700}
+  .item .t a{color:var(--ink)}
+  .item .t a:hover{color:var(--accent-2)}
+  .item .s{font-size:13px;color:var(--ink-soft);margin-top:5px}
+  .item .m{display:flex;flex-wrap:wrap;gap:8px;margin-top:9px;align-items:center}
+  .tag{font-size:11px;background:rgba(91,140,255,.1);border:1px solid rgba(91,140,255,.25);color:#bcd0ff;padding:2px 9px;border-radius:999px}
+  .src{font-size:11.5px;color:var(--accent-2)}
+  .imp{font-size:11px;color:var(--warn);font-weight:700}
+  .bld{font-size:11px;color:var(--accent-3);font-weight:650}
+  .hl{background:linear-gradient(90deg,rgba(34,211,238,.1),transparent);border-left:3px solid var(--accent-2);padding:9px 13px;border-radius:8px;margin-bottom:8px;font-size:13.5px;color:var(--ink)}
+  .hl b{color:var(--accent-2)}
+
+  /* range view */
+  .rangebar{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+  .field{display:flex;flex-direction:column;gap:5px}
+  .field label{font-size:11px;color:var(--ink-dim);font-weight:650;letter-spacing:.4px}
+  .field input{background:var(--panel-2);color:var(--ink);border:1px solid var(--line);border-radius:9px;padding:9px 12px;font-size:13.5px}
+  .preset{display:flex;gap:6px;flex-wrap:wrap}
+  .preset button{background:var(--panel-2);border:1px solid var(--line);color:var(--ink-soft);border-radius:999px;padding:8px 14px;font-size:12.5px;font-weight:650;cursor:pointer;transition:.12s}
+  .preset button:hover{border-color:var(--accent)}
+  .go{background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#0b0e14;border:none;border-radius:10px;padding:11px 22px;font-size:14px;font-weight:800;cursor:pointer}
+  .go:disabled{opacity:.5;cursor:not-allowed}
+  .statcards{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:14px 0}
+  @media(max-width:700px){.statcards{grid-template-columns:repeat(2,1fr)}}
+  .st{background:var(--panel-2);border:1px solid var(--line-soft);border-radius:var(--radius-s);padding:15px;text-align:center}
+  .st .v{font-size:24px;font-weight:850;color:var(--accent-2)}
+  .st .l{font-size:12px;color:var(--ink-soft);margin-top:5px}
+  .bars{margin-top:8px}
+  .bar{display:flex;align-items:center;gap:10px;margin-bottom:8px;font-size:12.5px}
+  .bar .name{width:110px;color:var(--ink-soft);flex:none}
+  .bar .track{flex:1;background:var(--panel-2);border-radius:999px;height:12px;overflow:hidden}
+  .bar .fill{height:100%;border-radius:999px;background:linear-gradient(90deg,var(--accent),var(--accent-2))}
+  .bar .num{width:34px;text-align:right;color:var(--ink);font-weight:700}
+  .note{background:var(--panel-2);border:1px solid var(--line-soft);border-radius:var(--radius-s);padding:13px 15px;font-size:13px;color:var(--ink-soft);margin-top:10px}
+  .sumhead{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+  .sumhead .spinner{width:16px;height:16px;border:2px solid var(--line);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .ai-note{font-size:11.5px;color:var(--ink-dim);margin-top:10px}
+  .ai-note b{color:var(--accent-2)}
+  footer{border-top:1px solid var(--line-soft);padding:26px 0 40px;text-align:center;color:var(--ink-dim);font-size:12.5px}
+  footer .title{font-weight:750;color:var(--ink-soft)}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap bar">
+    <div class="brand"><span class="logo">智</span> AI 智讯日报 · 情报中心</div>
+    <div class="tabs">
+      <button class="tab active" data-mode="daily">每日日报</button>
+      <button class="tab" data-mode="range">日期范围总结</button>
+    </div>
+    <span class="meta" id="metaMini"></span>
+  </div>
+</header>
+
+<main class="wrap">
+  <!-- DAILY VIEW -->
+  <div id="dailyView" class="layout">
+    <aside class="side">
+      <h3>近 30 天日报</h3>
+      <ul class="daylist" id="dayList"></ul>
+      <div class="hint">点击任意日期，查看当天通过 5 道质量审核门的核心 AI 情报。每条保留原始链接，可一键回溯来源。</div>
+    </aside>
+    <section class="main" id="dailyMain"></section>
+  </div>
+
+  <!-- RANGE VIEW -->
+  <div id="rangeView" style="display:none">
+    <div class="card">
+      <h2>圈选日期，一键总结</h2>
+      <div class="sub">自由选择起止日期范围，系统将对该范围内的 AI 新闻做统一总结（默认确定性聚合，可接入大模型接口）。</div>
+      <div class="rangebar">
+        <div class="field"><label>开始日期</label><input type="date" id="startDate" /></div>
+        <div class="field"><label>结束日期</label><input type="date" id="endDate" /></div>
+        <div class="preset">
+          <button data-days="3">近 3 天</button>
+          <button data-days="7">近 7 天</button>
+          <button data-days="14">近 14 天</button>
+          <button data-days="30">近 30 天</button>
+        </div>
+        <button class="go" id="goBtn">生成 AI 总结</button>
+      </div>
+    </div>
+    <div id="rangeResult"></div>
+  </div>
+
+  <footer>
+    <div class="title">AI 智讯日报 · 情报自动化引擎</div>
+    <div>每日 12:00 自动更新 · 30+ 信源 × 25 位 Builder · 5 道质量审核门</div>
+  </footer>
+</main>
+
+<script>
+  // 数据由构建脚本注入（保证单文件、可离线、可任意静态托管）
+  const DATA = /*__DATA__*/;
+  // 默认指向同源的 /api/summarize（配合 server.py / 部署后端）。
+  // 纯静态托管（无后端）时该 fetch 404，则自动回落到确定性聚合。
+  const SUMMARIZE_ENDPOINT = window.DIGEST_SUMMARIZE_ENDPOINT || '/api/summarize';
+
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const days = (DATA.days||[]).slice().sort((a,b)=>b.date.localeCompare(a.date)); // 最新在前
+
+  function init(){
+    const st = DATA.meta||{};
+    $('#metaMini').textContent = (st.days||days.length)+' 天 · '+(st.total_items||0)+' 条情报';
+    // 日列表
+    const ul = $('#dayList');
+    ul.innerHTML = days.map(d => `<li data-date="${d.date}" class="${d.date===days[0].date?'active':''}">
+        <span>${d.date}</span><span class="cnt">${d.items.length}</span></li>`).join('');
+    ul.querySelectorAll('li').forEach(li => li.onclick = () => selectDay(li.dataset.date));
+    // 范围日期默认
+    const start = days[days.length-1] || {date:''}, end = days[0] || {date:''};
+    $('#startDate').value = start.date; $('#endDate').value = end.date;
+    document.querySelectorAll('.preset button').forEach(b => b.onclick = () => {
+      const n = +b.dataset.days;
+      const endD = end.date; let s = new Date(endD); s.setDate(s.getDate()-n+1); s = s.toISOString().slice(0,10);
+      $('#startDate').value = s; $('#endDate').value = endD;
+    });
+    $('#goBtn').onclick = () => buildRange();
+    selectDay(days[0].date);
+    // 切换 tab
+    document.querySelectorAll('.tab').forEach(t => t.onclick = () => {
+      document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active')); t.classList.add('active');
+      $('#dailyView').style.display = t.dataset.mode==='daily'?'':'none';
+      $('#rangeView').style.display = t.dataset.mode==='range'?'':'none';
+      if(t.dataset.mode==='daily') selectDay($('.daylist li.active')?.dataset.date || days[0].date);
+    });
+  }
+
+  function selectDay(date){
+    document.querySelectorAll('.daylist li').forEach(li=>li.classList.toggle('active', li.dataset.date===date));
+    const d = days.find(x=>x.date===date); if(!d) return;
+    const c = $('#dailyMain');
+    let html = `<div class="card"><h2>${esc(d.title)}</h2><div class="sub">生成 ${esc(d.generated_at||'')} · 当日合格 ${d.items.length} 条</div>`;
+    html += `<div class="pillrow">` + (d.highlights||[]).slice(0,5).map(h=>`<span class="pill">${esc(h)}</span>`).join('') + `</div></div>`;
+    // 分类资讯
+    html += `<div class="card">`;
+    const cats = d.categories||{};
+    Object.keys(cats).forEach(cat=>{
+      html += `<div class="cath"><span class="dot"></span>${esc(cat)}</div>`;
+      (cats[cat]||[]).forEach(it=> html += renderItem(it));
+    });
+    html += `</div>`;
+    // 人物动态
+    if((d.builder_dynamics||[]).length){
+      html += `<div class="card"><div class="cath"><span class="dot" style="background:var(--accent-3)"></span>人物动态</div>`;
+      d.builder_dynamics.forEach(it=> html += renderItem(it)); html += `</div>`;
+    }
+    // 趋势
+    if((d.trend_notes||[]).length){
+      html += `<div class="card"><div class="cath"><span class="dot" style="background:var(--warn)"></span>趋势注记</div>`;
+      d.trend_notes.forEach(n=> html += `<div class="note">${esc(n)}</div>`); html += `</div>`;
+    }
+    c.innerHTML = html;
+  }
+
+  function renderItem(it){
+    const meta = [];
+    if(it.source) meta.push(`<span class="src">${esc(it.source)}</span>`);
+    if(it.builder) meta.push(`<span class="bld">👤 ${esc(it.builder)}</span>`);
+    if(it.importance!=null) meta.push(`<span class="imp">★ ${Number(it.importance).toFixed(2)}</span>`);
+    meta.push(...(it.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`));
+    return `<div class="item"><div class="t"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+      <div class="s">${esc(it.summary)}</div><div class="m">${meta.join('')}</div></div>`;
+  }
+
+  // ---- 范围总结：确定性聚合 + 可选大模型接口 ----
+  function buildRange(){
+    const start = $('#startDate').value, end = $('#endDate').value;
+    if(!start||!end||start>end){ alert('请选择正确的起止日期'); return; }
+    const btn = $('#goBtn'); btn.disabled = true; btn.textContent = '生成中…';
+    const inRange = (d)=> d.date>=start && d.date<=end;
+    const sel = days.filter(inRange).sort((a,b)=>a.date.localeCompare(b.date));
+    let items = [];
+    sel.forEach(d=> items = items.concat((d.items||[]).map(i=>({...i,date:d.date}))));
+    // 排序：按重要度降序
+    items.sort((a,b)=>(b.importance||0)-(a.importance||0));
+    const top = items.slice(0,18);
+    const highlights = items.slice(0,5).map(i=>`[${i.date}] ${i.source} · ${i.title}`);
+    // 分类分布
+    const bins = {}; items.forEach(i=>{ bins[i.category]=(bins[i.category]||0)+1; });
+    const catEntries = Object.entries(bins).sort((a,b)=>b[1]-a[1]);
+    const maxC = Math.max(1, ...catEntries.map(e=>e[1]));
+    // 人物
+    const bld = {}; items.forEach(i=>{ if(i.builder) bld[i.builder]=(bld[i.builder]||0)+1; });
+    const bldTop = Object.entries(bld).sort((a,b)=>b[1]-a[1]).slice(0,6);
+    // 趋势：聚合 tag
+    const tags = {}; items.forEach(i=>(i.tags||[]).forEach(t=> tags[t]=(tags[t]||0)+1));
+    const tagTop = Object.entries(tags).sort((a,b)=>b[1]-a[1]).slice(0,6);
+
+    let html = `<div class="card"><div class="sumhead">${sel.length}天数据已加载
+      <span class="pill">${sel.length} 天</span><span class="pill">${items.length} 条通过审核的 AI 情报</span></div>`;
+    html += `<div class="statcards">
+        <div class="st"><div class="v">${sel.length}</div><div class="l">覆盖天数</div></div>
+        <div class="st"><div class="v">${items.length}</div><div class="l">情报条数</div></div>
+        <div class="st"><div class="v">${catEntries.length}</div><div class="l">主题分类</div></div>
+        <div class="st"><div class="v">${items.reduce((s,i)=>s+(Number(i.importance)||0),0).toFixed(1)}</div><div class="l">累计重要度</div></div>
+      </div></div>`;
+
+    html += `<div class="card"><h2 style="font-size:19px">AI 统一总结</h2><div class="sub">${start} → ${end}（${sel.length} 天）</div><div id="aiSum"></div></div>`;
+
+    html += `<div class="card"><div class="cath"><span class="dot"></span>亮点速览（每日 Top）</div>` +
+      highlights.map(h=>`<div class="hl">${esc(h)}</div>`).join('') + `</div>`;
+
+    html += `<div class="card"><div class="cath"><span class="dot" style="background:var(--warn)"></span>主题分布</div><div class="bars">`;
+    catEntries.forEach(([k,v])=>{ html += `<div class="bar"><span class="name">${esc(k)}</span><span class="track"><span class="fill" style="width:${(v/maxC*100).toFixed(0)}%"></span></span><span class="num">${v}</span></div>`; });
+    html += `</div></div>`;
+
+    if(bldTop.length){ html += `<div class="card"><div class="cath"><span class="dot" style="background:var(--accent-3)"></span>活跃人物</div><div class="pillrow">` +
+      bldTop.map(([k,v])=>`<span class="pill">${esc(k)} × ${v}</span>`).join('') + `</div></div>`; }
+    if(tagTop.length){ html += `<div class="card"><div class="cath"><span class="dot" style="background:var(--ok)"></span>热词标签</div><div class="pillrow">` +
+      tagTop.map(([k,v])=>`<span class="pill">${esc(k)} ${v}</span>`).join('') + `</div></div>`; }
+
+    html += `<div class="card"><div class="cath"><span class="dot"></span>重点条目（按重要度）</div>` +
+      top.map(i=>renderItem(i)).join('') + `</div>`;
+
+    $('#rangeResult').innerHTML = html;
+
+    // 生成 AI 叙事（若有端点则调用，否则确定性摘要）
+    aiSummary(start,end,items,sel.length).then(text=>{
+      const box = $('#aiSum');
+      if(text){
+        box.innerHTML = `<div class="note" style="white-space:pre-wrap">${esc(text)}</div>` +
+          `<div class="ai-note">本段由大模型接口生成。</div>`;
+      } else {
+        box.innerHTML = deterministicSummary(sel, items) +
+          `<div class="ai-note">当前未配置大模型接口（<b>DIGEST_SUMMARIZE_ENDPOINT</b>），已用确定性聚合输出。</div>`;
+      }
+    }).finally(()=>{ btn.disabled=false; btn.textContent='生成 AI 总结'; });
+  }
+
+  function deterministicSummary(sel, items){
+    if(!items.length) return `<div class="note">该范围内暂无通过审核的情报。</div>`;
+    const daysN = sel.length, itemsN = items.length;
+    const top = items[0];
+    const cats = {};
+    items.forEach(i=>{cats[i.category]=(cats[i.category]||0)+1;});
+    const catStr = Object.entries(cats).sort((a,b)=>b[1]-a[1]).slice(0,3).map(([k,v])=>`${k}(${v})`).join('、');
+    const bld = items.filter(i=>i.builder).length;
+    const txt = `在 ${daysN} 天共 ${itemsN} 条通过 5 道质量审核门的 AI 情报里，行业重心集中在：${catStr}。` +
+      `其中重要度最高的一条为「${top.title}」（${top.source}，${top.date}）。` +
+      `涉及人物动态 ${bld} 条。总体看，模型与开源仍是热议主线，算力供应链与 Agent 应用是重要的第二曲线，` +
+      `融资与治理话题维持稳定关注度。建议重点关注 Top 重点条目中的信号，并结合原文链接进一步核实。`;
+    return `<div class="note" style="white-space:pre-wrap">${esc(txt)}</div>`;
+  }
+
+  async function aiSummary(start,end,items,daysN){
+    if(!SUMMARIZE_ENDPOINT) return '';
+    try{
+      const res = await fetch(SUMMARIZE_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},
+        body: JSON.stringify({start,end,days:daysN,
+          items: items.slice(0,20).map(i=>({date:i.date,title:i.title,source:i.source,category:i.category}))})});
+      if(!res.ok) return '';
+      const j = await res.json();
+      return j.summary || j.text || '';
+    }catch(e){ return ''; }
+  }
+
+  init();
+</script>
+</body>
+</html>
