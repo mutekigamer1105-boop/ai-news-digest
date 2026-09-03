@@ -1,0 +1,65 @@
+name: 真实AI新闻 · 每日自动构建发布(GitHub Pages)
+
+on:
+  schedule:
+    - cron: "0 4 * * *"      # 04:00 UTC = 北京时间 12:00
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 抓取今日真实新闻并归档
+        env:
+          DIGEST_FETCHER: web
+        continue-on-error: true
+        run: python ingest_today.py
+      - name: 把每日归档提交回仓库
+        continue-on-error: true
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "本次无新增归档"
+          else
+            git commit -m "chore: daily real-news archive $(date -u +%F)"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+            echo "已提交归档"
+          fi
+      - name: 组装近 30 天查看器(web 模式)
+        env:
+          DIGEST_FETCHER: web
+        run: python build_viewer.py --days 30
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: viewer
+      - name: 可选触发 Netlify 重建
+        if: ${{ secrets.NETLIFY_BUILD_HOOK_URL != '' }}
+        env:
+          HOOK: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
+        run: curl -sS -X POST "$HOOK"
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
