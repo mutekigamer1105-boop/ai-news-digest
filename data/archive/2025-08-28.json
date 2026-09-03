@@ -1,0 +1,27 @@
+{
+ "items": [
+  {
+   "id": "web-1021-51ddfab8ab",
+   "source_id": "news",
+   "source_name": "openai.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "面向生产环境语音智能体推出 gpt-realtime 及实时 API 更新 - openai.com",
+   "summary": "面向生产环境语音智能体推出 gpt-realtime 及实时 API 更新 &nbsp;&nbsp; openai.com",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyTGlDbldtZnF3eFdpTUlCa3ZMQ3FTYmVBNk5MR2oxeVdxS0NEcjJpUVZDZ1hTNnRmOEdrNUgyQnRKNUUtUkpkbWhQRHJEWHFkX0dyVVItRzh1dW8xVDZSR1lFa21qNEV6NmNEV0FR?oc=5",
+   "published_at": "2025-08-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAyTGlDbldtZnF3eFdpTUlCa3ZMQ3FTYmVBNk5MR2oxeVdxS0NEcjJpUVZDZ1hTNnRmOEdrNUgyQnRKNUUtUkpkbWhQRHJEWHFkX0dyVVItRzh1dW8xVDZSR1lFa21qNEV6NmNEV0FR?oc=5\" target=\"_blank\">面向生产环境语音智能体推出 gpt-realtime 及实时 API 更新</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

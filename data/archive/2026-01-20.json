@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1011-ff8c85da00",
+   "source_id": "news",
+   "source_name": "openai.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "ServiceNow 携手 OpenAI 推动“行动化”企业级 AI 落地 - openai.com",
+   "summary": "ServiceNow 携手 OpenAI 推动“行动化”企业级 AI 落地 &nbsp;&nbsp; openai.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUWRQc0E1YnhmZExvMHFkaWVlTXJzTS1yWHpjd0ctcU4yM2s4QUJXTE4yeTZnRXAyRXZLa1JfQkhTTnRTaldwVkdGX19VRXhOWGhsR1FrcWRUNzFhRjFGTWszV0c0UWU4eVlaYWFwcjFWX0xIWkcwWlFHMklyU01pZnpDbjNmVm9BY2dlYS1VR3lNVXVIeWc?oc=5",
+   "published_at": "2026-01-20T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOUWRQc0E1YnhmZExvMHFkaWVlTXJzTS1yWHpjd0ctcU4yM2s4QUJXTE4yeTZnRXAyRXZLa1JfQkhTTnRTaldwVkdGX19VRXhOWGhsR1FrcWRUNzFhRjFGTWszV0c0UWU4eVlaYWFwcjFWX0xIWkcwWlFHMklyU01pZnpDbjNmVm9BY2dlYS1VR3lNVXVIeWc?oc=5\" target=\"_blank\">ServiceNow 携手 OpenAI 推动“行动化”企业级 AI 落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

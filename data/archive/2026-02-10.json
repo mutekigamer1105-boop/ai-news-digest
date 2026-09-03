@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-295-23fbf9f996",
+   "source_id": "news",
+   "source_name": "thelancet.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models and misinformation - thelancet.com",
+   "summary": "Large language models and misinformation &nbsp;&nbsp; thelancet.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcG9nUFNQTUx6N0tZUDJtN2pwN01YQjl2SFNqaDBhNmt4MmJxeHBSYnBGa1VPd01uTVZHWlgzNWVWMVNlcU95d1FXWWZvYUc2WUktek5qdVdtdWREcFgzNnpLOUZFM1A0dVBsd0R6RzNDUlphMHdVZXdvaTVfZU5rU3RkLUxmOTdtNGY4?oc=5",
+   "published_at": "2026-02-10T03:58:33+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcG9nUFNQTUx6N0tZUDJtN2pwN01YQjl2SFNqaDBhNmt4MmJxeHBSYnBGa1VPd01uTVZHWlgzNWVWMVNlcU95d1FXWWZvYUc2WUktek5qdVdtdWREcFgzNnpLOUZFM1A0dVBsd0R6RzNDUlphMHdVZXdvaTVfZU5rU3RkLUxmOTdtNGY4?oc=5\" target=\"_blank\">Large language models and misinformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelancet.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

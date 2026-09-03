@@ -1,0 +1,70 @@
+{
+ "items": [
+  {
+   "id": "web-875-0f24cd05f7",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型迈向“价值定价”？一图看懂DeepSeek难得连续两次涨价 - 财联社",
+   "summary": "AI大模型迈向“价值定价”？一图看懂DeepSeek难得连续两次涨价 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlQ2lfZWZ0Sk9TZnhIRHdWWFpLM0JaTGM0ZEJRTkRaVHVkMXRvcVFrZVl6dUNGSVFsaW9TeDItbEtFVDlRRExxZQ?oc=5",
+   "published_at": "2026-08-07T10:12:27+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlQ2lfZWZ0Sk9TZnhIRHdWWFpLM0JaTGM0ZEJRTkRaVHVkMXRvcVFrZVl6dUNGSVFsaW9TeDItbEtFVDlRRExxZQ?oc=5\" target=\"_blank\">AI大模型迈向“价值定价”？一图看懂DeepSeek难得连续两次涨价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-244-912c283c56",
+   "source_id": "news",
+   "source_name": "Insurance Journal",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Allstate Introduces Large Language Model, ALLIE - Insurance Journal",
+   "summary": "Allstate Introduces Large Language Model, ALLIE &nbsp;&nbsp; Insurance Journal",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JbW85dHdxemd4VmVmWDk2b0lNZlpTSHJ1aXF6RjBpM1B3RUNGQmlLZ1FBSTVweUtKQ21pX0c4X1I2OXJUOExmTi05Qm1zR3NkUV9fQ3JRUWVQbE1pbkpfbVg3QmswVjhWSzBybW9Hdmd3endKelNN?oc=5",
+   "published_at": "2026-08-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5JbW85dHdxemd4VmVmWDk2b0lNZlpTSHJ1aXF6RjBpM1B3RUNGQmlLZ1FBSTVweUtKQ21pX0c4X1I2OXJUOExmTi05Qm1zR3NkUV9fQ3JRUWVQbE1pbkpfbVg3QmswVjhWSzBybW9Hdmd3endKelNN?oc=5\" target=\"_blank\">Allstate Introduces Large Language Model, ALLIE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insurance Journal</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-832-3f2319b171",
+   "source_id": "news",
+   "source_name": "科学网—新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国开源大模型海外救场，国产AI何以领跑全球？ - 科学网—新闻",
+   "summary": "中国开源大模型海外救场，国产AI何以领跑全球？ &nbsp;&nbsp; 科学网—新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51V0pDRDN2N19FS00wbHlyLXF6bkp4RS1DV3RjMEhzZTJxd2JMbjYxR0FKSGVqdTNLVDlOajFNWFhqdU5sdnVXbTJla3RtTDU3bVRqSDlkR01PNnpmSTEtNHFWbWc?oc=5",
+   "published_at": "2026-08-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE51V0pDRDN2N19FS00wbHlyLXF6bkp4RS1DV3RjMEhzZTJxd2JMbjYxR0FKSGVqdTNLVDlOajFNWFhqdU5sdnVXbTJla3RtTDU3bVRqSDlkR01PNnpmSTEtNHFWbWc?oc=5\" target=\"_blank\">中国开源大模型海外救场，国产AI何以领跑全球？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">科学网—新闻</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

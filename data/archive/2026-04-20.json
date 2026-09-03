@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-301-8fab70b9d1",
+   "source_id": "news",
+   "source_name": "Oracle Blogs",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "16 Ways to make a Small Language Model think bigger - Oracle Blogs",
+   "summary": "16 Ways to make a Small Language Model think bigger &nbsp;&nbsp; Oracle Blogs",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSDlNSE5tR1doVHp4Yll3VjJMeXloQkpadHc0STRsODB1QnowaUxKTXY4U0dHVUQ1ZTFVa2ZsTDZRQnNCWG1oVTd0eUVfMG9JWDlqSl8tMnRpRG10NURMUENWT3JUbkRScWdpQllDTXhfdkVPUUdOSW1vcUVYa2tmYkFiRXZYMWVJREdrbDFyRjI?oc=5",
+   "published_at": "2026-04-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNSDlNSE5tR1doVHp4Yll3VjJMeXloQkpadHc0STRsODB1QnowaUxKTXY4U0dHVUQ1ZTFVa2ZsTDZRQnNCWG1oVTd0eUVfMG9JWDlqSl8tMnRpRG10NURMUENWT3JUbkRScWdpQllDTXhfdkVPUUdOSW1vcUVYa2tmYkFiRXZYMWVJREdrbDFyRjI?oc=5\" target=\"_blank\">16 Ways to make a Small Language Model think bigger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oracle Blogs</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-258-9cef6db23c",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Bayesian teaching enables probabilistic reasoning in large language models - nature.com",
+   "summary": "Bayesian teaching enables probabilistic reasoning in large language models &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12aXpLN0dLaTNIS1dfczZGNGdVeXRKVnV6ZGVvY1oxRnMzVFJpcXBycGZYY3BEWjV5UnVvRHBWclNjbnRqYnByTzVMM0hZQTI4OWNNMFZhYVZIckw0S0xz?oc=5",
+   "published_at": "2026-01-07T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE12aXpLN0dLaTNIS1dfczZGNGdVeXRKVnV6ZGVvY1oxRnMzVFJpcXBycGZYY3BEWjV5UnVvRHBWclNjbnRqYnByTzVMM0hZQTI4OWNNMFZhYVZIckw0S0xz?oc=5\" target=\"_blank\">Bayesian teaching enables probabilistic reasoning in large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

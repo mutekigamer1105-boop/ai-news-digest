@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-252-fdfd40f037",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "A family of large language models for materials research with insights into model adaptability in continued pretraining - nature.com",
+   "summary": "A family of large language models for materials research with insights into model adaptability in continued pretraining &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVUTVRRXBIS1FHbXhJRnJLWmpZYlRBTEd0WXhzc25LckNvMUd1WmJwcDY1WjJEQUZnZjh0Rm5ZdG9BV3Y5Z3MxMGYxUzB4bXNHd2U0MkxsSm9rdE9QNlB3?oc=5",
+   "published_at": "2026-02-27T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVUTVRRXBIS1FHbXhJRnJLWmpZYlRBTEd0WXhzc25LckNvMUd1WmJwcDY1WjJEQUZnZjh0Rm5ZdG9BV3Y5Z3MxMGYxUzB4bXNHd2U0MkxsSm9rdE9QNlB3?oc=5\" target=\"_blank\">A family of large language models for materials research with insights into model adaptability in continued pretraining</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "items": [
+  {
+   "id": "web-302-311b07cc9d",
+   "source_id": "news",
+   "source_name": "IEEE Spectrum",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large Tabular Models Excel Where LLMs Fail - IEEE Spectrum",
+   "summary": "Large Tabular Models Excel Where LLMs Fail &nbsp;&nbsp; IEEE Spectrum",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CYlREaXJQcXRzN2kxM3pHWXlFOU5FRG1reVIzTVRoYm9Jc3RLcXZLSHg4ZXpxODA3ZUd1V3ZmNHpnVWNpbWVLUXNqZWpjSkQ3RlFpRUFhcEM3OHloaHBsMnFn?oc=5",
+   "published_at": "2026-07-09T13:01:34+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CYlREaXJQcXRzN2kxM3pHWXlFOU5FRG1reVIzTVRoYm9Jc3RLcXZLSHg4ZXpxODA3ZUd1V3ZmNHpnVWNpbWVLUXNqZWpjSkQ3RlFpRUFhcEM3OHloaHBsMnFn?oc=5\" target=\"_blank\">Large Tabular Models Excel Where LLMs Fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IEEE Spectrum</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-754-e9365f1756",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "GPT-5.6: Frontier intelligence that scales with your ambition - OpenAI",
+   "summary": "GPT-5.6: Frontier intelligence that scales with your ambition &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5\" target=\"_blank\">GPT-5.6: Frontier intelligence that scales with your ambition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-761-bd94621530",
+   "source_id": "news",
+   "source_name": "AI at Meta",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Introducing Muse Spark 1.1 - AI at Meta",
+   "summary": "Introducing Muse Spark 1.1 &nbsp;&nbsp; AI at Meta",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5\" target=\"_blank\">Introducing Muse Spark 1.1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI at Meta</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-799-86020952d3",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meta updates its Spark model, releases developer version - Axios",
+   "summary": "Meta updates its Spark model, releases developer version &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bC0tNkdIc0hxS2dWUXBNMXVwTUJQQUFWS204NTNhNXJ6ZnlOWXlfdkNSS1JYYmRzS3ZHNmhOZEFzcDItd0NwUkxEYnpfa3VPSS1HVUVGdlpENzBHYkJIRmYwdUh1U2JiTkRObHZTRV9hZklUQUFUbQ?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bC0tNkdIc0hxS2dWUXBNMXVwTUJQQUFWS204NTNhNXJ6ZnlOWXlfdkNSS1JYYmRzS3ZHNmhOZEFzcDItd0NwUkxEYnpfa3VPSS1HVUVGdlpENzBHYkJIRmYwdUh1U2JiTkRObHZTRV9hZklUQUFUbQ?oc=5\" target=\"_blank\">Meta updates its Spark model, releases developer version</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1016-fd4f691f15",
+   "source_id": "news",
+   "source_name": "openai.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "GPT-5.6：随宏大目标灵活扩展的前沿智能 - openai.com",
+   "summary": "GPT-5.6：随宏大目标灵活扩展的前沿智能 &nbsp;&nbsp; openai.com",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40Q1E3OTFDdThXbzQ4Z2tvLWswMHI0c1RzYnF6VXJ0UmVrSldQRGdPajNBNE1BQ2c2aXlLUlZ0N3BQOHN2Nm5Bdkhpd21MdmRRdklRTFAwVQ?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE40Q1E3OTFDdThXbzQ4Z2tvLWswMHI0c1RzYnF6VXJ0UmVrSldQRGdPajNBNE1BQ2c2aXlLUlZ0N3BQOHN2Nm5Bdkhpd21MdmRRdklRTFAwVQ?oc=5\" target=\"_blank\">GPT-5.6：随宏大目标灵活扩展的前沿智能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1050-7cbbf59835",
+   "source_id": "news",
+   "source_name": "富途牛牛",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI推出Gpt-5.6系列模型和由GPT-5.6驱动的Chatgpt Work - 富途牛牛",
+   "summary": "OpenAI推出Gpt-5.6系列模型和由GPT-5.6驱动的Chatgpt Work &nbsp;&nbsp; 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3dwOTRLQU1PbzFYVkFXdGpDaXFBZUQxdGxscjdjbGpHM2xENUxBWDBJWGt2bGVNSXloLS0wUmxDNTV0UWRycUl6YzBBS28xanQ1bGlCR2xMMTJTNG56MTlkMFhtQUF5OXNRdC11OWlIdGFKMi1vSTJ3UENuT3g2ZTVaal8tYWxYdURiR2pwX3BBWk9VRnc?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3dwOTRLQU1PbzFYVkFXdGpDaXFBZUQxdGxscjdjbGpHM2xENUxBWDBJWGt2bGVNSXloLS0wUmxDNTV0UWRycUl6YzBBS28xanQ1bGlCR2xMMTJTNG56MTlkMFhtQUF5OXNRdC11OWlIdGFKMi1vSTJ3UENuT3g2ZTVaal8tYWxYdURiR2pwX3BBWk9VRnc?oc=5\" target=\"_blank\">OpenAI推出Gpt-5.6系列模型和由GPT-5.6驱动的Chatgpt Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

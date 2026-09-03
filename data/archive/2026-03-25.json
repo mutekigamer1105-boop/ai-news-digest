@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-228-a76494f110",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Grounding large language models in clinical diagnostics - nature.com",
+   "summary": "Grounding large language models in clinical diagnostics &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uem1pYkh2dnBOWDFXSUlqNjRNYl9Qbi01M0Z6MDg5QVlNSzBxdGJVNm5kTjlBZkJTVHVVandfN0pjUTVMSFpsVjFuSThBQThVU1VOWVV0SUpBRmRWMzM4?oc=5",
+   "published_at": "2026-03-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uem1pYkh2dnBOWDFXSUlqNjRNYl9Qbi01M0Z6MDg5QVlNSzBxdGJVNm5kTjlBZkJTVHVVandfN0pjUTVMSFpsVjFuSThBQThVU1VOWVV0SUpBRmRWMzM4?oc=5\" target=\"_blank\">Grounding large language models in clinical diagnostics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

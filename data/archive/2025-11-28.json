@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1053-9f3ee6c22d",
+   "source_id": "news",
+   "source_name": "驱动之家",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "11月中文大模型基准测评出炉：GPT 5.1夺冠、DeepSeek开源第一 - 驱动之家",
+   "summary": "11月中文大模型基准测评出炉：GPT 5.1夺冠、DeepSeek开源第一 &nbsp;&nbsp; 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52c2RyT291NG9BSUVuZnV5SEUwVFhUeml0U2pXdUhSX3Z1ZzhzNmpTb29Uell4MFFLb2N6emhRS2JfaWRWNi1iMVlPREFWMGQ4VXcySmNTSHE?oc=5",
+   "published_at": "2025-11-28T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE52c2RyT291NG9BSUVuZnV5SEUwVFhUeml0U2pXdUhSX3Z1ZzhzNmpTb29Uell4MFFLb2N6emhRS2JfaWRWNi1iMVlPREFWMGQ4VXcySmNTSHE?oc=5\" target=\"_blank\">11月中文大模型基准测评出炉：GPT 5.1夺冠、DeepSeek开源第一</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">驱动之家</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-231-a57cf75ed4",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Evaluating large language models for simplifying non-English medical consent with clinician involvement - nature.com",
+   "summary": "Evaluating large language models for simplifying non-English medical consent with clinician involvement &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oZkk3dDlKOXMwQnIxazVpcHR5b0plYTRYdzhtcjJZWDBFcjYwT3lPMVBnVEZGMkROSWhJSTQzRkViN0VscVJtR3lrVjA5QVQ0Vl9pVE94TDlXSkNfUmVn?oc=5",
+   "published_at": "2026-04-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oZkk3dDlKOXMwQnIxazVpcHR5b0plYTRYdzhtcjJZWDBFcjYwT3lPMVBnVEZGMkROSWhJSTQzRkViN0VscVJtR3lrVjA5QVQ0Vl9pVE94TDlXSkNfUmVn?oc=5\" target=\"_blank\">Evaluating large language models for simplifying non-English medical consent with clinician involvement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1020-71c7c549e6",
+   "source_id": "news",
+   "source_name": "openai.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Gradient Labs 为银行客户打造专属 AI 客户经理 - openai.com",
+   "summary": "Gradient Labs 为银行客户打造专属 AI 客户经理 &nbsp;&nbsp; openai.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjdjVjRWp3WFRydEZ2VWtnSFdLTXpSeGdZRTB0dlY0ZVZjWS1ObVAzckZON01naFpjRGhKX2dtTFJFTFlleV9sZ3NLeHgzcXBrVnNENERSV1hPb2Z3R1V3?oc=5",
+   "published_at": "2026-04-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjdjVjRWp3WFRydEZ2VWtnSFdLTXpSeGdZRTB0dlY0ZVZjWS1ObVAzckZON01naFpjRGhKX2dtTFJFTFlleV9sZ3NLeHgzcXBrVnNENERSV1hPb2Z3R1V3?oc=5\" target=\"_blank\">Gradient Labs 为银行客户打造专属 AI 客户经理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

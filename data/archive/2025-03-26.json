@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1033-ea6d5e3ae3",
+   "source_id": "news",
+   "source_name": "紫牛新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI推出GPT-4o图像生成功能，记者实测：效果震撼，中文理解能力待提升 - 紫牛新闻",
+   "summary": "OpenAI推出GPT-4o图像生成功能，记者实测：效果震撼，中文理解能力待提升 &nbsp;&nbsp; 紫牛新闻",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NbTFXcHh3R0J6MGI3SFFGdTZ0ZldRMUdNakhzR0tYblpmQmttYWM0c2R6NFRKd2p4T3dSTDZCb0JQaVhkZXBGa0FFRnB4OGlwU1E?oc=5",
+   "published_at": "2025-03-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NbTFXcHh3R0J6MGI3SFFGdTZ0ZldRMUdNakhzR0tYblpmQmttYWM0c2R6NFRKd2p4T3dSTDZCb0JQaVhkZXBGa0FFRnB4OGlwU1E?oc=5\" target=\"_blank\">OpenAI推出GPT-4o图像生成功能，记者实测：效果震撼，中文理解能力待提升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">紫牛新闻</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

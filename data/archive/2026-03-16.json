@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-880-7ce7c2e70f",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续两周超越美国，一款神秘模型进入前十 - 东方财富",
+   "summary": "中国AI大模型调用量连续两周超越美国，一款神秘模型进入前十 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OcHF3R2t3WXV5WEJjeF9LMjJoSUUyeDg3MkFsQ0VGemZBNmlwXzVtMmp3Tm04aDhmYWlmLXFJcmdmNGZfeFo4ZlUycmtXTTNFMFZUQ2tjYTFsUllDTnVqNg?oc=5",
+   "published_at": "2026-03-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OcHF3R2t3WXV5WEJjeF9LMjJoSUUyeDg3MkFsQ0VGemZBNmlwXzVtMmp3Tm04aDhmYWlmLXFJcmdmNGZfeFo4ZlUycmtXTTNFMFZUQ2tjYTFsUllDTnVqNg?oc=5\" target=\"_blank\">中国AI大模型调用量连续两周超越美国，一款神秘模型进入前十</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-902-d90a5c6214",
+   "source_id": "news",
+   "source_name": "21财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "315晚会曝光AI“投毒”灰产链，暴露大模型背后算法高危漏洞 - 21财经",
+   "summary": "315晚会曝光AI“投毒”灰产链，暴露大模型背后算法高危漏洞 &nbsp;&nbsp; 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWY0a0d0dkYzOTlpVzdablp2bkFwdllyVHhpNHdxbXI2a013QkdJWVVuekRnaTlXalZpZkpYanI4TFlUVzRYZ01EVGFRSHlTSHpZM2hCZF9pVm83ZUxsekFhRldfd2JXOGYxdEhNbUVTUUFkWVN3b0NzSGFUUjQyeFZ4SGRSekxvX0N4blFIYw?oc=5",
+   "published_at": "2026-03-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWY0a0d0dkYzOTlpVzdablp2bkFwdllyVHhpNHdxbXI2a013QkdJWVVuekRnaTlXalZpZkpYanI4TFlUVzRYZ01EVGFRSHlTSHpZM2hCZF9pVm83ZUxsekFhRldfd2JXOGYxdEhNbUVTUUFkWVN3b0NzSGFUUjQyeFZ4SGRSekxvX0N4blFIYw?oc=5\" target=\"_blank\">315晚会曝光AI“投毒”灰产链，暴露大模型背后算法高危漏洞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

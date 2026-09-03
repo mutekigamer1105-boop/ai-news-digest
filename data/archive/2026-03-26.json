@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-276-7407821f26",
+   "source_id": "news",
+   "source_name": "The Association for the Advancement of Artificial Intelligence",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Beyond I’m Sorry, I Can’t: Dissecting Large-Language-Model Refusal - The Association for the Advancement of Artificial Intelligence",
+   "summary": "Beyond I’m Sorry, I Can’t: Dissecting Large-Language-Model Refusal &nbsp;&nbsp; The Association for the Advancement of Artificial Intelligence",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wM1lnQ3BqWkZSLXM4ZHdMemlkd1Bwd3pFRWJuUWhfZ3lNeG1TMG81blFZTXpITmwxMDNLOXFndXk1ZUxOLVh3eTAzNVVlN1BLWk03WXFfYmFDQTZOX3dJXy00ODg?oc=5",
+   "published_at": "2026-03-26T09:59:09+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wM1lnQ3BqWkZSLXM4ZHdMemlkd1Bwd3pFRWJuUWhfZ3lNeG1TMG81blFZTXpITmwxMDNLOXFndXk1ZUxOLVh3eTAzNVVlN1BLWk03WXFfYmFDQTZOX3dJXy00ODg?oc=5\" target=\"_blank\">Beyond I’m Sorry, I Can’t: Dissecting Large-Language-Model Refusal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Association for the Advancement of Artificial Intelligence</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-274-5cfe669482",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Investigating expectations and needs regarding the use of large language models at Bavarian university clinics - nature.com",
+   "summary": "Investigating expectations and needs regarding the use of large language models at Bavarian university clinics &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ERmQtRzNGc2p1Qk5SenM5UktteTlmUVVlQzFPN2oxTmJiOWs3YjJpcUpFQnA5Mkpmbk1DZXNMNWNGVlJOZUZFdmhNUFYybVlNVkNyS1lORUJDd3QyUTR3?oc=5",
+   "published_at": "2026-03-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ERmQtRzNGc2p1Qk5SenM5UktteTlmUVVlQzFPN2oxTmJiOWs3YjJpcUpFQnA5Mkpmbk1DZXNMNWNGVlJOZUZFdmhNUFYybVlNVkNyS1lORUJDd3QyUTR3?oc=5\" target=\"_blank\">Investigating expectations and needs regarding the use of large language models at Bavarian university clinics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

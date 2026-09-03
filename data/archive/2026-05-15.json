@@ -1,0 +1,49 @@
+{
+ "items": [
+  {
+   "id": "web-251-1147f48c5a",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models require a new form of oversight: capability-based monitoring - nature.com",
+   "summary": "Large language models require a new form of oversight: capability-based monitoring &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CYmg2eVZUNy1wYjk2NXJyMlR5Z214N3V4ZGlaa3pNLTg3MURQSnI2Q09MV0hsYmtXTS1YbHVKbUo0SGNYamlMWXEtdDBVN0ZYcWl3S0hOeWhlRUpoVGlJ?oc=5",
+   "published_at": "2026-05-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CYmg2eVZUNy1wYjk2NXJyMlR5Z214N3V4ZGlaa3pNLTg3MURQSnI2Q09MV0hsYmtXTS1YbHVKbUo0SGNYamlMWXEtdDBVN0ZYcWl3S0hOeWhlRUpoVGlJ?oc=5\" target=\"_blank\">Large language models require a new form of oversight: capability-based monitoring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1017-54ac57ebbe",
+   "source_id": "news",
+   "source_name": "openai.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Databricks 将 GPT-5.5 引入企业智能体工作流 - openai.com",
+   "summary": "Databricks 将 GPT-5.5 引入企业智能体工作流 &nbsp;&nbsp; openai.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84SUZXODRPbS1TSHl5MTFJMjRONm81SndPMmFibUZXdko3dWszT255NjEydlhmbWstOUNFVElIcnZqc1pjZjhIcXpSZ2ZCc0JJOXE4a1NQeXVmQ1E?oc=5",
+   "published_at": "2026-05-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE84SUZXODRPbS1TSHl5MTFJMjRONm81SndPMmFibUZXdko3dWszT255NjEydlhmbWstOUNFVElIcnZqc1pjZjhIcXpSZ2ZCc0JJOXE4a1NQeXVmQ1E?oc=5\" target=\"_blank\">Databricks 将 GPT-5.5 引入企业智能体工作流</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

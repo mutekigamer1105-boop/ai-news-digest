@@ -1,0 +1,49 @@
+{
+ "items": [
+  {
+   "id": "web-697-d2db9d861b",
+   "source_id": "news",
+   "source_name": "citybiz.co",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "New York Startup Funding in May Highlights Sustained Confidence in AI, Healthcare - citybiz.co",
+   "summary": "New York Startup Funding in May Highlights Sustained Confidence in AI, Healthcare &nbsp;&nbsp; citybiz.co",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTZVVWt1VlZfbnFIclVUay0wNWJfa2hHWi1hUXhINmgzeE9GWnBNclRReHN6ODJvY3d6QXlsM2lxM2JrMUxCTFc3QmlWWkdiYlRieDd3YWgtZ2ktVUtBQm9yVjY0Vi1obkY0TzFkV2s0cmg0Q2x5Q09zZXZJb3liOFpZeFdmeVlsVDNxMkN2ektOT1l1QVRRRkowc1RtZEE3ZFBiVnhmUmprYm9pTktKNHpTbUQxWHJLZEpz?oc=5",
+   "published_at": "2026-06-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTZVVWt1VlZfbnFIclVUay0wNWJfa2hHWi1hUXhINmgzeE9GWnBNclRReHN6ODJvY3d6QXlsM2lxM2JrMUxCTFc3QmlWWkdiYlRieDd3YWgtZ2ktVUtBQm9yVjY0Vi1obkY0TzFkV2s0cmg0Q2x5Q09zZXZJb3liOFpZeFdmeVlsVDNxMkN2ektOT1l1QVRRRkowc1RtZEE3ZFBiVnhmUmprYm9pTktKNHpTbUQxWHJLZEpz?oc=5\" target=\"_blank\">New York Startup Funding in May Highlights Sustained Confidence in AI, Healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz.co</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1018-48ea15ce30",
+   "source_id": "news",
+   "source_name": "openai.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Endava 如何围绕 AI 智能体重塑软件交付 - openai.com",
+   "summary": "Endava 如何围绕 AI 智能体重塑软件交付 &nbsp;&nbsp; openai.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1COGlrdVdkaGhWa2s1UU5WSmxpNUhfNU1LMVNtUWRLb25mdzZZMmRNdU1xeGphU0h2QmJnaDkxa0hjMXhCQ01xQTY3dnY5R1hyUGppM01ocmFKMVAtM0FfMUNXdw?oc=5",
+   "published_at": "2026-06-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1COGlrdVdkaGhWa2s1UU5WSmxpNUhfNU1LMVNtUWRLb25mdzZZMmRNdU1xeGphU0h2QmJnaDkxa0hjMXhCQ01xQTY3dnY5R1hyUGppM01ocmFKMVAtM0FfMUNXdw?oc=5\" target=\"_blank\">Endava 如何围绕 AI 智能体重塑软件交付</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

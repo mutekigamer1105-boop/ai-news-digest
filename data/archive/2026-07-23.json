@@ -1,0 +1,70 @@
+{
+ "items": [
+  {
+   "id": "web-797-cbbb136ff2",
+   "source_id": "news",
+   "source_name": "Scientific American",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "China’s Kimi K3 and the rise of open-weight AI models - Scientific American",
+   "summary": "China’s Kimi K3 and the rise of open-weight AI models &nbsp;&nbsp; Scientific American",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWRoeWV5SHEtVkxWVm5GQ2s2eHB3ODJjOGRLSXMzSkVXRUQ1TE9JZ2FUd2V3X2JKczRzWTBlSnM3TkxBZWpZNnNNZExFbmJuWTJnRmE5TjByWXpnSG0tdlFVbTV0WkhhLS1wd3YtOXk2WW5vel80VUhmY0hJbWNfSWVlcTR5LXBWYXliSGZrcW9BcDlUNEtGRUp6TQ?oc=5",
+   "published_at": "2026-07-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWRoeWV5SHEtVkxWVm5GQ2s2eHB3ODJjOGRLSXMzSkVXRUQ1TE9JZ2FUd2V3X2JKczRzWTBlSnM3TkxBZWpZNnNNZExFbmJuWTJnRmE5TjByWXpnSG0tdlFVbTV0WkhhLS1wd3YtOXk2WW5vel80VUhmY0hJbWNfSWVlcTR5LXBWYXliSGZrcW9BcDlUNEtGRUp6TQ?oc=5\" target=\"_blank\">China’s Kimi K3 and the rise of open-weight AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scientific American</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-895-20087902b7",
+   "source_id": "news",
+   "source_name": "上观新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国大模型企业为何选择开源？开放才有更大受众 - 上观新闻",
+   "summary": "中国大模型企业为何选择开源？开放才有更大受众 &nbsp;&nbsp; 上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SYXpRQy03OGg5bG5YMHVIY3c5X2pFb2VfR0tjQV91TFkyVWhRTkh3RmVUTmVxWnVaUWVldUVmWHlDNVhBeEFpTG42alhXNi1rSjN1YklVc2RzcExH?oc=5",
+   "published_at": "2026-07-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SYXpRQy03OGg5bG5YMHVIY3c5X2pFb2VfR0tjQV91TFkyVWhRTkh3RmVUTmVxWnVaUWVldUVmWHlDNVhBeEFpTG42alhXNi1rSjN1YklVc2RzcExH?oc=5\" target=\"_blank\">中国大模型企业为何选择开源？开放才有更大受众</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-899-6450bf5d74",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "WAIC 2026丨从单点智能到全厂自主，工业AI大模型重塑中国智造 - 新华网",
+   "summary": "WAIC 2026丨从单点智能到全厂自主，工业AI大模型重塑中国智造 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WclZEQTNQMVhFQnFpTzRzckxMMXI4MjRmX1IzZGVmVUV3cnJFazA0Y24wUTlHUUZTeWlBNUgzZ25mbFRWWGtBYVVOSW13RkxDS3dDSmV6YjdqVXktUWZCWVFuM1VVZUc2VHdvVVZibmp2aVgxcWVyWDU5MjQ?oc=5",
+   "published_at": "2026-07-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5WclZEQTNQMVhFQnFpTzRzckxMMXI4MjRmX1IzZGVmVUV3cnJFazA0Y24wUTlHUUZTeWlBNUgzZ25mbFRWWGtBYVVOSW13RkxDS3dDSmV6YjdqVXktUWZCWVFuM1VVZUc2VHdvVVZibmp2aVgxcWVyWDU5MjQ?oc=5\" target=\"_blank\">WAIC 2026丨从单点智能到全厂自主，工业AI大模型重塑中国智造</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

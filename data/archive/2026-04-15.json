@@ -1,0 +1,70 @@
+{
+ "items": [
+  {
+   "id": "web-787-e530a8f32b",
+   "source_id": "news",
+   "source_name": "Mashable",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI follows Anthropic's lead in limited release of GPT‑5.4‑Cyber - Mashable",
+   "summary": "OpenAI follows Anthropic's lead in limited release of GPT‑5.4‑Cyber &nbsp;&nbsp; Mashable",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QNFBsUk1rZkJzTGcxVmJlU0xHRU9PQUMtbjlIS3dJdGVBYlJrdUEzZVpaWjBQNTVRbnNGLXhfbGF6cGV3c2FzTFltNEFBWjVhdXBDY3dFeTZNMWpHVmI0UmZJUkFOcVpOQlltSU1lWkRqZl9mQzhxVC1SQQ?oc=5",
+   "published_at": "2026-04-15T08:16:55+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5QNFBsUk1rZkJzTGcxVmJlU0xHRU9PQUMtbjlIS3dJdGVBYlJrdUEzZVpaWjBQNTVRbnNGLXhfbGF6cGV3c2FzTFltNEFBWjVhdXBDY3dFeTZNMWpHVmI0UmZJUkFOcVpOQlltSU1lWkRqZl9mQzhxVC1SQQ?oc=5\" target=\"_blank\">OpenAI follows Anthropic's lead in limited release of GPT‑5.4‑Cyber</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-230-f7f82444da",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Multidisciplinary blinded randomized expert evaluation of large language models for clinical diagnosis and management - nature.com",
+   "summary": "Multidisciplinary blinded randomized expert evaluation of large language models for clinical diagnosis and management &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IbmlQWnN1TGdtRGd3ZFRqMFRCNkphN2ItWHhVSGpXWnRkc01YWndjekRsTzhoVEEzVVNQOTc3WFNZb01SbzlXMjc3TVdNM2owR2s3REtXZ0o1VlZtMTBV?oc=5",
+   "published_at": "2026-04-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IbmlQWnN1TGdtRGd3ZFRqMFRCNkphN2ItWHhVSGpXWnRkc01YWndjekRsTzhoVEEzVVNQOTc3WFNZb01SbzlXMjc3TVdNM2owR2s3REtXZ0o1VlZtMTBV?oc=5\" target=\"_blank\">Multidisciplinary blinded randomized expert evaluation of large language models for clinical diagnosis and management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-282-9fe245fe5b",
+   "source_id": "news",
+   "source_name": "University of Rochester",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Researchers use large language models to discover recipes for novel materials - University of Rochester",
+   "summary": "Researchers use large language models to discover recipes for novel materials &nbsp;&nbsp; University of Rochester",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR21JUExoNndTaUg2NXRKcG5sUlRreHIwSXhlNzdNV0ZZZHNodnpKWXNkT0RMcnhGVnJnODFvMHZ3S0RUb1NtcHFPUXdvLVY2eU5lZjBYYklzcXV5Q2MzN3pvVk1kNDNkamdvWGRCTmYxMnVGSVAwSWh0RnhmSEpJRzRYZFhtcGlQckhOV2VxZTBuNlViNjdGMFc1RQ?oc=5",
+   "published_at": "2026-04-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNR21JUExoNndTaUg2NXRKcG5sUlRreHIwSXhlNzdNV0ZZZHNodnpKWXNkT0RMcnhGVnJnODFvMHZ3S0RUb1NtcHFPUXdvLVY2eU5lZjBYYklzcXV5Q2MzN3pvVk1kNDNkamdvWGRCTmYxMnVGSVAwSWh0RnhmSEpJRzRYZFhtcGlQckhOV2VxZTBuNlViNjdGMFc1RQ?oc=5\" target=\"_blank\">Researchers use large language models to discover recipes for novel materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Rochester</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

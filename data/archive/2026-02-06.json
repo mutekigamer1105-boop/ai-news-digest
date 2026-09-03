@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-232-9babee6fe1",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "A large language model for complex cardiology care - nature.com",
+   "summary": "A large language model for complex cardiology care &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCN1ZXY0pydzQ5b2VZZjFneW94N1dobjZvZlJxZ0dBSE04MUtSbEhRZ2VVSXlITU00R0JWdkRyV3p1amNrNHdwakhlNTBfWlo2MUZYUC02bVd4UlZveDhj?oc=5",
+   "published_at": "2026-02-06T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCN1ZXY0pydzQ5b2VZZjFneW94N1dobjZvZlJxZ0dBSE04MUtSbEhRZ2VVSXlITU00R0JWdkRyV3p1amNrNHdwakhlNTBfWlo2MUZYUC02bVd4UlZveDhj?oc=5\" target=\"_blank\">A large language model for complex cardiology care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-240-051866e033",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Phase transitions in large language model compression - npj Artificial Intelligence - nature.com",
+   "summary": "Phase transitions in large language model compression - npj Artificial Intelligence &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GeEplb3VMeHJwUGJuM1pKMlJWUWg3eGpRenRlR3ViU3pZZ2ZCVDBsbXdOVm1VUDZOTTYwS1NMRXhCMHQ1UVlKTjh1Sll0NW1ydlhKZlpla3JvZnFMVWVj?oc=5",
+   "published_at": "2026-02-06T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GeEplb3VMeHJwUGJuM1pKMlJWUWg3eGpRenRlR3ViU3pZZ2ZCVDBsbXdOVm1VUDZOTTYwS1NMRXhCMHQ1UVlKTjh1Sll0NW1ydlhKZlpla3JvZnFMVWVj?oc=5\" target=\"_blank\">Phase transitions in large language model compression - npj Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

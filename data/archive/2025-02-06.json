@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1022-10084bd082",
+   "source_id": "news",
+   "source_name": "BBC",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "ChatGPT：印度媒体加入对OpenAI的诉讼 - BBC",
+   "summary": "ChatGPT：印度媒体加入对OpenAI的诉讼 &nbsp;&nbsp; BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11eWtEY3V1TG5nZ2M3cGNSaF9BTVVUOXFlT1J4aUFCVHFIN1FQeDJhNkt0N29NeUZJcWJ5ZXRtTmJ5OHJpNlhQcGJnMEstY0FIVi1WRjB2RkptdVhKeXBiMGtHRXF1d9IBa0FVX3lxTE1aYUdjQV9CZ3FRSG85NHJfZXJUSXNhMnVNRmpNSWVfVEtZYXNxZ3YyeFM0bkxGak9FbUZaZVpvc1I1ZEFka3FTM3RhZ3Y3ME5WeHN5YXFvVTZzeHFCOVUzLXdSeGZiRWRvN2N3?oc=5",
+   "published_at": "2025-02-06T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE11eWtEY3V1TG5nZ2M3cGNSaF9BTVVUOXFlT1J4aUFCVHFIN1FQeDJhNkt0N29NeUZJcWJ5ZXRtTmJ5OHJpNlhQcGJnMEstY0FIVi1WRjB2RkptdVhKeXBiMGtHRXF1d9IBa0FVX3lxTE1aYUdjQV9CZ3FRSG85NHJfZXJUSXNhMnVNRmpNSWVfVEtZYXNxZ3YyeFM0bkxGak9FbUZaZVpvc1I1ZEFka3FTM3RhZ3Y3ME5WeHN5YXFvVTZzeHFCOVUzLXdSeGZiRWRvN2N3?oc=5\" target=\"_blank\">ChatGPT：印度媒体加入对OpenAI的诉讼</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

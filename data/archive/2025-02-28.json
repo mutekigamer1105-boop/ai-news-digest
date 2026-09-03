@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1028-210b530a9b",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "什么是 GPT-4o？| GPT-4o 中文解读：多模态大语言模型的企业级应用趋势 - IBM",
+   "summary": "什么是 GPT-4o？| GPT-4o 中文解读：多模态大语言模型的企业级应用趋势 &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uTThSaGhIUlhnNEs3OWhBVS1valBMYUwtTGxicE8wMGxBNnR4RWVRLWV5S0NHZmV6TjRNc1NETC02V1RYOFpDR01tUkl3WlNBdXUxWGszVEQ?oc=5",
+   "published_at": "2025-02-28T16:01:24+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uTThSaGhIUlhnNEs3OWhBVS1valBMYUwtTGxicE8wMGxBNnR4RWVRLWV5S0NHZmV6TjRNc1NETC02V1RYOFpDR01tUkl3WlNBdXUxWGszVEQ?oc=5\" target=\"_blank\">什么是 GPT-4o？| GPT-4o 中文解读：多模态大语言模型的企业级应用趋势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

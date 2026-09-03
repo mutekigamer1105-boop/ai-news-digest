@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-267-1f8c91efd9",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The mosaic memory of large language models - nature.com",
+   "summary": "The mosaic memory of large language models &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2cFVaTzdsbW0wdnc1cW9LdXg2N2ZQaC1vRFZzNDZKUnl3WGNHMkhsM3UxMGZSd0hjR3g0OTVMRkZieDhvSm45VGxNYS1IakJWY3Y1aFBJdFR3U1BnazhF?oc=5",
+   "published_at": "2026-01-29T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2cFVaTzdsbW0wdnc1cW9LdXg2N2ZQaC1vRFZzNDZKUnl3WGNHMkhsM3UxMGZSd0hjR3g0OTVMRkZieDhvSm45VGxNYS1IakJWY3Y1aFBJdFR3U1BnazhF?oc=5\" target=\"_blank\">The mosaic memory of large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

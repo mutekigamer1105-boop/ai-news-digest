@@ -1,0 +1,49 @@
+{
+ "items": [
+  {
+   "id": "web-879-a2332d3e81",
+   "source_id": "news",
+   "source_name": "每日经济新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国大模型“撕裂”硅谷！走访Kimi的美国研究员：中美AI差距已缩至3～5个月，撼动OpenAI、Anthropic长期估值逻辑 - 每日经济新闻",
+   "summary": "中国大模型“撕裂”硅谷！走访Kimi的美国研究员：中美AI差距已缩至3～5个月，撼动OpenAI、Anthropic长期估值逻辑 &nbsp;&nbsp; 每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tVldlWE5pcWkxRUh2TDR6dUItZWNXRjJtVVZVOXBmcUpmaTNseGpCbWg4elVOaGxhY0ZlVWRKdEV5TTdTZ0YyNWszSFM4SjZoNEVrNzY4RnBFZG5VcjBHaWlvMjVvQQ?oc=5",
+   "published_at": "2026-07-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tVldlWE5pcWkxRUh2TDR6dUItZWNXRjJtVVZVOXBmcUpmaTNseGpCbWg4elVOaGxhY0ZlVWRKdEV5TTdTZ0YyNWszSFM4SjZoNEVrNzY4RnBFZG5VcjBHaWlvMjVvQQ?oc=5\" target=\"_blank\">中国大模型“撕裂”硅谷！走访Kimi的美国研究员：中美AI差距已缩至3～5个月，撼动OpenAI、Anthropic长期估值逻辑</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">每日经济新闻</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1009-87407e6f97",
+   "source_id": "news",
+   "source_name": "智源社区",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "刚获菲尔兹奖，Ta转身就跳槽OpenAI - 智源社区",
+   "summary": "刚获菲尔兹奖，Ta转身就跳槽OpenAI &nbsp;&nbsp; 智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zVWNQV3o0TTlZN2Y2bFFsbnkzTnhlbUxYSzl2bUdvLXluODhrUC1CTlZBN3M0SVh4Q3FZU044WElGdVVUMmtvZQ?oc=5",
+   "published_at": "2026-07-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zVWNQV3o0TTlZN2Y2bFFsbnkzTnhlbUxYSzl2bUdvLXluODhrUC1CTlZBN3M0SVh4Q3FZU044WElGdVVUMmtvZQ?oc=5\" target=\"_blank\">刚获菲尔兹奖，Ta转身就跳槽OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">智源社区</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

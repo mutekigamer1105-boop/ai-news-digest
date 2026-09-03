@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-227-7af6425633",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models in global health - nature.com",
+   "summary": "Large language models in global health &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kV1RtelJhcEUtX05mZ28taHRrU0g0MmRpQzlzY3pWc0ZVeURCbU96dnNZMXRVSGl5QW5uX0E0ME1ENHBoemhIV2x3UHY3bXN5emk5VWd5OHNlOThwZmg4?oc=5",
+   "published_at": "2026-01-15T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kV1RtelJhcEUtX05mZ28taHRrU0g0MmRpQzlzY3pWc0ZVeURCbU96dnNZMXRVSGl5QW5uX0E0ME1ENHBoemhIV2x3UHY3bXN5emk5VWd5OHNlOThwZmg4?oc=5\" target=\"_blank\">Large language models in global health</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

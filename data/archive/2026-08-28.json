@@ -1,0 +1,135 @@
+{
+ "items": [
+  {
+   "id": "web-1042-e77b86a974",
+   "source_id": "news",
+   "source_name": "腾讯新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "泰国副总理约查南携手OpenAI推出亚洲首个AI加速器 - 腾讯新闻",
+   "summary": "泰国副总理约查南携手OpenAI推出亚洲首个AI加速器 &nbsp;&nbsp; 腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MNkhtSWV1M2xPOENJbWdoWFltb2Z2Y2JhT25EcDI1MllnMDlBSG5tYk1QbGpNODhSNk8yLUtyc1YyS2RyZlY1U2lSNlh0cm1nSGdHTzBB?oc=5",
+   "published_at": "2026-08-28T17:09:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MNkhtSWV1M2xPOENJbWdoWFltb2Z2Y2JhT25EcDI1MllnMDlBSG5tYk1QbGpNODhSNk8yLUtyc1YyS2RyZlY1U2lSNlh0cm1nSGdHTzBB?oc=5\" target=\"_blank\">泰国副总理约查南携手OpenAI推出亚洲首个AI加速器</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">腾讯新闻</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-424-9340aa5c4d",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Automated researchers can reliably mitigate alignment failures - Anthropic",
+   "summary": "Automated researchers can reliably mitigate alignment failures &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm12QTFLek9sVlhENXNNaFlpUHlnbEl5dDRNZTBCbG1iSUtndjBhaUQ3UGl6N2VOWFppR19kbGhHWjlGaWRnby1BcHNlM0lNLUFaZXVrWV9MTFFOcjg0dmpFcWc0cHkyUTd1d2Z3bjNjaU9FeUQzUnpKbFloc1lRVDRPNjBHQ2JRVDh6cg?oc=5",
+   "published_at": "2026-08-28T17:03:08+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm12QTFLek9sVlhENXNNaFlpUHlnbEl5dDRNZTBCbG1iSUtndjBhaUQ3UGl6N2VOWFppR19kbGhHWjlGaWRnby1BcHNlM0lNLUFaZXVrWV9MTFFOcjg0dmpFcWc0cHkyUTd1d2Z3bjNjaU9FeUQzUnpKbFloc1lRVDRPNjBHQ2JRVDh6cg?oc=5\" target=\"_blank\">Automated researchers can reliably mitigate alignment failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-204-1fd66f2972",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models as uncertainty-calibrated optimizers for experimental discovery - nature.com",
+   "summary": "Large language models as uncertainty-calibrated optimizers for experimental discovery &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WMGNJbzcyZUYyX0VxaXhRbDBNRm9EVTd1S0RISGw2U1VqTE5TYU0zVWlhbzkyOWZ6N3paVUotbGh3RXcza2lXMmVQUUkxTTVvWVhLZFhWNlJqNVVJZDJ3?oc=5",
+   "published_at": "2026-08-28T11:24:16+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WMGNJbzcyZUYyX0VxaXhRbDBNRm9EVTd1S0RISGw2U1VqTE5TYU0zVWlhbzkyOWZ6N3paVUotbGh3RXcza2lXMmVQUUkxTTVvWVhLZFhWNlJqNVVJZDJ3?oc=5\" target=\"_blank\">Large language models as uncertainty-calibrated optimizers for experimental discovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-960-860e91aa67",
+   "source_id": "news",
+   "source_name": "TradingView",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "DHH：AI智能体已可承担80%至100%的编码工作，程序员角色将转向设计与判断 - TradingView",
+   "summary": "DHH：AI智能体已可承担80%至100%的编码工作，程序员角色将转向设计与判断 &nbsp;&nbsp; TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yYzV4YUxUTkpWbm5RY0YwSjdIaUNHQzYzaXpDQjdEWGZ0QUp6bVhSZVZlcUxiQjFSR1pNc3FOS1VJNV9uTXpqNEs4cGhEcUZONkNMYnN3a3NrQzlBRjlUMWNkZUhYZw?oc=5",
+   "published_at": "2026-08-28T10:52:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yYzV4YUxUTkpWbm5RY0YwSjdIaUNHQzYzaXpDQjdEWGZ0QUp6bVhSZVZlcUxiQjFSR1pNc3FOS1VJNV9uTXpqNEs4cGhEcUZONkNMYnN3a3NrQzlBRjlUMWNkZUhYZw?oc=5\" target=\"_blank\">DHH：AI智能体已可承担80%至100%的编码工作，程序员角色将转向设计与判断</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-750-8582aac976",
+   "source_id": "news",
+   "source_name": "93.3 The Drive",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "China’s Tencent releases new open-source AI model for coding, research tasks - 93.3 The Drive",
+   "summary": "China’s Tencent releases new open-source AI model for coding, research tasks &nbsp;&nbsp; 93.3 The Drive",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYk5mWlZwN3FpNS1LTXctT3BqaV9sQVNITXIxZngzejNWZThfWWdrZFJVZFp2Mmtmem5xLUV5SXpmTVl5cWxTcGp1WVRPWkc4ZkdxeWdBYmo0TWk2R09CWHh3OFVMNzVkTldBU3dBUlN5VGdJQVBwMUE4Z1ozV19OUWhCY3dNd3NrUnFRZmtBTU9OUDVuS2pKU0NhS2pPR0hoYTJ4c1F1WEFIVFhDVDduNV9XWE8?oc=5",
+   "published_at": "2026-08-28T09:49:29+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOYk5mWlZwN3FpNS1LTXctT3BqaV9sQVNITXIxZngzejNWZThfWWdrZFJVZFp2Mmtmem5xLUV5SXpmTVl5cWxTcGp1WVRPWkc4ZkdxeWdBYmo0TWk2R09CWHh3OFVMNzVkTldBU3dBUlN5VGdJQVBwMUE4Z1ozV19OUWhCY3dNd3NrUnFRZmtBTU9OUDVuS2pKU0NhS2pPR0hoYTJ4c1F1WEFIVFhDVDduNV9XWE8?oc=5\" target=\"_blank\">China’s Tencent releases new open-source AI model for coding, research tasks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">93.3 The Drive</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-950-c745618c9e",
+   "source_id": "news",
+   "source_name": "新华报业网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "格创东智“制造场景自主智能体”项目获奖，解锁工业 AI自主决策闭环能力 - 新华报业网",
+   "summary": "格创东智“制造场景自主智能体”项目获奖，解锁工业 AI自主决策闭环能力 &nbsp;&nbsp; 新华报业网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NjYzNjl4OTgyNUtHSlZhc3pRX25oOFlNSnBpMlJUYnpIbXdWR2c2TnROclBEUE9uendZYjJRa2g4ZV9lbDFYakRDMXNIa2Mwc2FqY1d5dlkyV05lSFpJUFl1U0otaF9yRE4w?oc=5",
+   "published_at": "2026-08-28T08:44:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA3NjYzNjl4OTgyNUtHSlZhc3pRX25oOFlNSnBpMlJUYnpIbXdWR2c2TnROclBEUE9uendZYjJRa2g4ZV9lbDFYakRDMXNIa2Mwc2FqY1d5dlkyV05lSFpJUFl1U0otaF9yRE4w?oc=5\" target=\"_blank\">格创东智“制造场景自主智能体”项目获奖，解锁工业 AI自主决策闭环能力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

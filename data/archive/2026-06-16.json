@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-223-5c28e20ea6",
+   "source_id": "news",
+   "source_name": "nature.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Leveraging large language models to maintain a branded food product database - nature.com",
+   "summary": "Leveraging large language models to maintain a branded food product database &nbsp;&nbsp; nature.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53RWdxTjV6V0hZZkZxU1NueDhHS1FXX2tTQWxMRGw0aVItbHBMNUNXbkRRbG4wNmdDVmo4Zl85Q19DNUJDX3NKR0xER0k5TDR1eWZYUGg3ZVZaS0VkS3Y4?oc=5",
+   "published_at": "2026-06-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE53RWdxTjV6V0hZZkZxU1NueDhHS1FXX2tTQWxMRGw0aVItbHBMNUNXbkRRbG4wNmdDVmo4Zl85Q19DNUJDX3NKR0xER0k5TDR1eWZYUGg3ZVZaS0VkS3Y4?oc=5\" target=\"_blank\">Leveraging large language models to maintain a branded food product database</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

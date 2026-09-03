@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1041-93b6b02030",
+   "source_id": "news",
+   "source_name": "联合早报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI封禁疑与中国政府有关联的账户 - 联合早报",
+   "summary": "OpenAI封禁疑与中国政府有关联的账户 &nbsp;&nbsp; 联合早报",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wNTdsUlJoeWd6THBCMWx5TEFGdmZuT3VYWG5STGplLVhPeGwxYU1YbUVJVFJ2WEM5Q2dEMm5vMlZnbVY1S2NSTkpxb05ITFN5cWtJWGkwTUZnQUNfRzQ4dXFhelVvS29Qa0E?oc=5",
+   "published_at": "2025-10-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8wNTdsUlJoeWd6THBCMWx5TEFGdmZuT3VYWG5STGplLVhPeGwxYU1YbUVJVFJ2WEM5Q2dEMm5vMlZnbVY1S2NSTkpxb05ITFN5cWtJWGkwTUZnQUNfRzQ4dXFhelVvS29Qa0E?oc=5\" target=\"_blank\">OpenAI封禁疑与中国政府有关联的账户</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-789-60125c5961",
+   "source_id": "news",
+   "source_name": "BBC",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic - BBC",
+   "summary": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic &nbsp;&nbsp; BBC",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRWRCTzZXLWRlVV9jYTRzN3ktc1lFLWExbVlPa09HSVEwR0VyVWhxYkcxNG5mRUVHcDdGRVFaQ0hoOU95OHQ5ZmtRWkYxcnh6Z2dkYUowZ0FmQQ?oc=5",
+   "published_at": "2026-07-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRWRCTzZXLWRlVV9jYTRzN3ktc1lFLWExbVlPa09HSVEwR0VyVWhxYkcxNG5mRUVHcDdGRVFaQ0hoOU95OHQ5ZmtRWkYxcnh6Z2dkYUowZ0FmQQ?oc=5\" target=\"_blank\">China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

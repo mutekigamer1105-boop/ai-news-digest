@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-793-c526693c72",
+   "source_id": "news",
+   "source_name": "Global Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Alibaba’s open-source AI model Qwen overtakes Meta, Google to claim top spot globally: report - Global Times",
+   "summary": "Alibaba’s open-source AI model Qwen overtakes Meta, Google to claim top spot globally: report &nbsp;&nbsp; Global Times",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBENmJOcWJDcGR0blh0cDlCQkk1bmw4a0s1NGZ3TVphR1A0bU1YWlBJbVFfaWFpc1dLeU1JQWJmNjZlN0F3ZmRSR3VZc0w2Z2w4dWpsdlpKWTJFTzZYdzRXRUxn?oc=5",
+   "published_at": "2026-08-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBENmJOcWJDcGR0blh0cDlCQkk1bmw4a0s1NGZ3TVphR1A0bU1YWlBJbVFfaWFpc1dLeU1JQWJmNjZlN0F3ZmRSR3VZc0w2Z2w4dWpsdlpKWTJFTzZYdzRXRUxn?oc=5\" target=\"_blank\">Alibaba’s open-source AI model Qwen overtakes Meta, Google to claim top spot globally: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Times</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-881-0c6866df25",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Anthropic营收暴增13倍+实现盈利 AI大模型迈入\"赚钱\"阶段 - 财联社",
+   "summary": "Anthropic营收暴增13倍+实现盈利 AI大模型迈入\"赚钱\"阶段 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GVDRWNHhJaTdtME9kN3BNUGxaV1R5TGdwUUNkcTJvT0FfZTZXNW1lWnlNaFlGY0VWQmlaWW1BbjZIeVA3REE?oc=5",
+   "published_at": "2026-08-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GVDRWNHhJaTdtME9kN3BNUGxaV1R5TGdwUUNkcTJvT0FfZTZXNW1lWnlNaFlGY0VWQmlaWW1BbjZIeVA3REE?oc=5\" target=\"_blank\">Anthropic营收暴增13倍+实现盈利 AI大模型迈入\"赚钱\"阶段</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

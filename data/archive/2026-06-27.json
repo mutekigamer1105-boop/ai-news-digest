@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-760-d0cdb2968d",
+   "source_id": "news",
+   "source_name": "dw.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "US allows partial release of Anthropic's Mythos AI model - dw.com",
+   "summary": "US allows partial release of Anthropic's Mythos AI model &nbsp;&nbsp; dw.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNblZFRGxOS2hwck8tVnBHOHZ4MXdFLUFyR0IxTFpxY2hTR1FLMG1mcTJJeXF6MjJZMXQxQk0xTy1saUR6WExGblVRcFRXTU8wMEQ0ZmRaWTd2NEd4b01SZWJjeGtmMDVQMUZ3MDFYSVBzTEh5N0twbklVZmUyaGd4Yk9xU01fbklXMExaLW9HLVhSd9IBkgFBVV95cUxOSVAyLVN4NVdYOFNLRWEtUDRKaXBpeEFLNkdrZGVHWU5BWXlFR2xvbnU3UUw1VTl3LVNBZDJhVFJISGtLUkV2V2V5Rk04QWlMc1dDOVByWlBSNWlfZ2tLczE5cUFNUlB6SW5USTkwbnVwNGtZY2t1akNJWU1oYmZJX0JSXzJSNHlZVkx0YUhadmhQUQ?oc=5",
+   "published_at": "2026-06-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNblZFRGxOS2hwck8tVnBHOHZ4MXdFLUFyR0IxTFpxY2hTR1FLMG1mcTJJeXF6MjJZMXQxQk0xTy1saUR6WExGblVRcFRXTU8wMEQ0ZmRaWTd2NEd4b01SZWJjeGtmMDVQMUZ3MDFYSVBzTEh5N0twbklVZmUyaGd4Yk9xU01fbklXMExaLW9HLVhSd9IBkgFBVV95cUxOSVAyLVN4NVdYOFNLRWEtUDRKaXBpeEFLNkdrZGVHWU5BWXlFR2xvbnU3UUw1VTl3LVNBZDJhVFJISGtLUkV2V2V5Rk04QWlMc1dDOVByWlBSNWlfZ2tLczE5cUFNUlB6SW5USTkwbnVwNGtZY2t1akNJWU1oYmZJX0JSXzJSNHlZVkx0YUhadmhQUQ?oc=5\" target=\"_blank\">US allows partial release of Anthropic's Mythos AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-778-0982abda14",
+   "source_id": "news",
+   "source_name": "arkansasonline.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI restricting release of new model - arkansasonline.com",
+   "summary": "OpenAI restricting release of new model &nbsp;&nbsp; arkansasonline.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdDNtcFBZS0dCUGJwOTFlYWdSSUNFbVpucmtjYXc3MWNtZmtWcXBSLWJmNi1DVkQtRThzTTJQMzI3cDVRYjd4aDlWZ0tXalkwdmJLV1NMRzRocGlFMjRyTGVPN3g2SDh6N2pHVWdOSnBaNTNPQ1ZXZjdoei0tVWlGME9QbVFxTF9GSUlGUXc1bHFpdw?oc=5",
+   "published_at": "2026-06-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdDNtcFBZS0dCUGJwOTFlYWdSSUNFbVpucmtjYXc3MWNtZmtWcXBSLWJmNi1DVkQtRThzTTJQMzI3cDVRYjd4aDlWZ0tXalkwdmJLV1NMRzRocGlFMjRyTGVPN3g2SDh6N2pHVWdOSnBaNTNPQ1ZXZjdoei0tVWlGME9QbVFxTF9GSUlGUXc1bHFpdw?oc=5\" target=\"_blank\">OpenAI restricting release of new model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">arkansasonline.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

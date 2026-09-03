@@ -1,0 +1,92 @@
+{
+ "items": [
+  {
+   "id": "web-973-13f8ded511",
+   "source_id": "news",
+   "source_name": "InfoQ-CN",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "将 Pod 作为 worker 而非智能体：在 Kubernetes 上重新思考 AI 智能体的部署单元 - InfoQ-CN",
+   "summary": "将 Pod 作为 worker 而非智能体：在 Kubernetes 上重新思考 AI 智能体的部署单元 &nbsp;&nbsp; InfoQ-CN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FYThiTG5CSGJYOXNJOVhsekJkR2szWUxZM25QNU9pV25QZWdYSjN2V0ktTWFjVWVoQmRsNVZlWjRRNFZ6bk55R3pVRVF6UFNCSmJDdWJ5U0E2cFpnOXc?oc=5",
+   "published_at": "2026-08-20T16:45:04+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FYThiTG5CSGJYOXNJOVhsekJkR2szWUxZM25QNU9pV25QZWdYSjN2V0ktTWFjVWVoQmRsNVZlWjRRNFZ6bk55R3pVRVF6UFNCSmJDdWJ5U0E2cFpnOXc?oc=5\" target=\"_blank\">将 Pod 作为 worker 而非智能体：在 Kubernetes 上重新思考 AI 智能体的部署单元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ-CN</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-969-8faeed1ce7",
+   "source_id": "news",
+   "source_name": "secrss.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "美国陆军部双线推进AI智能体网络防御体系建设 - secrss.com",
+   "summary": "美国陆军部双线推进AI智能体网络防御体系建设 &nbsp;&nbsp; secrss.com",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYVzJXTkRvbUlIN0VVWk04bThGX0FtSFM5YXk0MFhGTW83Tms0MWNqeURjV3BhUlZyb01rZFZHNGh4alAwb1NkcnFwVUNyUQ?oc=5",
+   "published_at": "2026-08-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYVzJXTkRvbUlIN0VVWk04bThGX0FtSFM5YXk0MFhGTW83Tms0MWNqeURjV3BhUlZyb01rZFZHNGh4alAwb1NkcnFwVUNyUQ?oc=5\" target=\"_blank\">美国陆军部双线推进AI智能体网络防御体系建设</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">secrss.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-975-19925d1beb",
+   "source_id": "news",
+   "source_name": "Moomoo",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "到2033年，智能体AI市场规模将达到$2,058.8亿——MarketsandMarkets报告 - Moomoo",
+   "summary": "到2033年，智能体AI市场规模将达到$2,058.8亿——MarketsandMarkets报告 &nbsp;&nbsp; Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMmtxckkxYkJwbnQySGxVQkZ6N2ZjRVpkZ3ZuRDFMZlpVZzItV1NPaTlJdWNMaG1pV0tIWXctU29BY2N6VjRmcFhmUmlKNTE1LVNGREptTURzRFF2YWpRZnZTWVU5Q0J3cjdRWEtGcVBPd3liS3lhU01hM2NfT2xLUHlDWmhEUFA5TGNzS29iaVFfWWdDRk5WeHJwM1dKbnROcFE?oc=5",
+   "published_at": "2026-08-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOMmtxckkxYkJwbnQySGxVQkZ6N2ZjRVpkZ3ZuRDFMZlpVZzItV1NPaTlJdWNMaG1pV0tIWXctU29BY2N6VjRmcFhmUmlKNTE1LVNGREptTURzRFF2YWpRZnZTWVU5Q0J3cjdRWEtGcVBPd3liS3lhU01hM2NfT2xLUHlDWmhEUFA5TGNzS29iaVFfWWdDRk5WeHJwM1dKbnROcFE?oc=5\" target=\"_blank\">到2033年，智能体AI市场规模将达到$2,058.8亿——MarketsandMarkets报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-182-d154c6a3bb",
+   "source_id": "news",
+   "source_name": "AdExchanger",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "I Used An AI Agent To Do My Back-To-School Shopping. It Was Easy. So Why Do I Feel Sad? - AdExchanger",
+   "summary": "I Used An AI Agent To Do My Back-To-School Shopping. It Was Easy. So Why Do I Feel Sad? &nbsp;&nbsp; AdExchanger",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcXBvd0M0U1JqcEt4dmdDZmlvaVVlWGMwa08xVzI2Z3JQWUVNaUpaZUlSeUhKdU1peEZ4YlpGMXY3cGdoVHd2RlF3MXM2VEh4RjN4aG1QVXVJcGlzVEZQMlNUM3p0MzdvRE5SSlBvMkpKelpPZ1daSEU3TGJJOHRQUE4zSHZ5N2tEOC03RllkUi1jM2VqZDdPRFFLQTg3R0txWWJWSklXaEtCeW5zLUNPWHlKQ2x1d2xvZVlpZ2k2aWYtbk1OZ2N6Tk93WlNEdXM?oc=5",
+   "published_at": "2026-08-20T04:35:35+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNcXBvd0M0U1JqcEt4dmdDZmlvaVVlWGMwa08xVzI2Z3JQWUVNaUpaZUlSeUhKdU1peEZ4YlpGMXY3cGdoVHd2RlF3MXM2VEh4RjN4aG1QVXVJcGlzVEZQMlNUM3p0MzdvRE5SSlBvMkpKelpPZ1daSEU3TGJJOHRQUE4zSHZ5N2tEOC03RllkUi1jM2VqZDdPRFFLQTg3R0txWWJWSklXaEtCeW5zLUNPWHlKQ2x1d2xvZVlpZ2k2aWYtbk1OZ2N6Tk93WlNEdXM?oc=5\" target=\"_blank\">I Used An AI Agent To Do My Back-To-School Shopping. It Was Easy. So Why Do I Feel Sad?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AdExchanger</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

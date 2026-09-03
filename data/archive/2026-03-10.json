@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-241-0c8f9c436d",
+   "source_id": "news",
+   "source_name": "Cornell Chronicle",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Testing large language models on scientific literature - Cornell Chronicle",
+   "summary": "Testing large language models on scientific literature &nbsp;&nbsp; Cornell Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1NuUldXRS1kVGk1cEQ5aUc4RGl6TG9SVjNBSkk5bnBzb2ZLeHcwTk82d2x4aUxWMlY4bjAtYmlaVDhndkU4VWVRVlJ4ZW5keGNnSFJvb0E2Tk8xa0ZhY3ZGY01oXzZHQm9sOFBXUXgyRmNlc19sM1hBXy04dXJzcFAzUUxsMS01X2k2NklKdmRDNnlVRFpV?oc=5",
+   "published_at": "2026-03-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1NuUldXRS1kVGk1cEQ5aUc4RGl6TG9SVjNBSkk5bnBzb2ZLeHcwTk82d2x4aUxWMlY4bjAtYmlaVDhndkU4VWVRVlJ4ZW5keGNnSFJvb0E2Tk8xa0ZhY3ZGY01oXzZHQm9sOFBXUXgyRmNlc19sM1hBXy04dXJzcFAzUUxsMS01X2k2NklKdmRDNnlVRFpV?oc=5\" target=\"_blank\">Testing large language models on scientific literature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cornell Chronicle</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-700-585b1431c4",
+   "source_id": "news",
+   "source_name": "observer.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Yann LeCun’s Paris A.I. Startup AMI Labs Raises Record $1B Seed Round - observer.com",
+   "summary": "Yann LeCun’s Paris A.I. Startup AMI Labs Raises Record $1B Seed Round &nbsp;&nbsp; observer.com",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fMXc4ZHlmb1g2RTRZcHJlcjZGX05QWFRmNXZhNF9vYU50emU1VEJ5RVRkeFlQc2dLcmEybW9QYzZBdi1HcHh4XzU4OWFBbWIzdmN1UVF5QXpOTzh6dFMtZm1vanZBSGhxMzctWFBvYkRCWU9JdW1LaEV4RQ?oc=5",
+   "published_at": "2026-03-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9fMXc4ZHlmb1g2RTRZcHJlcjZGX05QWFRmNXZhNF9vYU50emU1VEJ5RVRkeFlQc2dLcmEybW9QYzZBdi1HcHh4XzU4OWFBbWIzdmN1UVF5QXpOTzh6dFMtZm1vanZBSGhxMzctWFBvYkRCWU9JdW1LaEV4RQ?oc=5\" target=\"_blank\">Yann LeCun’s Paris A.I. Startup AMI Labs Raises Record $1B Seed Round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">observer.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "id": "web-1062-2974464c72",
+   "source_id": "news",
+   "source_name": "cnBeta.COM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "GPT-4o的中文词元训练数据被发现受到垃圾信息和色情内容的污染 - AI 人工智能 - cnBeta.COM",
+   "summary": "GPT-4o的中文词元训练数据被发现受到垃圾信息和色情内容的污染 - AI 人工智能 &nbsp;&nbsp; cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5temEzMWxucTlDdldrd3AxOW5ITmpZSUVHTFFFcTlpT2ZKS0wydWxCMkt0X2xfZTMzVGlFTVhybm8zUE5tTTY2VW82TXMwa3ZtQUUtdW5KV1o5cUxlTjhaZQ?oc=5",
+   "published_at": "2024-05-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5temEzMWxucTlDdldrd3AxOW5ITmpZSUVHTFFFcTlpT2ZKS0wydWxCMkt0X2xfZTMzVGlFTVhybm8zUE5tTTY2VW82TXMwa3ZtQUUtdW5KV1o5cUxlTjhaZQ?oc=5\" target=\"_blank\">GPT-4o的中文词元训练数据被发现受到垃圾信息和色情内容的污染 - AI 人工智能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnBeta.COM</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

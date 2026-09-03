@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1025-fae229710b",
+   "source_id": "news",
+   "source_name": "纽约时报中文网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI称中国使用人工智能打造监控工具 - 纽约时报中文网",
+   "summary": "OpenAI称中国使用人工智能打造监控工具 &nbsp;&nbsp; 纽约时报中文网",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52OGJwc3AtLWw3aDFKdmRwdlp4NFExV0U0cjhHYnBjMmxWaGlXdVRUYXo2NUZMZXFYZGp6ZEJ6VkJDcFF1WTZjcUZkMDh1TTBOSURMOGlKbjIwMGs1TVVyenZaTHd3ZzFmSkNBM0JScXBCc3d4LTRrV3lwbw?oc=5",
+   "published_at": "2025-02-24T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE52OGJwc3AtLWw3aDFKdmRwdlp4NFExV0U0cjhHYnBjMmxWaGlXdVRUYXo2NUZMZXFYZGp6ZEJ6VkJDcFF1WTZjcUZkMDh1TTBOSURMOGlKbjIwMGs1TVVyenZaTHd3ZzFmSkNBM0JScXBCc3d4LTRrV3lwbw?oc=5\" target=\"_blank\">OpenAI称中国使用人工智能打造监控工具</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

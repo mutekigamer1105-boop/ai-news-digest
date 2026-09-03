@@ -1,0 +1,71 @@
+{
+ "items": [
+  {
+   "id": "web-777-43777c4c86",
+   "source_id": "news",
+   "source_name": "Forbes",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meta Turns Muse Glimmer Into A Local AI Model That Undercuts The Cloud - Forbes",
+   "summary": "Meta Turns Muse Glimmer Into A Local AI Model That Undercuts The Cloud &nbsp;&nbsp; Forbes",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQODZscDVERk9raHNKR09HTEZQdVBVZ010dHRMd0Y0YXlhRGJTVDhzc1ZfSzdkZUtDQXB2c1E0aGFqdkZyVkFiRzUxLTJ6U05Jd0lXSUJOQkQ2UUhndUp1QkxuaVlvY0cyaVp0Q2tQaXVBb3FuR2lXaXZXU1FFakY2UmNsZ0hQRHdrd005bDczZlRqaUNJTG1lRml3WWR4ck5pS2tWRUxjYnp0eGN6OUo4NG1CVFdwcTR2b0daNw?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQODZscDVERk9raHNKR09HTEZQdVBVZ010dHRMd0Y0YXlhRGJTVDhzc1ZfSzdkZUtDQXB2c1E0aGFqdkZyVkFiRzUxLTJ6U05Jd0lXSUJOQkQ2UUhndUp1QkxuaVlvY0cyaVp0Q2tQaXVBb3FuR2lXaXZXU1FFakY2UmNsZ0hQRHdrd005bDczZlRqaUNJTG1lRml3WWR4ck5pS2tWRUxjYnp0eGN6OUo4NG1CVFdwcTR2b0daNw?oc=5\" target=\"_blank\">Meta Turns Muse Glimmer Into A Local AI Model That Undercuts The Cloud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-781-3bc3480f09",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Nvidia unveils first open-source AI model since CEO Jensen Huang entered the chat - CNBC",
+   "summary": "Nvidia unveils first open-source AI model since CEO Jensen Huang entered the chat &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUxCN2ozelhOLWlNMTRrN2ozd0VFaG5ITEowei04ZmIyN3JNQWtsWnhDZDEwb2pGOUZkSEpqaEY5UHJ4MjhJTWdjUnZqNFR2VzB2aHJJZDI0Y21JcDlXc1NndnVhWVVYZ1hnMGs2Wk5LVkRnU2pvc3E5dDJxT2Y5V0hjSzNXZ2NGanI1V3BTQm4tbWpxcUtuRXhYcmZ1TngtU2ZZ0gGoAUFVX3lxTFB1SFY2eVJxS0twek9TQ0hoeTVoZjdSM0NLRThfYVV0NHJBbTc3emI4OFZUVHo4UTIybmFtZUdYeDM0UDB1ZURCNWl5Y0xVUkdScHRPRDh1UDBEU3FBY3JCMWwwZllDU01zRDdCVUZXVGxUbG9GWjhDd3VnMmF0dFlWaUh3MXBaeGNHQ0l6WFV6UlprNVV5VmFmc01QaUNFanVvejI0bnM4MQ?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUxCN2ozelhOLWlNMTRrN2ozd0VFaG5ITEowei04ZmIyN3JNQWtsWnhDZDEwb2pGOUZkSEpqaEY5UHJ4MjhJTWdjUnZqNFR2VzB2aHJJZDI0Y21JcDlXc1NndnVhWVVYZ1hnMGs2Wk5LVkRnU2pvc3E5dDJxT2Y5V0hjSzNXZ2NGanI1V3BTQm4tbWpxcUtuRXhYcmZ1TngtU2ZZ0gGoAUFVX3lxTFB1SFY2eVJxS0twek9TQ0hoeTVoZjdSM0NLRThfYVV0NHJBbTc3emI4OFZUVHo4UTIybmFtZUdYeDM0UDB1ZURCNWl5Y0xVUkdScHRPRDh1UDBEU3FBY3JCMWwwZllDU01zRDdCVUZXVGxUbG9GWjhDd3VnMmF0dFlWaUh3MXBaeGNHQ0l6WFV6UlprNVV5VmFmc01QaUNFanVvejI0bnM4MQ?oc=5\" target=\"_blank\">Nvidia unveils first open-source AI model since CEO Jensen Huang entered the chat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-826-607402ffed",
+   "source_id": "news",
+   "source_name": "新华网客户端",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "为什么中国大模型便宜又好用？ - 新华网客户端",
+   "summary": "为什么中国大模型便宜又好用？ &nbsp;&nbsp; 新华网客户端",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZExhZzBHdTExZnJwTlN5SjUxZHNWb0xyMTk1SDhvbFRWcXNXajk3Snowb0VUelpES0JTYkVTNmdFMGU3d0Q0bFMxWjFkTnJ1d2phd2w3YlVfV1o4WnBaOVU3TG9WbU1URU1iLXpCOHE2SGlNbVV1Zk8xSm4tRFNZanA1WHFoQ0pSLXVNUjFHcTJod3F2ZjJ6REV3?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZExhZzBHdTExZnJwTlN5SjUxZHNWb0xyMTk1SDhvbFRWcXNXajk3Snowb0VUelpES0JTYkVTNmdFMGU3d0Q0bFMxWjFkTnJ1d2phd2w3YlVfV1o4WnBaOVU3TG9WbU1URU1iLXpCOHE2SGlNbVV1Zk8xSm4tRFNZanA1WHFoQ0pSLXVNUjFHcTJod3F2ZjJ6REV3?oc=5\" target=\"_blank\">为什么中国大模型便宜又好用？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网客户端</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

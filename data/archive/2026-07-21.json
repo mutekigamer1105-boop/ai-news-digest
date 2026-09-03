@@ -1,0 +1,93 @@
+{
+ "items": [
+  {
+   "id": "web-293-eb90a900af",
+   "source_id": "news",
+   "source_name": "36 Kr",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Are Large Language Models Getting Smaller? Key Trends, Benefits and Real-World Use Cases in 2024 - 36 Kr",
+   "summary": "Are Large Language Models Getting Smaller? Key Trends, Benefits and Real-World Use Cases in 2024 &nbsp;&nbsp; 36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kLTgzRGF1aGh5UkJzcVJwQ29qSVUtUDJibTRhSTlURDhNQUcyUjJxMGpHS2ZZWnk0LWFkNndBRFEyNl8ybVFTYnBnaDgyOVljZHIw?oc=5",
+   "published_at": "2026-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kLTgzRGF1aGh5UkJzcVJwQ29qSVUtUDJibTRhSTlURDhNQUcyUjJxMGpHS2ZZWnk0LWFkNndBRFEyNl8ybVFTYnBnaDgyOVljZHIw?oc=5\" target=\"_blank\">Are Large Language Models Getting Smaller? Key Trends, Benefits and Real-World Use Cases in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-747-a4f128344d",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Google releases series of new cheaper Gemini models - Axios",
+   "summary": "Google releases series of new cheaper Gemini models &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RU3d0SjI4RDhqRmVpWngySnBYYWRQYWE3X3EyMU1nck9OdzZoaDV0bldOcHJzUFAzcUdMQUdpb041VUNOY2cyd3NGeENiT05Rd0VISm5WdHFkdndRSEp0MkI1V0xkcnM?oc=5",
+   "published_at": "2026-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "demis-hassabis",
+   "builder_name": "Demis Hassabis",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RU3d0SjI4RDhqRmVpWngySnBYYWRQYWE3X3EyMU1nck9OdzZoaDV0bldOcHJzUFAzcUdMQUdpb041VUNOY2cyd3NGeENiT05Rd0VISm5WdHFkdndRSEp0MkI1V0xkcnM?oc=5\" target=\"_blank\">Google releases series of new cheaper Gemini models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-751-06915087e7",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
+   "summary": "OpenAI and Hugging Face partner to address security incident during model evaluation &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5",
+   "published_at": "2026-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5\" target=\"_blank\">OpenAI and Hugging Face partner to address security incident during model evaluation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-892-75603bbc1f",
+   "source_id": "news",
+   "source_name": "京报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "从DeepSeek到Kimi：中国AI大模型群星闪耀时 - 京报网",
+   "summary": "从DeepSeek到Kimi：中国AI大模型群星闪耀时 &nbsp;&nbsp; 京报网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sZVJkZFhfQ3RDWFl6bHEwcFJwZFM0ZUJ5SmFSTHduZGlCM0MzZDc3SHlZY1JORU16cVd0R3RNVG5PbUNpMXBIUGE5M2hPYjdNaGg5YVh1RFV2bUNwNVREN0VmRXJqQlNWbDRPdnF3Sng4Zw?oc=5",
+   "published_at": "2026-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9sZVJkZFhfQ3RDWFl6bHEwcFJwZFM0ZUJ5SmFSTHduZGlCM0MzZDc3SHlZY1JORU16cVd0R3RNVG5PbUNpMXBIUGE5M2hPYjdNaGg5YVh1RFV2bUNwNVREN0VmRXJqQlNWbDRPdnF3Sng4Zw?oc=5\" target=\"_blank\">从DeepSeek到Kimi：中国AI大模型群星闪耀时</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

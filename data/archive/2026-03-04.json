@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-246-f59358d53d",
+   "source_id": "news",
+   "source_name": "Communications of the ACM",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Measuring What Matters in Large Language Model Performance - Communications of the ACM",
+   "summary": "Measuring What Matters in Large Language Model Performance &nbsp;&nbsp; Communications of the ACM",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZm1nMTN0djQ3QjZXTkR1dEdyV01naU9manE0cUgzdzhXZGxuZ3FFTHBXLVB4dWVMSnBDLWZOVUZtb2VRNmhGbmYxSHc3TzBiUkt0aE80Zkt2cTJkQlY1QTM4SHItSUZ1eUdtWXdnN3k3SXRMT0JPWHE1d2syRkdLcVhJUmQ1RFJ5OGVJRzVn?oc=5",
+   "published_at": "2026-03-04T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZm1nMTN0djQ3QjZXTkR1dEdyV01naU9manE0cUgzdzhXZGxuZ3FFTHBXLVB4dWVMSnBDLWZOVUZtb2VRNmhGbmYxSHc3TzBiUkt0aE80Zkt2cTJkQlY1QTM4SHItSUZ1eUdtWXdnN3k3SXRMT0JPWHE1d2syRkdLcVhJUmQ1RFJ5OGVJRzVn?oc=5\" target=\"_blank\">Measuring What Matters in Large Language Model Performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications of the ACM</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-275-93581205c5",
+   "source_id": "news",
+   "source_name": "BioPharm International",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Transforming Drug Safety Through Artificial Intelligence, Large Language Models - BioPharm International",
+   "summary": "Transforming Drug Safety Through Artificial Intelligence, Large Language Models &nbsp;&nbsp; BioPharm International",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2xVRFIzS3dfdkozNW9xakV3LWlYWUNyZklQMjRhTWtidlRSTWRmcGNDWC00eTY2cWhzVXlBUHJTbkh4ZlRuZVc1S3ZCR2NMc2taSDUyYkpaVW9neUE1NERJQlFJRjQzRlJBeDVwQ2kwYWlLUmJpUDViWHI5LUVEWjVpN2RUblMwSUdfMkFTUGYwOC1QU2ZmTVV0WG9zczVrV3c?oc=5",
+   "published_at": "2026-03-04T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2xVRFIzS3dfdkozNW9xakV3LWlYWUNyZklQMjRhTWtidlRSTWRmcGNDWC00eTY2cWhzVXlBUHJTbkh4ZlRuZVc1S3ZCR2NMc2taSDUyYkpaVW9neUE1NERJQlFJRjQzRlJBeDVwQ2kwYWlLUmJpUDViWHI5LUVEWjVpN2RUblMwSUdfMkFTUGYwOC1QU2ZmTVV0WG9zczVrV3c?oc=5\" target=\"_blank\">Transforming Drug Safety Through Artificial Intelligence, Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioPharm International</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

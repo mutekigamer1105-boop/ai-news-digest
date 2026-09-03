@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-1006-6cc0d12ecb",
+   "source_id": "news",
+   "source_name": "36kr.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "那个在OpenAI修中文的人 - 36kr.com",
+   "summary": "那个在OpenAI修中文的人 &nbsp;&nbsp; 36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oYXhIVHUxNVlINF9rN1pmVVp2bjI1cHcxLU90cF9tS2ZxQkJNUW5PMS1UWXQ2amxFVHJYWHI4RkY3Tk82eXVlLUVsSUQ4dw?oc=5",
+   "published_at": "2026-05-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oYXhIVHUxNVlINF9rN1pmVVp2bjI1cHcxLU90cF9tS2ZxQkJNUW5PMS1UWXQ2amxFVHJYWHI4RkY3Tk82eXVlLUVsSUQ4dw?oc=5\" target=\"_blank\">那个在OpenAI修中文的人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36kr.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1008-aff6a5d07d",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "我在OpenAI修中文 - 新浪财经",
+   "summary": "我在OpenAI修中文 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZT0Z6MTYwSnd2Q1JXZ1V6azRpNFlaM2ZoWm1kZjg0VWVFLXdrbUNOX2l1eHNMRXk4TlV6YWNmRlZlR2F4OXNsc2NSTnozcjNqbEZzUDJUeUxrbVlybHRrN0x1SVMyVXY2SFFacE1YYlF3TDR0dklyZmhnWWs0LUE?oc=5",
+   "published_at": "2026-05-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZT0Z6MTYwSnd2Q1JXZ1V6azRpNFlaM2ZoWm1kZjg0VWVFLXdrbUNOX2l1eHNMRXk4TlV6YWNmRlZlR2F4OXNsc2NSTnozcjNqbEZzUDJUeUxrbVlybHRrN0x1SVMyVXY2SFFacE1YYlF3TDR0dklyZmhnWWs0LUE?oc=5\" target=\"_blank\">我在OpenAI修中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

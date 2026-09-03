@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-800-2a5ab2b0ca",
+   "source_id": "hn",
+   "source_name": "Hacker News",
+   "source_type": "community",
+   "source_lang": "en",
+   "source_credibility": 0.72,
+   "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark - The Hacker News",
+   "summary": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark &nbsp;&nbsp; The Hacker News",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEZSWUM1OVg0aXp4TlozWktBWHBrZ2hXcDFRM3VTc3ZJMTVfVGJjV0dRWnhIU0d5SU9fVlpKVmFvYXdHd2hHNTZwUjIyUkhXMzFDUFdLV21JQkM2dDFkZFpPS2NOS3p1Nk1henN5cFFiSUVtTkVUM3RBUy1MTTc4QTV3?oc=5",
+   "published_at": "2026-07-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEZSWUM1OVg0aXp4TlozWktBWHBrZ2hXcDFRM3VTc3ZJMTVfVGJjV0dRWnhIU0d5SU9fVlpKVmFvYXdHd2hHNTZwUjIyUkhXMzFDUFdLV21JQkM2dDFkZFpPS2NOS3p1Nk1henN5cFFiSUVtTkVUM3RBUy1MTTc4QTV3?oc=5\" target=\"_blank\">OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-873-96d335d600",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证 - 财联社",
+   "summary": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iR0o0dGJGVzJPS01CSkdteVcxeUJ1YWEtNTJOMWxQcUZVbFBVRU40dmd2Sm83OWVGYW5waEp6WERsSlo1Y3J0WQ?oc=5",
+   "published_at": "2026-07-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iR0o0dGJGVzJPS01CSkdteVcxeUJ1YWEtNTJOMWxQcUZVbFBVRU40dmd2Sm83OWVGYW5waEp6WERsSlo1Y3J0WQ?oc=5\" target=\"_blank\">史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

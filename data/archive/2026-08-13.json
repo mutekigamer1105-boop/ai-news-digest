@@ -1,0 +1,47 @@
+{
+ "items": [
+  {
+   "id": "web-985-610f6ca089",
+   "source_id": "news",
+   "source_name": "cnr.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "合肥西站推出AI智能体“合小西” - cnr.cn",
+   "summary": "合肥西站推出AI智能体“合小西” &nbsp;&nbsp; cnr.cn",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tYkFpWmRjc0lYbXplQ3dLV01qSVpfZVQtaDBVUDBhb3BZeTVtWHJlRFB2enVONzItUWFwTFNGNWhLcEJ1ejFDX2RpVnJMUHo4LURmQVY4NzF6TnV1NDU5bWo3UHdDZnhBd2hJNENB?oc=5",
+   "published_at": "2026-08-13T14:05:08+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1tYkFpWmRjc0lYbXplQ3dLV01qSVpfZVQtaDBVUDBhb3BZeTVtWHJlRFB2enVONzItUWFwTFNGNWhLcEJ1ejFDX2RpVnJMUHo4LURmQVY4NzF6TnV1NDU5bWo3UHdDZnhBd2hJNENB?oc=5\" target=\"_blank\">合肥西站推出AI智能体“合小西”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnr.cn</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-469-cc862d2712",
+   "source_id": "news",
+   "source_name": "Forbes",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic’s Claude Adds Invisible Watermarks To AI-Generated Text - Forbes",
+   "summary": "Anthropic’s Claude Adds Invisible Watermarks To AI-Generated Text &nbsp;&nbsp; Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHY4Rmg0RlpBc095UkFYTThPV0xfTDdmLTVETWtiaTk3cWhIMTZVVUI3WjRsVmlPUk9uSDJ2UmZPbUcyTG5JMjV5V0poZ2hWRURCOEpiUlQ0WkZ3MlhTTEw1S2d1NzU4eUZjS1kwakVIbGNvUzExajFzMDhKTFJEaFhtSlYzcVVCYjhYT2FxZ0N3NTBzWTVTU0lUcV8yeXphcWhXbVZpMTdwZjhTVUk3dDBiRUhndVN1WVRCME5UdDY0cnlfamxsamd0Zw?oc=5",
+   "published_at": "2026-08-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHY4Rmg0RlpBc095UkFYTThPV0xfTDdmLTVETWtiaTk3cWhIMTZVVUI3WjRsVmlPUk9uSDJ2UmZPbUcyTG5JMjV5V0poZ2hWRURCOEpiUlQ0WkZ3MlhTTEw1S2d1NzU4eUZjS1kwakVIbGNvUzExajFzMDhKTFJEaFhtSlYzcVVCYjhYT2FxZ0N3NTBzWTVTU0lUcV8yeXphcWhXbVZpMTdwZjhTVUk3dDBiRUhndVN1WVRCME5UdDY0cnlfamxsamd0Zw?oc=5\" target=\"_blank\">Anthropic’s Claude Adds Invisible Watermarks To AI-Generated Text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

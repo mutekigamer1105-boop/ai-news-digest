@@ -1,0 +1,71 @@
+{
+ "items": [
+  {
+   "id": "web-648-1cb9d85a67",
+   "source_id": "news",
+   "source_name": "disruptafrica.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "SA AI startup Verascient raises $1.2m pre-seed funding to help companies build better teams - disruptafrica.com",
+   "summary": "SA AI startup Verascient raises $1.2m pre-seed funding to help companies build better teams &nbsp;&nbsp; disruptafrica.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNldsMGE1Q0ZlbmdtbUhPVGU2dFJfTGgxUGNnQXF1bFRENW9QZmpPcWZPUnhyUzdxUkpXMWZzblJ6TWUtUjhmZGZtcTdKTXNUOUxwcTJ5dFMwYm4tal9hR0cxTW5UbUtJa1RGVFhBTC1xTmR0ekxUMXVsdXMxYkI5dzdHVTMteXc3cGs2MndjYjlYcTJwelFpMFEwNmt2VWZKTldlR3FucU5iVFg3NDhCTHlpenVpdGJNWF9F?oc=5",
+   "published_at": "2026-08-25T09:00:55+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNldsMGE1Q0ZlbmdtbUhPVGU2dFJfTGgxUGNnQXF1bFRENW9QZmpPcWZPUnhyUzdxUkpXMWZzblJ6TWUtUjhmZGZtcTdKTXNUOUxwcTJ5dFMwYm4tal9hR0cxTW5UbUtJa1RGVFhBTC1xTmR0ekxUMXVsdXMxYkI5dzdHVTMteXc3cGs2MndjYjlYcTJwelFpMFEwNmt2VWZKTldlR3FucU5iVFg3NDhCTHlpenVpdGJNWF9F?oc=5\" target=\"_blank\">SA AI startup Verascient raises $1.2m pre-seed funding to help companies build better teams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">disruptafrica.com</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-855-49153a7ac3",
+   "source_id": "news",
+   "source_name": "观点网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenRouter：全球AI大模型周调用量93.4万亿Token 首破90万亿 - 观点网",
+   "summary": "OpenRouter：全球AI大模型周调用量93.4万亿Token 首破90万亿 &nbsp;&nbsp; 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kV1BmX3g0QWtsTHhjTHdZMVdyZmpzQzQ2b1J6bWJGcVROYlhjSjZoUEVhc3pfQnRnNmpuam9Tc0RLdFBkWEg5NktLRjYyUQ?oc=5",
+   "published_at": "2026-08-25T07:49:06+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kV1BmX3g0QWtsTHhjTHdZMVdyZmpzQzQ2b1J6bWJGcVROYlhjSjZoUEVhc3pfQnRnNmpuam9Tc0RLdFBkWEg5NktLRjYyUQ?oc=5\" target=\"_blank\">OpenRouter：全球AI大模型周调用量93.4万亿Token 首破90万亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1051-bb8993b5d5",
+   "source_id": "news",
+   "source_name": "mezha.net",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI研发Jalapeño芯片，瞄准大规模人工智能推理加速| 乌克兰新闻 - mezha.net",
+   "summary": "OpenAI研发Jalapeño芯片，瞄准大规模人工智能推理加速| 乌克兰新闻 &nbsp;&nbsp; mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zZkFyMEl5U0trblVaUFM0dXAxMXdTLURxTW9YZ2VXZG9UQ3ZiV2dmN010aWdVaEV6SmdkZFRsYy1QSHJRVmE3VjR0Tk90VEY0RS16anlTVjRvY2twZnVFVWVfUFdFazBVNHN4YQ?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5zZkFyMEl5U0trblVaUFM0dXAxMXdTLURxTW9YZ2VXZG9UQ3ZiV2dmN010aWdVaEV6SmdkZFRsYy1QSHJRVmE3VjR0Tk90VEY0RS16anlTVjRvY2twZnVFVWVfUFdFazBVNHN4YQ?oc=5\" target=\"_blank\">OpenAI研发Jalapeño芯片，瞄准大规模人工智能推理加速| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1019-6b8960ef58",
+   "source_id": "news",
+   "source_name": "openai.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "隆重推出 ChatGPT Pulse - openai.com",
+   "summary": "隆重推出 ChatGPT Pulse &nbsp;&nbsp; openai.com",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94bzAzTUZiR29RbHFqUDJpSzIzdkVDNkV6bEtMNTBKWjB4OC1IcjVhVndmbzUyUjhwTy1LMm01R1ZDX1NwREczV3l4QUZCXy1mWkF0aFZPeXdWLU1FQ3dxNWZzU2FWYUNVeGFvUHRxQQ?oc=5",
+   "published_at": "2025-09-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE94bzAzTUZiR29RbHFqUDJpSzIzdkVDNkV6bEtMNTBKWjB4OC1IcjVhVndmbzUyUjhwTy1LMm01R1ZDX1NwREczV3l4QUZCXy1mWkF0aFZPeXdWLU1FQ3dxNWZzU2FWYUNVeGFvUHRxQQ?oc=5\" target=\"_blank\">隆重推出 ChatGPT Pulse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

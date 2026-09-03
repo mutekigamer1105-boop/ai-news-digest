@@ -1,0 +1,47 @@
+{
+ "items": [
+  {
+   "id": "web-1038-016401d391",
+   "source_id": "news",
+   "source_name": "纽约时报中文网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "马斯克与奥尔特曼为何反目“互撕” - 纽约时报中文网",
+   "summary": "马斯克与奥尔特曼为何反目“互撕” &nbsp;&nbsp; 纽约时报中文网",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTHhLZUI3Sl8zS19iTXNpRkpseTBuejVqZmlBWUtzUE1pLVJZQUJrekJNOEgwdGwzOTRheW52VXFoVmZOdVJzZk5MS3Q2TWQ3RkQwaWZhSk5rVWM0OWI0UEZMeDR6SnNMRy1Jcm5meXAyNlFMbHNJ?oc=5",
+   "published_at": "2026-04-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE8xTHhLZUI3Sl8zS19iTXNpRkpseTBuejVqZmlBWUtzUE1pLVJZQUJrekJNOEgwdGwzOTRheW52VXFoVmZOdVJzZk5MS3Q2TWQ3RkQwaWZhSk5rVWM0OWI0UEZMeDR6SnNMRy1Jcm5meXAyNlFMbHNJ?oc=5\" target=\"_blank\">马斯克与奥尔特曼为何反目“互撕”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-300-c7546b1b9e",
+   "source_id": "news",
+   "source_name": "Salesforce",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large Language Models vs Generative AI: Defining the Relationship - Salesforce",
+   "summary": "Large Language Models vs Generative AI: Defining the Relationship &nbsp;&nbsp; Salesforce",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdE1IQzZWRVdKdklPZ2JYdEt5ZUJKcHE5Z0NucXlHdHNwU2c2azQxeXdLTTBEU1I3VmpTajRLN1pLQkhuaHZXcmtSUXBGVDRweExVNGZrLWpqYVhoZDA3Mm9tb0lhY1ZxaldmdzJxdFBoU2t5eGw4SjR1SmlLcWtoaGtQcTAyRWpoZENsOEItN2JzaEFUbFo1Mw?oc=5",
+   "published_at": "2026-04-29T02:59:12+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdE1IQzZWRVdKdklPZ2JYdEt5ZUJKcHE5Z0NucXlHdHNwU2c2azQxeXdLTTBEU1I3VmpTajRLN1pLQkhuaHZXcmtSUXBGVDRweExVNGZrLWpqYVhoZDA3Mm9tb0lhY1ZxaldmdzJxdFBoU2t5eGw4SjR1SmlLcWtoaGtQcTAyRWpoZENsOEItN2JzaEFUbFo1Mw?oc=5\" target=\"_blank\">Large Language Models vs Generative AI: Defining the Relationship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salesforce</font>",
+   "fetched_at": "2026-09-03T18:46:51+00:00"
+  }
+ ]
+}

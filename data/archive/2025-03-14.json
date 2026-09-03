@@ -1,0 +1,27 @@
+{
+ "items": [
+  {
+   "id": "web-1031-5e7e87bdd3",
+   "source_id": "news",
+   "source_name": "Caixin Global",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "GPT周报｜OpenAI呼吁美国联合盟友孤立中国AI大模型；智谱AI再获珠海5亿元投资；AI智能体工具Manus将推中文版 - Caixin Global",
+   "summary": "GPT周报｜OpenAI呼吁美国联合盟友孤立中国AI大模型；智谱AI再获珠海5亿元投资；AI智能体工具Manus将推中文版 &nbsp;&nbsp; Caixin Global",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ySmN6ZFYtaUhsbmdFNmhBd1pqaHFtY3VOc2VPNmY4Y3NUSnM5NFFKVUIzMWdnUFJYUHdCRVJ4Q0hnbVBMcy00UHYwQWhaT1hzOTJxVXdfWjN5WlFD?oc=5",
+   "published_at": "2025-03-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ySmN6ZFYtaUhsbmdFNmhBd1pqaHFtY3VOc2VPNmY4Y3NUSnM5NFFKVUIzMWdnUFJYUHdCRVJ4Q0hnbVBMcy00UHYwQWhaT1hzOTJxVXdfWjN5WlFD?oc=5\" target=\"_blank\">GPT周报｜OpenAI呼吁美国联合盟友孤立中国AI大模型；智谱AI再获珠海5亿元投资；AI智能体工具Manus将推中文版</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caixin Global</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

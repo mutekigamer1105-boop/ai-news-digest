@@ -1,0 +1,49 @@
+{
+ "items": [
+  {
+   "id": "web-795-a6020890b4",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic - WSJ",
+   "summary": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmlYd09FV3dTUTFSdzlrWWhEWHhLcVo3SjVYeXdJbmhqUG5oRTB4SUN1OGIxYUZ0MWNzVGZMOGlHVjhUYUNXVDRBaHhRVFZsbjNWcGtrNjhRQ0pEeHdrZlFPeGJEVlF6Tk9mNEk5andRZlhaQk5GWWdQblVrVkRsbzhKQUFXalAtX0ZDb2tEaHpPd3dPNzN5cmhENnkzaHVhUXc?oc=5",
+   "published_at": "2026-08-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmlYd09FV3dTUTFSdzlrWWhEWHhLcVo3SjVYeXdJbmhqUG5oRTB4SUN1OGIxYUZ0MWNzVGZMOGlHVjhUYUNXVDRBaHhRVFZsbjNWcGtrNjhRQ0pEeHdrZlFPeGJEVlF6Tk9mNEk5andRZlhaQk5GWWdQblVrVkRsbzhKQUFXalAtX0ZDb2tEaHpPd3dPNzN5cmhENnkzaHVhUXc?oc=5\" target=\"_blank\">Meta Releases Coding Agent to Compete With OpenAI and Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-860-8de0a76e28",
+   "source_id": "news",
+   "source_name": "新京报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "梁文锋“硬汉梗图”走红背后，中国大模型正成为全球AI界的“鲇鱼” - 新京报",
+   "summary": "梁文锋“硬汉梗图”走红背后，中国大模型正成为全球AI界的“鲇鱼” &nbsp;&nbsp; 新京报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13YmVjWWpma0RleDFicUxTaXZJMGl6a2dNSW9nbXlDVFA1OVlIN3ZsalpVZmt3cUFTdm9SdEFWNWNDdWNGMEVtTW5iR2FPMVoyVFg4bWJNaWtzNGswUWI1RVVB?oc=5",
+   "published_at": "2026-08-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE13YmVjWWpma0RleDFicUxTaXZJMGl6a2dNSW9nbXlDVFA1OVlIN3ZsalpVZmt3cUFTdm9SdEFWNWNDdWNGMEVtTW5iR2FPMVoyVFg4bWJNaWtzNGswUWI1RVVB?oc=5\" target=\"_blank\">梁文锋“硬汉梗图”走红背后，中国大模型正成为全球AI界的“鲇鱼”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}

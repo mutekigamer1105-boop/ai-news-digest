@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-897-73b840b5ec",
+   "source_id": "news",
+   "source_name": "华尔街见闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易” - 华尔街见闻",
+   "summary": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易” &nbsp;&nbsp; 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGeHI1WW42UHRJSW9UOEFkUE1MaXo2SXViOW9MU05paDNSQlFVemdyYVl2QmZ2NTJsTi04UDFzTUNGZkhfUi00ZkVEbWpFdGRnQzNF?oc=5",
+   "published_at": "2026-06-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGeHI1WW42UHRJSW9UOEFkUE1MaXo2SXViOW9MU05paDNSQlFVemdyYVl2QmZ2NTJsTi04UDFzTUNGZkhfUi00ZkVEbWpFdGRnQzNF?oc=5\" target=\"_blank\">智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1015-97b99f7007",
+   "source_id": "news",
+   "source_name": "openai.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "提升 ChatGPT 的健康智能 - openai.com",
+   "summary": "提升 ChatGPT 的健康智能 &nbsp;&nbsp; openai.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUpSUjh6RktFeWNpQlhidGIzbzF0YjJXUHpRWjkwN2Q3aHVjTVAzTXVFeFJWQkN1RDJGUWdkRk5HbEJtSVI3MjhfTDVpQU5LcTB6aFEtS3d6ZXpCN1ZSX1d6enVNV01QcUhmejl0di1ERkF4LUNuZkpWMWlzOHNidVpRNA?oc=5",
+   "published_at": "2026-06-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUpSUjh6RktFeWNpQlhidGIzbzF0YjJXUHpRWjkwN2Q3aHVjTVAzTXVFeFJWQkN1RDJGUWdkRk5HbEJtSVI3MjhfTDVpQU5LcTB6aFEtS3d6ZXpCN1ZSX1d6enVNV01QcUhmejl0di1ERkF4LUNuZkpWMWlzOHNidVpRNA?oc=5\" target=\"_blank\">提升 ChatGPT 的健康智能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
+   "fetched_at": "2026-09-03T18:46:52+00:00"
+  }
+ ]
+}
