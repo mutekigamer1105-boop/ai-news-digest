@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMFlwM25PaTBUZFhPdDJvd2ZhaU1VZ2ZDb2tDV1R1S09kbE1JVTM0N2xVdGRwcHJLQ1QtVkRPa2JQU3BndU9GNlFXSFYtTHlDN0U1Q0dlSnNfU2wwMEMtSExHU3NIVE0xTnRoZlF5dFZ2eHFmdGhwZFYySEFhbldVa1VlTkVRWVROYjNidlY2MVBzZG5vME9URmVFeEoxeGZmb3NDanh3VU5nZ3RlVGU0MHNnUTI?oc=5\" target=\"_blank\">China AI Startup Moonshot Seeks $10 Billion Value in New Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-284-c7952fe834",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Promises and challenges of applying large language models in the healthcare domain - Frontiers",
+   "summary": "Promises and challenges of applying large language models in the healthcare domain &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXlPdHItbjhvU254dDBtWU02SVFhVXlSR0dsRk04RmU0Y1ROQWZoOXBnMENjaHlVRmctUzFRaDlvaHl0TGdndWJzLW42UU00TWdHN2daTHZzS21YeWdkNVhoQzFVeVVjbGNfU0ttRERYX0NTRW9RUDJFZzdhUHVUVlR1eDdsQUxhMVNRWTNWcl9PZm84QXJ3?oc=5",
+   "published_at": "2026-02-16T13:31:41+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXlPdHItbjhvU254dDBtWU02SVFhVXlSR0dsRk04RmU0Y1ROQWZoOXBnMENjaHlVRmctUzFRaDlvaHl0TGdndWJzLW42UU00TWdHN2daTHZzS21YeWdkNVhoQzFVeVVjbGNfU0ttRERYX0NTRW9RUDJFZzdhUHVUVlR1eDdsQUxhMVNRWTNWcl9PZm84QXJ3?oc=5\" target=\"_blank\">Promises and challenges of applying large language models in the healthcare domain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
   }
  ]
 }

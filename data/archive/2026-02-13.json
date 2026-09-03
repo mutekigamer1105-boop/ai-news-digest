@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-275-7722a56808",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models provide unsafe answers to patient-posed medical questions | npj Digital Medicine - Nature",
+   "summary": "Large language models provide unsafe answers to patient-posed medical questions | npj Digital Medicine &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZMC11SUdvY3BmeTVwa2sya0Y5aFRCWVdhR1lyMjNkWlFkck9Fd2xTU2pHVjVDSFlYWUR2a0ZLNThyZFF3R0hicGNvRlBBTmpQemp3MWZkZFBSY25FMnhR?oc=5",
+   "published_at": "2026-02-13T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZMC11SUdvY3BmeTVwa2sya0Y5aFRCWVdhR1lyMjNkWlFkck9Fd2xTU2pHVjVDSFlYWUR2a0ZLNThyZFF3R0hicGNvRlBBTmpQemp3MWZkZFBSY25FMnhR?oc=5\" target=\"_blank\">Large language models provide unsafe answers to patient-posed medical questions | npj Digital Medicine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
+  }
+ ]
+}

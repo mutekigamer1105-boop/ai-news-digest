@@ -88,6 +88,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9sZVJkZFhfQ3RDWFl6bHEwcFJwZFM0ZUJ5SmFSTHduZGlCM0MzZDc3SHlZY1JORU16cVd0R3RNVG5PbUNpMXBIUGE5M2hPYjdNaGg5YVh1RFV2bUNwNVREN0VmRXJqQlNWbDRPdnF3Sng4Zw?oc=5\" target=\"_blank\">从DeepSeek到Kimi：中国AI大模型群星闪耀时</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-998-cb2adf2017",
+   "source_id": "news",
+   "source_name": "Caixin Global",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型在西方广受认可 瑞银：应关注这些核心问题 - Caixin Global",
+   "summary": "中国AI大模型在西方广受认可 瑞银：应关注这些核心问题 &nbsp;&nbsp; Caixin Global",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tUFlvaUx0R2t4T0NNcWZ1cWZQVFA2S3A0dzlELVk1aHUwREMySTlGVmtLSmVFVW1iTXRmSXU1d3owcjVxUVNINnZwaERvMTNQNnctX2lIeWNqODFO?oc=5",
+   "published_at": "2026-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tUFlvaUx0R2t4T0NNcWZ1cWZQVFA2S3A0dzlELVk1aHUwREMySTlGVmtLSmVFVW1iTXRmSXU1d3owcjVxUVNINnZwaERvMTNQNnctX2lIeWNqODFO?oc=5\" target=\"_blank\">中国AI大模型在西方广受认可 瑞银：应关注这些核心问题</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caixin Global</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
   }
  ]
 }

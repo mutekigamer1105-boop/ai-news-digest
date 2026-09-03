@@ -172,6 +172,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WclV2dUphcTlGM1RyYnhMX2hFNTRqejI4VUowQ0hDQTJVd29EaThhRzdSTVVLNTNPU3MzcklOR283QkRacERlRGhLMV9tRnpUVkNqeFpLUEwyWGo1?oc=5\" target=\"_blank\">医学院黄天荫团队合作提出医疗人工智能安全风险分级框架</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tsinghua.edu.cn</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-252-8fedc90656",
+   "source_id": "news",
+   "source_name": "Towards Data Science",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "How to Fine-Tune an LLM: An End-to-End Guide - Towards Data Science",
+   "summary": "How to Fine-Tune an LLM: An End-to-End Guide &nbsp;&nbsp; Towards Data Science",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0sySkpQZmFZbFI4XzRWTWtqTEIyTENmdGFGa01Oa0JtOWdWc3NMWk5tdEFTeWhuQkFxNlJWeXlTRklHVWh6SVA5a3RWM0tsN0tqX2VfeVNIRWxkN1JFdndZLV9zNUhZM0lOa0hyNDJybkpvazdfWlRSUTJQN1dVLQ?oc=5",
+   "published_at": "2026-08-20T14:17:31+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0sySkpQZmFZbFI4XzRWTWtqTEIyTENmdGFGa01Oa0JtOWdWc3NMWk5tdEFTeWhuQkFxNlJWeXlTRklHVWh6SVA5a3RWM0tsN0tqX2VfeVNIRWxkN1JFdndZLV9zNUhZM0lOa0hyNDJybkpvazdfWlRSUTJQN1dVLQ?oc=5\" target=\"_blank\">How to Fine-Tune an LLM: An End-to-End Guide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Towards Data Science</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
   }
  ]
 }

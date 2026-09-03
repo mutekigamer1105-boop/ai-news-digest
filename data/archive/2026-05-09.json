@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLTl1MUdtYzJob1NGWVJaVVNhUEtfSW9rZXJhYWplZDk4T1B0LTJfZnpRekxMS2FzQWdtNllOQ0ZubENzd09WaHFnNnpSajJVeEtVVEk2Z19lVUJKX3AxXzJZRjJBSzMzVGgtVi1UOFg3UVVlQzdWdUIwNDNtejBqdVoySEJIcW5sTGltV0tIU0doSTVBYUQ2VTJIc1FIclpMYTNXN1ZZWlRsOG8zdXhLc3dVN0kyaF9uWFo2M0d6emQ1R3o0aF9pbmYxanpfRnVFaU1sS3oyZHFVN2Qt?oc=5\" target=\"_blank\">Evaluating Large Language Models for Automated Data Cleaning and Feature Engineering in Clinical Datasets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cureus</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1002-ec53222dfe",
+   "source_id": "news",
+   "source_name": "京报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "接入超300款AI大模型，国内最大大模型服务平台正式上线 - 京报网",
+   "summary": "接入超300款AI大模型，国内最大大模型服务平台正式上线 &nbsp;&nbsp; 京报网",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4a2x6NkJsQ29rbzB1eXV5ZFdFSzhldTFuTXJiVjNGaE5oTC1DTTVJRDZLVy1EdmRQQWluaEMwYnlHUlpGNEx1am9sOWFzNkd2ZDZXRXM0SE5fYm54WVE?oc=5",
+   "published_at": "2026-05-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4a2x6NkJsQ29rbzB1eXV5ZFdFSzhldTFuTXJiVjNGaE5oTC1DTTVJRDZLVy1EdmRQQWluaEMwYnlHUlpGNEx1am9sOWFzNkd2ZDZXRXM0SE5fYm54WVE?oc=5\" target=\"_blank\">接入超300款AI大模型，国内最大大模型服务平台正式上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
   }
  ]
 }

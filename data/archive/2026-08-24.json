@@ -178,6 +178,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9MdzNHWGplVy0tZUVBUjRVdk50YUNzSXZwZzlSNHFnQkpIb2hqSHpYWGROamRsTl9yTTJyc3R1RmZqZ3UxWnMxU21paDNNTUg0NEE5UHRUWndjQ2JEdUlMX0NEbkJDeGRGNjM4?oc=5\" target=\"_blank\">OpenAI打造办公智能体，ChatGPT Work将连接企业服务执行任务| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-219-8b499bf2f4",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models do not have emotions - Nature",
+   "summary": "Large language models do not have emotions &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1Q1pQSFZYRjh2WFpZcWxKTVM3Ym1aZTJrSVo3U3VscW1kamVXaUdaREdxWHoxYjhybDZaWkowQmlVZ3pQNTl1YmtLVHAzcERfRl9tWkt3RHVWYmFVVjdJ?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1Q1pQSFZYRjh2WFpZcWxKTVM3Ym1aZTJrSVo3U3VscW1kamVXaUdaREdxWHoxYjhybDZaWkowQmlVZ3pQNTl1YmtLVHAzcERfRl9tWkt3RHVWYmFVVjdJ?oc=5\" target=\"_blank\">Large language models do not have emotions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
   }
  ]
 }

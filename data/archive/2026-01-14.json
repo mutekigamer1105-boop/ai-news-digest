@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-277-944bbafb98",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Training large language models on narrow tasks can lead to broad misalignment - Nature",
+   "summary": "Training large language models on narrow tasks can lead to broad misalignment &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0aXN3dm9EVnFjNGx1aEViU2hiSFZTdkNQbnRkUE5abm9LZUhPT3dGZk1tYzVvOTJVME9KSC1jMXE3UFVLaDBkZ2twZnNCeWZxeGg3VEd4N2ZhcDQyNTFj?oc=5",
+   "published_at": "2026-01-14T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0aXN3dm9EVnFjNGx1aEViU2hiSFZTdkNQbnRkUE5abm9LZUhPT3dGZk1tYzVvOTJVME9KSC1jMXE3UFVLaDBkZ2twZnNCeWZxeGg3VEd4N2ZhcDQyNTFj?oc=5\" target=\"_blank\">Training large language models on narrow tasks can lead to broad misalignment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
+  }
+ ]
+}

@@ -64,6 +64,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3MHRKQk9TWFBPWEc1RnhvNDdLeXNmdVd1TG95TkFTdmFxdmx0VEdxV1dqM1JLR3N3X2ZtM0ZKQ2VLOXAtYWJyMjlvUVpTZw?oc=5\" target=\"_blank\">Token 刚定了中文名，AI 圈又多了个翻译不了的词</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-1001-08069ee6e6",
+   "source_id": "news",
+   "source_name": "央广网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型，全球爆火！官宣“词元”来了，催生哪些机遇？ - 央广网",
+   "summary": "中国AI大模型，全球爆火！官宣“词元”来了，催生哪些机遇？ &nbsp;&nbsp; 央广网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKNWhoTi1EZG01ekhkMkFhdElpb3NxQ0dEcEY1bGxOSV85RGVPdkR2VXdfSFFzY0prOE9MTHZ1akZZTFVQUEwtVEhfTE5rRmpxdkVDNGJ4QWUtdUtkd2ZOZ0doMVpzRFRWUnNv?oc=5",
+   "published_at": "2026-03-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBKNWhoTi1EZG01ekhkMkFhdElpb3NxQ0dEcEY1bGxOSV85RGVPdkR2VXdfSFFzY0prOE9MTHZ1akZZTFVQUEwtVEhfTE5rRmpxdkVDNGJ4QWUtdUtkd2ZOZ0doMVpzRFRWUnNv?oc=5\" target=\"_blank\">中国AI大模型，全球爆火！官宣“词元”来了，催生哪些机遇？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央广网</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
   }
  ]
 }

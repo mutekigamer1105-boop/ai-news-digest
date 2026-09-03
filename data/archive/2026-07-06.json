@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDBNREJRWWJ0QmsybDFvUmhaUmpiMVlyOXNQdlBYRmNrV2ZGU3RMSjZ6OVFBOFI4OHlfWnR4WVVBa19tSzZMS0tpcUFvQm9MZnpqbTFRYTBCZlNpTy1iTVYzd0lYbmJGSko1cDhibTQtSDl1UDMwOFBiNXByeFBQaEwzRGdNVWdnRDllVA?oc=5\" target=\"_blank\">腾讯发布最新一代AI大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-989-162d69bdf0",
+   "source_id": "news",
+   "source_name": "证券时报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "23.45万亿Token！中国大模型周调用量连续十周领跑，包揽榜单前六：DeepSeek-V4-Flash连续七周位居榜首，智谱GLM-5.2冲进前五 - 证券时报",
+   "summary": "23.45万亿Token！中国大模型周调用量连续十周领跑，包揽榜单前六：DeepSeek-V4-Flash连续七周位居榜首，智谱GLM-5.2冲进前五 &nbsp;&nbsp; 证券时报",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DckExOHhkYXl2eWd3aFZhT2EzMUpNR1ZHSnFDdENTQmxkMUhwY05YM3ZFV1dCcXJBai1XOTY5QlNycUY1ODd4ZFB6V1p4N0daMjgxRU95VkhRRXc5?oc=5",
+   "published_at": "2026-07-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DckExOHhkYXl2eWd3aFZhT2EzMUpNR1ZHSnFDdENTQmxkMUhwY05YM3ZFV1dCcXJBai1XOTY5QlNycUY1ODd4ZFB6V1p4N0daMjgxRU95VkhRRXc5?oc=5\" target=\"_blank\">23.45万亿Token！中国大模型周调用量连续十周领跑，包揽榜单前六：DeepSeek-V4-Flash连续七周位居榜首，智谱GLM-5.2冲进前五</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
   }
  ]
 }

@@ -866,6 +866,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZwYjlLQzYtTmVrNTNjeXU1QlVIa1l6X1N4MDdPTHlhVkE0UkZHRUZjanllWEN1d1lzR08yRFQyNDVaZ0hIY2hGWUh0Vi1qLU1kaG1fT1NraWJqTFAyVkdQbFhPMUVTaFo3RUJiZGQ1S3A0VGxVT0xZSTdWcWhSaFZ2TGl4TnRzdWlucGNnTHhuSW1YNXEzVU1ZUjFzdTI5MWlhX01hY3FLZml1eUI2bWdnSVptd21IMURKSzlJaw?oc=5\" target=\"_blank\">Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
    "fetched_at": "2026-09-03T19:55:14+00:00"
+  },
+  {
+   "id": "web-920-fa0571b19f",
+   "source_id": "news",
+   "source_name": "新浪网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "许四清：从大模型到物理世界，AI的下一个十年在哪里？ - 新浪网",
+   "summary": "许四清：从大模型到物理世界，AI的下一个十年在哪里？ &nbsp;&nbsp; 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oYXpfSTZtWTlURVFLQ1B0amRYNm81akh6aTVsbElZekRlejJnYTZMaVBEMlpyMHNDejhfdDJPb2JZTzM0cjNzOHNVYzhWM2ZDcFNzTFhqb1VaS0hjVWVSMmt2WWxkeFNqOTlxamxsN2JpQQ?oc=5",
+   "published_at": "2026-08-31T18:28:04+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5oYXpfSTZtWTlURVFLQ1B0amRYNm81akh6aTVsbElZekRlejJnYTZMaVBEMlpyMHNDejhfdDJPb2JZTzM0cjNzOHNVYzhWM2ZDcFNzTFhqb1VaS0hjVWVSMmt2WWxkeFNqOTlxamxsN2JpQQ?oc=5\" target=\"_blank\">许四清：从大模型到物理世界，AI的下一个十年在哪里？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
   }
  ]
 }

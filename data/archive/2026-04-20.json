@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXhyd1RlR0dwZ0d3S0o4aEU0ZHMyVjZjZjlRdk52RFBLRFpHSVVtWEVaNERyRThTZ3ZnUXgwNFNSQnRmbFNscklpTDd5ai1NemFXR2NHOGFJV2dEYjBNLXRGT2JlZUlzYVp1VmNNOHFTc2RWekstbTVNWndsX0VLT1J2Ulk2VW9rdW5TX2RuNU9RU3RxNXJjakctbnhXSVUwREstcC1sbTdLSHRqQ1BfMHpEVllVaGhHWGpCU2djYkJIcGVjeF9z?oc=5\" target=\"_blank\">Large language models (LLMs) performed poorly in navigating early clinical diagnostic uncertainty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">2 Minute Medicine</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-995-390e637378",
+   "source_id": "news",
+   "source_name": "证券时报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型周调用量环比降23.8%，美国近两个月来首次反超，阿里Qwen3.6 Plus由榜首跌出前十 - 证券时报",
+   "summary": "中国AI大模型周调用量环比降23.8%，美国近两个月来首次反超，阿里Qwen3.6 Plus由榜首跌出前十 &nbsp;&nbsp; 证券时报",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6TkczUUdjZWhzSEM5dG5mQTZ0VXhYRWV0SzNtWG1ZQk9BYjlPM01fMlVFd2VvLXJVemw2X2pBMndWTUU0czFhTTRIOTQzM3U5UjZxZzAxM2hsREo3?oc=5",
+   "published_at": "2026-04-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6TkczUUdjZWhzSEM5dG5mQTZ0VXhYRWV0SzNtWG1ZQk9BYjlPM01fMlVFd2VvLXJVemw2X2pBMndWTUU0czFhTTRIOTQzM3U5UjZxZzAxM2hsREo3?oc=5\" target=\"_blank\">中国AI大模型周调用量环比降23.8%，美国近两个月来首次反超，阿里Qwen3.6 Plus由榜首跌出前十</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
   }
  ]
 }

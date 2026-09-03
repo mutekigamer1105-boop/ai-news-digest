@@ -195,6 +195,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRktLai11VkEzY0RtS0NlRUlLZWZnNE5KcWx4amhHZzh5ekU3QXFqcFFhdFVlejByTU1LU3hVV3dDczNBMU5nNDcwYlI1MUN4YjBuUTRud0JvcndMQndPNG9XbnE3bS13ZEpzQmJKeGVoNXhoSWRWMWlCQmI5RW5LcFZhMmZBUmhHM0FaWTM2REVvVVI5MUQydEE4LS15S2ZFOFE?oc=5\" target=\"_blank\">What We Still Don’t Know About OpenAI’s Hugging Face Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
    "fetched_at": "2026-09-03T19:46:09+00:00"
+  },
+  {
+   "id": "web-271-f76483b860",
+   "source_id": "ars-technica",
+   "source_name": "Ars Technica",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "IBM’s new Granite 4.2 models ride the wave of interest in local LLMs - Ars Technica",
+   "summary": "IBM’s new Granite 4.2 models ride the wave of interest in local LLMs &nbsp;&nbsp; Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcklZLTRHcnNPemQwb3BScFFPUFI3cXNvYV9KSDhFaXItQUhXa3FwdkpXYzB2ZlItQmI3S0xKbDlhZ2hDOFBrNE93MHZReWZnblNuRUhYUWJPcWdmN0psd0hLYXl5UWttenlXekJPcG1semVGZGk2V0tNMXIxYXk3TGZEVTZCanVIMUpYWHlYNVV3OGJpZGRxazg4MTFNNGcxbmFFYWlR?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQcklZLTRHcnNPemQwb3BScFFPUFI3cXNvYV9KSDhFaXItQUhXa3FwdkpXYzB2ZlItQmI3S0xKbDlhZ2hDOFBrNE93MHZReWZnblNuRUhYUWJPcWdmN0psd0hLYXl5UWttenlXekJPcG1semVGZGk2V0tNMXIxYXk3TGZEVTZCanVIMUpYWHlYNVV3OGJpZGRxazg4MTFNNGcxbmFFYWlR?oc=5\" target=\"_blank\">IBM’s new Granite 4.2 models ride the wave of interest in local LLMs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
   }
  ]
 }

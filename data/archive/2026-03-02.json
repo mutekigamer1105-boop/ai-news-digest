@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-225-abea9f47dc",
+   "source_id": "news",
+   "source_name": "Databricks",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What are Large Language Models (LLM)? - Databricks",
+   "summary": "What are Large Language Models (LLM)? &nbsp;&nbsp; Databricks",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45bXpSQ1hzbXB1eTk4ZVF1ZURrcVM2X011a2pGU19lNUdnSF9XLUdMWlVYakJHcHQ2NlVyb0dreFFWTkJZNjFlZ2xmb3pWWDVsUTVOS01vY3lPUjZMWlJ5UllDSVdfMkJ1T2FYZi16cw?oc=5",
+   "published_at": "2026-03-02T18:50:57+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE45bXpSQ1hzbXB1eTk4ZVF1ZURrcVM2X011a2pGU19lNUdnSF9XLUdMWlVYakJHcHQ2NlVyb0dreFFWTkJZNjFlZ2xmb3pWWDVsUTVOS01vY3lPUjZMWlJ5UllDSVdfMkJ1T2FYZi16cw?oc=5\" target=\"_blank\">What are Large Language Models (LLM)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Databricks</font>",
+   "fetched_at": "2026-09-03T20:18:43+00:00"
+  }
+ ]
+}
