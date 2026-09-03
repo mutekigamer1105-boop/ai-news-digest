@@ -4102,6 +4102,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnJpakUxMFlyM0ZxZFhyalYzRjFEM1hDWU5tOU5laWo3d1JxSVkwZlgxRWNKOVd4dXVfOWxvdEZHN1huZTN3cDRJT0FqcDhMaFFBWERZY0pROFVXM0cyRF9KZENsdlBGLTV3cnpvckRnZkwzaHF2eEFkY1J2QzN1VWwweG9iNHA4aXpUb054SHRlYWpOSTFjOS1jRU1nWjN0X0pvRGhHMA?oc=5\" target=\"_blank\">摩根士丹利：诉讼阴霾消退，Meta AI产品管线或开始提速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-907-93467d90a2",
+   "source_id": "news",
+   "source_name": "天天基金",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "黄仁勋G20布道“AI经济学”：算力已成国家级基建 未来几年迈向AGI - 天天基金",
+   "summary": "黄仁勋G20布道“AI经济学”：算力已成国家级基建 未来几年迈向AGI &nbsp;&nbsp; 天天基金",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FNzlNNUJDVVVEQTZiNkZMdHpTeUV1VzNrX2ZkNU9jNmdabnNnenlBSHlWSy13OGVrR2pfZ1I4TDl4eTF2VGJhR3F4cmM5Rk8tdVoyUnZGdFd4NG44TFlvU3p3?oc=5",
+   "published_at": "2026-09-02T17:41:55+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FNzlNNUJDVVVEQTZiNkZMdHpTeUV1VzNrX2ZkNU9jNmdabnNnenlBSHlWSy13OGVrR2pfZ1I4TDl4eTF2VGJhR3F4cmM5Rk8tdVoyUnZGdFd4NG44TFlvU3p3?oc=5\" target=\"_blank\">黄仁勋G20布道“AI经济学”：算力已成国家级基建 未来几年迈向AGI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天天基金</font>",
+   "fetched_at": "2026-09-03T19:46:09+00:00"
+  },
+  {
+   "id": "web-899-7d56122689",
+   "source_id": "news",
+   "source_name": "21财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "3795人！亿万富翁创历史新高 AI造富潮下财富集中度攀升 - 21财经",
+   "summary": "3795人！亿万富翁创历史新高 AI造富潮下财富集中度攀升 &nbsp;&nbsp; 21财经",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOU1GUjN5VWt4WW05OW92UlEzeGdYOXdUM1pGOWhrUmdfZnJNUzdldTFIaWt3R1J3aVNDcVNSMlBtR1VpOGpkRXdWaDAwMEo4azlTd1BydTFxaENNMzY0SmlpMmdQVWNyUVZXQURFNVRfYko0cHBPUE1KakxWY1VlSzJ0ZXY2UmRxR2VRVEZxLWNiTmFY?oc=5",
+   "published_at": "2026-09-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNOU1GUjN5VWt4WW05OW92UlEzeGdYOXdUM1pGOWhrUmdfZnJNUzdldTFIaWt3R1J3aVNDcVNSMlBtR1VpOGpkRXdWaDAwMEo4azlTd1BydTFxaENNMzY0SmlpMmdQVWNyUVZXQURFNVRfYko0cHBPUE1KakxWY1VlSzJ0ZXY2UmRxR2VRVEZxLWNiTmFY?oc=5\" target=\"_blank\">3795人！亿万富翁创历史新高 AI造富潮下财富集中度攀升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+   "fetched_at": "2026-09-03T19:46:09+00:00"
   }
  ]
 }

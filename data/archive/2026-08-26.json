@@ -173,6 +173,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjX0FJTVBVb1hqLXh1NTdpVmttQ0FSb2NCX2UwWXBkUGlmckFqclVzcWZPMlBVblpJMmtrRi1LZVV3MVBOU18xUHY2R21BSTlEd3ZuMXRNZkpmeVF2TXlubVB1bXI?oc=5\" target=\"_blank\">Anthropic’s Claude now has a browser of its own</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Stack</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-316-4ff48bc1e9",
+   "source_id": "wired",
+   "source_name": "WIRED",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack - WIRED",
+   "summary": "What We Still Don’t Know About OpenAI’s Hugging Face Hack &nbsp;&nbsp; WIRED",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRktLai11VkEzY0RtS0NlRUlLZWZnNE5KcWx4amhHZzh5ekU3QXFqcFFhdFVlejByTU1LU3hVV3dDczNBMU5nNDcwYlI1MUN4YjBuUTRud0JvcndMQndPNG9XbnE3bS13ZEpzQmJKeGVoNXhoSWRWMWlCQmI5RW5LcFZhMmZBUmhHM0FaWTM2REVvVVI5MUQydEE4LS15S2ZFOFE?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRktLai11VkEzY0RtS0NlRUlLZWZnNE5KcWx4amhHZzh5ekU3QXFqcFFhdFVlejByTU1LU3hVV3dDczNBMU5nNDcwYlI1MUN4YjBuUTRud0JvcndMQndPNG9XbnE3bS13ZEpzQmJKeGVoNXhoSWRWMWlCQmI5RW5LcFZhMmZBUmhHM0FaWTM2REVvVVI5MUQydEE4LS15S2ZFOFE?oc=5\" target=\"_blank\">What We Still Don’t Know About OpenAI’s Hugging Face Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+   "fetched_at": "2026-09-03T19:46:09+00:00"
   }
  ]
 }
