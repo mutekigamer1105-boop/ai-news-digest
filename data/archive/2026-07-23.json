@@ -107,6 +107,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nbk1Nc2pPTWhaWHZrZGZ6bDloLXU2RmxKdE5vdTI5TFgtNjVVRWJTWVJOR3dLXzdTTnlJTHBhN2ZKYmZ6X1VqR2FnYlk3Zw?oc=5\" target=\"_blank\">刚刚，Claude爆改语音，11种语言，就是没中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-990-f7ed0e4761",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI官宣Presence，大模型厂要抢软件商的饭碗了？ - 财联社",
+   "summary": "OpenAI官宣Presence，大模型厂要抢软件商的饭碗了？ &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LRllsSjZrSnFPWkNBZHNpNHZ5NU5PSVdjaWFSQVBmNm9qS0Z1RmNSMThoUjZxT2QzQU1xQ21YX2E3X3gtakIyRA?oc=5",
+   "published_at": "2026-07-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LRllsSjZrSnFPWkNBZHNpNHZ5NU5PSVdjaWFSQVBmNm9qS0Z1RmNSMThoUjZxT2QzQU1xQ21YX2E3X3gtakIyRA?oc=5\" target=\"_blank\">OpenAI官宣Presence，大模型厂要抢软件商的饭碗了？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1163-7f1dcbd3e5",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "佛州牧師在舊金山起訴OpenAI及山姆·奧特曼，指控ChatGPT錯誤醫療建議導致肺栓塞| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "佛州牧師在舊金山起訴OpenAI及山姆·奧特曼，指控ChatGPT錯誤醫療建議導致肺栓塞| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUcjE3T1pmYjNPYnB4ZF9hcU1MdzJpZ21SeVJ4SUQyNHdPSVRfQlFmcDlRMHZ1WG9fNWRreG5jTWZtOFgtTmhMOE5oM0ptakJDUnpLZ05PYzBLNWptUEhxUFd4QmU?oc=5",
+   "published_at": "2026-07-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUcjE3T1pmYjNPYnB4ZF9hcU1MdzJpZ21SeVJ4SUQyNHdPSVRfQlFmcDlRMHZ1WG9fNWRreG5jTWZtOFgtTmhMOE5oM0ptakJDUnpLZ05PYzBLNWptUEhxUFd4QmU?oc=5\" target=\"_blank\">佛州牧師在舊金山起訴OpenAI及山姆·奧特曼，指控ChatGPT錯誤醫療建議導致肺栓塞| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

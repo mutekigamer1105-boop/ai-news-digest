@@ -43,6 +43,71 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iR0o0dGJGVzJPS01CSkdteVcxeUJ1YWEtNTJOMWxQcUZVbFBVRU40dmd2Sm83OWVGYW5waEp6WERsSlo1Y3J0WQ?oc=5\" target=\"_blank\">史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-642-61b31db8bd",
+   "source_id": "news",
+   "source_name": "Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exclusive: Startup Arrakis emerges from stealth with $38 million in funding to bring AI to industry - Fortune",
+   "summary": "Exclusive: Startup Arrakis emerges from stealth with $38 million in funding to bring AI to industry &nbsp;&nbsp; Fortune",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOV0d5eGlqQVBpakpTTUNhRlpYaDBCZm5fYjQzalZiN1VRU19YdGl2ZDZkSXR6QVpvd2hYUVE2STRhWUIyZG95bmRqczU4X05tbzI4YjBLbnhhenFjc1J0RFpQeml5UXpmbVVDNjBPSWR2cnVadlIxeDByRGRpc1k4WGZ3b2lDWWsxbFlfRW94VUg0X0RvbnkyNWQtZ1BEOFpzbjVLdFNnanhBU29IS0FFdkVaLXRzUEpaZThNU1NkeWhKdC0wZFlYMFJsMGRqdVBDcUlIWUFjYTlaU3JuTjlnVFVWSzhjMDUtcWtBejU4b3hmMEh1Y3A0eEhnMkJ1VVFBUkdJ?oc=5",
+   "published_at": "2026-07-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOV0d5eGlqQVBpakpTTUNhRlpYaDBCZm5fYjQzalZiN1VRU19YdGl2ZDZkSXR6QVpvd2hYUVE2STRhWUIyZG95bmRqczU4X05tbzI4YjBLbnhhenFjc1J0RFpQeml5UXpmbVVDNjBPSWR2cnVadlIxeDByRGRpc1k4WGZ3b2lDWWsxbFlfRW94VUg0X0RvbnkyNWQtZ1BEOFpzbjVLdFNnanhBU29IS0FFdkVaLXRzUEpaZThNU1NkeWhKdC0wZFlYMFJsMGRqdVBDcUlIWUFjYTlaU3JuTjlnVFVWSzhjMDUtcWtBejU4b3hmMEh1Y3A0eEhnMkJ1VVFBUkdJ?oc=5\" target=\"_blank\">Exclusive: Startup Arrakis emerges from stealth with $38 million in funding to bring AI to industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-795-84a6abdfe1",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "OpenAI cyber models broke out of training environment to hack Hugging Face - CNBC",
+   "summary": "OpenAI cyber models broke out of training environment to hack Hugging Face &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0Fzbkw4bWcyTTlMV1YzMlRzZmVzTDFJUkIxUVJxWFVlZjJVcjBHQ1RSaTZXOVZRclhkRkplY1ZDWFM1UVc0WEQ5Z0daUnFhZUpCa2xTMVJOaHVrZXNJbHNZWkMzNU9TSVMwc2JtcExHam9DTGdONHJFbkJaTzhFNtIBhgFBVV95cUxPdVNpQk40cDBmZWliMlZqX1drbFJNVkEwRUE2X19rT0l1WVFjcm5uQkxBaVhXSEk0M3Rvdk5aRWR2bWFqMkJmTmsxNEg1QUIyNHlzWVpQR2dlVGtCeUxGc2EwU3NhbTM1S05vMmtNNTRoWlNsdENUdVBBS0RjV0tlLW5NV1gzZw?oc=5",
+   "published_at": "2026-07-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0Fzbkw4bWcyTTlMV1YzMlRzZmVzTDFJUkIxUVJxWFVlZjJVcjBHQ1RSaTZXOVZRclhkRkplY1ZDWFM1UVc0WEQ5Z0daUnFhZUpCa2xTMVJOaHVrZXNJbHNZWkMzNU9TSVMwc2JtcExHam9DTGdONHJFbkJaTzhFNtIBhgFBVV95cUxPdVNpQk40cDBmZWliMlZqX1drbFJNVkEwRUE2X19rT0l1WVFjcm5uQkxBaVhXSEk0M3Rvdk5aRWR2bWFqMkJmTmsxNEg1QUIyNHlzWVpQR2dlVGtCeUxGc2EwU3NhbTM1S05vMmtNNTRoWlNsdENUdVBBS0RjV0tlLW5NV1gzZw?oc=5\" target=\"_blank\">OpenAI cyber models broke out of training environment to hack Hugging Face</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-898-ff9da5a6d0",
+   "source_id": "news",
+   "source_name": "news.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "特稿｜“共同塑造全球人工智能的未来”——中国倡议为人工智能发展注入强劲动能 - news.cn",
+   "summary": "特稿｜“共同塑造全球人工智能的未来”——中国倡议为人工智能发展注入强劲动能 &nbsp;&nbsp; news.cn",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OZmpVZU9MNm1hU2x4ZC02YldFNFI2ekpKZUNqYl9IVHU2bExTNWtRcWptQmM1NS1DMTlhWmJPWVdhMjNMWDhSQ2lsc3dmUXVjQzlhQ3EyM2RoTHg5c1ZkeEVFY3MtUEVTUlZITzBKMmM3d0xzZWln?oc=5",
+   "published_at": "2026-07-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1OZmpVZU9MNm1hU2x4ZC02YldFNFI2ekpKZUNqYl9IVHU2bExTNWtRcWptQmM1NS1DMTlhWmJPWVdhMjNMWDhSQ2lsc3dmUXVjQzlhQ3EyM2RoTHg5c1ZkeEVFY3MtUEVTUlZITzBKMmM3d0xzZWln?oc=5\" target=\"_blank\">特稿｜“共同塑造全球人工智能的未来”——中国倡议为人工智能发展注入强劲动能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cn</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

@@ -109,6 +109,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkJOTlUwandDSzgwcGV6a0xHc041Y0R1OVlOWHdDUGpWNk9Hb2NoaUIwMTBWWVp0NTN0OUVQOUZkSVlYZEtTTDl3OGRIOEVfMTc4Q2poR3hZdS0yM0VQUlRDUGRkTFN4RzZqWk5MUUwxV2RLaS1tVlNEc1U4MDhoVS1WWF9SLTk2a1VDdHI2V09kZ255RjRHRFZoUkhNRHZaSEcwbWtn?oc=5\" target=\"_blank\">Swedish Legal AI Startup Aloi Announces $7M Funding Round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Law.com</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-489-629671b968",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic's text watermarks signal new front in AI detection - Axios",
+   "summary": "Anthropic's text watermarks signal new front in AI detection &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TMFZTUmdmZWw4Q3RNNlpOcG01TkQ3bi1QRVF6LUpnWTJlTGFKT1Z5QmtONlJ1SXdtbnNfdEVpdkgxY2dvOHZGRTVPRlJBdVYyVFB0UzlGUjBsNmlvMzh3RDFWblk2SGNCZGRNM2xmS3BuMXN1SUFXZ0U0TVdOdw?oc=5",
+   "published_at": "2026-08-12T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1TMFZTUmdmZWw4Q3RNNlpOcG01TkQ3bi1QRVF6LUpnWTJlTGFKT1Z5QmtONlJ1SXdtbnNfdEVpdkgxY2dvOHZGRTVPRlJBdVYyVFB0UzlGUjBsNmlvMzh3RDFWblk2SGNCZGRNM2xmS3BuMXN1SUFXZ0U0TVdOdw?oc=5\" target=\"_blank\">Anthropic's text watermarks signal new front in AI detection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

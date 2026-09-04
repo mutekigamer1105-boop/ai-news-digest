@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE45bXpSQ1hzbXB1eTk4ZVF1ZURrcVM2X011a2pGU19lNUdnSF9XLUdMWlVYakJHcHQ2NlVyb0dreFFWTkJZNjFlZ2xmb3pWWDVsUTVOS01vY3lPUjZMWlJ5UllDSVdfMkJ1T2FYZi16cw?oc=5\" target=\"_blank\">What are Large Language Models (LLM)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Databricks</font>",
    "fetched_at": "2026-09-03T20:18:43+00:00"
+  },
+  {
+   "id": "web-250-6426d652d9",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Too human to model: the uncanny valley of large language models in simulating human systems - Nature",
+   "summary": "Too human to model: the uncanny valley of large language models in simulating human systems &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82amRiRE5ObUhpNlZPX2NncU9GaVZTV0lFTGRLT1VRSkc5am40aEpPblY1Z1E1Qk1SX1VJaUMtdlpPNlNnaFJrelNyTlF6RW1WZTlsbHl3V1RmdW5HM3Z3?oc=5",
+   "published_at": "2026-03-02T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE82amRiRE5ObUhpNlZPX2NncU9GaVZTV0lFTGRLT1VRSkc5am40aEpPblY1Z1E1Qk1SX1VJaUMtdlpPNlNnaFJrelNyTlF6RW1WZTlsbHl3V1RmdW5HM3Z3?oc=5\" target=\"_blank\">Too human to model: the uncanny valley of large language models in simulating human systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

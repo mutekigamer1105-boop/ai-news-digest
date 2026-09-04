@@ -42,6 +42,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE04emlXWXpVQXhNcjJsU1d5ZmhnU1J2TFRyeFlxM2hqUUNUNVR2UmxFQUNBanYwWnd5ZUpTRnptVEh2TXU2NU5aa0FRbFV6ejVPd2wxWFNXa3RoaTZPQ0dQSHc0Tkk4WE93Q1JwV0tIWGNBaGNG?oc=5\" target=\"_blank\">DeepSeek's new bargain model accelerates AI's race to zero</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1106-a86d844e1f",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "数学与理论计算机科学的十项进展 - OpenAI",
+   "summary": "数学与理论计算机科学的十项进展 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYV01vd3FJUTBXUDAzSEhXYUZvU1ZSOFpnWlFqMjFFT1BLcmZ4SUhzbjBRVEFsMmExeTAzZ184ZzU3aTVaZ1VtS213UGx5cGxhbWtLbTRDSi0yVE82YW1XXzlRTlJ0VmExeXppRFdMRTVHdw?oc=5",
+   "published_at": "2026-08-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBYV01vd3FJUTBXUDAzSEhXYUZvU1ZSOFpnWlFqMjFFT1BLcmZ4SUhzbjBRVEFsMmExeTAzZ184ZzU3aTVaZ1VtS213UGx5cGxhbWtLbTRDSi0yVE82YW1XXzlRTlJ0VmExeXppRFdMRTVHdw?oc=5\" target=\"_blank\">数学与理论计算机科学的十项进展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

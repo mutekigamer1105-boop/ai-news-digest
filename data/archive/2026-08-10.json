@@ -197,6 +197,93 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSzlhcXY2UHFyUF9jTFE3QjZGS0QwRFNmRDJYbjE3Tmt2YURQUTBjeUhpbG9YRTFwVk1nYVY5a3RZVzYzVHNZd3hfc1ZHd1ByUm5WSk5nV2ZUN21oako0TmE1TUhwNjdKajJ3Z2VSRUR2UG9SdWZYcjROUGZScXFrV1ZueldSMENmM1UwaUVsbzVZcTRpdzlOS0dSWkd2QmNBU1pyT1BDLU9NRjl5OUxtUEwxTXJHVkRlcU1FV2ZnRDNrS2I1TU41cTVtWFRnd0VmODB3UW1yZ3BMaGZWVkEyYlJmSkQwNkNqbnVMNTFDYTkyTk0?oc=5\" target=\"_blank\">Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter LLM available now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-212-98c2bf5041",
+   "source_id": "mit-tr",
+   "source_name": "MIT Technology Review",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "These startups are chasing the next big thing in LLMs - MIT Technology Review",
+   "summary": "These startups are chasing the next big thing in LLMs &nbsp;&nbsp; MIT Technology Review",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5",
+   "published_at": "2026-08-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTQtTzd2S1RCbGItZWp5RjVZSVNTNnpyeGV5bjhveDNUZ1pfY3BFQ1Noc2hTd2FtU0t1LW5EZ3FIVFNLSlV2WWZCbWFuYklUYWlRMDJKUWRTTnJYN0RoR3Zzb3NrbllMcHFLang4WnlueWExVXp0U0I3QjdaMjRORi02al9CTHdZQ2tKWHF3aWpqWUp0YTQ2SW9BNnh3d2ZNR0EzNURhM2dFUdIBrwFBVV95cUxNWmNzVlRSWFBZVkxJMGkwY1NQUVJnYUE2OXAwYVJ5bWpqUnh1ZW5pQmU1VEk3QjdGZWhUNTdtb0E5MHNXS2YtZ3B2TXRLZDFNWnhzRjJaR2hDVVZtdlBVU3VmQnM4UWI3cV9iNmdCbnpKQ2JSZFlzbndIQkYxa2UxYTluQ3AyV0I3b2VvTTI2d1lFZzBQZ1B4cXg5Ykp2b24wZjhKcm5iWXhvb2VSS3M4?oc=5\" target=\"_blank\">These startups are chasing the next big thing in LLMs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-474-95a653850d",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Learning more about Claude's mathematical capabilities - Anthropic",
+   "summary": "Learning more about Claude's mathematical capabilities &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hN2tYeFF6SEtkVVhzVURqcHVqZ0VPVExEUnlFX21BcmNLaFhqT1BEU25IVS15akdoYVZ3djRLc3B5OXIyRnNxZkcxQUd4TEhXaUlpZzNwZlhuUVk?oc=5",
+   "published_at": "2026-08-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hN2tYeFF6SEtkVVhzVURqcHVqZ0VPVExEUnlFX21BcmNLaFhqT1BEU25IVS15akdoYVZ3djRLc3B5OXIyRnNxZkcxQUd4TEhXaUlpZzNwZlhuUVk?oc=5\" target=\"_blank\">Learning more about Claude's mathematical capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-754-e55d64c45b",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic - CNBC",
+   "summary": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94cE0tMnZmYVlZOXdtN3BtNTJPZGRNR1pHckM1OThqLUtveFBRbWhFNzZycl9ZVjJsLXZoMGUxbmQ0VC1kSFVSNk1RdkQ5NkN0bkJIaTVFX0FyVllDS2hwWlhNZ0FVLW1teW00VkMxbWx1TWpyRWNmLdIBfkFVX3lxTE1yT2pVb3pXZnpWRnVFeTliT2paa3NzNkNJX2FiS2ZMZXcxS2FtZ2wxdXhHYUlETVpocWFJTHZkZWJ6dEtzMW1rVF9sTTRkNWtDMWhEeHhYNVF6QVk3X29SU2xPQ3VxT21HX2tWaXN5Yi10OFhIUTVfUWltZ2dxZw?oc=5",
+   "published_at": "2026-08-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE94cE0tMnZmYVlZOXdtN3BtNTJPZGRNR1pHckM1OThqLUtveFBRbWhFNzZycl9ZVjJsLXZoMGUxbmQ0VC1kSFVSNk1RdkQ5NkN0bkJIaTVFX0FyVllDS2hwWlhNZ0FVLW1teW00VkMxbWx1TWpyRWNmLdIBfkFVX3lxTE1yT2pVb3pXZnpWRnVFeTliT2paa3NzNkNJX2FiS2ZMZXcxS2FtZ2wxdXhHYUlETVpocWFJTHZkZWJ6dEtzMW1rVF9sTTRkNWtDMWhEeHhYNVF6QVk3X29SU2xPQ3VxT21HX2tWaXN5Yi10OFhIUTVfUWltZ2dxZw?oc=5\" target=\"_blank\">Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-774-3b0f15fe5e",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision - TechCrunch",
+   "summary": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWwzeUJxYkFGS3MxY0xucVh5QXRpWUNaVjZuUUwwVU1JWWtrYUlDZlJYNFE2bWh5dkFlQm5lNm5xdXRxdmpPc1N5S3B6dGhqREtMR2ZaaVhVeERlNlpfSlhCRHBZMGttcnVtaWZpQy1BRkptV2RIRXhYeVlQaVJWSkxfRmpPeTNQUVZhSXhoSWE3cTE1VUg5cEpqbzVraXNrdWg2TmlfbXFmSkRhSmtGNnVNblR3eHpRMTU0?oc=5",
+   "published_at": "2026-08-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWwzeUJxYkFGS3MxY0xucVh5QXRpWUNaVjZuUUwwVU1JWWtrYUlDZlJYNFE2bWh5dkFlQm5lNm5xdXRxdmpPc1N5S3B6dGhqREtMR2ZaaVhVeERlNlpfSlhCRHBZMGttcnVtaWZpQy1BRkptV2RIRXhYeVlQaVJWSkxfRmpPeTNQUVZhSXhoSWE3cTE1VUg5cEpqbzVraXNrdWg2TmlfbXFmSkRhSmtGNnVNblR3eHpRMTU0?oc=5\" target=\"_blank\">Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

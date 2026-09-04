@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMXFTeVJpWFJnUXNzMGh3SVNsNzFTZWFLR3VmaVZ6ZldUNkF5WlpRM1Z5bnNWRGpySGlJMmY1TXpGejFWWjItMnR1eXdyUmtxeDhmV1V4OUEzVW1MVmQxWUdqaElZMlNYYU11T1lMZjZ1Q2o3cno1eWlPdUFHNk5ZVU03b2tmY3FFZ09CLVZpY3plQ082NWRpRkg0Zy1FMndCbzlseklMamc1WVVQTFZaLWJBYU5PUFktemczNnN5MGRZajA2U1V5cEZfT3lUcFNFWGJF?oc=5\" target=\"_blank\">Large language models offer potential for helping appeal denied radiology claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radiology Business</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1121-bc5ae90d95",
+   "source_id": "news",
+   "source_name": "BBC",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI前董事：马斯克主动捐精 两人已有四个孩子 - BBC",
+   "summary": "OpenAI前董事：马斯克主动捐精 两人已有四个孩子 &nbsp;&nbsp; BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vcTZocDBPeXJOVnJkRlEzWEVlR3NyYzJOT1hKVlJFMUdqdGczN3c4WWNLSmR4RzFHWEJUck5naE93aTlTZnlvQ2ptSHVCOVhtWUtkQTRFRjdWNG50YjBtSDNQVlpvZ9IBa0FVX3lxTFB5aVVNM0VpZWEtTENwTmt3V3l5U0JBMjRBZjZvYXFBN2dOTDF1UG04eV9NV19SbV96SnE2QVpKc0s5TndDUGtFd0ItT2lSRzhpa25PbmZXc1FHRy1iUUNoakNBdzdjbXdyVzFF?oc=5",
+   "published_at": "2026-05-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vcTZocDBPeXJOVnJkRlEzWEVlR3NyYzJOT1hKVlJFMUdqdGczN3c4WWNLSmR4RzFHWEJUck5naE93aTlTZnlvQ2ptSHVCOVhtWUtkQTRFRjdWNG50YjBtSDNQVlpvZ9IBa0FVX3lxTFB5aVVNM0VpZWEtTENwTmt3V3l5U0JBMjRBZjZvYXFBN2dOTDF1UG04eV9NV19SbV96SnE2QVpKc0s5TndDUGtFd0ItT2lSRzhpa25PbmZXc1FHRy1iUUNoakNBdzdjbXdyVzFF?oc=5\" target=\"_blank\">OpenAI前董事：马斯克主动捐精 两人已有四个孩子</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

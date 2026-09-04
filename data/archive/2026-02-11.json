@@ -43,6 +43,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGtWWU1XRGt0Sk1uMGpreno2ejY3VGkyaWtFS01wZms4OEV4MDdreGJRSzY2VUxoeERqNnZPUmc4cEZJSk1Nb3dFNFZmUEJCM19WUFl2eVl0dGNYOVl5TXkxVl9KRXpNZU13a3lSYjgweldycEZBVXd2S1k5MGVCelZUcngxeWpSVjhSWXFLV0J2VnBPbjlsLWFqbw?oc=5\" target=\"_blank\">Funding for startup AI companies dominates VC investment arena</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CFO.com</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1122-ee70bf0ae0",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "工程技术：在智能体优先的世界中利用 Codex - OpenAI",
+   "summary": "工程技术：在智能体优先的世界中利用 Codex &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41ajloUEV6NVhKY3pPdnVJRm5Qb1RJTmlHYlR1N2ktNjFTVm9DampodjFMeU5vdXc4SVdreThwWHNDSFNfNFhtbFJtT0lYMDdtY2g3TWM4MmtHQlNHV0lxdjE1STdpbTQ?oc=5",
+   "published_at": "2026-02-11T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41ajloUEV6NVhKY3pPdnVJRm5Qb1RJTmlHYlR1N2ktNjFTVm9DampodjFMeU5vdXc4SVdreThwWHNDSFNfNFhtbFJtT0lYMDdtY2g3TWM4MmtHQlNHV0lxdjE1STdpbTQ?oc=5\" target=\"_blank\">工程技术：在智能体优先的世界中利用 Codex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

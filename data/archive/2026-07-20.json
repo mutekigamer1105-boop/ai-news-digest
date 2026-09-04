@@ -130,6 +130,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeksxdURwQWcySWxHUEJZbFhicEZvVV9abXJ3TE1ZWkR4TmZJY2I5WEp3S25kSndsRUdEclYyNjB3QWRtcjNtRGtBWU8xeHhFNngzYXdwcjJjUEc0Q0FXWk1qa0VNQ191TGZONVBONkZIaklGSElkcG5DVDFYelU1eEc4YkthTENTQUdwN1VMNUgxZEJWUjJ2RUJ0Q1AxQ1M0dmEzeHo3TVdTejZXbmoweER3VmhRUEJjaUM1b2h0OGhmUE5WZm1lbHd3M2RQWW1LYUdnN01rUGMzVWRXZllZ?oc=5\" target=\"_blank\">NVIDIA Agent Toolkit 扩展全新 Omniverse 库，赋能 AI 智能体构建“仿真就绪”世界</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-790-4047f238b4",
+   "source_id": "news",
+   "source_name": "The Washington Post",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Opinion | Powerful AI models are being given away for free. It was inevitable. - The Washington Post",
+   "summary": "Opinion | Powerful AI models are being given away for free. It was inevitable. &nbsp;&nbsp; The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
+   "published_at": "2026-07-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5\" target=\"_blank\">Opinion | Powerful AI models are being given away for free. It was inevitable.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1098-5c6a6fa4f8",
+   "source_id": "news",
+   "source_name": "C114通信网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "WAIC观察|迈富时梁铮：以智能体基建，扩大AI能力边界 - C114通信网",
+   "summary": "WAIC观察|迈富时梁铮：以智能体基建，扩大AI能力边界 &nbsp;&nbsp; C114通信网",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YaDlyWWRXMjRFcHRYS2t1WnFxc1hRaWJiQ1NmMlo5N3NHNDAxRGMzcmJNdWxBS1BkZkF2OENMeDllMlY5ZTBkSzdpQlJKWjA?oc=5",
+   "published_at": "2026-07-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YaDlyWWRXMjRFcHRYS2t1WnFxc1hRaWJiQ1NmMlo5N3NHNDAxRGMzcmJNdWxBS1BkZkF2OENMeDllMlY5ZTBkSzdpQlJKWjA?oc=5\" target=\"_blank\">WAIC观察|迈富时梁铮：以智能体基建，扩大AI能力边界</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C114通信网</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

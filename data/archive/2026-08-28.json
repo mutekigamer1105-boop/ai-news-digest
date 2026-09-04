@@ -172,6 +172,71 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPSVJvZVl3d0pjeHRFVUliT0xETGNmQ2Nmd1QtVDJBQS1Ud2ZiZWZrdHBIX05QekRzcmRLZW9vMHA2WWF2MXo3NEFuQXV1TDlhVWJlOWs4dXNYWFJROG9BLTRVTm4wQ3REbEVMWkRnVFR5emxaZUxObzRDOVRld3pXRGZTY2FPajBGT3lWOURXdzdZbDZjT3lmVW5UVjV0X2NmQy1iUmhCTk1fZkswMXdNV2tGMzYwUlFKaE40el93?oc=5\" target=\"_blank\">新闻室</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gartner</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-1037-2b6ffb234e",
+   "source_id": "news",
+   "source_name": "中国科技网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体入侵“抱抱脸”事件调查报告提示：人工智能发展应敲响安防警钟 - 中国科技网",
+   "summary": "AI智能体入侵“抱抱脸”事件调查报告提示：人工智能发展应敲响安防警钟 &nbsp;&nbsp; 中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Oa0dfNWZ3YlV0NkxXaTdScjFjWjdkQ2lsdVdleFpPenhKdUdoZEJzSjJZOEMzajZzRjN6YmZUQVo1WDBqejNwWDl0LUFwU2hXU0pnc3Izc0F1X1ZsUGRGeENhLVZYcGl0TE9Zb29mbkM?oc=5",
+   "published_at": "2026-08-28T17:01:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9Oa0dfNWZ3YlV0NkxXaTdScjFjWjdkQ2lsdVdleFpPenhKdUdoZEJzSjJZOEMzajZzRjN6YmZUQVo1WDBqejNwWDl0LUFwU2hXU0pnc3Izc0F1X1ZsUGRGeENhLVZYcGl0TE9Zb29mbkM?oc=5\" target=\"_blank\">AI智能体入侵“抱抱脸”事件调查报告提示：人工智能发展应敲响安防警钟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1085-d5ca96044b",
+   "source_id": "news",
+   "source_name": "InfoQ-CN",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎 - InfoQ-CN",
+   "summary": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎 &nbsp;&nbsp; InfoQ-CN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOU0NJaUpRUk9FX3JpYnFpMUdUN3R6eXZvYmRPbTNhVjlyTFZqRmtNeUdnMXJKNjJBS194alJmWTlSbkNjSjM1WGtvNGhsaFFQZXJRdEx5TG1rQnpDRXc?oc=5",
+   "published_at": "2026-08-28T10:08:08+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOU0NJaUpRUk9FX3JpYnFpMUdUN3R6eXZvYmRPbTNhVjlyTFZqRmtNeUdnMXJKNjJBS194alJmWTlSbkNjSjM1WGtvNGhsaFFQZXJRdEx5TG1rQnpDRXc?oc=5\" target=\"_blank\">Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ-CN</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-896-a2cd93909a",
+   "source_id": "news",
+   "source_name": "广州市人民政府",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "全力推动“人工智能赋能千行百业” 广州民企书写“AI+”新故事 - 广州市人民政府",
+   "summary": "全力推动“人工智能赋能千行百业” 广州民企书写“AI+”新故事 &nbsp;&nbsp; 广州市人民政府",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HODI3YXo0MHplbjNnWmFpNGJKOWEzQkFrbTlmRGtCWTRRQ0h0YzFWdkZWa3pjQUhzRG1uWlNqUDExZWt6a0Y0LTg0S2pqTHFGZTRxVDNwMjY4amZBZkc5RzA5U0VXWDBXVUwwc3FLbw?oc=5",
+   "published_at": "2026-08-28T03:24:53+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1HODI3YXo0MHplbjNnWmFpNGJKOWEzQkFrbTlmRGtCWTRRQ0h0YzFWdkZWa3pjQUhzRG1uWlNqUDExZWt6a0Y0LTg0S2pqTHFGZTRxVDNwMjY4amZBZkc5RzA5U0VXWDBXVUwwc3FLbw?oc=5\" target=\"_blank\">全力推动“人工智能赋能千行百业” 广州民企书写“AI+”新故事</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">广州市人民政府</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

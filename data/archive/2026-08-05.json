@@ -65,6 +65,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi4ANBVV95cUxPb2IxY3p5ekZEQXN1ejBUcmJsa3Bsd1lXVElCUklVQnd5RDBralUyYnQ0azV5X0Z0bmdEYU1zLVd2UzBzTjNVY2ozOFRWb0RSS3F3eXAwd0JXNXBwcEZlQ3ZxNHRQUkk0LWhOREU3djFudXJfcXZDVFpSQy0yWnlRQWRhNEEyV2RtS1MzYzdtV1owVTVrcm9EVV9vRjlaMzYyNzhPV3c5aXI1N041SUc5eTN1cGk2VXR4d01pTnJ6bjltQkxGVUFPVjJlb1RzYzI4MkNZZVZrTTA5YkdQNzlKLWQxbXJ3R3hjcEl0X0lVdVZtOGJPRmYxcG5kRGZ0QUJZcm1CblQ3Qmw0ZWg4VG5fWWRWaHc4ZWFzdklLTlRTdkc3dno1UU1JRDBWSEJ0cUpWbldrNVhHWGZnVTJWdzlvMXg0RWJWZXdJa0RtVndoeXZrTVVORHJ4TWFVZVFGVkRaYU5oWWRzTXRNbHJpOExFS3Ewc1VQdXc4WlFUUUJZaDlpMzJYWW1VZ1MyWmQ3T1ZyN1lQTzNSVXgySzlqem5xYktqYW4wNExMY0pvZGlYeXRlWERhSC1IRU10TVRmUklIaF94OTJ5Q19ZZ0E1YnQyb0dCaDlyNkVQSUI1a3VoNkI?oc=5\" target=\"_blank\">在中国：人工智能正在摧毁越来越多的工作岗位，而政府的反应却畏首畏尾</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RFI</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-775-dc3eed37f7",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
+   "summary": "Meta debuts first AI coding agent to take on Anthropic and OpenAI &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
+   "published_at": "2026-08-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5\" target=\"_blank\">Meta debuts first AI coding agent to take on Anthropic and OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

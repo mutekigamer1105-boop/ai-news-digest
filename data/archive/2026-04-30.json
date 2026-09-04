@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-233-e3a65dfa5a",
+   "source_id": "news",
+   "source_name": "science.org",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Performance of a large language model on the reasoning tasks of a physician - science.org",
+   "summary": "Performance of a large language model on the reasoning tasks of a physician &nbsp;&nbsp; science.org",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02ZlBOOUVOUjVrZTFsZWpEV01weXRkQjlFQk5GQk55dE1DdmxmTjRrRzRVMndlUlo0YXB4OGRBbE5jaE9yNmtaYjZfMDlERkc2dE1PS2ZsVi1KQ2EyamxQTA?oc=5",
+   "published_at": "2026-04-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE02ZlBOOUVOUjVrZTFsZWpEV01weXRkQjlFQk5GQk55dE1DdmxmTjRrRzRVMndlUlo0YXB4OGRBbE5jaE9yNmtaYjZfMDlERkc2dE1PS2ZsVi1KQ2EyamxQTA?oc=5\" target=\"_blank\">Performance of a large language model on the reasoning tasks of a physician</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">science.org</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  }
+ ]
+}

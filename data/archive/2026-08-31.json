@@ -888,6 +888,223 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5oYXpfSTZtWTlURVFLQ1B0amRYNm81akh6aTVsbElZekRlejJnYTZMaVBEMlpyMHNDejhfdDJPb2JZTzM0cjNzOHNVYzhWM2ZDcFNzTFhqb1VaS0hjVWVSMmt2WWxkeFNqOTlxamxsN2JpQQ?oc=5\" target=\"_blank\">许四清：从大模型到物理世界，AI的下一个十年在哪里？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
    "fetched_at": "2026-09-03T20:18:43+00:00"
+  },
+  {
+   "id": "web-636-97e5e1f9d4",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "a16z Raises Growth Fund to $8.5 Billion as AI Startups Scale Faster - Межа. Новини України.",
+   "summary": "a16z Raises Growth Fund to $8.5 Billion as AI Startups Scale Faster &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FS0J2dnBDWDBnWWxOcG85Q05PMGFWVGk4SFJhUGhZT2FRQ2xYQWxtbWdza1lxUUt2N21zblQ3MzF1UnRnbXJRazZNZVZ1RWxJTTBkSm00NGlIWlRfVEhVOXRoU3Btd3M?oc=5",
+   "published_at": "2026-08-31T23:42:08+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FS0J2dnBDWDBnWWxOcG85Q05PMGFWVGk4SFJhUGhZT2FRQ2xYQWxtbWdza1lxUUt2N21zblQ3MzF1UnRnbXJRazZNZVZ1RWxJTTBkSm00NGlIWlRfVEhVOXRoU3Btd3M?oc=5\" target=\"_blank\">a16z Raises Growth Fund to $8.5 Billion as AI Startups Scale Faster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-417-41287f9fd9",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "Anthropic resumes external cyber tests after Claude AI hacks - Reuters",
+   "summary": "Anthropic resumes external cyber tests after Claude AI hacks &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3Y5eFQ4dWtTbDlKWE1yeXpuR25wNXBRMzVpeTJMM01vdzBiREpsR1IxSTVTWTU0YUxTNzZyZjBsQUVfS1I2bzJQRWtUcGVLaUJKbmxhLUJhQ2RGaWdjN3c4ZjZvcWVQdExIbWlHb3hpQ3lXXzlRcUZhNlVkLVBRMlFpRWFySk1XVzlSbmxNNkx4bTZhMXZMR3FpTVU4bTg2dzQtVG14b3FNZXZvcVM1QWV2Yk5BMllIMkxV?oc=5",
+   "published_at": "2026-08-31T23:13:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3Y5eFQ4dWtTbDlKWE1yeXpuR25wNXBRMzVpeTJMM01vdzBiREpsR1IxSTVTWTU0YUxTNzZyZjBsQUVfS1I2bzJQRWtUcGVLaUJKbmxhLUJhQ2RGaWdjN3c4ZjZvcWVQdExIbWlHb3hpQ3lXXzlRcUZhNlVkLVBRMlFpRWFySk1XVzlSbmxNNkx4bTZhMXZMR3FpTVU4bTg2dzQtVG14b3FNZXZvcVM1QWV2Yk5BMllIMkxV?oc=5\" target=\"_blank\">Anthropic resumes external cyber tests after Claude AI hacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-751-5fca37d081",
+   "source_id": "news",
+   "source_name": "Broadcom",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Broadcom Announces VMware AI Factory, Enabling Faster Time to Production AI and Greater Control Over AI Tokenomics - Broadcom",
+   "summary": "Broadcom Announces VMware AI Factory, Enabling Faster Time to Production AI and Greater Control Over AI Tokenomics &nbsp;&nbsp; Broadcom",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUlyREV3SC0xNHAyZGhqUDJZblhqYkNuUW92NVBKY3Z5Q0l3aWQ1SFpNdndXSU11VGlFZ3Y4X2w1RXJta25UcFJaZTJGcXR3VVdUZTVYWGFKMXRBV0lGYnBHdWR4cUhsME5uTllvU0RCZENoYVNweUdLSmxscnBqZDB5alpUbjRuVEdJ?oc=5",
+   "published_at": "2026-08-31T22:22:36+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUlyREV3SC0xNHAyZGhqUDJZblhqYkNuUW92NVBKY3Z5Q0l3aWQ1SFpNdndXSU11VGlFZ3Y4X2w1RXJta25UcFJaZTJGcXR3VVdUZTVYWGFKMXRBV0lGYnBHdWR4cUhsME5uTllvU0RCZENoYVNweUdLSmxscnBqZDB5alpUbjRuVEdJ?oc=5\" target=\"_blank\">Broadcom Announces VMware AI Factory, Enabling Faster Time to Production AI and Greater Control Over AI Tokenomics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Broadcom</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-425-26a7e766e8",
+   "source_id": "news",
+   "source_name": "CNET",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic’s Claude: What You Need to Know About This AI Tool - CNET",
+   "summary": "Anthropic’s Claude: What You Need to Know About This AI Tool &nbsp;&nbsp; CNET",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkM3YWVoYjBiSGdHNVJ2MVhPY2E3bS1NT1F6U3RWaGo0c2dZMjBqa3ktLUFTTGl0N2cwam93aWdYUldGVlQzSWtubW5sbFF2aENVWEhrSFhuR041V20wNjAtWGM0NE1mNGRPdGlpNUpFS0NEdVduU05rZ2tuWWVfX3NqNWxzY05iU3hKQnBPUDJoNTl6TDZld2M1SlVCQ1ZhWmhTbDJFc1IyMGU3TlE?oc=5",
+   "published_at": "2026-08-31T21:41:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkM3YWVoYjBiSGdHNVJ2MVhPY2E3bS1NT1F6U3RWaGo0c2dZMjBqa3ktLUFTTGl0N2cwam93aWdYUldGVlQzSWtubW5sbFF2aENVWEhrSFhuR041V20wNjAtWGM0NE1mNGRPdGlpNUpFS0NEdVduU05rZ2tuWWVfX3NqNWxzY05iU3hKQnBPUDJoNTl6TDZld2M1SlVCQ1ZhWmhTbDJFc1IyMGU3TlE?oc=5\" target=\"_blank\">Anthropic’s Claude: What You Need to Know About This AI Tool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-496-5c97659b37",
+   "source_id": "news",
+   "source_name": "Yahoo",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "EU Targets ChatGPT, Reddit and Roblox. Why Was Anthropic's Claude Left Out? - Yahoo",
+   "summary": "EU Targets ChatGPT, Reddit and Roblox. Why Was Anthropic's Claude Left Out? &nbsp;&nbsp; Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWV0TW94SFlDaHVldjNZd1F4NVVBUWRvZmU5WnMzQ0RsTE5fN3ZkSHZwYWlyLW5CQ3RlZ21UQWRlOXRaTUNmNWE4X3Y5VURXc2hnV3Q0ZVk2dDJTTlhVWHZlY3RDSDJWem5BTUVJcjNsckYtd2RGeEJ5R2xSS25rRS1fbXJmYVR1SXNXOHhaQlpUTmFrOWxj?oc=5",
+   "published_at": "2026-08-31T17:57:57+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWV0TW94SFlDaHVldjNZd1F4NVVBUWRvZmU5WnMzQ0RsTE5fN3ZkSHZwYWlyLW5CQ3RlZ21UQWRlOXRaTUNmNWE4X3Y5VURXc2hnV3Q0ZVk2dDJTTlhVWHZlY3RDSDJWem5BTUVJcjNsckYtd2RGeEJ5R2xSS25rRS1fbXJmYVR1SXNXOHhaQlpUTmFrOWxj?oc=5\" target=\"_blank\">EU Targets ChatGPT, Reddit and Roblox. Why Was Anthropic's Claude Left Out?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1155-4927fdbb79",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "苹果称前工程师加入OpenAI后仍查看机密电路图，要求法院加速取证| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "苹果称前工程师加入OpenAI后仍查看机密电路图，要求法院加速取证| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1faG5QeUlHTTlBNlE5Z0thNkl6ZUc2NTEzNjNfWlhxbGViWjJpX1FlbU5NdGNzWC0wVmtDRWlyckNFWU13OGVib2Qxa0VjRWd4ck9zSWNDMTRDTEg4cjNPeExrTQ?oc=5",
+   "published_at": "2026-08-31T17:16:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1faG5QeUlHTTlBNlE5Z0thNkl6ZUc2NTEzNjNfWlhxbGViWjJpX1FlbU5NdGNzWC0wVmtDRWlyckNFWU13OGVib2Qxa0VjRWd4ck9zSWNDMTRDTEg4cjNPeExrTQ?oc=5\" target=\"_blank\">苹果称前工程师加入OpenAI后仍查看机密电路图，要求法院加速取证| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-189-d3f9d9ad0c",
+   "source_id": "news",
+   "source_name": "Mashable",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenClaw 2.0 is here: A Crowdsourced update to the AI agent is now live - Mashable",
+   "summary": "OpenClaw 2.0 is here: A Crowdsourced update to the AI agent is now live &nbsp;&nbsp; Mashable",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qU1NxR01NZm4xVmNjZVB6T1NnZVlIYUk0YVhJYjIzOS1GM0czMmNObmRPZkdybHR0YXlJb0dON1VtNGY2NFo4WVF4R19xVXRKQy11MWFJYkVhS2VTZml2QVdXX2RWdzdOMFE?oc=5",
+   "published_at": "2026-08-31T16:15:49+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1qU1NxR01NZm4xVmNjZVB6T1NnZVlIYUk0YVhJYjIzOS1GM0czMmNObmRPZkdybHR0YXlJb0dON1VtNGY2NFo4WVF4R19xVXRKQy11MWFJYkVhS2VTZml2QVdXX2RWdzdOMFE?oc=5\" target=\"_blank\">OpenClaw 2.0 is here: A Crowdsourced update to the AI agent is now live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-828-cbea4da23e",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "人工智能应用服务商培育专项行动启动 - 新华网",
+   "summary": "人工智能应用服务商培育专项行动启动 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUmpPT3l3RktULWI1QWFrdGdXZGY4UUJaWVFUWDREa2p4UUN0cmg1eERmNXJ0bmVJWVFnXzVoWDBmRW5XeU1NS0xJLVFDVmNXbVluTXFGR3lUaXFwTlVfdDR2TlRwaEhTQ2c2R2J3M0lNLVNPekZkVi1KZFJScjI4OGUwd0RXZjZT?oc=5",
+   "published_at": "2026-08-31T11:41:12+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUmpPT3l3RktULWI1QWFrdGdXZGY4UUJaWVFUWDREa2p4UUN0cmg1eERmNXJ0bmVJWVFnXzVoWDBmRW5XeU1NS0xJLVFDVmNXbVluTXFGR3lUaXFwTlVfdDR2TlRwaEhTQ2c2R2J3M0lNLVNPekZkVi1KZFJScjI4OGUwd0RXZjZT?oc=5\" target=\"_blank\">人工智能应用服务商培育专项行动启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1054-d6c18f6430",
+   "source_id": "news",
+   "source_name": "chnfund.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体基础设施公司“以太之心”完成数千万元种子轮融资 - chnfund.com",
+   "summary": "AI智能体基础设施公司“以太之心”完成数千万元种子轮融资 &nbsp;&nbsp; chnfund.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqNEprSHBPT2Z3YnpUR0lMb3hsbFlDQ29XZEVsb05ZcGFjTURzMTJ1NXNQZ09JMTQwaUUxMl9sVGdKcHc5TTdYbFFTS1lRSVQ3RzNsRkNjWkE0TzBLZUZ2VExJaTc0aDNSUzdCODY5enQ5NC13ekt5U3N3?oc=5",
+   "published_at": "2026-08-31T06:01:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBqNEprSHBPT2Z3YnpUR0lMb3hsbFlDQ29XZEVsb05ZcGFjTURzMTJ1NXNQZ09JMTQwaUUxMl9sVGdKcHc5TTdYbFFTS1lRSVQ3RzNsRkNjWkE0TzBLZUZ2VExJaTc0aDNSUzdCODY5enQ5NC13ekt5U3N3?oc=5\" target=\"_blank\">AI智能体基础设施公司“以太之心”完成数千万元种子轮融资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chnfund.com</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-939-f6eafecde5",
+   "source_id": "news",
+   "source_name": "驱动之家",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续18周领跑：智谱牛来大模型登顶 DeepSeek-V4-Pro跌出榜单 - 驱动之家",
+   "summary": "中国AI大模型调用量连续18周领跑：智谱牛来大模型登顶 DeepSeek-V4-Pro跌出榜单 &nbsp;&nbsp; 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oOVZhMmdBZkRTT09hS3JLRW5UMU90N1lBYVo5ZVhLS3huYTFBdTVVVnNaYWlZNW9peXNzdlVCYnRwanRXUHVoNTBDMFR5S3hudUpEZUtxWEI?oc=5",
+   "published_at": "2026-08-31T03:07:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oOVZhMmdBZkRTT09hS3JLRW5UMU90N1lBYVo5ZVhLS3huYTFBdTVVVnNaYWlZNW9peXNzdlVCYnRwanRXUHVoNTBDMFR5S3hudUpEZUtxWEI?oc=5\" target=\"_blank\">中国AI大模型调用量连续18周领跑：智谱牛来大模型登顶 DeepSeek-V4-Pro跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">驱动之家</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

@@ -196,6 +196,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xdTBpRHhtOFRIWXpmd01aanZOSUxNMHJHREEyelJjMlA5S3M0MklKU0hXMjU5UkVWeTZUQzA0ZWJJdEFOTlZaZFc4NEYxN0pvTzZoeUlYNTlDMEZS?oc=5\" target=\"_blank\">连续七周增长！中国大模型周调用量达27.58万亿Token，是美国的四倍以上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stcn.com</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-1099-4879f3220d",
+   "source_id": "news",
+   "source_name": "中国科技网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "通用生物医学AI智能体可自主执行科研任务，其表现接近人类专家 - 中国科技网",
+   "summary": "通用生物医学AI智能体可自主执行科研任务，其表现接近人类专家 &nbsp;&nbsp; 中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wSkF3Wm1MTVVIVjJiOGtfck9xbldKNU9kYmRnbE5aVG1TY2lpRXZYdG1JZ1cwVUVaV0ZWNS14d3J1Qno0by1UZ2pWMkJZZlBNbFVtYXVITlF2VlVGNDhCTmFDMFNtZFlhWW5XNHpYTlg?oc=5",
+   "published_at": "2026-07-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9wSkF3Wm1MTVVIVjJiOGtfck9xbldKNU9kYmRnbE5aVG1TY2lpRXZYdG1JZ1cwVUVaV0ZWNS14d3J1Qno0by1UZ2pWMkJZZlBNbFVtYXVITlF2VlVGNDhCTmFDMFNtZFlhWW5XNHpYTlg?oc=5\" target=\"_blank\">通用生物医学AI智能体可自主执行科研任务，其表现接近人类专家</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

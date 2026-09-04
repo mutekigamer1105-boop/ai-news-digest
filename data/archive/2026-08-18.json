@@ -239,6 +239,137 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WbHhjdEdkaUM1YkdEb2tWaTdJSFQyVUxta2hUdU5kcG1fd255S0NkeDlURTA0dnJuZUNPemQ4NTROcnNJcTQwNTBGOTBscXdzWVFubi1Wa0JaZGNhQmVvMnZ2VnU4d9IBa0FVX3lxTE43bWFxZHprTmNEVTJGRnhVdWl2TFNIZ19RQldoYmgxdGRLMFktYzk4SDdtMTk1NXhNbGRuZWlaNjNDazFObHo2d0pXcThxZ0NITEdGbFpDVUJfamJiYkQ2OWUtSTJrT2ctNWpV?oc=5\" target=\"_blank\">人工智慧（AI）：日本企业应用为何如此缓慢</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-436-5679031765",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "How Claude is accelerating protein design and analytical chemistry - Anthropic",
+   "summary": "How Claude is accelerating protein design and analytical chemistry &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5\" target=\"_blank\">How Claude is accelerating protein design and analytical chemistry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-762-370e278051",
+   "source_id": "wired",
+   "source_name": "WIRED",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "The Powerful Chinese AI Model Experts Warned About—and Waited for—Is Here - WIRED",
+   "summary": "The Powerful Chinese AI Model Experts Warned About—and Waited for—Is Here &nbsp;&nbsp; WIRED",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0QxcFZOYUpXNWVMZ284dGpQRGJIZ2d0WlFleUk5QlFDZXE3eV9kTXVmN0tYUlg5NEJSWGI2eXYyQ2ZsbWRzRDI4bDZHVGpvSEt1bVU5c0JEWnRHSTN2SFpXRUZPZy1JQVhmT2dmMkVmUzV4VDVOTTBCcVdtMURrZC1Cdzh6X3NsZlBQYw?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0QxcFZOYUpXNWVMZ284dGpQRGJIZ2d0WlFleUk5QlFDZXE3eV9kTXVmN0tYUlg5NEJSWGI2eXYyQ2ZsbWRzRDI4bDZHVGpvSEt1bVU5c0JEWnRHSTN2SFpXRUZPZy1JQVhmT2dmMkVmUzV4VDVOTTBCcVdtMURrZC1Cdzh6X3NsZlBQYw?oc=5\" target=\"_blank\">The Powerful Chinese AI Model Experts Warned About—and Waited for—Is Here</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-764-71419b2dc8",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Pacing model development in an era of cyber-critical capabilities - OpenAI",
+   "summary": "Pacing model development in an era of cyber-critical capabilities &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5\" target=\"_blank\">Pacing model development in an era of cyber-critical capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-867-b486bcd8e5",
+   "source_id": "news",
+   "source_name": "BBC",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "从DeepSeek到“人工智能+”：中美AI竞赛究竟在比什么？专家预测三种结局 - BBC",
+   "summary": "从DeepSeek到“人工智能+”：中美AI竞赛究竟在比什么？专家预测三种结局 &nbsp;&nbsp; BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zRUJRUjBGdUJxOUxyU01GZ3pEbkZTOURySEduNUQtT2ZDMXJXY1RsbDU3LWhRT1FSelNtQjhiVFBUM3lkX1ExaUpnMF9YOHAxZ0t5dmNQTHNYcU9wTTVXMW8xWU4xUdIBa0FVX3lxTE1aeGlXQU10NEd4N1VwN3JfYUZlZkFkLWt3T2tLN3p4NmhNUlNIak13NUdoRG9GQ3Zrb1gybHJNSFk1N2x0U21GdVJNbm9sajZkb2hzenVnck90cGIyaFdnRDIzdkxnS2E1dF9Z?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zRUJRUjBGdUJxOUxyU01GZ3pEbkZTOURySEduNUQtT2ZDMXJXY1RsbDU3LWhRT1FSelNtQjhiVFBUM3lkX1ExaUpnMF9YOHAxZ0t5dmNQTHNYcU9wTTVXMW8xWU4xUdIBa0FVX3lxTE1aeGlXQU10NEd4N1VwN3JfYUZlZkFkLWt3T2tLN3p4NmhNUlNIak13NUdoRG9GQ3Zrb1gybHJNSFk1N2x0U21GdVJNbm9sajZkb2hzenVnck90cGIyaFdnRDIzdkxnS2E1dF9Z?oc=5\" target=\"_blank\">从DeepSeek到“人工智能+”：中美AI竞赛究竟在比什么？专家预测三种结局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1071-de15ff89f3",
+   "source_id": "news",
+   "source_name": "news.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "云徙科技毛健：以AI超级智能体激活企业数智新动能 - news.cn",
+   "summary": "云徙科技毛健：以AI超级智能体激活企业数智新动能 &nbsp;&nbsp; news.cn",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54Wm1pLXdqalFfX3A2UkdkbWZEMGdkdHFQRmVVTlpTdTRmeExYNVhNV3JGVEttYzhmbDZ2TmxtTFBZRnJxTVhlcVdQMkZKTGZEN1ctcDFDUUZxUjB2elpfaExoa2trNUNBb181cHlaTkxTYW11ZXdmcjhuOWs?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE54Wm1pLXdqalFfX3A2UkdkbWZEMGdkdHFQRmVVTlpTdTRmeExYNVhNV3JGVEttYzhmbDZ2TmxtTFBZRnJxTVhlcVdQMkZKTGZEN1ctcDFDUUZxUjB2elpfaExoa2trNUNBb181cHlaTkxTYW11ZXdmcjhuOWs?oc=5\" target=\"_blank\">云徙科技毛健：以AI超级智能体激活企业数智新动能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cn</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1153-868192bf25",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI筹备ChatGPT青少年模式，强化未成年人使用限制与安全保护| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI筹备ChatGPT青少年模式，强化未成年人使用限制与安全保护| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16THlSZ0t3YlR2SllLYW10bnljTmZIeUEwODRBNmJlMFBJa1lmckJDaVdEMVNHbXk3c2NuY1p4T05Rd1EtTVhocFlrNjJqUXZkazdsaHhwZkl0WFNITjhXd0NFSWtfQ2M?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16THlSZ0t3YlR2SllLYW10bnljTmZIeUEwODRBNmJlMFBJa1lmckJDaVdEMVNHbXk3c2NuY1p4T05Rd1EtTVhocFlrNjJqUXZkazdsaHhwZkl0WFNITjhXd0NFSWtfQ2M?oc=5\" target=\"_blank\">OpenAI筹备ChatGPT青少年模式，强化未成年人使用限制与安全保护| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

@@ -21,6 +21,72 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVhWajdRUTRBYnpSNGJDVzRpNlNRbV85Mml0VEFINUZndjNnNFpsdFVSRFktei1BdXVpUXB2dkxCRlBYelZ4YnZRZGpuejFSUkVHV2haUjZsa3Z2czVLc2Nfa01ZbGpsSUc1R0lXYnFnMkVrRUpLZDdNWUFyT0lVS3B1VWlCcEVtTE50bUliWThxUElQYUxNT1lRSQ?oc=5\" target=\"_blank\">This AI startup has roughly 50 employees, no product and has never published a word of research. It's worth $32 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-678-aa942adfec",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Engineering AI startup, P-1 AI, Announces Its Series A Financing Led by NEA, Adding Jeff Immelt to the Company’s Board - Yahoo Finance",
+   "summary": "Engineering AI startup, P-1 AI, Announces Its Series A Financing Led by NEA, Adding Jeff Immelt to the Company’s Board &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGZLTW5wRHR3YXhfNkdhWVJGd0dDdW9XZ2NoZVNqNWxmSFppeXNaaG9zbFluWG01VHdRVmhKYlFHeTkxNEdpdnl1UDJUTDh0aDI2TmR6TkZ2b2FhblJLSjAzN01MN0Q0YmpIZ2lyX0NSUTVkNS1GWHRzOUkySjBSZThNZHdqYVBjNVBTS3dPUkRFaWda?oc=5",
+   "published_at": "2026-07-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxONGZLTW5wRHR3YXhfNkdhWVJGd0dDdW9XZ2NoZVNqNWxmSFppeXNaaG9zbFluWG01VHdRVmhKYlFHeTkxNEdpdnl1UDJUTDh0aDI2TmR6TkZ2b2FhblJLSjAzN01MN0Q0YmpIZ2lyX0NSUTVkNS1GWHRzOUkySjBSZThNZHdqYVBjNVBTS3dPUkRFaWda?oc=5\" target=\"_blank\">Engineering AI startup, P-1 AI, Announces Its Series A Financing Led by NEA, Adding Jeff Immelt to the Company’s Board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-680-01bda2cfb1",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Encore AI raises $30M to build AI agents that learn from customer calls - TechCrunch",
+   "summary": "Encore AI raises $30M to build AI agents that learn from customer calls &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVM2M2g4bFd4X0VlNzNTY3Z2TE9hVEsxSk1Rd2o0VFQ5M1VNb25VNVRsd0pMbUNPNVowbGQxa2R4VU5QYWxhREE4WlF2ajJ3SlJaSVlTSV9LMTh5N0ViZkJ2V2JDcFZpcUxOQUU1UzFYd0JfMXBmOXlLb283dXcycldnSUl1VUVZWkd3WGpPR0pPaFhMcnlKVnl4Y1QzNDdzVGZTVkd1R20?oc=5",
+   "published_at": "2026-07-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVM2M2g4bFd4X0VlNzNTY3Z2TE9hVEsxSk1Rd2o0VFQ5M1VNb25VNVRsd0pMbUNPNVowbGQxa2R4VU5QYWxhREE4WlF2ajJ3SlJaSVlTSV9LMTh5N0ViZkJ2V2JDcFZpcUxOQUU1UzFYd0JfMXBmOXlLb283dXcycldnSUl1VUVZWkd3WGpPR0pPaFhMcnlKVnl4Y1QzNDdzVGZTVkd1R20?oc=5\" target=\"_blank\">Encore AI raises $30M to build AI agents that learn from customer calls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1108-94d8405500",
+   "source_id": "news",
+   "source_name": "BBC",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI：失控AI曾试图入侵其他公司系统 - BBC",
+   "summary": "OpenAI：失控AI曾试图入侵其他公司系统 &nbsp;&nbsp; BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlbmRZNlV6UU50NzQ2b3l4dnVCV01WaTQ0NUh2anJXQjRCazFaOGtid0JVMTQyVnB3MFdWaUhFX0JoQmtKbE1vOGhlS1JiYzA5b0dQNXBtcEtmRFFIQl93dG9EVUNrQdIBa0FVX3lxTE1raEpJTVFsWVFwWkNaNGVnb3Z0ZGZUc09yN1FZZkxTR1FRMXI5Ykh4TVFEVkVmWVFRZ055N1ZqZTdMN2Z4MnRLbUtFamFWRjdNcHZOQkNRQVhsU3Z1LVVxOFRzNkg0N3BlT1lF?oc=5",
+   "published_at": "2026-07-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlbmRZNlV6UU50NzQ2b3l4dnVCV01WaTQ0NUh2anJXQjRCazFaOGtid0JVMTQyVnB3MFdWaUhFX0JoQmtKbE1vOGhlS1JiYzA5b0dQNXBtcEtmRFFIQl93dG9EVUNrQdIBa0FVX3lxTE1raEpJTVFsWVFwWkNaNGVnb3Z0ZGZUc09yN1FZZkxTR1FRMXI5Ykh4TVFEVkVmWVFRZ055N1ZqZTdMN2Z4MnRLbUtFamFWRjdNcHZOQkNRQVhsU3Z1LVVxOFRzNkg0N3BlT1lF?oc=5\" target=\"_blank\">OpenAI：失控AI曾试图入侵其他公司系统</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

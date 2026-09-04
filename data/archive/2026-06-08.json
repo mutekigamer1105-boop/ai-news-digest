@@ -108,6 +108,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ieEhXUEpHRjdWZnFxekltLWgxcThRMVNYTzI4eGdBT09obmtvQ3ZEdXZNNl9YQmg0WHpSdDNBU2kxbVNwQi1lY3dZeHUtNzFMTHFqMU9ZYXBvM05SVWc?oc=5\" target=\"_blank\">ChatGPT开始靠“做梦”，稳稳地记住你</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-962-6e91cf6d7f",
+   "source_id": "news",
+   "source_name": "新华报业网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "如何避免AI大模型“顺着你说”？专家支招 - 新华报业网",
+   "summary": "如何避免AI大模型“顺着你说”？专家支招 &nbsp;&nbsp; 新华报业网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpRDNPTU9Cc1ZIUk11ams4VWdnLXIwamgxZ3hTWEJ2ZkJlWFhDdVg5d3l0RDF6XzZyd3EtQ29EbFhMbzF1TVBtSnluYXMwdUd2MDFmUUVZTHV1eHB0MXQydlNIdkZkNFB5VU1R?oc=5",
+   "published_at": "2026-06-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBpRDNPTU9Cc1ZIUk11ams4VWdnLXIwamgxZ3hTWEJ2ZkJlWFhDdVg5d3l0RDF6XzZyd3EtQ29EbFhMbzF1TVBtSnluYXMwdUd2MDFmUUVZTHV1eHB0MXQydlNIdkZkNFB5VU1R?oc=5\" target=\"_blank\">如何避免AI大模型“顺着你说”？专家支招</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

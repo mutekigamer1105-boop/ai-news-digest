@@ -174,6 +174,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnlRWGF2MzdCcDBvZ3JuRzUyeDdBZHNOYVdIMFU0YW93NEFpclhZRGNqVVhRMnoyallpWHcwdUZrR2JGU1Axa3FBY0VncllqakpKRW51OUdISTdVVk8zLWlfYzZUWGJVdEVlU21pbm02V1FfOVFYczlRLWNTZUdwX0kwaUpweHVkU1E?oc=5\" target=\"_blank\">OpenAI新图像模型超越谷歌登顶！设计行业又要被颠覆了？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jpchinapress.com</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-1111-cde7547214",
+   "source_id": "news",
+   "source_name": "thepaper.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "又要颠覆设计行业？OpenAI炸场发布Images 2.0，中文不再乱码、超越谷歌登顶 - thepaper.cn",
+   "summary": "又要颠覆设计行业？OpenAI炸场发布Images 2.0，中文不再乱码、超越谷歌登顶 &nbsp;&nbsp; thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lR1FhMnROT2h1M29QVjhFVWktRmJVOVVrZkdXTGMzV2R3ZlUteVNPV3FiOGlnbm1vS3ZlUFljYzR1bV82UkJxMXBqUEJUYjhUUGpCQkZ5Nk9SX3ByWDhRVw?oc=5",
+   "published_at": "2026-04-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lR1FhMnROT2h1M29QVjhFVWktRmJVOVVrZkdXTGMzV2R3ZlUteVNPV3FiOGlnbm1vS3ZlUFljYzR1bV82UkJxMXBqUEJUYjhUUGpCQkZ5Nk9SX3ByWDhRVw?oc=5\" target=\"_blank\">又要颠覆设计行业？OpenAI炸场发布Images 2.0，中文不再乱码、超越谷歌登顶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

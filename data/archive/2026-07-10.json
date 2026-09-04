@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMmhaN3RDRmw4UnZ5NGVNbVJMcEtpN0dnSElLN19yWTJxNERGR1d3TGNJZ0QtSzNqTGlhcDVqalpGTnFSR2NUY0ZvT3ViUnlBNnd3U0hJRXlhZDR4WU1aS1dIWGFtZlNSdVhpaEFmOUttaEVJcnZ1WE93US1fcnNuZ3YwMGhYcGdEUllsR1JwdUYyUlExVXNOZlZB?oc=5\" target=\"_blank\">财经聚焦丨从“技术可用”到“商业可赚” AI智能体加速落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网客户端</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-956-b4ea1e1887",
+   "source_id": "news",
+   "source_name": "华尔街见闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？ - 华尔街见闻",
+   "summary": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？ &nbsp;&nbsp; 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CRVRMUTJiQmpCNW1Nc1RUTzdVU0hQSy1qdTZZQ3J1TnVqSGJ5SzFIOXF0MU05Vl9kT19zeHFYS2FjQkpiQnNFVmVPeUhNSmRxLUJJ?oc=5",
+   "published_at": "2026-07-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CRVRMUTJiQmpCNW1Nc1RUTzdVU0hQSy1qdTZZQ3J1TnVqSGJ5SzFIOXF0MU05Vl9kT19zeHFYS2FjQkpiQnNFVmVPeUhNSmRxLUJJ?oc=5\" target=\"_blank\">高盛深度报告：谁将成为中国AI大模型行业的长期赢家？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

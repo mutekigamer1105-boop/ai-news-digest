@@ -21,6 +21,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWVPbnFydHRoOVZma1NwNXlWaENaeXBwMEthbzkxMHdTV21yTlkxV3RGWDdZbllKRDFCQXl4bnpHbktRSmRYNEwyOWpka3M2NXhVYjBLSU1ISXpEVnNNaHJLUmNoeWVZLTE4a0JMcnBpbEdBQnpaMG5zcWpkT2RmNWN0UWZJTG41S3BvZ09fZWRyOFR3TDBhc3RBSFZTejl1TlFXQw?oc=5\" target=\"_blank\">Anthropic launches most powerful AI model yet, with new safety guardrails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-289-0897d9c18a",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models for breast cancer treatment planning: a blinded real-world evaluation of DeepSeek, ChatGPT, and oncologist recommendations - Frontiers",
+   "summary": "Large language models for breast cancer treatment planning: a blinded real-world evaluation of DeepSeek, ChatGPT, and oncologist recommendations &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTZ0dGoxWVhRZEJaLTMwOGNtcDJKTWN2OHVDZkl3YmdlUGEtY3pEN0ZJZXBBdVU2VmJzNTBEeS1PclU0RVdRVEtJM0NndnpNRkFzWVlpSzQyWnMtalRFYWtDTmN5d05wVTRHR1Q1TG1NekRXcTJxVnV5VlJDT2w1QVRQMHRhWXRGQ0dhRk9MX1ByeGp4QkRJ?oc=5",
+   "published_at": "2026-06-09T18:35:49+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTZ0dGoxWVhRZEJaLTMwOGNtcDJKTWN2OHVDZkl3YmdlUGEtY3pEN0ZJZXBBdVU2VmJzNTBEeS1PclU0RVdRVEtJM0NndnpNRkFzWVlpSzQyWnMtalRFYWtDTmN5d05wVTRHR1Q1TG1NekRXcTJxVnV5VlJDT2w1QVRQMHRhWXRGQ0dhRk9MX1ByeGp4QkRJ?oc=5\" target=\"_blank\">Large language models for breast cancer treatment planning: a blinded real-world evaluation of DeepSeek, ChatGPT, and oncologist recommendations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-229-0413933106",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "A reporting checklist for large language models in behavioural science - Nature",
+   "summary": "A reporting checklist for large language models in behavioural science &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tbGhlMlBlUVIyc09Rdk55Z3lrcjk5c3lXSjE0YVZiQTdDN3NnbzMycVZndlBFVjk1T2NoWHRvV2Vpb2h4NFJWcGNvZXo5QUFxM2cyT0F5QVNJd0hZUnRR?oc=5",
+   "published_at": "2026-06-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tbGhlMlBlUVIyc09Rdk55Z3lrcjk5c3lXSjE0YVZiQTdDN3NnbzMycVZndlBFVjk1T2NoWHRvV2Vpb2h4NFJWcGNvZXo5QUFxM2cyT0F5QVNJd0hZUnRR?oc=5\" target=\"_blank\">A reporting checklist for large language models in behavioural science</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

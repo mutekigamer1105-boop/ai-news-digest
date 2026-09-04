@@ -21,6 +21,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE52OGJwc3AtLWw3aDFKdmRwdlp4NFExV0U0cjhHYnBjMmxWaGlXdVRUYXo2NUZMZXFYZGp6ZEJ6VkJDcFF1WTZjcUZkMDh1TTBOSURMOGlKbjIwMGs1TVVyenZaTHd3ZzFmSkNBM0JScXBCc3d4LTRrV3lwbw?oc=5\" target=\"_blank\">OpenAI称中国使用人工智能打造监控工具</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1143-7a6ecf9adf",
+   "source_id": "news",
+   "source_name": "Business and Human Rights Centre",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国：OpenAI发现中国安全机构开发AI监控工具用于追踪社交媒体反华内容 - Business and Human Rights Centre",
+   "summary": "中国：OpenAI发现中国安全机构开发AI监控工具用于追踪社交媒体反华内容 &nbsp;&nbsp; Business and Human Rights Centre",
+   "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNbTFlTjQ2Mjh6UU1BNkppSVRXUFBQcW1IdVpRSFVjbkJ6V3U1OEpoSkt4SEx5TE9kNE5FY3RKS1RzQkU1eS1qd19uVVVyY2pMM0VObUs3akxOaklSWWd0amtNejlCZ2hIVUxza2lURWZRdERlMGRRUDYwMWNMTzc3NF9YaFl1bDRiV3hncVM4ZGMwZVU1WDNDNFphLUkwM3gwazRBbzY2ZU5XTVNrTnduaFdjdFFtTXo1WVl1MC16bXFaQkUwa2MyZEk3bEdiN1kwTEU3SENKWmd0YXhKVElGRkw2WDBNU000Nm1hM25JOERHNmUwV1FILWJzMW5VMTh1cnRRNDJLaTF6QlZKSmdXcHp5ckEyVUR2LVZ5MXRPak84OERXcXBOTVNYYUxaWGlpQzNmbjNRZktMZTR6dlNuTUhBLVdEOXR4bG1BU0l4WHozd2tJdnY2Y2llZGVIbWUyZVpLdFQ2OS1jUndzY09sMXprVGJKdWI4SldndURPRFBULU9WbHNjYjNJMFpVaGJsN00zNUVNVVdEUnBkRGxsU3BFazg3QTNZNXNpd21rUW5DYVlWUUVfcU9OLXlrNk9uNnRndVhibzhnNVYtdkM5eExVOHEwT1BINjlnVzdFbUZCSzFmUGc?oc=5",
+   "published_at": "2025-02-24T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi5gNBVV95cUxNbTFlTjQ2Mjh6UU1BNkppSVRXUFBQcW1IdVpRSFVjbkJ6V3U1OEpoSkt4SEx5TE9kNE5FY3RKS1RzQkU1eS1qd19uVVVyY2pMM0VObUs3akxOaklSWWd0amtNejlCZ2hIVUxza2lURWZRdERlMGRRUDYwMWNMTzc3NF9YaFl1bDRiV3hncVM4ZGMwZVU1WDNDNFphLUkwM3gwazRBbzY2ZU5XTVNrTnduaFdjdFFtTXo1WVl1MC16bXFaQkUwa2MyZEk3bEdiN1kwTEU3SENKWmd0YXhKVElGRkw2WDBNU000Nm1hM25JOERHNmUwV1FILWJzMW5VMTh1cnRRNDJLaTF6QlZKSmdXcHp5ckEyVUR2LVZ5MXRPak84OERXcXBOTVNYYUxaWGlpQzNmbjNRZktMZTR6dlNuTUhBLVdEOXR4bG1BU0l4WHozd2tJdnY2Y2llZGVIbWUyZVpLdFQ2OS1jUndzY09sMXprVGJKdWI4SldndURPRFBULU9WbHNjYjNJMFpVaGJsN00zNUVNVVdEUnBkRGxsU3BFazg3QTNZNXNpd21rUW5DYVlWUUVfcU9OLXlrNk9uNnRndVhibzhnNVYtdkM5eExVOHEwT1BINjlnVzdFbUZCSzFmUGc?oc=5\" target=\"_blank\">中国：OpenAI发现中国安全机构开发AI监控工具用于追踪社交媒体反华内容</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business and Human Rights Centre</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

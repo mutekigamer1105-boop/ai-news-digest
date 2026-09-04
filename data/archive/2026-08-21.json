@@ -109,6 +109,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9TZk5ZZ2cteEFnaHA4MkxjVHZIS0U4dGlPSV9uZ29UWnI0Mm40NkZWQ3RpOVZtME9KUFRJNVdIYm9oSmRpcWR4MnlQQmwtYXhpT0dEUXlOSTc3MGdzOU01Z0NRbXRxbUtLZmpR?oc=5\" target=\"_blank\">OpenAI推出苹果信息插件，ChatGPT可读取编辑并发送聊天消息| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-1078-23560fb1f2",
+   "source_id": "news",
+   "source_name": "人民网财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "海尔食联网发布数智美食AI智能体 - 人民网财经",
+   "summary": "海尔食联网发布数智美食AI智能体 &nbsp;&nbsp; 人民网财经",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XbHlEUDc1T0tNRDFlNW9vOFFaRjZXaGtXdl9ZTlFna3RoeENVWmRWOWxrdXl2WklsMU84TFQ5RG9IN2ZrajFod193cFlLc2dpQk1MWmVpN3B1NG1oZU1FSG1GZE1UV05VWVVuLVNR?oc=5",
+   "published_at": "2026-08-21T10:36:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1XbHlEUDc1T0tNRDFlNW9vOFFaRjZXaGtXdl9ZTlFna3RoeENVWmRWOWxrdXl2WklsMU84TFQ5RG9IN2ZrajFod193cFlLc2dpQk1MWmVpN3B1NG1oZU1FSG1GZE1UV05VWVVuLVNR?oc=5\" target=\"_blank\">海尔食联网发布数智美食AI智能体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民网财经</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-627-16b44df130",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The Week’s 10 Biggest Funding Rounds: Defense Tech, AI Tools And Infrastructure Lead The Way - Crunchbase News",
+   "summary": "The Week’s 10 Biggest Funding Rounds: Defense Tech, AI Tools And Infrastructure Lead The Way &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG9JR041RTJKNHBDcmZBU3IzM05GNGNLZWEyeUJtSkxDa0tMOVk3OE5PcF9DaHZXX2tuZ21HWC00YnNGdXFjV2xoVWlOWjlVRmNFNV9VeHdmZi1XcEtMV1lEaEU0YXpDYnk2OXlFVWNsQmlSb0ViUERJbjgzRGN3VjZEd1VhZDZlRXRFaVBzNU1BaXBURWw1dFA0MnBudklUTWc?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG9JR041RTJKNHBDcmZBU3IzM05GNGNLZWEyeUJtSkxDa0tMOVk3OE5PcF9DaHZXX2tuZ21HWC00YnNGdXFjV2xoVWlOWjlVRmNFNV9VeHdmZi1XcEtMV1lEaEU0YXpDYnk2OXlFVWNsQmlSb0ViUERJbjgzRGN3VjZEd1VhZDZlRXRFaVBzNU1BaXBURWw1dFA0MnBudklUTWc?oc=5\" target=\"_blank\">The Week’s 10 Biggest Funding Rounds: Defense Tech, AI Tools And Infrastructure Lead The Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

@@ -1,0 +1,47 @@
+{
+ "items": [
+  {
+   "id": "web-230-e68072a6a7",
+   "source_id": "news",
+   "source_name": "Hackster.io",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Running a 28.9M Parameter LLM on an $8 Microcontroller - Hackster.io",
+   "summary": "Running a 28.9M Parameter LLM on an $8 Microcontroller &nbsp;&nbsp; Hackster.io",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWU8zdFgxUU9JejYtMXNlN0JaakVWS2h0cnRWMmVleDZkcDhfel9RcmtjcVk5Z2ZMTFFaMHJPOE5HMXdWb2dvY3dYRnVoN2h0QzhGbDlpdVNjMUhrYnpnYUxOZXRLOGZOdjdrNUNkdUZsbHN4X0VNUFlEaGd3RFE3TGV2QkVvdEY0UV96V0hPTEFHV3RCXzQ2b09uVdIBoAFBVV95cUxORW9IaFhnTjhidVBMX283dzJhbklNZTJhSDJyemhpNWJ5X0JyMUdpZDBaSVlzbnVhTmIwNk05LW5mODdhQnllLWZ1dkhKaFo5NFdxRHh2X21CRzZRZ3JHUGo1QmZITWtraXZERlRtUUhGU3dIemVXdEotckNSd0xKYXYtdlpOZ3BnZzRucEpkbEk3RlltaURUbEt3QkFoc0du?oc=5",
+   "published_at": "2026-08-02T15:23:43+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWU8zdFgxUU9JejYtMXNlN0JaakVWS2h0cnRWMmVleDZkcDhfel9RcmtjcVk5Z2ZMTFFaMHJPOE5HMXdWb2dvY3dYRnVoN2h0QzhGbDlpdVNjMUhrYnpnYUxOZXRLOGZOdjdrNUNkdUZsbHN4X0VNUFlEaGd3RFE3TGV2QkVvdEY0UV96V0hPTEFHV3RCXzQ2b09uVdIBoAFBVV95cUxORW9IaFhnTjhidVBMX283dzJhbklNZTJhSDJyemhpNWJ5X0JyMUdpZDBaSVlzbnVhTmIwNk05LW5mODdhQnllLWZ1dkhKaFo5NFdxRHh2X21CRzZRZ3JHUGo1QmZITWtraXZERlRtUUhGU3dIemVXdEotckNSd0xKYXYtdlpOZ3BnZzRucEpkbEk3RlltaURUbEt3QkFoc0du?oc=5\" target=\"_blank\">Running a 28.9M Parameter LLM on an $8 Microcontroller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hackster.io</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-791-036f6a4f76",
+   "source_id": "news",
+   "source_name": "Gizmodo",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math - Gizmodo",
+   "summary": "OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math &nbsp;&nbsp; Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjRxVEJ0YVIyTFBhRHpXaWw0V0xVRnFsT3REanBuRDFBWkZDeTJ2OWRPZk5CR3pjMjBVXzhNRzlQN1M5bE1pQUpONHN3TC0zQnJWVEpVZkVtNnA3Y2h4ang4SVlDYnEtTzlJNzBITHBacWN5MnRPejFONUVJZFZWM3RpYVpwLW5rVnhLTmE1b1hibW5FSG9kYjB2NDVUWGVWVzRhLUUwZzFvWDBiN0tZZ0JISVZmTGJTMUE?oc=5",
+   "published_at": "2026-08-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjRxVEJ0YVIyTFBhRHpXaWw0V0xVRnFsT3REanBuRDFBWkZDeTJ2OWRPZk5CR3pjMjBVXzhNRzlQN1M5bE1pQUpONHN3TC0zQnJWVEpVZkVtNnA3Y2h4ang4SVlDYnEtTzlJNzBITHBacWN5MnRPejFONUVJZFZWM3RpYVpwLW5rVnhLTmE1b1hibW5FSG9kYjB2NDVUWGVWVzRhLUUwZzFvWDBiN0tZZ0JISVZmTGJTMUE?oc=5\" target=\"_blank\">OpenAI Smuggled the Announcement of Astra, Its Next AI Model, Into a Blog Post About Math</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  }
+ ]
+}

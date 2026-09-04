@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1160-3404d58c1b",
+   "source_id": "news",
+   "source_name": "NetApp",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI/Codex：将关键基础架构从 perl 迁移到 python - NetApp",
+   "summary": "OpenAI/Codex：将关键基础架构从 perl 迁移到 python &nbsp;&nbsp; NetApp",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmM2aXF3YnpVTFV4U2cyMEd6UHgzd0VBb2ludVlSX0t4anNaeFhjMUE4bFFMc25BZHA4TkxLanZIWFhmWXgxRHFpT1kwVXBfUjRDUmxMelpDbnFKV3BKdkxYYlVsQ00wbFphdmIwak1SaURrOXd3OG1KUEdseE9iQ0owd3o1ZWM?oc=5",
+   "published_at": "2022-06-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRmM2aXF3YnpVTFV4U2cyMEd6UHgzd0VBb2ludVlSX0t4anNaeFhjMUE4bFFMc25BZHA4TkxLanZIWFhmWXgxRHFpT1kwVXBfUjRDUmxMelpDbnFKV3BKdkxYYlVsQ00wbFphdmIwak1SaURrOXd3OG1KUEdseE9iQ0owd3o1ZWM?oc=5\" target=\"_blank\">OpenAI/Codex：将关键基础架构从 perl 迁移到 python</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NetApp</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  }
+ ]
+}

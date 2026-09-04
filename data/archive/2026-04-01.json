@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8waTdXcl9IR045TUJBZl9nQlI1Y0RRcHpxaEFwbDB4UG9pb1RxdzFxaXNPLVpBMU5lMm5ZZU83M0tnS3FOVUItdC1xM0s2N2ZCd0txVjFIeWRlUDgyX1VR?oc=5\" target=\"_blank\">Multidimensional evaluation of large language models in radiology report readability | npj Digital Medicine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-654-6c51cbc1d6",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B - Crunchbase News",
+   "summary": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTBNMEJaeUpqNXpYWnNEYjk1eXFpOU9aQVdfS2JvSXB0bElUN1VYMGM1UTZ6REo5VzZjcHBPODRFcmZqQkIwX1FpWXdsbVNaako0N1k2ZjBobzctanU4TWdpZW8tUURmMTBwMWM5VktrWVlHSk8zMW16RXh2anhRS282VVY?oc=5",
+   "published_at": "2026-04-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxORTBNMEJaeUpqNXpYWnNEYjk1eXFpOU9aQVdfS2JvSXB0bElUN1VYMGM1UTZ6REo5VzZjcHBPODRFcmZqQkIwX1FpWXdsbVNaako0N1k2ZjBobzctanU4TWdpZW8tUURmMTBwMWM5VktrWVlHSk8zMW16RXh2anhRS282VVY?oc=5\" target=\"_blank\">Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

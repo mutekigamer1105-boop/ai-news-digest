@@ -200,6 +200,71 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1Q1pQSFZYRjh2WFpZcWxKTVM3Ym1aZTJrSVo3U3VscW1kamVXaUdaREdxWHoxYjhybDZaWkowQmlVZ3pQNTl1YmtLVHAzcERfRl9tWkt3RHVWYmFVVjdJ?oc=5\" target=\"_blank\">Large language models do not have emotions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-03T20:18:43+00:00"
+  },
+  {
+   "id": "web-1005-f704f250f8",
+   "source_id": "news",
+   "source_name": "新浪网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型调用费用为何上涨 - 新浪网",
+   "summary": "AI大模型调用费用为何上涨 &nbsp;&nbsp; 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FeEIyTWN3Ujlleng3QWh0M0REbzNmUVEzcE50TEVESXVzTWQ3WXdlYXFuSjVGRElMclJsbndrMVBKTWxzVS1jRGpJVFZIcTE5a0FZWnpGZ3VWYzBMNVg1Q3hCSzVnZkZycGdHT2hXS251dHkyaWc?oc=5",
+   "published_at": "2026-08-24T16:11:28+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5FeEIyTWN3Ujlleng3QWh0M0REbzNmUVEzcE50TEVESXVzTWQ3WXdlYXFuSjVGRElMclJsbndrMVBKTWxzVS1jRGpJVFZIcTE5a0FZWnpGZ3VWYzBMNVg1Q3hCSzVnZkZycGdHT2hXS251dHkyaWc?oc=5\" target=\"_blank\">AI大模型调用费用为何上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-467-5fa0e09173",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Opinion | The Original Sin of Anthropic’s Claude - The New York Times",
+   "summary": "Opinion | The Original Sin of Anthropic’s Claude &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5\" target=\"_blank\">Opinion | The Original Sin of Anthropic’s Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-970-6fd86d0837",
+   "source_id": "news",
+   "source_name": "每日经济新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续十七周领跑：神秘“牛来”大模型上线四天冲至全球第二，DeepSeek-V4-Flash正式版连续三周第一 - 每日经济新闻",
+   "summary": "中国AI大模型调用量连续十七周领跑：神秘“牛来”大模型上线四天冲至全球第二，DeepSeek-V4-Flash正式版连续三周第一 &nbsp;&nbsp; 每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HSzlWY21BNW80TXhWZ0xEakYyZDVDaWxLOUxNcHlWZmxFRjZoRVVuTkJaSEVCckQ5TDVjV3IyNzljTllGTkJGaDBzLTdfQzJnZmVNQkdQNVNCc1o4cGhWRFByazdFUQ?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HSzlWY21BNW80TXhWZ0xEakYyZDVDaWxLOUxNcHlWZmxFRjZoRVVuTkJaSEVCckQ5TDVjV3IyNzljTllGTkJGaDBzLTdfQzJnZmVNQkdQNVNCc1o4cGhWRFByazdFUQ?oc=5\" target=\"_blank\">中国AI大模型调用量连续十七周领跑：神秘“牛来”大模型上线四天冲至全球第二，DeepSeek-V4-Flash正式版连续三周第一</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">每日经济新闻</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

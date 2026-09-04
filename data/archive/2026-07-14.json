@@ -130,6 +130,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5\" target=\"_blank\">Introducing Claude for Teachers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-653-a3312213fd",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "AI finance startup Flex doubles valuation to about $1.2 billion, source says - Reuters",
+   "summary": "AI finance startup Flex doubles valuation to about $1.2 billion, source says &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlV1WkpvNU1tejRJMWVfdzg1LWxsajB3dlNwcEJqYlp4MXRJcGdUUldiTkFLUFVJZzJlcU9oeUU2RjhjS0I3UVJ3WjJnQy0tT2xWZjFKVUJ3OXc0N2NjaFZMajJIMHpLQ0JnTGNhdldxUmVvLThOOWJBSDR3eWVGbzFjcWhzazBNcGpyaG9Ld1N2Wm9KODZoTE53anFFUnFudFRWX05Bd0hCcjktcHNpVTF4VVY4M0dnYTh6WjBYLXM5WUpu?oc=5",
+   "published_at": "2026-07-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlV1WkpvNU1tejRJMWVfdzg1LWxsajB3dlNwcEJqYlp4MXRJcGdUUldiTkFLUFVJZzJlcU9oeUU2RjhjS0I3UVJ3WjJnQy0tT2xWZjFKVUJ3OXc0N2NjaFZMajJIMHpLQ0JnTGNhdldxUmVvLThOOWJBSDR3eWVGbzFjcWhzazBNcGpyaG9Ld1N2Wm9KODZoTE53anFFUnFudFRWX05Bd0hCcjktcHNpVTF4VVY4M0dnYTh6WjBYLXM5WUpu?oc=5\" target=\"_blank\">AI finance startup Flex doubles valuation to about $1.2 billion, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1092-e403e7ff52",
+   "source_id": "news",
+   "source_name": "上观新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "上海发布全球首个AI智能体原生系统，大模型手机也来了，美团、百度率先接入 - 上观新闻",
+   "summary": "上海发布全球首个AI智能体原生系统，大模型手机也来了，美团、百度率先接入 &nbsp;&nbsp; 上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83dkxLbUlzZHJvbk04ZndDbXM2THlmcmk3TTh1cmRCYUVOTEdNcmFZdGcyZ1J3bjhsaU12N0Z0Mno2Y1l4MXpTcV9XREE4TnJuck9PTlo5UmExUQ?oc=5",
+   "published_at": "2026-07-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE83dkxLbUlzZHJvbk04ZndDbXM2THlmcmk3TTh1cmRCYUVOTEdNcmFZdGcyZ1J3bjhsaU12N0Z0Mno2Y1l4MXpTcV9XREE4TnJuck9PTlo5UmExUQ?oc=5\" target=\"_blank\">上海发布全球首个AI智能体原生系统，大模型手机也来了，美团、百度率先接入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-299-6a2a949577",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Revealing the intrinsic ethical vulnerability of aligned large language models - Nature",
+   "summary": "Revealing the intrinsic ethical vulnerability of aligned large language models &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WWGZhNDNPdTFQUlhObzJyWnk4cUJ0d0M4M1dOdFBwZ3hTVnBKTXpiU2JrS0FyaUxRV0ZhUFBrUlFFRWUtVU01clNUMzJIdlBqMnhyNEN5TEZUcVg2QUJZ?oc=5",
+   "published_at": "2026-03-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WWGZhNDNPdTFQUlhObzJyWnk4cUJ0d0M4M1dOdFBwZ3hTVnBKTXpiU2JrS0FyaUxRV0ZhUFBrUlFFRWUtVU01clNUMzJIdlBqMnhyNEN5TEZUcVg2QUJZ?oc=5\" target=\"_blank\">Revealing the intrinsic ethical vulnerability of aligned large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  }
+ ]
+}

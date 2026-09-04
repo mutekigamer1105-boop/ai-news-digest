@@ -89,6 +89,93 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0wUWNzQzNua3BlcVlyRkQ3cVAza2pXdjNZLWZVVWFyakZqWmhXVnlYYXFvbzA5d2VmNVpyeTdlY29SSEFJZ3VQWVl1YmtGcERjS01MR1ljM1ZiN3d0UWFhVDNsQUZLUmIyaUNlT1Vya3N6SV8wZjRrMzhLR2c?oc=5\" target=\"_blank\">OpenAI Jalapeño: Better Than Nvidia Blackwell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SemiAnalysis</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-173-c5e85e7df5",
+   "source_id": "news",
+   "source_name": "Stanford HAI",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Designing Loyalty: AI Agents and Conflicts of Interest - Stanford HAI",
+   "summary": "Designing Loyalty: AI Agents and Conflicts of Interest &nbsp;&nbsp; Stanford HAI",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYS0yblhvZkx4alc4WFRhczkxYmVkS0VCZjFXRDhxSmdILURIY29oUHVrcDY4ZzJrVUMxbjhoSEZGbnZ1TldWVFQ2VWlnbjBvZllwb0lXMzkxVzNoU3lDeEkzaWZ1SGlIVFpTcGt2amFqOVB1bnljMWM0UGV5aTJTYnJQRG9telZYTWdRUU5n?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQYS0yblhvZkx4alc4WFRhczkxYmVkS0VCZjFXRDhxSmdILURIY29oUHVrcDY4ZzJrVUMxbjhoSEZGbnZ1TldWVFQ2VWlnbjBvZllwb0lXMzkxVzNoU3lDeEkzaWZ1SGlIVFpTcGt2amFqOVB1bnljMWM0UGV5aTJTYnJQRG9telZYTWdRUU5n?oc=5\" target=\"_blank\">Designing Loyalty: AI Agents and Conflicts of Interest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stanford HAI</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-633-80b8da575b",
+   "source_id": "news",
+   "source_name": "GeekWire",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Homebuilding AI startup Digs raises $25.3M and partners with building products giant - GeekWire",
+   "summary": "Homebuilding AI startup Digs raises $25.3M and partners with building products giant &nbsp;&nbsp; GeekWire",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmlSVlRyVHpWVDB1R3pUU1Q0dUxaYmNBVVdOSkg3LTB2RE9DUmRYMGxUd0NUNndJeXZEb2hVcWdqNl9naHRpVm5VRURvdk5JRDYxWnhkdTl1cEp4V0tTRXNEMHYtXzMwdnB3djRwNUU5UWx5RlcwT1RKbjZyTGdGRkFENE5rbVZGTmVXSEUzS3BaMWllbU12eHJYYlRzRERRWnRUYnY3T25udEhMNnVlWS0xOEM?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmlSVlRyVHpWVDB1R3pUU1Q0dUxaYmNBVVdOSkg3LTB2RE9DUmRYMGxUd0NUNndJeXZEb2hVcWdqNl9naHRpVm5VRURvdk5JRDYxWnhkdTl1cEp4V0tTRXNEMHYtXzMwdnB3djRwNUU5UWx5RlcwT1RKbjZyTGdGRkFENE5rbVZGTmVXSEUzS3BaMWllbU12eHJYYlRzRERRWnRUYnY3T25udEhMNnVlWS0xOEM?oc=5\" target=\"_blank\">Homebuilding AI startup Digs raises $25.3M and partners with building products giant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-900-dcfb4ccdc6",
+   "source_id": "news",
+   "source_name": "求是",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "如何让人工智能拥有“道德” - 求是",
+   "summary": "如何让人工智能拥有“道德” &nbsp;&nbsp; 求是",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhWnI4VVJZV0JUWkJkUXdxLW9KMHJvMXpzU3Q0V2lnTjlOVlB1cXFEd1A2R2F0dzBSbE9INWVjdnhkU1IxalMyTkpOZlQxNTJ1MVcyUnM3TjUyRFktWG5Wdll5OUw4d1doZzc4N1g4TWc2MEZ1NUhDazVEeFA?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBhWnI4VVJZV0JUWkJkUXdxLW9KMHJvMXpzU3Q0V2lnTjlOVlB1cXFEd1A2R2F0dzBSbE9INWVjdnhkU1IxalMyTkpOZlQxNTJ1MVcyUnM3TjUyRFktWG5Wdll5OUw4d1doZzc4N1g4TWc2MEZ1NUhDazVEeFA?oc=5\" target=\"_blank\">如何让人工智能拥有“道德”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">求是</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1150-4361549b3a",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI推出ChatGPT Work让普通办公人员也能使用人工智能代理| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI推出ChatGPT Work让普通办公人员也能使用人工智能代理| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HMUY0Rjg0ZWdOZFI3U3ZuUzJmb09aS0IwNlFORXdXVTVNTThBT0JxTmd3eUt6ZnNpMW9fdEV1Z1JIVThydDkwRHJLUTVhZUJ4WUQ4SUEyM0IwdjE1WkpQODB5dE5iQzMyU3c?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5HMUY0Rjg0ZWdOZFI3U3ZuUzJmb09aS0IwNlFORXdXVTVNTThBT0JxTmd3eUt6ZnNpMW9fdEV1Z1JIVThydDkwRHJLUTVhZUJ4WUQ4SUEyM0IwdjE1WkpQODB5dE5iQzMyU3c?oc=5\" target=\"_blank\">OpenAI推出ChatGPT Work让普通办公人员也能使用人工智能代理| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

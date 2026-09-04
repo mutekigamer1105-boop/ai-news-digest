@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-290-e4740ce0cd",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models show Dunning-Kruger-like effects in multilingual fact-checking | Scientific Reports - Nature",
+   "summary": "Large language models show Dunning-Kruger-like effects in multilingual fact-checking | Scientific Reports &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WaGlPLU1EY21Qak9TVWxxaFRadUotYlZUNHU1LWJZQ3R1SnBVb1RiVVNocTFrT2l5Y1FDMFFDZ0tvZko1ZUhKN1p6V1Q1WGxYMHFyai05dC1abTV3YzZr?oc=5",
+   "published_at": "2026-02-25T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WaGlPLU1EY21Qak9TVWxxaFRadUotYlZUNHU1LWJZQ3R1SnBVb1RiVVNocTFrT2l5Y1FDMFFDZ0tvZko1ZUhKN1p6V1Q1WGxYMHFyai05dC1abTV3YzZr?oc=5\" target=\"_blank\">Large language models show Dunning-Kruger-like effects in multilingual fact-checking | Scientific Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  }
+ ]
+}

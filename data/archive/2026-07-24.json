@@ -66,6 +66,70 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YamJmcXNzQjJYbTlOZXNFZC0wNXpPUEMxUHJKVzRhRElnMERUYTAwNjMxcElJeTdXRU5RZ0hOMHJGdUhvWHhEUWdqc0J3QQ?oc=5\" target=\"_blank\">《AI智能体安全保险研究报告》正式发布</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">secrss.com</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-488-d7445f77d2",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Claude Opus 5 - Anthropic",
+   "summary": "Introducing Claude Opus 5 &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+   "published_at": "2026-07-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5\" target=\"_blank\">Introducing Claude Opus 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-697-4b8963456b",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation - Bloomberg.com",
+   "summary": "Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNXN6MFgxcXI0Z3JNWUg5bXdQXzFCX0VGR1pvV3BDU1ZRdEJMZWotOFF3dGpENC1NX050UGxEN1ZZYk9qNFFZUEhtS0pDZnRKdF80eUluWTRuVnNnVVZDVlAyM1FlalV2UHNtVElWS3owWlg3WTEzZ1d6eFI3TTFreTl2cmxHR2Vhd1dDSURzV0Q4YUl6bTFxc1pzcW85dWpmR3hzUkZzQUs4bkc1YS13Vw?oc=5",
+   "published_at": "2026-07-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNNXN6MFgxcXI0Z3JNWUg5bXdQXzFCX0VGR1pvV3BDU1ZRdEJMZWotOFF3dGpENC1NX050UGxEN1ZZYk9qNFFZUEhtS0pDZnRKdF80eUluWTRuVnNnVVZDVlAyM1FlalV2UHNtVElWS3owWlg3WTEzZ1d6eFI3TTFreTl2cmxHR2Vhd1dDSURzV0Q4YUl6bTFxc1pzcW85dWpmR3hzUkZzQUs4bkc1YS13Vw?oc=5\" target=\"_blank\">Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1125-349c2aebb9",
+   "source_id": "news",
+   "source_name": "me.news",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "刚刚，Claude爆改语音，11种语言，就是没中文 - me.news",
+   "summary": "刚刚，Claude爆改语音，11种语言，就是没中文 &nbsp;&nbsp; me.news",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51NzRndjdibzN5YXpldGZuUzNhd0Q2ay0yMm1IaF9aZ0FKUnlZQTRzZkMwblViWUR4dnRNM2h2a015MndKUjJnZlVSRQ?oc=5",
+   "published_at": "2026-07-24T04:00:36+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE51NzRndjdibzN5YXpldGZuUzNhd0Q2ay0yMm1IaF9aZ0FKUnlZQTRzZkMwblViWUR4dnRNM2h2a015MndKUjJnZlVSRQ?oc=5\" target=\"_blank\">刚刚，Claude爆改语音，11种语言，就是没中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">me.news</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

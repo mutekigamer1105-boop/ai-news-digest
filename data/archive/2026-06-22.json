@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzMDVva0Q0UzZ6WU1URXZJeURoMEpBOUprMkgtZXVsMFJwR1IxRkV1OU9GTkJVNjdMTFoyMU1ja1JTRjJUOGFBWQ?oc=5\" target=\"_blank\">“AI风向”要变？微软CEO：“卷”大模型没用，选择和低价才是王道！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-965-7bd075165e",
+   "source_id": "news",
+   "source_name": "电子工程专辑",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "图解全球17家主流AI大模型（2026） - 电子工程专辑",
+   "summary": "图解全球17家主流AI大模型（2026） &nbsp;&nbsp; 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GbkF2SXFMRFA3V1RYNXh3cHg0WVNZcnBPYWFzVlRNSHBGYnpELUpLcWFEckZLY1ZYcFZtWElZcEdrTVNadVZPU3RMa3NhcE1KUXRv?oc=5",
+   "published_at": "2026-06-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GbkF2SXFMRFA3V1RYNXh3cHg0WVNZcnBPYWFzVlRNSHBGYnpELUpLcWFEckZLY1ZYcFZtWElZcEdrTVNadVZPU3RMa3NhcE1KUXRv?oc=5\" target=\"_blank\">图解全球17家主流AI大模型（2026）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

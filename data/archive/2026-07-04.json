@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQczRlV0d3WXhVVWtqZVVHTlNPVF9TR2t1OXZzNUxMRlVtSHJiQldfWTNaNFN0dmJfaUMtUmRhRG0teHl5bENKNngtX09VeU5uRVhxMjBWZkM1dG0ta2MzNFdaR2RoNklRSEVsTm9FT1hrSnNzYVlCaU5iV01tT2NuOWxiRlJJclltcjBwdlppc2EwVVdJcUNyeVJHSllZZXBqbERFLTBnTjRVdlFZ?oc=5\" target=\"_blank\">联创多模态AI智能体，赋能网络运维向全自治迈进</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZTE</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-242-7606896103",
+   "source_id": "news",
+   "source_name": "Towards Data Science",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Setting Up Your Own Large Language Model - Towards Data Science",
+   "summary": "Setting Up Your Own Large Language Model &nbsp;&nbsp; Towards Data Science",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aU0xyZnZPZlo4ZFJZR2V1N2QyYU9VMWZJX2c0NVN0WlB6Rzl6SlpDTmFlREEzR2J6WlFnbktFeE1HaFF3YTh1ZlhvaXRyRUxvc3h3NnR3a2FYVUtHcXE5dEpsYkNzckQwdHNhek1NQXhrUEdPWmR6R1NLdFo?oc=5",
+   "published_at": "2026-07-04T15:22:02+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5aU0xyZnZPZlo4ZFJZR2V1N2QyYU9VMWZJX2c0NVN0WlB6Rzl6SlpDTmFlREEzR2J6WlFnbktFeE1HaFF3YTh1ZlhvaXRyRUxvc3h3NnR3a2FYVUtHcXE5dEpsYkNzckQwdHNhek1NQXhrUEdPWmR6R1NLdFo?oc=5\" target=\"_blank\">Setting Up Your Own Large Language Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Towards Data Science</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

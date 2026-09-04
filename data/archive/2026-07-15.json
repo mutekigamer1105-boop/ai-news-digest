@@ -43,6 +43,72 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnUHFXMDJNeGJxRG12U2haZDl4cGotdVlFRTFZRHUySXg4RlJIT3Iya3l4U0FLSTUyNEhsR3NIRHpUV1hKOEJQLVBrbUJkUE9ORjc1UGdMSmpia3J2THNHSVpYVQ?oc=5\" target=\"_blank\">OpenAI研究员王迈尔斯离职创业，拟用AI加速药物发现并寻求约2亿美元融资| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-227-3ca31c2b2b",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Addressing benchmarking gaps in large language models for health and medicine with dynamic red-teaming - Nature",
+   "summary": "Addressing benchmarking gaps in large language models for health and medicine with dynamic red-teaming &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95SmM5SFBxdVN4QmJNenNsTnBSM0VlazVCbFNhdms4WlRUMHpJNkFYOFpYbkZ6akh2THprRl9hNDYwdUZ5OWFWeDFXT290U2hFc0t6eV9hOTlubFRXVXBz?oc=5",
+   "published_at": "2026-07-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE95SmM5SFBxdVN4QmJNenNsTnBSM0VlazVCbFNhdms4WlRUMHpJNkFYOFpYbkZ6akh2THprRl9hNDYwdUZ5OWFWeDFXT290U2hFc0t6eV9hOTlubFRXVXBz?oc=5\" target=\"_blank\">Addressing benchmarking gaps in large language models for health and medicine with dynamic red-teaming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-699-b81e9a424e",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C - TechCrunch",
+   "summary": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMFM3em1PUXJyR1FMMkxjcTM5MWV0Y014THEyZVNLMUNZZUdVbnd6dzh4SHlsV09tbkhwcmxyOVJqZlVBZzdJQnc5c2lwOUZwRG14aVhPcEFoVEN5Wm9nX19xNW1JMDUybWplVU8wZV9hV1FyUlJtRlBQSlN0dFVrSk82NUwyOElHOTZfUlRtTnBnbHlsazVNcWtHT0U2TVo3b0djZGlmaHVKLTE4VVhPakNxVlRYN0U?oc=5",
+   "published_at": "2026-07-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMFM3em1PUXJyR1FMMkxjcTM5MWV0Y014THEyZVNLMUNZZUdVbnd6dzh4SHlsV09tbkhwcmxyOVJqZlVBZzdJQnc5c2lwOUZwRG14aVhPcEFoVEN5Wm9nX19xNW1JMDUybWplVU8wZV9hV1FyUlJtRlBQSlN0dFVrSk82NUwyOElHOTZfUlRtTnBnbHlsazVNcWtHT0U2TVo3b0djZGlmaHVKLTE4VVhPakNxVlRYN0U?oc=5\" target=\"_blank\">Indian AI coding startup Emergent becomes a unicorn with $130M Series C</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-788-a2e18d45d9",
+   "source_id": "news",
+   "source_name": "Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Murati’s Thinking Machines releases first AI model for broad use - Fortune",
+   "summary": "Murati’s Thinking Machines releases first AI model for broad use &nbsp;&nbsp; Fortune",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHZmVXduVjhLM2RvNUl3dEw0RmVlc2daOWxqaVFGVXl5blN2UVExS1RxRjB4Y29fTDE3enVRQ3EyNTQxSDA0OXJVZ05mUkxPT0RsMmJQRjNoNjdkSC14N2w0cXltNGhGWkdIanoxUllWbkFLR1RnR1dUX0x3RW5HenVYZk1BSEk3SjNyeFRwMEk5bjJ1MW5B?oc=5",
+   "published_at": "2026-07-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHZmVXduVjhLM2RvNUl3dEw0RmVlc2daOWxqaVFGVXl5blN2UVExS1RxRjB4Y29fTDE3enVRQ3EyNTQxSDA0OXJVZ05mUkxPT0RsMmJQRjNoNjdkSC14N2w0cXltNGhGWkdIanoxUllWbkFLR1RnR1dUX0x3RW5HenVYZk1BSEk3SjNyeFRwMEk5bjJ1MW5B?oc=5\" target=\"_blank\">Murati’s Thinking Machines releases first AI model for broad use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

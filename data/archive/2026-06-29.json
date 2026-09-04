@@ -64,6 +64,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPb1M0OHBBN2l1RE1oVjZnNXl6QU9QX2NyS1luZ243MkthU1RMb0o4RUJULUF2ZVpaU0paX0x3VmFjREx0TG5JVE40U3Rwc19tZ1Zlb0dLdGFMLUpVZGY1VDVUdENQR3dWYUhsbklybTk5OVMxQjNGLWJFalNLeU9VdnByWmp4eE5TQnJka3BSLVdnSWtQeURXSg?oc=5\" target=\"_blank\">US investors lead $30M funding for Gulf AI startup 1001</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-903-55fb80bba9",
+   "source_id": "news",
+   "source_name": "兰州大学新闻网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "兰州大学成立人工智能学院 - 兰州大学新闻网",
+   "summary": "兰州大学成立人工智能学院 &nbsp;&nbsp; 兰州大学新闻网",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XZjM5aHYwVnNFeXYwaG1hajdDc2VzLTFVSXJGQzlyX2w5QjFwSW9OY1NWQzFnZFd3bWZ6c0FMRFJ0dXV1azBCZlkzblFSV3ZhdHB4Q2FOV3k?oc=5",
+   "published_at": "2026-06-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XZjM5aHYwVnNFeXYwaG1hajdDc2VzLTFVSXJGQzlyX2w5QjFwSW9OY1NWQzFnZFd3bWZ6c0FMRFJ0dXV1azBCZlkzblFSV3ZhdHB4Q2FOV3k?oc=5\" target=\"_blank\">兰州大学成立人工智能学院</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">兰州大学新闻网</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

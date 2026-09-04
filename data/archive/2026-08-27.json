@@ -127,6 +127,94 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0zN3o3LUZCaDJLZlJNV3BvTks5MlI4R3BPOV9uMVJjQmwzV3FqalhOTnhoQ0JhYkVLRHJGUllJSFp4NnZ6cE5tUENlejhmeDRnSDhrMnFpb0hrMHFibnhkbGRzU2pzc2JIUnoxa1dOMXB1VXliZXUxM2tjSWQ3dw?oc=5\" target=\"_blank\">中电信人工智能科技（北京）有限公司2027届校园招聘全面启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sasac.gov.cn</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-317-755a809182",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI and Other Tech Giants Call for Greater Defense Against A.I. Attacks - The New York Times",
+   "summary": "OpenAI and Other Tech Giants Call for Greater Defense Against A.I. Attacks &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWdJNEdsTXRNZHVjeW1zc2hDYzdodk95bHh4Y1BrOWd6Z3VvV1c3RVNMbTgzMV9CVEJOY0FkNlRBSjlQT0c0UzlpRDFUcnhsd2xjYzNtREJIanR0SGU5Qlg1UXotV3JWMTR6UDZKZHJKSk9qSVMxT3VPcm5TM253LQ?oc=5",
+   "published_at": "2026-08-27T17:03:32+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWdJNEdsTXRNZHVjeW1zc2hDYzdodk95bHh4Y1BrOWd6Z3VvV1c3RVNMbTgzMV9CVEJOY0FkNlRBSjlQT0c0UzlpRDFUcnhsd2xjYzNtREJIanR0SGU5Qlg1UXotV3JWMTR6UDZKZHJKSk9qSVMxT3VPcm5TM253LQ?oc=5\" target=\"_blank\">OpenAI and Other Tech Giants Call for Greater Defense Against A.I. Attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-178-de87992e64",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Cisco Gave All 90,000 Employees Their Own AI Agent - WSJ",
+   "summary": "Cisco Gave All 90,000 Employees Their Own AI Agent &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHNfQUdwUDdSMlFWRVB1M2FDWXc0YUFPSWV1LUxnNnJCS1JfOC1xYlZnMHNJU2VPZ1ppZ1lPVi1pdnV6eGdmcEs4aklhUnBKZlg3eWdtRFNic3d1YUdva280TWl0bDE1TElFRkJIZWYwQzhPRW56NE5SdXZIUHV6ZlFId2ZTTExQcGU4el94UjBySkg4WXc?oc=5",
+   "published_at": "2026-08-27T13:11:04+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHNfQUdwUDdSMlFWRVB1M2FDWXc0YUFPSWV1LUxnNnJCS1JfOC1xYlZnMHNJU2VPZ1ppZ1lPVi1pdnV6eGdmcEs4aklhUnBKZlg3eWdtRFNic3d1YUdva280TWl0bDE1TElFRkJIZWYwQzhPRW56NE5SdXZIUHV6ZlFId2ZTTExQcGU4el94UjBySkg4WXc?oc=5\" target=\"_blank\">Cisco Gave All 90,000 Employees Their Own AI Agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-624-cb60e6cac7",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI Startup DeepSeek Poised to Reach $74 Billion Valuation - WSJ",
+   "summary": "AI Startup DeepSeek Poised to Reach $74 Billion Valuation &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2ZVcER1YXNsaEthelVtNENlUXBCMzdyRV80bWhNWHBHSk5rVmMzZGJyaFZfWS1YclBDWklqc0RFTEZzYm1fSXJzd1RWVDR4U1d2QzZfWTRFTUtfa1Ewa2FBUzRGZU93dkE4dWZJM0YwdHFhaWlrLTF2ajRBaWt2TGZMS1oyclVaM0lpQms1dGx1T3JTVlFLdA?oc=5",
+   "published_at": "2026-08-27T11:51:14+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2ZVcER1YXNsaEthelVtNENlUXBCMzdyRV80bWhNWHBHSk5rVmMzZGJyaFZfWS1YclBDWklqc0RFTEZzYm1fSXJzd1RWVDR4U1d2QzZfWTRFTUtfa1Ewa2FBUzRGZU93dkE4dWZJM0YwdHFhaWlrLTF2ajRBaWt2TGZMS1oyclVaM0lpQms1dGx1T3JTVlFLdA?oc=5\" target=\"_blank\">AI Startup DeepSeek Poised to Reach $74 Billion Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1159-4b94ff0dc5",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI在印度向免费及Go用户推出ChatGPT广告，9月开放广告管理工具| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI在印度向免费及Go用户推出ChatGPT广告，9月开放广告管理工具| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BYXhWZlZtVXFiT3ZlZG9XMzB3Z3MwdFhQemQzczFETklHMks2UWJ3SW0wMXlGWDJreXFiZm96TURkd1MyLU1aMGc0elgtamhGRGhsa0hlbkIzYXJlZkRfUWZDMncyQ2NSZFow?oc=5",
+   "published_at": "2026-08-27T06:57:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1BYXhWZlZtVXFiT3ZlZG9XMzB3Z3MwdFhQemQzczFETklHMks2UWJ3SW0wMXlGWDJreXFiZm96TURkd1MyLU1aMGc0elgtamhGRGhsa0hlbkIzYXJlZkRfUWZDMncyQ2NSZFow?oc=5\" target=\"_blank\">OpenAI在印度向免费及Go用户推出ChatGPT广告，9月开放广告管理工具| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

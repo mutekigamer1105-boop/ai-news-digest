@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1110-631ac78b1e",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "OpenAI Frontier 重磅亮相 - OpenAI",
+   "summary": "OpenAI Frontier 重磅亮相 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UbXphUzY4Zlk3ektZSlExZUZ4aU1mamt6c2hIaVRXRnR5OVhjSTJXLUJ0MlYtLU9mRWNYcFR6eFJxb1RQUXZHRkpCNW1VQzhaeTZCdUlmak0zejRHM2s5bFFrUHdWd2ZIVkRTaUR0OHBWdw?oc=5",
+   "published_at": "2026-02-05T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1UbXphUzY4Zlk3ektZSlExZUZ4aU1mamt6c2hIaVRXRnR5OVhjSTJXLUJ0MlYtLU9mRWNYcFR6eFJxb1RQUXZHRkpCNW1VQzhaeTZCdUlmak0zejRHM2s5bFFrUHdWd2ZIVkRTaUR0OHBWdw?oc=5\" target=\"_blank\">OpenAI Frontier 重磅亮相</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  }
+ ]
+}

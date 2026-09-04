@@ -236,6 +236,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE51ekdnVVFvY1pDcTNYY2JieC0td05mQmpLMndLRUxTVzNuNjJSTWZQLUJjM21MUVVPbTZXaDB0NVlzUmJtcGRpMkNvc3ItSEJGSmJmNkZFcm50YVh0c3dPaHp5NTA?oc=5\" target=\"_blank\">苹果被曝联合阿里自研中国专属大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-998-347f8fd1eb",
+   "source_id": "news",
+   "source_name": "华尔街见闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "报道：苹果自训中国专属AI大模型，阿里参与并提供支持 - 华尔街见闻",
+   "summary": "报道：苹果自训中国专属AI大模型，阿里参与并提供支持 &nbsp;&nbsp; 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLRTVMS3NNdFRXUnJyR3U4YTE5R01vcHFVMk1mYVRmQjk5NFFaUkpBaTNJS21yWjFJNlVOZWFEZjlwMXd0dW1GUzRFMkVJV0FReDlz?oc=5",
+   "published_at": "2026-08-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLRTVMS3NNdFRXUnJyR3U4YTE5R01vcHFVMk1mYVRmQjk5NFFaUkpBaTNJS21yWjFJNlVOZWFEZjlwMXd0dW1GUzRFMkVJV0FReDlz?oc=5\" target=\"_blank\">报道：苹果自训中国专属AI大模型，阿里参与并提供支持</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

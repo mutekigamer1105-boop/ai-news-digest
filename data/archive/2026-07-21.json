@@ -110,6 +110,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tUFlvaUx0R2t4T0NNcWZ1cWZQVFA2S3A0dzlELVk1aHUwREMySTlGVmtLSmVFVW1iTXRmSXU1d3owcjVxUVNINnZwaERvMTNQNnctX2lIeWNqODFO?oc=5\" target=\"_blank\">中国AI大模型在西方广受认可 瑞银：应关注这些核心问题</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caixin Global</font>",
    "fetched_at": "2026-09-03T20:18:43+00:00"
+  },
+  {
+   "id": "web-771-2391fe5f74",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Google Releases Three New A.I. Models - The New York Times",
+   "summary": "Google Releases Three New A.I. Models &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHg0TVFoTU1IaHdyenZrTVRSc09mZjUzTmZEYVJpMDhveHd5WnBHREJuU1BWRndTNWlQcWhFakRBT2F6dWxxMjFyM0l4cU9iWEpXaGhMbXFDT0hRNGNpMmpWQkdjUEhETUczOGY1NUhpRlNvUE04VVJ2NkhlbFNKSXl4UTBfUWlI?oc=5",
+   "published_at": "2026-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHg0TVFoTU1IaHdyenZrTVRSc09mZjUzTmZEYVJpMDhveHd5WnBHREJuU1BWRndTNWlQcWhFakRBT2F6dWxxMjFyM0l4cU9iWEpXaGhMbXFDT0hRNGNpMmpWQkdjUEhETUczOGY1NUhpRlNvUE04VVJ2NkhlbFNKSXl4UTBfUWlI?oc=5\" target=\"_blank\">Google Releases Three New A.I. Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-779-43c09227b2",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Does China’s latest AI model finally equal US rivals? What scientists think - Nature",
+   "summary": "Does China’s latest AI model finally equal US rivals? What scientists think &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvM2dkdEdJalh3MVd3S2dUVHZ5TTRpbzJYaEJzcm9NY2RtQnZ5eFRmLWxpOEdKTjlVaE5LVl9EWXhzVUh5TWY1Y01ydUVvUXhLaTJ1UlhNb2FYTzRXMk5F?oc=5",
+   "published_at": "2026-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvM2dkdEdJalh3MVd3S2dUVHZ5TTRpbzJYaEJzcm9NY2RtQnZ5eFRmLWxpOEdKTjlVaE5LVl9EWXhzVUh5TWY1Y01ydUVvUXhLaTJ1UlhNb2FYTzRXMk5F?oc=5\" target=\"_blank\">Does China’s latest AI model finally equal US rivals? What scientists think</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

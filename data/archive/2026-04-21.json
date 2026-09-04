@@ -42,6 +42,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNUF9ESkYxYndTZlVGX1p5ZVlnaUlKQzdtMmlkYTVMOEtHdUN5c1dCX25EWU11LWswV3YxbjdQTWY2ZzZGUU54VjBlMXZLT1NDWlUyMl9rY1pOeUpyWjY1SW1YYnBEOXg2d0prSV9hYVA4eDlHMVFYNG9qVTNtbUo3UEJlWlJ0cWlaWF9Sd3VoSzB2TzI5Rmc?oc=5\" target=\"_blank\">Applications of large language models in tumor boards: a systematic review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-1120-b0a02e78e4",
+   "source_id": "news",
+   "source_name": "36 Kr",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "奥特曼亲自上阵，Images 2.0登顶王座！大米刻字，生图跨入GPT-5时代 - 36 Kr",
+   "summary": "奥特曼亲自上阵，Images 2.0登顶王座！大米刻字，生图跨入GPT-5时代 &nbsp;&nbsp; 36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41cFNaYnJXTkEzZzIyVUtsaGRMcVJlek9jNW1ZaEFuZk03NEJ1YWlaMS1pY3JMYzgwQlVMVG1hZGlpbjJKZVAtU09RbDJudw?oc=5",
+   "published_at": "2026-04-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE41cFNaYnJXTkEzZzIyVUtsaGRMcVJlek9jNW1ZaEFuZk03NEJ1YWlaMS1pY3JMYzgwQlVMVG1hZGlpbjJKZVAtU09RbDJudw?oc=5\" target=\"_blank\">奥特曼亲自上阵，Images 2.0登顶王座！大米刻字，生图跨入GPT-5时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

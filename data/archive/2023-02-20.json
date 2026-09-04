@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "id": "web-1162-10af3490a9",
+   "source_id": "news",
+   "source_name": "纽约时报中文网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "为什么ChatGPT没有出现在中国 - 纽约时报中文网",
+   "summary": "为什么ChatGPT没有出现在中国 &nbsp;&nbsp; 纽约时报中文网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqNloyQXJGVUNoRkZGWTVLZmpLeTdlNWp6NjJfdFhiTVVlOTFvYmNFMVkyNE0zU21rd1k3eFBzcGc2NmlsRkxESkhLSVJ3ZmFob0szdmFWdGpXZlJQY3oxOFRFbXZPaHVfUWk0M2RSbDVSTXlYOVJKbUowZTdFeEU?oc=5",
+   "published_at": "2023-02-20T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBqNloyQXJGVUNoRkZGWTVLZmpLeTdlNWp6NjJfdFhiTVVlOTFvYmNFMVkyNE0zU21rd1k3eFBzcGc2NmlsRkxESkhLSVJ3ZmFob0szdmFWdGpXZlJQY3oxOFRFbXZPaHVfUWk0M2RSbDVSTXlYOVJKbUowZTdFeEU?oc=5\" target=\"_blank\">为什么ChatGPT没有出现在中国</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  }
+ ]
+}

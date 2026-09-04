@@ -109,6 +109,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9zZEE1ckpPdC04bnlnaEJZbnd4TjQtZVhRM29Ndnh1a3ZkRWVocmU1R0ZMM1BsWVlnRVFoVkJBQ2ZKX2UwcGlmcDk5OVp6U2lvZ2ViSzVMVTlUTnY2Ymd1MWFWUmpWaDlLMGc?oc=5\" target=\"_blank\">如何在企业中部署 AI 智能体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-777-c9352196fa",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Trump Administration Asks OpenAI to Stagger AI Model Release - Bloomberg.com",
+   "summary": "Trump Administration Asks OpenAI to Stagger AI Model Release &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE5VQW1pUnQyZ29WbDA4U3JSSW5ILXdZcTAtT0d0X0MwSVNXcDhnYkc1OEJXZERiOURVOUZnLVZSUDBudkRNM1hKVjVOQ0ppdmk1bEZiWjB5d3F3ZDVWNXRUTVRTdk05LWtLaTRHSlladzVRdUZYc3RDTzU1YS1TY2x3d196TG9JOFpYUmlBaFVNY2puSXdsbmJHbk9mMzBEYWJSTVZuWUEzNnI0bXhIRjBKdkE?oc=5",
+   "published_at": "2026-06-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE5VQW1pUnQyZ29WbDA4U3JSSW5ILXdZcTAtT0d0X0MwSVNXcDhnYkc1OEJXZERiOURVOUZnLVZSUDBudkRNM1hKVjVOQ0ppdmk1bEZiWjB5d3F3ZDVWNXRUTVRTdk05LWtLaTRHSlladzVRdUZYc3RDTzU1YS1TY2x3d196TG9JOFpYUmlBaFVNY2puSXdsbmJHbk9mMzBEYWJSTVZuWUEzNnI0bXhIRjBKdkE?oc=5\" target=\"_blank\">Trump Administration Asks OpenAI to Stagger AI Model Release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

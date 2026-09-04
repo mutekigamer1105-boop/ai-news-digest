@@ -107,6 +107,70 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5\" target=\"_blank\">The 5 craziest discoveries from OpenAI's Hugging Face investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-569-1c8e2d266e",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Nvidia’s AI advantage is moving beyond the GPU - TechCrunch",
+   "summary": "Nvidia’s AI advantage is moving beyond the GPU &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3NWOXg4X1dBMmtBMlVxVnAzOEktMHdrdHo2M05SVWctNGktUmxEMkJOMUdvRXhWWllQbnZmbGxZY0JKRjhtT2lGaTlKTG1wdGVLODB2dklZcmU1QzFxNlNGNEJNSEJFclNyb3JqRDRpSm1qY2x2ZGhYZmhzN3Bza3hCdnExMXc?oc=5",
+   "published_at": "2026-08-29T13:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3NWOXg4X1dBMmtBMlVxVnAzOEktMHdrdHo2M05SVWctNGktUmxEMkJOMUdvRXhWWllQbnZmbGxZY0JKRjhtT2lGaTlKTG1wdGVLODB2dklZcmU1QzFxNlNGNEJNSEJFclNyb3JqRDRpSm1qY2x2ZGhYZmhzN3Bza3hCdnExMXc?oc=5\" target=\"_blank\">Nvidia’s AI advantage is moving beyond the GPU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-866-6771139aa5",
+   "source_id": "news",
+   "source_name": "求是",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "推动人工智能与服务消费融合发展 - 求是",
+   "summary": "推动人工智能与服务消费融合发展 &nbsp;&nbsp; 求是",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Rd2Z2anQ3UHZ3TXVZQ1UzTldvWk11X1QwNjBCcHBETVpkZWkzSlpsSmN0TGptLW9wd0YzZXpmQ25CcnZqc3NfeVhKelMyazhrRFAzakNucFhZYkVlTjRLM1RJSGVCejlaUkI3eXpqbVNzcDlzT1oxc240ZFI?oc=5",
+   "published_at": "2026-08-29T11:03:09+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Rd2Z2anQ3UHZ3TXVZQ1UzTldvWk11X1QwNjBCcHBETVpkZWkzSlpsSmN0TGptLW9wd0YzZXpmQ25CcnZqc3NfeVhKelMyazhrRFAzakNucFhZYkVlTjRLM1RJSGVCejlaUkI3eXpqbVNzcDlzT1oxc240ZFI?oc=5\" target=\"_blank\">推动人工智能与服务消费融合发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">求是</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-858-02b6eacb68",
+   "source_id": "news",
+   "source_name": "北京市人民政府门户网站",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "人工智能展团亮出硬核创新力 - 北京市人民政府门户网站",
+   "summary": "人工智能展团亮出硬核创新力 &nbsp;&nbsp; 北京市人民政府门户网站",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VbkhxZWRENHg3V2NrNU5HWF9BQmNIRnJrY2tQMTlJWGdJalY2Mkd2N1dwMHNnN3RaN0pGa3JrazBFVUpmaDRIbFFYVk5ZcVFlMU1oc3d1bGt1WGxyTXJkQldCS2xpVjVGWnEwU3loaElPUkIxYmw5Tnd4VQ?oc=5",
+   "published_at": "2026-08-29T01:19:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1VbkhxZWRENHg3V2NrNU5HWF9BQmNIRnJrY2tQMTlJWGdJalY2Mkd2N1dwMHNnN3RaN0pGa3JrazBFVUpmaDRIbFFYVk5ZcVFlMU1oc3d1bGt1WGxyTXJkQldCS2xpVjVGWnEwU3loaElPUkIxYmw5Tnd4VQ?oc=5\" target=\"_blank\">人工智能展团亮出硬核创新力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北京市人民政府门户网站</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

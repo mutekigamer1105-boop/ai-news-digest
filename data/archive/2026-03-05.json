@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1126-ada8450e2a",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "GPT-5.4 震撼登场 - OpenAI",
+   "summary": "GPT-5.4 震撼登场 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zNGpVMElzemstazNacVl0OFR0aXpNR3RvRWFnb2h6ZWxXYm83aEFGV3laMjJjdXNQX0hBWGRQcGRCMHlpN2Y0MjYzYzNWZ21qektDMVNncGNsUmNxZXNHOWFaTVlWeVE?oc=5",
+   "published_at": "2026-03-05T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zNGpVMElzemstazNacVl0OFR0aXpNR3RvRWFnb2h6ZWxXYm83aEFGV3laMjJjdXNQX0hBWGRQcGRCMHlpN2Y0MjYzYzNWZ21qektDMVNncGNsUmNxZXNHOWFaTVlWeVE?oc=5\" target=\"_blank\">GPT-5.4 震撼登场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  }
+ ]
+}

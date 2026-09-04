@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-281-748ed1ed02",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "A roadmap for evaluating moral competence in large language models - Nature",
+   "summary": "A roadmap for evaluating moral competence in large language models &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOQjNWeG9oN3JWYkxQeUhFTnpvd3lwelp4ZDI4VHlXVlZ6Z0J1UU5XandkbmZvdm16WFhIN1plZmJLWk5Yd19PUnpTMHBQZzNMd2p2MTMwclZsZTFUcnow?oc=5",
+   "published_at": "2026-02-18T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOQjNWeG9oN3JWYkxQeUhFTnpvd3lwelp4ZDI4VHlXVlZ6Z0J1UU5XandkbmZvdm16WFhIN1plZmJLWk5Yd19PUnpTMHBQZzNMd2p2MTMwclZsZTFUcnow?oc=5\" target=\"_blank\">A roadmap for evaluating moral competence in large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  }
+ ]
+}

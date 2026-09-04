@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-267-2d7b3c371c",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "LLM-assisted systematic review of large language models in clinical medicine - Nature",
+   "summary": "LLM-assisted systematic review of large language models in clinical medicine &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iQXhTdWdOVHpmZ19sWWxLbFpCXzZaUF9ic2FTMnhzRFlxODF0YmJpdmhvR0lsX0VtZUk4QnljRUo2NUxEaG02MU1EWFh3cWQ3U1gyMF9lNHBfeUE3M01v?oc=5",
+   "published_at": "2026-03-03T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iQXhTdWdOVHpmZ19sWWxLbFpCXzZaUF9ic2FTMnhzRFlxODF0YmJpdmhvR0lsX0VtZUk4QnljRUo2NUxEaG02MU1EWFh3cWQ3U1gyMF9lNHBfeUE3M01v?oc=5\" target=\"_blank\">LLM-assisted systematic review of large language models in clinical medicine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  }
+ ]
+}

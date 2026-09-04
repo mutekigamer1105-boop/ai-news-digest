@@ -42,6 +42,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdE1IQzZWRVdKdklPZ2JYdEt5ZUJKcHE5Z0NucXlHdHNwU2c2azQxeXdLTTBEU1I3VmpTajRLN1pLQkhuaHZXcmtSUXBGVDRweExVNGZrLWpqYVhoZDA3Mm9tb0lhY1ZxaldmdzJxdFBoU2t5eGw4SjR1SmlLcWtoaGtQcTAyRWpoZENsOEItN2JzaEFUbFo1Mw?oc=5\" target=\"_blank\">Large Language Models vs Generative AI: Defining the Relationship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salesforce</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-265-a7b431d122",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Verification-first autonomous catalysis: large language models as infrastructure for mechanism, computation, and experiment - Nature",
+   "summary": "Verification-first autonomous catalysis: large language models as infrastructure for mechanism, computation, and experiment &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NdUwwMjJIdWZoTnJDMS02bms5RS1vc0oxUW5QVVU2eTFjZnFsWTFFbm80X1dmZ1U3NldteWFibzh3d2dER1VVek1JSGlIQkFoNEtNLVhtbFZtS1pSZHd3?oc=5",
+   "published_at": "2026-04-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NdUwwMjJIdWZoTnJDMS02bms5RS1vc0oxUW5QVVU2eTFjZnFsWTFFbm80X1dmZ1U3NldteWFibzh3d2dER1VVek1JSGlIQkFoNEtNLVhtbFZtS1pSZHd3?oc=5\" target=\"_blank\">Verification-first autonomous catalysis: large language models as infrastructure for mechanism, computation, and experiment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-695-4d09d97925",
+   "source_id": "news",
+   "source_name": "BMW Group",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "BMW i Ventures Announces $300 Million Fund to Back AI Startups Reshaping the Automotive Ecosystem - BMW Group",
+   "summary": "BMW i Ventures Announces $300 Million Fund to Back AI Startups Reshaping the Automotive Ecosystem &nbsp;&nbsp; BMW Group",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ28zbHJmQVJ0RGt5dEtYRnFiSlJIeHJ1M1o1bzJTdEk0RVN4UkZIc044LVhJLU5sUUhydG42U2N2MnRIcFpvZW04N01vZWpQc2twbE5adm8zRXR1cG14TXplOHhDR05nSVBucUt4cktnU2NNUnNKamZkOVVzbmltNnVfUWx6ZERUem5zb1JvTU1yOFZvdDFXdjZzaVRxTWx4SHVXTDZoMWt2WTQxWlpYQTJhcGZFQmJSSVJwUFZKRGFHdllTbVlRa29tQUJIbjZrcWNCalB3WW5nZnVHOVQzalhxaVRrYVFCYV9qX2FheGluQlBNdnhBWGhENVFNcXJ0R0E?oc=5",
+   "published_at": "2026-04-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ28zbHJmQVJ0RGt5dEtYRnFiSlJIeHJ1M1o1bzJTdEk0RVN4UkZIc044LVhJLU5sUUhydG42U2N2MnRIcFpvZW04N01vZWpQc2twbE5adm8zRXR1cG14TXplOHhDR05nSVBucUt4cktnU2NNUnNKamZkOVVzbmltNnVfUWx6ZERUem5zb1JvTU1yOFZvdDFXdjZzaVRxTWx4SHVXTDZoMWt2WTQxWlpYQTJhcGZFQmJSSVJwUFZKRGFHdllTbVlRa29tQUJIbjZrcWNCalB3WW5nZnVHOVQzalhxaVRrYVFCYV9qX2FheGluQlBNdnhBWGhENVFNcXJ0R0E?oc=5\" target=\"_blank\">BMW i Ventures Announces $300 Million Fund to Back AI Startups Reshaping the Automotive Ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BMW Group</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

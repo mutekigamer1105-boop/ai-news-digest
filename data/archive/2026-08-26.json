@@ -217,6 +217,205 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQcklZLTRHcnNPemQwb3BScFFPUFI3cXNvYV9KSDhFaXItQUhXa3FwdkpXYzB2ZlItQmI3S0xKbDlhZ2hDOFBrNE93MHZReWZnblNuRUhYUWJPcWdmN0psd0hLYXl5UWttenlXekJPcG1semVGZGk2V0tNMXIxYXk3TGZEVTZCanVIMUpYWHlYNVV3OGJpZGRxazg4MTFNNGcxbmFFYWlR?oc=5\" target=\"_blank\">IBM’s new Granite 4.2 models ride the wave of interest in local LLMs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
    "fetched_at": "2026-09-03T20:18:43+00:00"
+  },
+  {
+   "id": "web-279-e1198a5ebb",
+   "source_id": "news",
+   "source_name": "Hackaday",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Claude Plays DOOM - Hackaday",
+   "summary": "Claude Plays DOOM &nbsp;&nbsp; Hackaday",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PaW44bVpMXzhLZmxKUl9Db2Vkek1ySUZ4NW96YUJ2bWJXQzd0OXpYTHdBVDZyU0d5cXdyd1p3RzQ5M3FSZGxVb09sdGJZQ3BtR29SSk9jYlhQMnVDb3R3?oc=5",
+   "published_at": "2026-08-26T11:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PaW44bVpMXzhLZmxKUl9Db2Vkek1ySUZ4NW96YUJ2bWJXQzd0OXpYTHdBVDZyU0d5cXdyd1p3RzQ5M3FSZGxVb09sdGJZQ3BtR29SSk9jYlhQMnVDb3R3?oc=5\" target=\"_blank\">Claude Plays DOOM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hackaday</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-321-2564791ead",
+   "source_id": "news",
+   "source_name": "METR",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident - METR",
+   "summary": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident &nbsp;&nbsp; METR",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZE1kUzg3T3Y3cDgybGRTT1pzbHlyQnEydlVnc0lMZzNPUlQ0ZHN4WmFxRWppVEJYYVFmMDdfa0FRQkNXRnBZOUhtMTBEeWw5VldnUFRmRmY0d3I3V2JPZHhROVNnaDh4OXl0UWlSYzFwRkk3bkh6ZURkelQ2YVpzS1VR?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOZE1kUzg3T3Y3cDgybGRTT1pzbHlyQnEydlVnc0lMZzNPUlQ0ZHN4WmFxRWppVEJYYVFmMDdfa0FRQkNXRnBZOUhtMTBEeWw5VldnUFRmRmY0d3I3V2JPZHhROVNnaDh4OXl0UWlSYzFwRkk3bkh6ZURkelQ2YVpzS1VR?oc=5\" target=\"_blank\">Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">METR</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-433-8b61cd5b51",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Enabling independent research on how people use Claude - Anthropic",
+   "summary": "Enabling independent research on how people use Claude &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CRjkzdEN0ME9DVFA2cHQzWkE1X1FfREdHaDF0UlhvY2xkbHBib3BIUlFyYzFtaE9hSVJ1MXNFMnR0UVJjSEprTEtCQUtmTVpMTng1eDNFY1lObDMwMl9KVVhCM3YyenVKdlNHTVlhLVZadw?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5CRjkzdEN0ME9DVFA2cHQzWkE1X1FfREdHaDF0UlhvY2xkbHBib3BIUlFyYzFtaE9hSVJ1MXNFMnR0UVJjSEprTEtCQUtmTVpMTng1eDNFY1lObDMwMl9KVVhCM3YyenVKdlNHTVlhLVZadw?oc=5\" target=\"_blank\">Enabling independent research on how people use Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-473-0446326ffd",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns - CNBC",
+   "summary": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDU0UHo4UERDMHZlcjVyV1I4S0dWWEQ1SGhYOXFURmJmZUJiZHpud1pGVXRKQmx1ZXl6Sy01NjBkTlkyQXFRWEJfeTVkYXVHODNvZ0p3YTVudnVSNEN4WTJQLWpad0JJa09WZ1Roay1JZ3JUZDlNdFJNRGNZYzMyNHd1TmRzTVJQ0gGOAUFVX3lxTE5oWUF2YXIzVjUzOE5zUzVNT05nemItSm9rdm1OMmRvQWFPc05NRWVteG5mNnM3dmtzSHZOYlowYTNFTnNFT0M0UmY3ZTRhN1FGTUV1U1NKcnZhcUp0LUpVU2dMa1ZCazZvSUFWNTNBNWhzNlUtekUwR1J1a2UtZ25wT3JaVzUzZGFWV1BpX1E?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDU0UHo4UERDMHZlcjVyV1I4S0dWWEQ1SGhYOXFURmJmZUJiZHpud1pGVXRKQmx1ZXl6Sy01NjBkTlkyQXFRWEJfeTVkYXVHODNvZ0p3YTVudnVSNEN4WTJQLWpad0JJa09WZ1Roay1JZ3JUZDlNdFJNRGNZYzMyNHd1TmRzTVJQ0gGOAUFVX3lxTE5oWUF2YXIzVjUzOE5zUzVNT05nemItSm9rdm1OMmRvQWFPc05NRWVteG5mNnM3dmtzSHZOYlowYTNFTnNFT0M0UmY3ZTRhN1FGTUV1U1NKcnZhcUp0LUpVU2dMa1ZCazZvSUFWNTNBNWhzNlUtekUwR1J1a2UtZ25wT3JaVzUzZGFWV1BpX1E?oc=5\" target=\"_blank\">Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-595-aa9ff0c8a7",
+   "source_id": "news",
+   "source_name": "NVIDIA Newsroom",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI - NVIDIA Newsroom",
+   "summary": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI &nbsp;&nbsp; NVIDIA Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUNocGNzT2FJb01QNmVWTHpoSXkxUUNVdlRDTVZET3hZZVBDN0JGTVBTUFF5aEdERTJOcU9LeV9VMW12ZlZSck5uQ194MjFmYVlMWGt1SzdVODFjY2hkV2RFamlFdzVaWkNYNUdnbXcxbF9rTGJwY005LTlwN1BtUDdTWDVaMk1kejdPRzJKaVRTUVB4X3FWVnVlNnNPcUxUZGNHSzNTV0liVVJaNTMwdEdYcENaOFVtZVc5TXFIY0xsUlZJZUg2bkJKVnJ2OUhqSVg3bDZrQTd3eWdTVmNvMlJkcw?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUNocGNzT2FJb01QNmVWTHpoSXkxUUNVdlRDTVZET3hZZVBDN0JGTVBTUFF5aEdERTJOcU9LeV9VMW12ZlZSck5uQ194MjFmYVlMWGt1SzdVODFjY2hkV2RFamlFdzVaWkNYNUdnbXcxbF9rTGJwY005LTlwN1BtUDdTWDVaMk1kejdPRzJKaVRTUVB4X3FWVnVlNnNPcUxUZGNHSzNTV0liVVJaNTMwdEdYcENaOFVtZVc5TXFIY0xsUlZJZUg2bkJKVnJ2OUhqSVg3bDZrQTd3eWdTVmNvMlJkcw?oc=5\" target=\"_blank\">AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-761-e4fe171250",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "OpenAI releases sweeping report on Hugging Face AI agent hack - CNBC",
+   "summary": "OpenAI releases sweeping report on Hugging Face AI agent hack &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5\" target=\"_blank\">OpenAI releases sweeping report on Hugging Face AI agent hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1084-3b0a2011f3",
+   "source_id": "news",
+   "source_name": "新华网客户端",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "重新定义行业标准 WPS Comate百城AI智能体赋能计划在京启动 - 新华网客户端",
+   "summary": "重新定义行业标准 WPS Comate百城AI智能体赋能计划在京启动 &nbsp;&nbsp; 新华网客户端",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVVkTFJINHV5Q1VmUlR4OVlUOWdJbGc0bEZ5UFE5WEFTejFlU1duakdHVU5JSDNOWVRfNC0yZFhQSkVoaEVWQUloTElVczJmMVpEWEhWZDdaQjlCRlFtTFVWLWVHVmZKc252NHd0R1lVSEl4LUxYLWZ2N0lpT2ItY0pDVjRXS3cyYkNvTURwWU1OTy1RcHhMSEl3?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVVkTFJINHV5Q1VmUlR4OVlUOWdJbGc0bEZ5UFE5WEFTejFlU1duakdHVU5JSDNOWVRfNC0yZFhQSkVoaEVWQUloTElVczJmMVpEWEhWZDdaQjlCRlFtTFVWLWVHVmZKc252NHd0R1lVSEl4LUxYLWZ2N0lpT2ItY0pDVjRXS3cyYkNvTURwWU1OTy1RcHhMSEl3?oc=5\" target=\"_blank\">重新定义行业标准 WPS Comate百城AI智能体赋能计划在京启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网客户端</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1089-e5d9500a9b",
+   "source_id": "news",
+   "source_name": "news.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "邬贺铨：把握智能体时代机遇 筑牢互联网基础资源根基 - news.cn",
+   "summary": "邬贺铨：把握智能体时代机遇 筑牢互联网基础资源根基 &nbsp;&nbsp; news.cn",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Sb0stVFFjWmNFbW5jRUdYT2R6dGNSU1pHYW1kRnNzVE9wcklWV2hvSjJ4cjlsbERIeDc3TEcwSTZqNUp2Y1FZMkU4OU1LWWVsUHFDeVZHbVZiWVVBNF9Na1BZQzhzNlR6MXRLZG80N0J3YlRZX0dKWTBCT0t5dw?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9Sb0stVFFjWmNFbW5jRUdYT2R6dGNSU1pHYW1kRnNzVE9wcklWV2hvSjJ4cjlsbERIeDc3TEcwSTZqNUp2Y1FZMkU4OU1LWWVsUHFDeVZHbVZiWVVBNF9Na1BZQzhzNlR6MXRLZG80N0J3YlRZX0dKWTBCT0t5dw?oc=5\" target=\"_blank\">邬贺铨：把握智能体时代机遇 筑牢互联网基础资源根基</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cn</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1091-4b4db60cb5",
+   "source_id": "news",
+   "source_name": "blogs.nvidia.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "基于 NVIDIA DGX Spark 构建教学与科研智能体 - blogs.nvidia.cn",
+   "summary": "基于 NVIDIA DGX Spark 构建教学与科研智能体 &nbsp;&nbsp; blogs.nvidia.cn",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiZ081YURjM1FJa3ZGWXVaRzgxZ0dpU3FUa1pGRHdzS0NhbE0xOVpTTmdJNG0tdkN0eTZpM09aUnZxRHZPUnZaOHJWNVhUWGxrMW5JUzhLRnlCM3RzcjFj?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiZ081YURjM1FJa3ZGWXVaRzgxZ0dpU3FUa1pGRHdzS0NhbE0xOVpTTmdJNG0tdkN0eTZpM09aUnZxRHZPUnZaOHJWNVhUWGxrMW5JUzhLRnlCM3RzcjFj?oc=5\" target=\"_blank\">基于 NVIDIA DGX Spark 构建教学与科研智能体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blogs.nvidia.cn</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

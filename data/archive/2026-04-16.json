@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iN3ZEREJkZWhiMVRyMjFDMGZfbWU1dkRCMmozWW45d3pTSDIydnlWRGZLYmoxdHpfR29xNEU2QlFaUGd6aVNnbkdWU0FaVkFqYVRGczhmSFpmSzhkYWg4?oc=5\" target=\"_blank\">Building the foundation for running extra-large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cloudflare Blog</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1123-685d407cc5",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "GPT-Rosalind：开启生命科学研究新纪元 - OpenAI",
+   "summary": "GPT-Rosalind：开启生命科学研究新纪元 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFT21vaTFNTHFEUC1EZGFsTmZFc2diU0xiWXNSQl84dlhUZXJZVVNfUnFtVWIxZFV5NnFfRFpxdlpMZjM3eXR1OHJHTmFyWE9Tb2Nzd2Rnbmxod0hCSzYzcVpaN3d0S1VqVEpyeVRR?oc=5",
+   "published_at": "2026-04-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBFT21vaTFNTHFEUC1EZGFsTmZFc2diU0xiWXNSQl84dlhUZXJZVVNfUnFtVWIxZFV5NnFfRFpxdlpMZjM3eXR1OHJHTmFyWE9Tb2Nzd2Rnbmxod0hCSzYzcVpaN3d0S1VqVEpyeVRR?oc=5\" target=\"_blank\">GPT-Rosalind：开启生命科学研究新纪元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

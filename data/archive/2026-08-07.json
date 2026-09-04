@@ -109,6 +109,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5\" target=\"_blank\">Exclusive: OpenAI slows release of Astra model citing cyber capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-890-0d54598b44",
+   "source_id": "news",
+   "source_name": "BBC",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "人工智能被用于设计全新病毒 - BBC",
+   "summary": "人工智能被用于设计全新病毒 &nbsp;&nbsp; BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00STJoYnJWYV9QY3VaMUJ1QmxsZWFyUFVxazNXV1IxNXdoZDZndlNNZ1UtVzVqZTBza3pxaVdNSkloNjE5d1F5Y2ROX3JUU2hUWTRYWGRDOHloRnhIeVY5X0hlOWc5Z9IBa0FVX3lxTE1wVWV1U0JlbzFsV0dmOTJRcXMyaEtNSGlERjdhQkV3TDl0elVJRXc4eVI4dmF5eW1Vc0d3NGxkVlpaY2lSMEVVRmhhb0UwbDU1ODdLU1YxZDBGRXZiOUxIdEo1YzZSUkpib09v?oc=5",
+   "published_at": "2026-08-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE00STJoYnJWYV9QY3VaMUJ1QmxsZWFyUFVxazNXV1IxNXdoZDZndlNNZ1UtVzVqZTBza3pxaVdNSkloNjE5d1F5Y2ROX3JUU2hUWTRYWGRDOHloRnhIeVY5X0hlOWc5Z9IBa0FVX3lxTE1wVWV1U0JlbzFsV0dmOTJRcXMyaEtNSGlERjdhQkV3TDl0elVJRXc4eVI4dmF5eW1Vc0d3NGxkVlpaY2lSMEVVRmhhb0UwbDU1ODdLU1YxZDBGRXZiOUxIdEo1YzZSUkpib09v?oc=5\" target=\"_blank\">人工智能被用于设计全新病毒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

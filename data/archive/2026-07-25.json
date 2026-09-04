@@ -44,6 +44,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zVWNQV3o0TTlZN2Y2bFFsbnkzTnhlbUxYSzl2bUdvLXluODhrUC1CTlZBN3M0SVh4Q3FZU044WElGdVVUMmtvZQ?oc=5\" target=\"_blank\">刚获菲尔兹奖，Ta转身就跳槽OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">智源社区</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-684-5b9c0d2807",
+   "source_id": "news",
+   "source_name": "The Business Journals",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Two-thirds of Austin startup investing flowing to AI companies - The Business Journals",
+   "summary": "Two-thirds of Austin startup investing flowing to AI companies &nbsp;&nbsp; The Business Journals",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQW9ETXZXSV9vZ2VaS29Na3VZWUU0TG5veHMzZExlZHQ4QjkxTGdnbF9IT0FKdXN6N1ZWdXdIQWxhVVFBY0dzVnJ4eUdnejFWa2MwS2RaSVdRejQtUm5oc0dpS0dPVlkxd3JfUVlRQ0hYVllRRjZuQVJKV2tTVlZtLXhDRVc4N0dlWmxUU3ZBYnh2dlZMSExPRGxn?oc=5",
+   "published_at": "2026-07-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOQW9ETXZXSV9vZ2VaS29Na3VZWUU0TG5veHMzZExlZHQ4QjkxTGdnbF9IT0FKdXN6N1ZWdXdIQWxhVVFBY0dzVnJ4eUdnejFWa2MwS2RaSVdRejQtUm5oc0dpS0dPVlkxd3JfUVlRQ0hYVllRRjZuQVJKV2tTVlZtLXhDRVc4N0dlWmxUU3ZBYnh2dlZMSExPRGxn?oc=5\" target=\"_blank\">Two-thirds of Austin startup investing flowing to AI companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-995-a2762fb860",
+   "source_id": "news",
+   "source_name": "电子工程专辑",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "趋势丨AI大厂转向效率优先，大模型商业化分配生变 - 电子工程专辑",
+   "summary": "趋势丨AI大厂转向效率优先，大模型商业化分配生变 &nbsp;&nbsp; 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xdWVEWGNPaWt1UTVmTWJRNmlQOUlWSXhVaTJTOW53RVlYVThpOWZGVFZLcDN4MFVmQzhKS0RSXzJKZ1d3M1hJQWM4alhpYk0tRWhR?oc=5",
+   "published_at": "2026-07-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xdWVEWGNPaWt1UTVmTWJRNmlQOUlWSXhVaTJTOW53RVlYVThpOWZGVFZLcDN4MFVmQzhKS0RSXzJKZ1d3M1hJQWM4alhpYk0tRWhR?oc=5\" target=\"_blank\">趋势丨AI大厂转向效率优先，大模型商业化分配生变</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

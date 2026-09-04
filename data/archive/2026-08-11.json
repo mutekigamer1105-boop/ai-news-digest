@@ -154,6 +154,52 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFByb25QcHh3dUVNVmhYQko5blpXcGNsdUxhV2tiNHlNcXFIUmxpRGh1QU92cHN4eFh5SWgzblNhOHNZQUtvOER6V1VHbm16cldUX3FIaGNoUTVXMXRKbE1rc0xLVDdId9IBa0FVX3lxTE40STVRRzVFUG9NVFA4TDVZZ1ZqR1lwS0hwTmV2enhtSWo0bTh0RXZEV2d5emtLZGFScEdPX21NRVduNDFJMkd2cUNTYUtHRldfM1p6Wm43Q0FVLVA2RWY1aXNLRnQ1QmJlZ05n?oc=5\" target=\"_blank\">AI将减少工作时间？科技业员工称每周工时高达90小时</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-1095-043d0f0547",
+   "source_id": "news",
+   "source_name": "blogs.nvidia.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "NVIDIA 与本地 AI 社区共同推动开源模型和智能体发展 - blogs.nvidia.cn",
+   "summary": "NVIDIA 与本地 AI 社区共同推动开源模型和智能体发展 &nbsp;&nbsp; blogs.nvidia.cn",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMUWlLRnJXQzJNb2V4NkppQkFVUTNvN1ZmdE1OcFBjOW1EUjJQeTFKOEd3UTJnYXpiZTdiakE1N0pleFhRMFJoWFJ5Q3NxT0pMNmF4ZkhQQVNySE9pQXgtYmFLT05CaDdXNGNCOGlmSFhMUG1XXzVvemFLb0R2dw?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBMUWlLRnJXQzJNb2V4NkppQkFVUTNvN1ZmdE1OcFBjOW1EUjJQeTFKOEd3UTJnYXpiZTdiakE1N0pleFhRMFJoWFJ5Q3NxT0pMNmF4ZkhQQVNySE9pQXgtYmFLT05CaDdXNGNCOGlmSFhMUG1XXzVvemFLb0R2dw?oc=5\" target=\"_blank\">NVIDIA 与本地 AI 社区共同推动开源模型和智能体发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blogs.nvidia.cn</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1105-e1794efe21",
+   "source_id": "news",
+   "source_name": "电子工程专辑",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "车载AI智能体智能化能力分析报告 - 电子工程专辑",
+   "summary": "车载AI智能体智能化能力分析报告 &nbsp;&nbsp; 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zNU82STg1azA1Ym85d1RzeWpxVHN1UnRDeXBTelpPLXcxdy1fMkhjZndSX2NjLUR1Nk1XRkVpZXFBUkN4T3NpRDZoVzdQeFBlSFBF?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zNU82STg1azA1Ym85d1RzeWpxVHN1UnRDeXBTelpPLXcxdy1fMkhjZndSX2NjLUR1Nk1XRkVpZXFBUkN4T3NpRDZoVzdQeFBlSFBF?oc=5\" target=\"_blank\">车载AI智能体智能化能力分析报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }

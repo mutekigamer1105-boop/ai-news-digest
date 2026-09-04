@@ -109,6 +109,72 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0FjSVdydU0tWTBoZXIteHVvenBCeTRJSDZfZTdjMFdMZFZMZ0ppY3UzbXU5d3E3dDgtVnYtWV93WWtmVmxwVVZvVlBvN3VzbHFUODRVem5HNjlGUkVTS2t5dUdhSlFfLUJJRzRjZEZubXU3ZFhnZ1hhSURsOEpEQ3NleWFMUGxpOTdmVXdBazBWbXZuN2x6cUZIcGtER1JFR1N1by1Ndkl2Zw?oc=5\" target=\"_blank\">OpenAI Limits Access to New Models, Citing Government Security Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-758-29dbaf1d38",
+   "source_id": "news",
+   "source_name": "The Guardian",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI staggers AI model release after Trump administration request - The Guardian",
+   "summary": "OpenAI staggers AI model release after Trump administration request &nbsp;&nbsp; The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHpsR0FaODVIVE4zSnJ6NUpxYzNLbmFwQWJscnh6bEZlS1BUSE1TOGxEd3B1WlhpUWk2bVZkejJWejVqSG5WNUhSR3NKS2tCQTRxX2MwSTloaXNHeTVwZmFJeFZkWG1MX2dtTW92VlhVclZXZ3JhcUZ4TnB1Wl85VzZkcTRwYWxtanZ0UkhuejYtNTJmVkk0WEo3S1pHMkVFOS1qcnR5RVU0QlVZQkJUUHNoc3lNdw?oc=5",
+   "published_at": "2026-06-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHpsR0FaODVIVE4zSnJ6NUpxYzNLbmFwQWJscnh6bEZlS1BUSE1TOGxEd3B1WlhpUWk2bVZkejJWejVqSG5WNUhSR3NKS2tCQTRxX2MwSTloaXNHeTVwZmFJeFZkWG1MX2dtTW92VlhVclZXZ3JhcUZ4TnB1Wl85VzZkcTRwYWxtanZ0UkhuejYtNTJmVkk0WEo3S1pHMkVFOS1qcnR5RVU0QlVZQkJUUHNoc3lNdw?oc=5\" target=\"_blank\">OpenAI staggers AI model release after Trump administration request</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-760-940f56662f",
+   "source_id": "wired",
+   "source_name": "WIRED",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them - WIRED",
+   "summary": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them &nbsp;&nbsp; WIRED",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeVdGN1lHMHBSdkxfZWJyMHlHZjVGS3JxVGRfdllzVHFTZEdFdm0tSU96RnFSYmp2UDlIck5wWlphNnpfTXdiV3hERDlwd0VxdmdpdE1KWUJOZ0o1WDFCUHJIM0l3dXdMOWNldFpVSk1zUEl0ZmJVMGNqb2hFT2c4WVpNNA?oc=5",
+   "published_at": "2026-06-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNeVdGN1lHMHBSdkxfZWJyMHlHZjVGS3JxVGRfdllzVHFTZEdFdm0tSU96RnFSYmp2UDlIck5wWlphNnpfTXdiV3hERDlwd0VxdmdpdE1KWUJOZ0o1WDFCUHJIM0l3dXdMOWNldFpVSk1zUEl0ZmJVMGNqb2hFT2c4WVpNNA?oc=5\" target=\"_blank\">OpenAI Has New AI Models. Here’s Why You Can’t Use Them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1094-e77056fd44",
+   "source_id": "news",
+   "source_name": "news.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "新华社权威AI时政资讯智能体“新华语典”正式上线 - news.cn",
+   "summary": "新华社权威AI时政资讯智能体“新华语典”正式上线 &nbsp;&nbsp; news.cn",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjNEdCUG9TNUtxRzhHMHVncnhHeHZPNlNPbi00Z2JGRUthTnhZajVGNzU0VnhMcEgwZzhobUphTXp1dWwza0JGOUZ4T0JZNktCSF9xVzAwMmQ0a2dwenhHOU5RcGVNSHNMcXJzU2JfckJjeDk3cF9V?oc=5",
+   "published_at": "2026-06-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBjNEdCUG9TNUtxRzhHMHVncnhHeHZPNlNPbi00Z2JGRUthTnhZajVGNzU0VnhMcEgwZzhobUphTXp1dWwza0JGOUZ4T0JZNktCSF9xVzAwMmQ0a2dwenhHOU5RcGVNSHNMcXJzU2JfckJjeDk3cF9V?oc=5\" target=\"_blank\">新华社权威AI时政资讯智能体“新华语典”正式上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cn</font>",
+   "fetched_at": "2026-09-04T04:05:38+00:00"
   }
  ]
 }
