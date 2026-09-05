@@ -196,6 +196,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lR1FhMnROT2h1M29QVjhFVWktRmJVOVVrZkdXTGMzV2R3ZlUteVNPV3FiOGlnbm1vS3ZlUFljYzR1bV82UkJxMXBqUEJUYjhUUGpCQkZ5Nk9SX3ByWDhRVw?oc=5\" target=\"_blank\">又要颠覆设计行业？OpenAI炸场发布Images 2.0，中文不再乱码、超越谷歌登顶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-293-8ac441c935",
+   "source_id": "news",
+   "source_name": "Microsoft",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AutoAdapt: Automated domain adaptation for large language models - Microsoft",
+   "summary": "AutoAdapt: Automated domain adaptation for large language models &nbsp;&nbsp; Microsoft",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnJaZFYzNW51T3lnTmNVNjgzX2s1b1lEQS1SSVhaOXl0OWtVX0ViSjdlUU9xcWJPTUxmaHRjUWRzdDNvVmZtZmFBN0djSnY0TEdYN0oyYnJFeVFueHpKc29RMThBSVRNMzBaZ1hvT3JwRjRnT1lnVm1kYUZVclBPckVtaUlBdm9mLXNLQmxBcVN1ckxPcV9TMmdja3JKVDBhYWVsQXBkY2RkOV9yU2Ew?oc=5",
+   "published_at": "2026-04-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "satya-nadella",
+   "builder_name": "Satya Nadella",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnJaZFYzNW51T3lnTmNVNjgzX2s1b1lEQS1SSVhaOXl0OWtVX0ViSjdlUU9xcWJPTUxmaHRjUWRzdDNvVmZtZmFBN0djSnY0TEdYN0oyYnJFeVFueHpKc29RMThBSVRNMzBaZ1hvT3JwRjRnT1lnVm1kYUZVclBPckVtaUlBdm9mLXNLQmxBcVN1ckxPcV9TMmdja3JKVDBhYWVsQXBkY2RkOV9yU2Ew?oc=5\" target=\"_blank\">AutoAdapt: Automated domain adaptation for large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-694-c2c6d20663",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What The Record Venture Funding Quarter Actually Means For Your Startup’s Fundraise - Crunchbase News",
+   "summary": "What The Record Venture Funding Quarter Actually Means For Your Startup’s Fundraise &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaGJrMmZ2R3F6dXoyOGtLMzRzYUdGM3JLRHhoekZ2THJrV19iYlFweWR0eWFfUWU5UGZZNzkyeHhJVElkQ2ZtS3pKcEs2YUVkX05iOEhmMVo1LWFrNllfV0NwY1BlUDZzOGtNdldHWURFT0dQc3hzdVFFdUR4SC1vRVFxR0dxVzJVcF9lYVByMldoTGM?oc=5",
+   "published_at": "2026-04-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPaGJrMmZ2R3F6dXoyOGtLMzRzYUdGM3JLRHhoekZ2THJrV19iYlFweWR0eWFfUWU5UGZZNzkyeHhJVElkQ2ZtS3pKcEs2YUVkX05iOEhmMVo1LWFrNllfV0NwY1BlUDZzOGtNdldHWURFT0dQc3hzdVFFdUR4SC1vRVFxR0dxVzJVcF9lYVByMldoTGM?oc=5\" target=\"_blank\">What The Record Venture Funding Quarter Actually Means For Your Startup’s Fundraise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

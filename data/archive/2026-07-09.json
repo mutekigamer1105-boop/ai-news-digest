@@ -196,6 +196,48 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRuMjVVRlFnX2I2Z24tUmlTb19BQ01HeUI0OHpBc1dFaThsX2E1THdmakl0TDAwbWZXcHVKbUZ6Y29WdGc1WGRLYmxod2hWNHhPYXFMV3RTaVFmR1ZtSUlJSWlITzhsTWtOZmtSMnRQQkxLeUJpdU9SOE5pazc0N05WdHJEMHFfY1BhbktHTG1ZTmNFZGxfMDJacllBR3QwRkJYSE5BQUo2eXRZMk02LVN3?oc=5\" target=\"_blank\">Meta releases latest update of AI model Muse Spark as tech giant accelerates AI push under Alexandr Wang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-469-f306757a4b",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "How Claude performs on robotics tasks - Anthropic",
+   "summary": "How Claude performs on robotics tasks &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91VmFtc1pJZHh6Nmk0MV9TQy1LWmRuTGxwdUlSSkljREEzYjRzSXRnX21tOWxfdFg5QlRDYWNkMUZyRVUtR0xmZXc0UEFPM2tVSU1JZ09OVWFYZ3ZucGdkVzR4TldYeGM?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91VmFtc1pJZHh6Nmk0MV9TQy1LWmRuTGxwdUlSSkljREEzYjRzSXRnX21tOWxfdFg5QlRDYWNkMUZyRVUtR0xmZXc0UEFPM2tVSU1JZ09OVWFYZ3ZucGdkVzR4TldYeGM?oc=5\" target=\"_blank\">How Claude performs on robotics tasks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-473-977495ccbc",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing a way to reflect on how you use Claude - Anthropic",
+   "summary": "Introducing a way to reflect on how you use Claude &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5\" target=\"_blank\">Introducing a way to reflect on how you use Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

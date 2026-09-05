@@ -284,6 +284,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWwzeUJxYkFGS3MxY0xucVh5QXRpWUNaVjZuUUwwVU1JWWtrYUlDZlJYNFE2bWh5dkFlQm5lNm5xdXRxdmpPc1N5S3B6dGhqREtMR2ZaaVhVeERlNlpfSlhCRHBZMGttcnVtaWZpQy1BRkptV2RIRXhYeVlQaVJWSkxfRmpPeTNQUVZhSXhoSWE3cTE1VUg5cEpqbzVraXNrdWg2TmlfbXFmSkRhSmtGNnVNblR3eHpRMTU0?oc=5\" target=\"_blank\">Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-760-ecf42882c9",
+   "source_id": "news",
+   "source_name": "reuters.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meta launches new AI model as Zuckerberg champions open-weight push - reuters.com",
+   "summary": "Meta launches new AI model as Zuckerberg champions open-weight push &nbsp;&nbsp; reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
+   "published_at": "2026-08-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5\" target=\"_blank\">Meta launches new AI model as Zuckerberg champions open-weight push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-951-c67e95823f",
+   "source_id": "news",
+   "source_name": "封面新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "外国网友趣问：为什么中国大模型便宜又好用？ - 封面新闻",
+   "summary": "外国网友趣问：为什么中国大模型便宜又好用？ &nbsp;&nbsp; 封面新闻",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iMkswRzBSM3R1VnBHMC02S3I3TUJ3VC10cTR5U09MS1ZZU0poaWpUWVpTY3hpWmFnZXc5RFJHeUdGdVJnLUtFYW1oM3hwMlBIUy1KYy1TT0dIbTFaNXlWMHA1ektaS3JnMGR2d0t3RkdhT2FpTTRZ?oc=5",
+   "published_at": "2026-08-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5iMkswRzBSM3R1VnBHMC02S3I3TUJ3VC10cTR5U09MS1ZZU0poaWpUWVpTY3hpWmFnZXc5RFJHeUdGdVJnLUtFYW1oM3hwMlBIUy1KYy1TT0dIbTFaNXlWMHA1ektaS3JnMGR2d0t3RkdhT2FpTTRZ?oc=5\" target=\"_blank\">外国网友趣问：为什么中国大模型便宜又好用？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">封面新闻</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZT0Z6MTYwSnd2Q1JXZ1V6azRpNFlaM2ZoWm1kZjg0VWVFLXdrbUNOX2l1eHNMRXk4TlV6YWNmRlZlR2F4OXNsc2NSTnozcjNqbEZzUDJUeUxrbVlybHRrN0x1SVMyVXY2SFFacE1YYlF3TDR0dklyZmhnWWs0LUE?oc=5\" target=\"_blank\">我在OpenAI修中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1110-e8bda30ef7",
+   "source_id": "news",
+   "source_name": "凤凰网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "我在OpenAI修中文 - 凤凰网",
+   "summary": "我在OpenAI修中文 &nbsp;&nbsp; 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6WERpcW15ZldlNjl1MXd3SDJ6T05WVjhrQkIxRzd2cFU2UExaU09mTko4OXZGTkpqRHJpVjltRGRjZFJhTGMxeA?oc=5",
+   "published_at": "2026-05-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6WERpcW15ZldlNjl1MXd3SDJ6T05WVjhrQkIxRzd2cFU2UExaU09mTko4OXZGTkpqRHJpVjltRGRjZFJhTGMxeA?oc=5\" target=\"_blank\">我在OpenAI修中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

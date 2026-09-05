@@ -1,0 +1,27 @@
+{
+ "items": [
+  {
+   "id": "web-1118-ef652e474d",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "隆重推出 ChatGPT 智能体：连接研究与实践 - OpenAI",
+   "summary": "隆重推出 ChatGPT 智能体：连接研究与实践 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FYVg4Wlk0OEpIX1BZOTZ2V2ZRZy02aDZQd1EtSlFMRGdrQmljclNGN2UtV014SlBRVUpjeDRKM2ltYnlCVnhoeXFEZnIyR2ZRaHMyX2pVM0ZtOGZHOVZqSE5pNVJiLWN1cUdfZGRTWQ?oc=5",
+   "published_at": "2025-07-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5FYVg4Wlk0OEpIX1BZOTZ2V2ZRZy02aDZQd1EtSlFMRGdrQmljclNGN2UtV014SlBRVUpjeDRKM2ltYnlCVnhoeXFEZnIyR2ZRaHMyX2pVM0ZtOGZHOVZqSE5pNVJiLWN1cUdfZGRTWQ?oc=5\" target=\"_blank\">隆重推出 ChatGPT 智能体：连接研究与实践</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  }
+ ]
+}

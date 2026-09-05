@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1121-2d35918daa",
+   "source_id": "news",
+   "source_name": "BBC",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "ChatGPT：OpenAI推出新版本GPT-5，自称已达到“博士水平” - BBC",
+   "summary": "ChatGPT：OpenAI推出新版本GPT-5，自称已达到“博士水平” &nbsp;&nbsp; BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzTGhrN2ZhTF9vZEtBLWxEQXZBSGZWRDhWckk3ZmxjWGtYNDJyaC1hYUxKY3R4MG9KOG5NYUdtNEV4Ny1JSDZMM3pkT19zWTlUTC1ROFJGdEhXbXJYMXgxU0JIU0dYQdIBa0FVX3lxTE5DRldwVVVDQ3cxUDlDX1JxcE1wU0ZKNnhZLThYWmV0Q0hieWtyTGk4enQ3Rm9EUkdHRjFNbThDeGNYQkNIYkFnaEs4LTNENFp0YlNVd24yUlc2OG0wSFM0NmhXY0VfV25NUC1F?oc=5",
+   "published_at": "2025-08-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzTGhrN2ZhTF9vZEtBLWxEQXZBSGZWRDhWckk3ZmxjWGtYNDJyaC1hYUxKY3R4MG9KOG5NYUdtNEV4Ny1JSDZMM3pkT19zWTlUTC1ROFJGdEhXbXJYMXgxU0JIU0dYQdIBa0FVX3lxTE5DRldwVVVDQ3cxUDlDX1JxcE1wU0ZKNnhZLThYWmV0Q0hieWtyTGk4enQ3Rm9EUkdHRjFNbThDeGNYQkNIYkFnaEs4LTNENFp0YlNVd24yUlc2OG0wSFM0NmhXY0VfV25NUC1F?oc=5\" target=\"_blank\">ChatGPT：OpenAI推出新版本GPT-5，自称已达到“博士水平”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  }
+ ]
+}

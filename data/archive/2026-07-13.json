@@ -218,6 +218,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9wSkF3Wm1MTVVIVjJiOGtfck9xbldKNU9kYmRnbE5aVG1TY2lpRXZYdG1JZ1cwVUVaV0ZWNS14d3J1Qno0by1UZ2pWMkJZZlBNbFVtYXVITlF2VlVGNDhCTmFDMFNtZFlhWW5XNHpYTlg?oc=5\" target=\"_blank\">通用生物医学AI智能体可自主执行科研任务，其表现接近人类专家</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-477-88ae66ced6",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "How Claude's values vary by model and language - Anthropic",
+   "summary": "How Claude's values vary by model and language &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5",
+   "published_at": "2026-07-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5\" target=\"_blank\">How Claude's values vary by model and language</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

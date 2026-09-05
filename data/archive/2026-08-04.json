@@ -43,6 +43,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SbXVHamdlbTllWnEza3R0TmdBdzlmS3I3TjF3SGFxanVGR0s5WEp4dU15MWFBY2lrNjk0a09MNzcwdDhyWVE?oc=5\" target=\"_blank\">中国AI大模型惊艳华尔街？高盛盘点五大趋势 点名这些投资机会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-208-081be54e38",
+   "source_id": "news",
+   "source_name": "The Register",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Dev proves LLMs will run on anything – even a $10 microcontroller - The Register",
+   "summary": "Dev proves LLMs will run on anything – even a $10 microcontroller &nbsp;&nbsp; The Register",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDAxWERSVmlsYjBlVHBtU1BCd0tKZ1N3S0Nid2t6dmhiV2ozQTBSUlRkY2Z0NWFUZ2phM0xkVUpqbWhGSUR4cUhXeU1IX0twV1pkalBkbFJoVG11SW1nX1ZCbmlDc1pHaDJnbUVXa19LdnV6WkpFNFBvVWhnTDFRTGgyOF8zdDRiMW0xa3NicDVfMjZiYzFMVXBDNFZYbGtkMmthdmR5V0pFalg1cFBBN1loLWZvb3pjZ0NDekpzSQ?oc=5",
+   "published_at": "2026-08-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDAxWERSVmlsYjBlVHBtU1BCd0tKZ1N3S0Nid2t6dmhiV2ozQTBSUlRkY2Z0NWFUZ2phM0xkVUpqbWhGSUR4cUhXeU1IX0twV1pkalBkbFJoVG11SW1nX1ZCbmlDc1pHaDJnbUVXa19LdnV6WkpFNFBvVWhnTDFRTGgyOF8zdDRiMW0xa3NicDVfMjZiYzFMVXBDNFZYbGtkMmthdmR5V0pFalg1cFBBN1loLWZvb3pjZ0NDekpzSQ?oc=5\" target=\"_blank\">Dev proves LLMs will run on anything – even a $10 microcontroller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-988-49ed14b84b",
+   "source_id": "news",
+   "source_name": "世界互联网大会",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "两公司AI大模型接连失控 - 世界互联网大会",
+   "summary": "两公司AI大模型接连失控 &nbsp;&nbsp; 世界互联网大会",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LNW9UUG5SbF9hNDN4VlFfVE1MSW5tZi16VUhUbXRMSElFUFFKZGwtekItTG5pUGJROS02QTYwQXBUS1YtRjZLRlA2NUFUaGJDLVAxdFNiWHJNb2p1MVRpOWZLelBjU1FLUFE?oc=5",
+   "published_at": "2026-08-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1LNW9UUG5SbF9hNDN4VlFfVE1MSW5tZi16VUhUbXRMSElFUFFKZGwtekItTG5pUGJROS02QTYwQXBUS1YtRjZLRlA2NUFUaGJDLVAxdFNiWHJNb2p1MVRpOWZLelBjU1FLUFE?oc=5\" target=\"_blank\">两公司AI大模型接连失控</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">世界互联网大会</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

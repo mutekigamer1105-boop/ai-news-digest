@@ -416,6 +416,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiZ081YURjM1FJa3ZGWXVaRzgxZ0dpU3FUa1pGRHdzS0NhbE0xOVpTTmdJNG0tdkN0eTZpM09aUnZxRHZPUnZaOHJWNVhUWGxrMW5JUzhLRnlCM3RzcjFj?oc=5\" target=\"_blank\">基于 NVIDIA DGX Spark 构建教学与科研智能体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blogs.nvidia.cn</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-618-a2259a2995",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI Is the Sole Investor in Its Latest Venture Fund - WSJ",
+   "summary": "OpenAI Is the Sole Investor in Its Latest Venture Fund &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXNOQnRueFRNZWFzNnhTZVBUSWpuOUV5VVhyS2d2VV84bXM5TTBwcTRoVzY4TG5ER2RqWmlZc0Z2dlgxeXA1YmVudVFlU3Y0Tl9XTy05MmlqOTY4eW1OcDZjcGNQMld5UlBGcGhFcmtEazJoUlRJeEZVdXZDV1BSSzdvWUJHV2JfTXZlZndiWWFFZGZ3cjloaVZPWDFJdWVYSXRoaUl3?oc=5",
+   "published_at": "2026-08-26T22:58:13+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXNOQnRueFRNZWFzNnhTZVBUSWpuOUV5VVhyS2d2VV84bXM5TTBwcTRoVzY4TG5ER2RqWmlZc0Z2dlgxeXA1YmVudVFlU3Y0Tl9XTy05MmlqOTY4eW1OcDZjcGNQMld5UlBGcGhFcmtEazJoUlRJeEZVdXZDV1BSSzdvWUJHV2JfTXZlZndiWWFFZGZ3cjloaVZPWDFJdWVYSXRoaUl3?oc=5\" target=\"_blank\">OpenAI Is the Sole Investor in Its Latest Venture Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1143-42d6233185",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI再失数据中心负责人，基础设施团队重组之际至少14名高管离职| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI再失数据中心负责人，基础设施团队重组之际至少14名高管离职| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oY3BHRjE2QUdhRFhhQWNzQXI5cmZreWktOFpDZERFbHVIMW1Na2xnazQ5cTVPNG9kY08yNE1EV1BWaW5mcm9udUJKekRaYnVsdXB1YU5oZm1jSGRxMV96c1hDRQ?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oY3BHRjE2QUdhRFhhQWNzQXI5cmZreWktOFpDZERFbHVIMW1Na2xnazQ5cTVPNG9kY08yNE1EV1BWaW5mcm9udUJKekRaYnVsdXB1YU5oZm1jSGRxMV96c1hDRQ?oc=5\" target=\"_blank\">OpenAI再失数据中心负责人，基础设施团队重组之际至少14名高管离职| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

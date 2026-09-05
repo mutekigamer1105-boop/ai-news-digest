@@ -176,6 +176,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5HMUY0Rjg0ZWdOZFI3U3ZuUzJmb09aS0IwNlFORXdXVTVNTThBT0JxTmd3eUt6ZnNpMW9fdEV1Z1JIVThydDkwRHJLUTVhZUJ4WUQ4SUEyM0IwdjE1WkpQODB5dE5iQzMyU3c?oc=5\" target=\"_blank\">OpenAI推出ChatGPT Work让普通办公人员也能使用人工智能代理| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-575-24b5147bdd",
+   "source_id": "news",
+   "source_name": "Cisco Newsroom",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Cisco Expands Secure AI Factory with NVIDIA for the Rack-Scale Era - Cisco Newsroom",
+   "summary": "Cisco Expands Secure AI Factory with NVIDIA for the Rack-Scale Era &nbsp;&nbsp; Cisco Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOC12cUNTSGEwQW56a09pUEFFbTdQZDYyOHFwSzlNMFNxQ19oUllSc3g1LXd6ekd3b3p4MmNFYUU0VU9QRVhKMEprQU5iVDE5am9YUzZfbDF0TGZUZ19OT0hMSVZIeEZmUjR1OXVkV0ZtaTNINU5xaUJwZnNyaW9GR3FBQkVpcEQ0MW9FRDh4UnJfSWtvNkFtUXhvSnFncktUUk90VXJCcw?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNOC12cUNTSGEwQW56a09pUEFFbTdQZDYyOHFwSzlNMFNxQ19oUllSc3g1LXd6ekd3b3p4MmNFYUU0VU9QRVhKMEprQU5iVDE5am9YUzZfbDF0TGZUZ19OT0hMSVZIeEZmUjR1OXVkV0ZtaTNINU5xaUJwZnNyaW9GR3FBQkVpcEQ0MW9FRDh4UnJfSWtvNkFtUXhvSnFncktUUk90VXJCcw?oc=5\" target=\"_blank\">Cisco Expands Secure AI Factory with NVIDIA for the Rack-Scale Era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cisco Newsroom</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-643-d6869e6a8a",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Korean AI Startup Wrtn Raises Funds at $870 Million Value to Fund Global Expansion - Bloomberg.com",
+   "summary": "Korean AI Startup Wrtn Raises Funds at $870 Million Value to Fund Global Expansion &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSTRlMlN3UlhkZnQ1NnJDVXlHSlRKRF9Ca25wX3VUZlN4Z1hsczlBQXBKZnhxWEc1d2wxRkN6S2tZT0pCb3FlSTR6SU00dW5rdVFVTDdyYmdxYTUxb19HX0c0TlJoYjFwZmpWck05Ry1JR2phREtnUEx5djdFQ2FiNEk4eEpRUk9welhZRTF0dUIwaXhMLWJ3c1J0MmNLZkNwY0ZfbzIwek5LeHozc0YySGxoalM1SXhjcGVIWENHLTJ4Q3hYYmwzbg?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSTRlMlN3UlhkZnQ1NnJDVXlHSlRKRF9Ca25wX3VUZlN4Z1hsczlBQXBKZnhxWEc1d2wxRkN6S2tZT0pCb3FlSTR6SU00dW5rdVFVTDdyYmdxYTUxb19HX0c0TlJoYjFwZmpWck05Ry1JR2phREtnUEx5djdFQ2FiNEk4eEpRUk9welhZRTF0dUIwaXhMLWJ3c1J0MmNLZkNwY0ZfbzIwek5LeHozc0YySGxoalM1SXhjcGVIWENHLTJ4Q3hYYmwzbg?oc=5\" target=\"_blank\">Korean AI Startup Wrtn Raises Funds at $870 Million Value to Fund Global Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1QS0dKTjFDaVZBSXFXUkJ3V1Y1b29aM1RZZ2FBRzVYaWZ3UzR0SEt1dEZXdExDNmcxanpGMGQ4YnlFcGlESHpkNWdHY3h5MkJlR2VYMTNrdkRtaE9NU1VYR3FMUFV2VG9SSjV5bzNYWjBfTWtON2xHRA?oc=5\" target=\"_blank\">OpenBind's first data and model release marks a milestone for AI enabled drug discovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phys.org</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-281-411255a013",
+   "source_id": "news",
+   "source_name": "Coursera",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Generative AI vs. Large Language Models: What’s the Difference? - Coursera",
+   "summary": "Generative AI vs. Large Language Models: What’s the Difference? &nbsp;&nbsp; Coursera",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nbmZreGpjUUhicWl0bk9aRjRXalRKYXB5RFRYNmV3UkdxOXNjTFBNSE9XVm40cmJHRDU4RjVFN0FiekJ6SkpudG41ZGQzc2JKS1JHbjVEN1BQTnVoenV1azQxakZLa0lZeDJVU1FSSy1oeVQzMmpac0RPTE0?oc=5",
+   "published_at": "2026-05-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5nbmZreGpjUUhicWl0bk9aRjRXalRKYXB5RFRYNmV3UkdxOXNjTFBNSE9XVm40cmJHRDU4RjVFN0FiekJ6SkpudG41ZGQzc2JKS1JHbjVEN1BQTnVoenV1azQxakZLa0lZeDJVU1FSSy1oeVQzMmpac0RPTE0?oc=5\" target=\"_blank\">Generative AI vs. Large Language Models: What’s the Difference?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coursera</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

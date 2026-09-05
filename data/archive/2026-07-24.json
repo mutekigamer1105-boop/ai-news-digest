@@ -130,6 +130,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE51NzRndjdibzN5YXpldGZuUzNhd0Q2ay0yMm1IaF9aZ0FKUnlZQTRzZkMwblViWUR4dnRNM2h2a015MndKUjJnZlVSRQ?oc=5\" target=\"_blank\">刚刚，Claude爆改语音，11种语言，就是没中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">me.news</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-272-582403ffa9",
+   "source_id": "news",
+   "source_name": "Wiley Interdisciplinary Reviews",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exploring Large Language Model-Based Intelligent Agents: Definitions, Methods, and Prospects - Wiley Interdisciplinary Reviews",
+   "summary": "Exploring Large Language Model-Based Intelligent Agents: Definitions, Methods, and Prospects &nbsp;&nbsp; Wiley Interdisciplinary Reviews",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FRWxEb0ZoaDJoUk81WEpMam9LSTkyTlBrVUIyTkxqLUZnYnZqa0ZwOHE1VUpncllwZE5OampoWWNEekstY0lZcVh5SnRnaEZlSHZpLUJRTG5iRThaZnNaTVRObjlIVTJrRGpCd1dwT2NKQUU?oc=5",
+   "published_at": "2026-07-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9FRWxEb0ZoaDJoUk81WEpMam9LSTkyTlBrVUIyTkxqLUZnYnZqa0ZwOHE1VUpncllwZE5OampoWWNEekstY0lZcVh5SnRnaEZlSHZpLUJRTG5iRThaZnNaTVRObjlIVTJrRGpCd1dwT2NKQUU?oc=5\" target=\"_blank\">Exploring Large Language Model-Based Intelligent Agents: Definitions, Methods, and Prospects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiley Interdisciplinary Reviews</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

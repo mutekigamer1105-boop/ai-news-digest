@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1127-8d3ce2ea53",
+   "source_id": "news",
+   "source_name": "日经中文网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI推出开源模型gpt-oss抗衡中企 - 日经中文网",
+   "summary": "OpenAI推出开源模型gpt-oss抗衡中企 &nbsp;&nbsp; 日经中文网",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUFIYnRwZVkyZkM1cmdOYlFTRWs3aGd4NE1zZzRGbWZ1LTBxWWdKbF9ZM21QYWd5VHVlSHRQOHNzNE80Nzcxc0dtOVlkcDljc1dwNVJRblNWcnI1VHEwRml5U1QtX25tZ04zemMtbmV6ZWpEd1RiOUljQ1VweUNjeGRJcjVFUVVxM1E?oc=5",
+   "published_at": "2025-08-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUFIYnRwZVkyZkM1cmdOYlFTRWs3aGd4NE1zZzRGbWZ1LTBxWWdKbF9ZM21QYWd5VHVlSHRQOHNzNE80Nzcxc0dtOVlkcDljc1dwNVJRblNWcnI1VHEwRml5U1QtX25tZ04zemMtbmV6ZWpEd1RiOUljQ1VweUNjeGRJcjVFUVVxM1E?oc=5\" target=\"_blank\">OpenAI推出开源模型gpt-oss抗衡中企</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日经中文网</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  }
+ ]
+}

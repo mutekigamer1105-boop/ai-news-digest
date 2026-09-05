@@ -2672,6 +2672,245 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aVFhYbjdEVmhfUHhnTmZCcG1sTkRiVlliNUVzT0VyNGEwTUZVdVJIYWJfbXhvMDlhcjVIYmhiTTlRVDBCTFVoZ3owWGdCbjEwYlFUd2RTRlU1NjYwcmc?oc=5\" target=\"_blank\">三大调研报告揭示企业落地智能体AI的共同困境</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1019-c9fd9b93c7",
+   "source_id": "news",
+   "source_name": "36 Kr",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重 - 36 Kr",
+   "summary": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重 &nbsp;&nbsp; 36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04WmRlVFlSbEVEOTZTd3hQUjNBR0VkRTNheUtpUkNUNVlGOE00MkdzazJycTg0aGVVeTdUWDYwZkdBdXh6eFdWM0RNazBYdw?oc=5",
+   "published_at": "2026-09-01T22:17:23+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE04WmRlVFlSbEVEOTZTd3hQUjNBR0VkRTNheUtpUkNUNVlGOE00MkdzazJycTg0aGVVeTdUWDYwZkdBdXh6eFdWM0RNazBYdw?oc=5\" target=\"_blank\">豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-437-4b1da85fe8",
+   "source_id": "news",
+   "source_name": "The American Bazaar",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Sony, Warner sue Anthropic over alleged use of copyrighted songs to train Claude - The American Bazaar",
+   "summary": "Sony, Warner sue Anthropic over alleged use of copyrighted songs to train Claude &nbsp;&nbsp; The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQVlJN3JnU2dXWnhsVHF6REg2X2xVblJOZ2tNT2NTSVFMUXpRM3IyWGtaUG14SlpDdDZOOWhoQmY4SlJhWG5ndW5TT2RjNGs5Q3U1MGRwWVpKV1BERkZrRXEtNnF4dkpwZEJSRk8zSjZ5dXdtY3NnSEZGRE11cWlLRmFvN3BaeDJTWDZsX2hxcHlkalpYTU9iVk9fTFdqUG5VbzVqVEgwUUNyNWk4SEx6OTdXZlo4U2ttRDVtbWJLVEZVRHFZa3ExUnFySQ?oc=5",
+   "published_at": "2026-09-01T22:06:15+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOQVlJN3JnU2dXWnhsVHF6REg2X2xVblJOZ2tNT2NTSVFMUXpRM3IyWGtaUG14SlpDdDZOOWhoQmY4SlJhWG5ndW5TT2RjNGs5Q3U1MGRwWVpKV1BERkZrRXEtNnF4dkpwZEJSRk8zSjZ5dXdtY3NnSEZGRE11cWlLRmFvN3BaeDJTWDZsX2hxcHlkalpYTU9iVk9fTFdqUG5VbzVqVEgwUUNyNWk4SEx6OTdXZlo4U2ttRDVtbWJLVEZVRHFZa3ExUnFySQ?oc=5\" target=\"_blank\">Sony, Warner sue Anthropic over alleged use of copyrighted songs to train Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The American Bazaar</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-728-390497109d",
+   "source_id": "news",
+   "source_name": "uk.finance.yahoo.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI to launch new model with 'stronger safeguards' after hack - uk.finance.yahoo.com",
+   "summary": "OpenAI to launch new model with 'stronger safeguards' after hack &nbsp;&nbsp; uk.finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXFkc2RsQ0ZCOVVodUNtbDh0TkVIMVZvOEpHcTdSMmlBVDhTb3lxQmpOQUhlOHljVVgzMlRZUWhKRWlyOXgwZF9kVjBZaEd1M0N1VXZSNzNFSkh1QzhUOGZmbGdCUkgxZzk2bXhfNloxeF9vcGRwLXpMX3BYSVBoWWtNVVhsc1FxRHhBSnA1bnp0Zw?oc=5",
+   "published_at": "2026-09-01T20:45:15+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXFkc2RsQ0ZCOVVodUNtbDh0TkVIMVZvOEpHcTdSMmlBVDhTb3lxQmpOQUhlOHljVVgzMlRZUWhKRWlyOXgwZF9kVjBZaEd1M0N1VXZSNzNFSkh1QzhUOGZmbGdCUkgxZzk2bXhfNloxeF9vcGRwLXpMX3BYSVBoWWtNVVhsc1FxRHhBSnA1bnp0Zw?oc=5\" target=\"_blank\">OpenAI to launch new model with 'stronger safeguards' after hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uk.finance.yahoo.com</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-433-949d05b839",
+   "source_id": "news",
+   "source_name": "Decrypt",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark - Decrypt",
+   "summary": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark &nbsp;&nbsp; Decrypt",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43bmJ1em1mUk9FdkRMWnJfR1Z3aVJxMG55dUhxUFdkZ2N1d2V6S2dDTm03ZFJoc0N3VTNRc1Qxc0xsaEFPQ3R6c3g1ZGpQNTFyTlRnXzNIQlVpOGdrUUhza1dR0gFqQVVfeXFMTWIyNlU4Y0JxcEdxUVhfR0s5S053Y2RWR1p4eWUtNmg3WDNpc3N5c1hkaFR4aVZCOGRhY0lPM2EtZEhSbDVDNDF3MUhkdVplTF85TkltSFZrYUN4Vy1UMUVHcEQ0dnBSQVdwUQ?oc=5",
+   "published_at": "2026-09-01T19:29:12+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE43bmJ1em1mUk9FdkRMWnJfR1Z3aVJxMG55dUhxUFdkZ2N1d2V6S2dDTm03ZFJoc0N3VTNRc1Qxc0xsaEFPQ3R6c3g1ZGpQNTFyTlRnXzNIQlVpOGdrUUhza1dR0gFqQVVfeXFMTWIyNlU4Y0JxcEdxUVhfR0s5S053Y2RWR1p4eWUtNmg3WDNpc3N5c1hkaFR4aVZCOGRhY0lPM2EtZEhSbDVDNDF3MUhkdVplTF85TkltSFZrYUN4Vy1UMUVHcEQ0dnBSQVdwUQ?oc=5\" target=\"_blank\">Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1144-05898a7f9f",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI准备发布Astra：模型可发现并利用零日漏洞，最强功能将受限开放| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI准备发布Astra：模型可发现并利用零日漏洞，最强功能将受限开放| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ROFhWdEZXU0JHRVpQMktRZ0RQekk1RzB5TUw1aFFGRmp5d1NLQTVEcTBTemFCc2xYMmpoUFprQmZFcUNWX0JoekpsMlhuV3hxOHRDQmp2LWdpY2NucjJlb0FBTzA2cE0z?oc=5",
+   "published_at": "2026-09-01T16:22:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ROFhWdEZXU0JHRVpQMktRZ0RQekk1RzB5TUw1aFFGRmp5d1NLQTVEcTBTemFCc2xYMmpoUFprQmZFcUNWX0JoekpsMlhuV3hxOHRDQmp2LWdpY2NucjJlb0FBTzA2cE0z?oc=5\" target=\"_blank\">OpenAI准备发布Astra：模型可发现并利用零日漏洞，最强功能将受限开放| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-522-7a66bde199",
+   "source_id": "news",
+   "source_name": "NVIDIA Developer",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "How to Size GPUs for AI Inference and TCO Without Overspending - NVIDIA Developer",
+   "summary": "How to Size GPUs for AI Inference and TCO Without Overspending &nbsp;&nbsp; NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWGw1cHB0ZnpncHduSnl2b1FRQTBFNFZsYlpCdkY0OFNoaTZiZENtR25QczJpbTE3Sl9OS0pwY1hEMThORk1fUkZqcGZHR0NSTjlYNE1xZDQ3bHl1SmVEeENyeXhUa2hJZi16MUp3bmhwak0zMjVYbDBVZXQ5SUpmNHM0NS1mTjBvZGJNNUJfYm92UlA0ZUh1dlpkN3lnQQ?oc=5",
+   "published_at": "2026-09-01T15:13:33+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNWGw1cHB0ZnpncHduSnl2b1FRQTBFNFZsYlpCdkY0OFNoaTZiZENtR25QczJpbTE3Sl9OS0pwY1hEMThORk1fUkZqcGZHR0NSTjlYNE1xZDQ3bHl1SmVEeENyeXhUa2hJZi16MUp3bmhwak0zMjVYbDBVZXQ5SUpmNHM0NS1mTjBvZGJNNUJfYm92UlA0ZUh1dlpkN3lnQQ?oc=5\" target=\"_blank\">How to Size GPUs for AI Inference and TCO Without Overspending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Developer</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-465-55b7b66788",
+   "source_id": "news",
+   "source_name": "Morningstar",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Trifecta Technologies Expands AI Capabilities with Anthropic Partnership and Claude Services - Morningstar",
+   "summary": "Trifecta Technologies Expands AI Capabilities with Anthropic Partnership and Claude Services &nbsp;&nbsp; Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPamtZUEJ4a1pVbGVxZVVMaHBzQl9rVmN1dV9kRzlLWlA0UWttdGVBUEtRajBmX0tBZlBiSHNWWjJyQ0JaSWhmalhxY242cmRBZ09lcExYZDJmcXh4ZnhPX1hiUG9BbEdGLUx4Qy11aW1pMG5ORThfYjlPZ0RXcmJtOVY2NnA5TFZrdm1Tb2J5eV9iU1BMNTFzbnVXZ2Vkb0plR05uWVJ3V3ZHc1p4cVhiWXY3bjkyekQ5NWZfeHJGTm9sVXhCMkhJZFF0ZTFBYmtSdUpILVVkQm9DZ2dUZUJHSTlma0ZYRjgy?oc=5",
+   "published_at": "2026-09-01T14:30:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPamtZUEJ4a1pVbGVxZVVMaHBzQl9rVmN1dV9kRzlLWlA0UWttdGVBUEtRajBmX0tBZlBiSHNWWjJyQ0JaSWhmalhxY242cmRBZ09lcExYZDJmcXh4ZnhPX1hiUG9BbEdGLUx4Qy11aW1pMG5ORThfYjlPZ0RXcmJtOVY2NnA5TFZrdm1Tb2J5eV9iU1BMNTFzbnVXZ2Vkb0plR05uWVJ3V3ZHc1p4cVhiWXY3bjkyekQ5NWZfeHJGTm9sVXhCMkhJZFF0ZTFBYmtSdUpILVVkQm9DZ2dUZUJHSTlma0ZYRjgy?oc=5\" target=\"_blank\">Trifecta Technologies Expands AI Capabilities with Anthropic Partnership and Claude Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-925-3ebae1d827",
+   "source_id": "news",
+   "source_name": "电子工程专辑",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "罗永浩吐槽新能源车企AI大模型“垃圾” - 电子工程专辑",
+   "summary": "罗永浩吐槽新能源车企AI大模型“垃圾” &nbsp;&nbsp; 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5UWloWlRvMGJkQlpySjMxNnVZUXNlWG42LVZkVDZxVDl1ZkFKQnp1V3NZVnhrOWNEX0RSa1A0NzNSLXZpbVItN0ZNZHo5ZjJNUEFN?oc=5",
+   "published_at": "2026-09-01T14:19:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5UWloWlRvMGJkQlpySjMxNnVZUXNlWG42LVZkVDZxVDl1ZkFKQnp1V3NZVnhrOWNEX0RSa1A0NzNSLXZpbVItN0ZNZHo5ZjJNUEFN?oc=5\" target=\"_blank\">罗永浩吐槽新能源车企AI大模型“垃圾”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1070-577f189308",
+   "source_id": "news",
+   "source_name": "驱动之家",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "全球首款AI智能体手机！努比亚NaviX Ultra正式入网：9月上市 - 驱动之家",
+   "summary": "全球首款AI智能体手机！努比亚NaviX Ultra正式入网：9月上市 &nbsp;&nbsp; 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KMENQZFpUM1Fjdkp6NU5WUERXY01lUkQ2MnhhRElITE1CbUg5M1cwUnF4STZFZVhTQkFxdlpzcEhDUUlRZk5wYkxlZTZneDVRQ2FqSjZBLWg?oc=5",
+   "published_at": "2026-09-01T10:57:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KMENQZFpUM1Fjdkp6NU5WUERXY01lUkQ2MnhhRElITE1CbUg5M1cwUnF4STZFZVhTQkFxdlpzcEhDUUlRZk5wYkxlZTZneDVRQ2FqSjZBLWg?oc=5\" target=\"_blank\">全球首款AI智能体手机！努比亚NaviX Ultra正式入网：9月上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">驱动之家</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1051-2ee529fce4",
+   "source_id": "news",
+   "source_name": "飞象网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "全球首款AI智能体手机努比亚NaviX Ultra获入网许可，9月正式上市 - 飞象网",
+   "summary": "全球首款AI智能体手机努比亚NaviX Ultra获入网许可，9月正式上市 &nbsp;&nbsp; 飞象网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51SXVOcV9jOU1VeXVoaXJwMFRlVWRkaWp4Wkpka2V2NG9ZU3JtMVBrY1NTUks0NTlfUGtnZmkxR2ttQktiN0FmNFB6VQ?oc=5",
+   "published_at": "2026-09-01T10:48:35+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE51SXVOcV9jOU1VeXVoaXJwMFRlVWRkaWp4Wkpka2V2NG9ZU3JtMVBrY1NTUks0NTlfUGtnZmkxR2ttQktiN0FmNFB6VQ?oc=5\" target=\"_blank\">全球首款AI智能体手机努比亚NaviX Ultra获入网许可，9月正式上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">飞象网</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-371-c2f8ba9edc",
+   "source_id": "news",
+   "source_name": "reuters.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI says Apple has only itself to blame in trade-secret fight - reuters.com",
+   "summary": "OpenAI says Apple has only itself to blame in trade-secret fight &nbsp;&nbsp; reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2FsN3ZxcVlYLXhzU25JQ0t1UkEtOXYzVm4wekxhQl93OUw1Y0QxblQ4M1lZVEV2VFFNaEl5eFZIVGJ3VU96UDBBdjhRbnRMQ3BwNVcyRU1RejBQWDBqVnREeklZdXUwRXd0eXczaklOWDMwVzF4eGFldy13dzM4TERFRTVTUHpzN1VoT3hYREZpTTFodExPM2lNeDBlNjh0dTFSalNrUGxSQTMtMGRhOA?oc=5",
+   "published_at": "2026-09-01T05:35:50+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2FsN3ZxcVlYLXhzU25JQ0t1UkEtOXYzVm4wekxhQl93OUw1Y0QxblQ4M1lZVEV2VFFNaEl5eFZIVGJ3VU96UDBBdjhRbnRMQ3BwNVcyRU1RejBQWDBqVnREeklZdXUwRXd0eXczaklOWDMwVzF4eGFldy13dzM4TERFRTVTUHpzN1VoT3hYREZpTTFodExPM2lNeDBlNjh0dTFSalNrUGxSQTMtMGRhOA?oc=5\" target=\"_blank\">OpenAI says Apple has only itself to blame in trade-secret fight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

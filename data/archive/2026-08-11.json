@@ -200,6 +200,115 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zNU82STg1azA1Ym85d1RzeWpxVHN1UnRDeXBTelpPLXcxdy1fMkhjZndSX2NjLUR1Nk1XRkVpZXFBUkN4T3NpRDZoVzdQeFBlSFBF?oc=5\" target=\"_blank\">车载AI智能体智能化能力分析报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-955-c8e91422ca",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "英伟达据悉开发万亿参数开源AI模型Nemotron4 欲挑战顶级开源模型 - 东方财富",
+   "summary": "英伟达据悉开发万亿参数开源AI模型Nemotron4 欲挑战顶级开源模型 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fb19fTi0wVDFxT2NodDZrUFU1S3JBZ0hnZkhkSWROQi1LWlo1S2dPSEs1NjRTbXBsV1VsOURtY3JPSHp2SVVmZ1lXODFxR1NZSVYwbnI2VFEzbTdmU2lETHlFUUhpZTA?oc=5",
+   "published_at": "2026-08-11T14:55:48+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fb19fTi0wVDFxT2NodDZrUFU1S3JBZ0hnZkhkSWROQi1LWlo1S2dPSEs1NjRTbXBsV1VsOURtY3JPSHp2SVVmZ1lXODFxR1NZSVYwbnI2VFEzbTdmU2lETHlFUUhpZTA?oc=5\" target=\"_blank\">英伟达据悉开发万亿参数开源AI模型Nemotron4 欲挑战顶级开源模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-623-b3b4441678",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI Startup Cognition in New Funding Talks at $40 Billion Value - Bloomberg.com",
+   "summary": "AI Startup Cognition in New Funding Talks at $40 Billion Value &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1YzbC1pbmE3QnN1WU95NGFWQlNrR1BlZnNfaDZvLXRKbXQ1NGJEYnlJckgyai01NFB5YkVuTWxXbGdrbW5SX1NxWUh3ek5kQ1BpM2lVV1RNME5NSUFtTzF3aVBESGhTYW5wVG9VZkdqRUt2MG1sNWhKV0x1NUE2Q0hKb2kzTkRLT19YNU9KU1JPMmthYUc3dWQwWE9malo2cG9kS2tlanBaM2N6R2hSaThR?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1YzbC1pbmE3QnN1WU95NGFWQlNrR1BlZnNfaDZvLXRKbXQ1NGJEYnlJckgyai01NFB5YkVuTWxXbGdrbW5SX1NxWUh3ek5kQ1BpM2lVV1RNME5NSUFtTzF3aVBESGhTYW5wVG9VZkdqRUt2MG1sNWhKV0x1NUE2Q0hKb2kzTkRLT19YNU9KU1JPMmthYUc3dWQwWE9malo2cG9kS2tlanBaM2N6R2hSaThR?oc=5\" target=\"_blank\">AI Startup Cognition in New Funding Talks at $40 Billion Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-644-57459bf9ff",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "General Catalyst leads $1.1B round into 2-month-old River AI - TechCrunch",
+   "summary": "General Catalyst leads $1.1B round into 2-month-old River AI &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb1RXX01BUGdyZ1RwQjg1cFBaYTExcWtIVVRYN2dCaTIwNXdCSTlPOEV3d0pTSXZyV3ZKZnllbmNHbGNYYkhyalZQYzh2UG1SM1ZTVlRtSjNwV3NpYkdDblFZQjF3ZDJXb1ZNdnJDaXhWaWtSTk0tZ3NGUVB5NVk0M2NzT1A2M014VUlzdlpKamtERlNGTVlRblVn?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOb1RXX01BUGdyZ1RwQjg1cFBaYTExcWtIVVRYN2dCaTIwNXdCSTlPOEV3d0pTSXZyV3ZKZnllbmNHbGNYYkhyalZQYzh2UG1SM1ZTVlRtSjNwV3NpYkdDblFZQjF3ZDJXb1ZNdnJDaXhWaWtSTk0tZ3NGUVB5NVk0M2NzT1A2M014VUlzdlpKamtERlNGTVlRblVn?oc=5\" target=\"_blank\">General Catalyst leads $1.1B round into 2-month-old River AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-942-c09652c753",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "为什么中国大模型便宜又好用？ - 新华网",
+   "summary": "为什么中国大模型便宜又好用？ &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CNW5KcjNHNURXRG1EaVE2elFNV1U1eDF5R2g4d0RSTmJ6NXkwcnVud25ELUdoT3VHQlZSRGlYY1kyQWt0Vi1wVkJmdFE2dlN3SldBV0pyd1lOdTZweWQ2ZTZqTUNKdFVHQ0NoX2VuVEpZX1pyQnow?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1CNW5KcjNHNURXRG1EaVE2elFNV1U1eDF5R2g4d0RSTmJ6NXkwcnVud25ELUdoT3VHQlZSRGlYY1kyQWt0Vi1wVkJmdFE2dlN3SldBV0pyd1lOdTZweWQ2ZTZqTUNKdFVHQ0NoX2VuVEpZX1pyQnow?oc=5\" target=\"_blank\">为什么中国大模型便宜又好用？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-954-f7ae0555be",
+   "source_id": "news",
+   "source_name": "xinwen.bjd.com.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "为什么中国大模型便宜又好用？ - xinwen.bjd.com.cn",
+   "summary": "为什么中国大模型便宜又好用？ &nbsp;&nbsp; xinwen.bjd.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqTkNMWTNvaFVVa2V6TVNPQ0JEZUk5WGY0dUdtZEVETVJLYUFvWkZJY01tVkt4b3N1WFJKR2FhQnpaNDZGTV9BMUx1Mmg5bThEU1pKUlprQXQxR3E1czF6TmZjY2ZxUjRLSXpydHd1ZmpyQQ?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBqTkNMWTNvaFVVa2V6TVNPQ0JEZUk5WGY0dUdtZEVETVJLYUFvWkZJY01tVkt4b3N1WFJKR2FhQnpaNDZGTV9BMUx1Mmg5bThEU1pKUlprQXQxR3E1czF6TmZjY2ZxUjRLSXpydHd1ZmpyQQ?oc=5\" target=\"_blank\">为什么中国大模型便宜又好用？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">xinwen.bjd.com.cn</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

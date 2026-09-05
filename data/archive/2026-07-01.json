@@ -87,6 +87,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXIzWUNBWC1MNkR1cl9vM28xSUtDb0pTRGdoOEV1SXlrdUJzd0JLSkxYdXYta21wTVdHU1QwOVgxZVRkV3VJeG9MaWREcmZpNEVCbGF4SUhLekxoNTVfRVFkT080UTZGT29PTGRMTmd2Sk55ZE44Skk3OG1lMEVOU0Rn?oc=5\" target=\"_blank\">中国大模型突围</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民日报</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-677-8051755d76",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "As Companies Race for Cheaper A.I. Options, This Start-Up Pitches a Solution - The New York Times",
+   "summary": "As Companies Race for Cheaper A.I. Options, This Start-Up Pitches a Solution &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1pyNVh6czd3ZTI4VHQ2YlprMW1CZzJxU1hHeXU3emp5SVBET1E4V0JBY29LeWk1elpyVnNKM3VaZm5XeDluRUl6UUsxNjdZUjZraDl4THl3RlQ3Q1F4dk9tZHVwVUdlWVNXejA5aTRaMVN6U3lWdEVXUkRsb2tqc0c3RQ?oc=5",
+   "published_at": "2026-07-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1pyNVh6czd3ZTI4VHQ2YlprMW1CZzJxU1hHeXU3emp5SVBET1E4V0JBY29LeWk1elpyVnNKM3VaZm5XeDluRUl6UUsxNjdZUjZraDl4THl3RlQ3Q1F4dk9tZHVwVUdlWVNXejA5aTRaMVN6U3lWdEVXUkRsb2tqc0c3RQ?oc=5\" target=\"_blank\">As Companies Race for Cheaper A.I. Options, This Start-Up Pitches a Solution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

@@ -265,6 +265,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HSzlWY21BNW80TXhWZ0xEakYyZDVDaWxLOUxNcHlWZmxFRjZoRVVuTkJaSEVCckQ5TDVjV3IyNzljTllGTkJGaDBzLTdfQzJnZmVNQkdQNVNCc1o4cGhWRFByazdFUQ?oc=5\" target=\"_blank\">中国AI大模型调用量连续十七周领跑：神秘“牛来”大模型上线四天冲至全球第二，DeepSeek-V4-Flash正式版连续三周第一</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">每日经济新闻</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1091-eec734342f",
+   "source_id": "news",
+   "source_name": "InfoQ-CN",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算 - InfoQ-CN",
+   "summary": "多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算 &nbsp;&nbsp; InfoQ-CN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGOEFaY3J6UFBLUmlCdXQ2SW9nUmZoUnFJcVhjdS14ZjJ4WHJCVXhPQ1c4QTBpc3BCUnRpem45bzF4cEM4dzExOGhUdlI5eTlibVpEMXp4SHVjMVpmc3c?oc=5",
+   "published_at": "2026-08-24T10:12:23+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGOEFaY3J6UFBLUmlCdXQ2SW9nUmZoUnFJcVhjdS14ZjJ4WHJCVXhPQ1c4QTBpc3BCUnRpem45bzF4cEM4dzExOGhUdlI5eTlibVpEMXp4SHVjMVpmc3c?oc=5\" target=\"_blank\">多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ-CN</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1066-48e1d8d803",
+   "source_id": "news",
+   "source_name": "NVIDIA",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "SpaceXAI 采用 NVIDIA Vera CPU，大规模加速智能体 AI 发展 - NVIDIA",
+   "summary": "SpaceXAI 采用 NVIDIA Vera CPU，大规模加速智能体 AI 发展 &nbsp;&nbsp; NVIDIA",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWG9LVWNpckhpd3NvN1NyR0VoaW5JdFJOQU4wN1N6RXJibEMxeUt6c3JnblRJRUZqV0R2Y09Ua005RlhuT3ZCV25zS2FfcFFlcnZrUXpkeUdXYVliaWEycy0tcTcwdkVUb2VTMjZlTHU3WFJISmNUTmNLSkQ3dEtBNXZJck96VXBVQk8zbE50WHZVR0VsejNjb2xOWjZoMURneVVPdEtR?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "elon-musk",
+   "builder_name": "Elon Musk",
+   "tags": [
+    "AI",
+    "算力",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWG9LVWNpckhpd3NvN1NyR0VoaW5JdFJOQU4wN1N6RXJibEMxeUt6c3JnblRJRUZqV0R2Y09Ua005RlhuT3ZCV25zS2FfcFFlcnZrUXpkeUdXYVliaWEycy0tcTcwdkVUb2VTMjZlTHU3WFJISmNUTmNLSkQ3dEtBNXZJck96VXBVQk8zbE50WHZVR0VsejNjb2xOWjZoMURneVVPdEtR?oc=5\" target=\"_blank\">SpaceXAI 采用 NVIDIA Vera CPU，大规模加速智能体 AI 发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

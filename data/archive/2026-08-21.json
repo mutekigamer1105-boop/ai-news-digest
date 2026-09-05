@@ -153,6 +153,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG9JR041RTJKNHBDcmZBU3IzM05GNGNLZWEyeUJtSkxDa0tMOVk3OE5PcF9DaHZXX2tuZ21HWC00YnNGdXFjV2xoVWlOWjlVRmNFNV9VeHdmZi1XcEtMV1lEaEU0YXpDYnk2OXlFVWNsQmlSb0ViUERJbjgzRGN3VjZEd1VhZDZlRXRFaVBzNU1BaXBURWw1dFA0MnBudklUTWc?oc=5\" target=\"_blank\">The Week’s 10 Biggest Funding Rounds: Defense Tech, AI Tools And Infrastructure Lead The Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-972-a58307b9d3",
+   "source_id": "news",
+   "source_name": "观点网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "阿里虎鲸文娱自研虎鲸AI大模型 内测AI视频创作工具 - 观点网",
+   "summary": "阿里虎鲸文娱自研虎鲸AI大模型 内测AI视频创作工具 &nbsp;&nbsp; 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lWW5ET2syamVhaGQ4QVg2TXhfQko2SzZRbWlDYnhjSUJibnNweHZ3b0ROTkc2MUlFN2dCd0xWblZ1cW9QSXYycF9OeVRnS3ptQ05nZUFGY0JRUjg1OFRpYXJB?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lWW5ET2syamVhaGQ4QVg2TXhfQko2SzZRbWlDYnhjSUJibnNweHZ3b0ROTkc2MUlFN2dCd0xWblZ1cW9QSXYycF9OeVRnS3ptQ05nZUFGY0JRUjg1OFRpYXJB?oc=5\" target=\"_blank\">阿里虎鲸文娱自研虎鲸AI大模型 内测AI视频创作工具</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

@@ -85,6 +85,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XZjM5aHYwVnNFeXYwaG1hajdDc2VzLTFVSXJGQzlyX2w5QjFwSW9OY1NWQzFnZFd3bWZ6c0FMRFJ0dXV1azBCZlkzblFSV3ZhdHB4Q2FOV3k?oc=5\" target=\"_blank\">兰州大学成立人工智能学院</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">兰州大学新闻网</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-973-f5eaf3f0e8",
+   "source_id": "news",
+   "source_name": "证券时报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续九周领跑，美国份额一年内从72%跌至33% - 证券时报",
+   "summary": "中国AI大模型调用量连续九周领跑，美国份额一年内从72%跌至33% &nbsp;&nbsp; 证券时报",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TcTNpendDcTBOTldGemk5cDZ0Ny1jNGp0MnpzZHRHX2M2SWEtVGtHMXdDeW5PQmRaTVB2OURBNmU2QVdnVjhnTU9rbVhIemJLM053bmQ0SU5lY3FQ?oc=5",
+   "published_at": "2026-06-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TcTNpendDcTBOTldGemk5cDZ0Ny1jNGp0MnpzZHRHX2M2SWEtVGtHMXdDeW5PQmRaTVB2OURBNmU2QVdnVjhnTU9rbVhIemJLM053bmQ0SU5lY3FQ?oc=5\" target=\"_blank\">中国AI大模型调用量连续九周领跑，美国份额一年内从72%跌至33%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

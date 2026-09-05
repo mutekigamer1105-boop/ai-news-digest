@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1DT090MEZDbjRYNzlELVRud2cyWDE0X3h0NjRoVkh1ZENQUTBKUFoyZ3dRVnZRcXdaMC00WnJ3bFpZTkt2dUVORnBfQlYxVmJyeExvUUFqbl96U0xkLWpldmxiOUY2aVFGVzljR2V2LVQ?oc=5\" target=\"_blank\">Prometheus, the industrial AI startup from Jeff Bezos, is now worth $41 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-211-88f52f1c24",
+   "source_id": "news",
+   "source_name": "The Lancet",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models as experimental systems in human psychopathology: a modelling study - The Lancet",
+   "summary": "Large language models as experimental systems in human psychopathology: a modelling study &nbsp;&nbsp; The Lancet",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTBvNExNTl9uNjc2Y1hKeGpMcml2NFJ3Ykg1cUlnNmgxWlVPMzRFRUoxa0pCWnV4UHRtS0pCbkpJUDVDOWpfWVZTeTI1R0xxVHRsQkpXMHBrektPMktOM3VuckdVUGFlbXRfbVVoeG5VV2VCTFRGU2EyU1RrLU9JdER4UTBsWUF3dzhn?oc=5",
+   "published_at": "2026-06-11T12:48:34+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTBvNExNTl9uNjc2Y1hKeGpMcml2NFJ3Ykg1cUlnNmgxWlVPMzRFRUoxa0pCWnV4UHRtS0pCbkpJUDVDOWpfWVZTeTI1R0xxVHRsQkpXMHBrektPMktOM3VuckdVUGFlbXRfbVVoeG5VV2VCTFRGU2EyU1RrLU9JdER4UTBsWUF3dzhn?oc=5\" target=\"_blank\">Large language models as experimental systems in human psychopathology: a modelling study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Lancet</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

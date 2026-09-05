@@ -154,6 +154,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvM2dkdEdJalh3MVd3S2dUVHZ5TTRpbzJYaEJzcm9NY2RtQnZ5eFRmLWxpOEdKTjlVaE5LVl9EWXhzVUh5TWY1Y01ydUVvUXhLaTJ1UlhNb2FYTzRXMk5F?oc=5\" target=\"_blank\">Does China’s latest AI model finally equal US rivals? What scientists think</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-995-81530f67b1",
+   "source_id": "news",
+   "source_name": "RFI",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "法国世界报 - 中国AI新模型让硅谷不安 - RFI",
+   "summary": "法国世界报 - 中国AI新模型让硅谷不安 &nbsp;&nbsp; RFI",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNM3NINzFDLXVreDE5cDYyX3BwM3FmcXVpelJFVWNpY1ZlRWs3Yi00TUxlX0NscFNfbTFaSHM2eTJDZlRrRmxzakZtbkdxMU1iSUxTeTNfcWNQQmJJR0ZZdklQSG5sMmlCU3F2a1I5SzJiWnpzUFFVWXFBMlJ1cWJuVUlJbUo2UTM2UDV6UmRsWl9xczloNFdBbkxIajJtYkFJMkVFZzBtRlhEV1lGd25CU01HTGlXMFN1Unl6Ml9tV0xrcl92UUpWa3RSb1lKMlN2WGUyMnl6Q084OG5wZ0R6Qm0wSTl3cElndk1RcXp1UDg2b3U5UGd0YnVJa05ZLWFCWEZsbE41QWdURVlHVktOcE0xbzZxOEE1Znk2MHhqYWtnS1RPcl9XUVRKVG02aG8?oc=5",
+   "published_at": "2026-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxNM3NINzFDLXVreDE5cDYyX3BwM3FmcXVpelJFVWNpY1ZlRWs3Yi00TUxlX0NscFNfbTFaSHM2eTJDZlRrRmxzakZtbkdxMU1iSUxTeTNfcWNQQmJJR0ZZdklQSG5sMmlCU3F2a1I5SzJiWnpzUFFVWXFBMlJ1cWJuVUlJbUo2UTM2UDV6UmRsWl9xczloNFdBbkxIajJtYkFJMkVFZzBtRlhEV1lGd25CU01HTGlXMFN1Unl6Ml9tV0xrcl92UUpWa3RSb1lKMlN2WGUyMnl6Q084OG5wZ0R6Qm0wSTl3cElndk1RcXp1UDg2b3U5UGd0YnVJa05ZLWFCWEZsbE41QWdURVlHVktOcE0xbzZxOEE1Znk2MHhqYWtnS1RPcl9XUVRKVG02aG8?oc=5\" target=\"_blank\">法国世界报 - 中国AI新模型让硅谷不安</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RFI</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

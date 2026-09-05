@@ -175,6 +175,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE83dkxLbUlzZHJvbk04ZndDbXM2THlmcmk3TTh1cmRCYUVOTEdNcmFZdGcyZ1J3bjhsaU12N0Z0Mno2Y1l4MXpTcV9XREE4TnJuck9PTlo5UmExUQ?oc=5\" target=\"_blank\">上海发布全球首个AI智能体原生系统，大模型手机也来了，美团、百度率先接入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-990-66c3aa5a58",
+   "source_id": "news",
+   "source_name": "财新",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "特稿｜大模型急招FDE AI落地垂直行业卡口何在？ - 财新",
+   "summary": "特稿｜大模型急招FDE AI落地垂直行业卡口何在？ &nbsp;&nbsp; 财新",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNRlVzYmN6VU54WFQ5WW02ZUI4dTliUVoxaDBfZFR5a2V3SG1wQU9lTTBWRENuM3BJZzlhY0IyVnJLTHM4bER3eWJfdHFERmdjOUhvM2N2TkJJcXVi?oc=5",
+   "published_at": "2026-07-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNRlVzYmN6VU54WFQ5WW02ZUI4dTliUVoxaDBfZFR5a2V3SG1wQU9lTTBWRENuM3BJZzlhY0IyVnJLTHM4bER3eWJfdHFERmdjOUhvM2N2TkJJcXVi?oc=5\" target=\"_blank\">特稿｜大模型急招FDE AI落地垂直行业卡口何在？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财新</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

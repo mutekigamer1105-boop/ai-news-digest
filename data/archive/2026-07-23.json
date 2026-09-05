@@ -151,6 +151,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUcjE3T1pmYjNPYnB4ZF9hcU1MdzJpZ21SeVJ4SUQyNHdPSVRfQlFmcDlRMHZ1WG9fNWRreG5jTWZtOFgtTmhMOE5oM0ptakJDUnpLZ05PYzBLNWptUEhxUFd4QmU?oc=5\" target=\"_blank\">佛州牧師在舊金山起訴OpenAI及山姆·奧特曼，指控ChatGPT錯誤醫療建議導致肺栓塞| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-218-2dea87073c",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Evaluating large language models for assessment of psychosis risk - npj Digital Medicine - Nature",
+   "summary": "Evaluating large language models for assessment of psychosis risk - npj Digital Medicine &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40b3l0dkZFU2NrRkEzaTlrbk5NaGdsSU5IaFU4VW1rUnJjdVN5eVRRTThEc0JLZ19IRHY2U1FFQ2o3VGxQOWpjekkyUFJ0eFJMb2hMSGtOYzBYMXdENm8w?oc=5",
+   "published_at": "2026-07-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE40b3l0dkZFU2NrRkEzaTlrbk5NaGdsSU5IaFU4VW1rUnJjdVN5eVRRTThEc0JLZ19IRHY2U1FFQ2o3VGxQOWpjekkyUFJ0eFJMb2hMSGtOYzBYMXdENm8w?oc=5\" target=\"_blank\">Evaluating large language models for assessment of psychosis risk - npj Digital Medicine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-792-c7a0931c2a",
+   "source_id": "news",
+   "source_name": "axios.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Google's Gemini delay exposes a deeper problem: employee frustration - axios.com",
+   "summary": "Google's Gemini delay exposes a deeper problem: employee frustration &nbsp;&nbsp; axios.com",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0OWdYVXItNGJqeUw2LWpoSFFEcndRcUgtNzVDVWxBb2JFdUlVamU4S0NSYTZTZk9uQkxCSzJmRHZVc0cxdi1STWRXQTBDTTdXaGV1cUoycUUtYTJPam91aE9FR3pyT0tyd1FvTlYyT1UxQQ?oc=5",
+   "published_at": "2026-07-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "demis-hassabis",
+   "builder_name": "Demis Hassabis",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB0OWdYVXItNGJqeUw2LWpoSFFEcndRcUgtNzVDVWxBb2JFdUlVamU4S0NSYTZTZk9uQkxCSzJmRHZVc0cxdi1STWRXQTBDTTdXaGV1cUoycUUtYTJPam91aE9FR3pyT0tyd1FvTlYyT1UxQQ?oc=5\" target=\"_blank\">Google's Gemini delay exposes a deeper problem: employee frustration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">axios.com</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

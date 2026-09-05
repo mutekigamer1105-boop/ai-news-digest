@@ -107,6 +107,94 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmZfbUpka3dETVUzY1dUT2JrNjhqVkp5V19xSzRUTU10cTYwMGdPbEYxWGFsNWZmSGFFdmJxOW5yWng3ZmlqWGRyS3ZuNDhWZDNjY0Zxb25BWkN5MGZhLWs3dWIzUWZWSGRCR1Z1dmVaX1pKa3NOS2hJTWVad0ZFcEp6ZVQ?oc=5\" target=\"_blank\">硅和平人工智能援助项目资金机会公告- 美国驻华大使馆和领事馆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Embassy & Consulates in China</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-661-9447c5d89a",
+   "source_id": "news",
+   "source_name": "nlpc.org",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Benioff Funds AI Startup After Saying Software Jobs Aren’t at Risk - nlpc.org",
+   "summary": "Benioff Funds AI Startup After Saying Software Jobs Aren’t at Risk &nbsp;&nbsp; nlpc.org",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2RrM1dxYVZNZEVDR1BJYldVdmVWMTQ0cGhyUG15WTN6RlZiRnpVQUtFdzRadldtcC15MXZfNkFVNG1iZnVlODlQak0tZ2hXQnJVUkNGdm9YS2prdUJZR0dHY25KbnU0NDFDUTRhZUxQLXBfMWRBMWs2UURBUDRrUFozb2RGVW02a0l0aG9veVhRTmQwYV9HNTFqQQ?oc=5",
+   "published_at": "2026-08-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxON2RrM1dxYVZNZEVDR1BJYldVdmVWMTQ0cGhyUG15WTN6RlZiRnpVQUtFdzRadldtcC15MXZfNkFVNG1iZnVlODlQak0tZ2hXQnJVUkNGdm9YS2prdUJZR0dHY25KbnU0NDFDUTRhZUxQLXBfMWRBMWs2UURBUDRrUFozb2RGVW02a0l0aG9veVhRTmQwYV9HNTFqQQ?oc=5\" target=\"_blank\">Benioff Funds AI Startup After Saying Software Jobs Aren’t at Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nlpc.org</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-780-a1a78766c8",
+   "source_id": "news",
+   "source_name": "reuters.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - reuters.com",
+   "summary": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows &nbsp;&nbsp; reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5",
+   "published_at": "2026-08-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "demis-hassabis",
+   "builder_name": "Demis Hassabis",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5\" target=\"_blank\">Google unveils Gemini 3.7 Flash AI model for coding, agent workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-786-630b395f77",
+   "source_id": "ars-technica",
+   "source_name": "Ars Technica",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "Google announces Gemini 3.7 Flash just three weeks after previous release - Ars Technica",
+   "summary": "Google announces Gemini 3.7 Flash just three weeks after previous release &nbsp;&nbsp; Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjZPd0hkSXZpM1RMMmo3bHBwLUVOUVp1dHkwTDB0bWdhdFhpV1lROUVrOW9GWmhxSWVpQzhOZmJJbUxGSThqS29XNVJjLV82NVBZY1U1N2lDX0NJOERwaWFWRjNQRlpUY1V3SWk0SXF4U3BxQUFkUEZ1aGxSVS1qY2QwYnZCOS1iYUtwNTdLcUE2RnV6MDYyb3Z1SDhNNFlLTDAyNndPLWtLaUwyWnc?oc=5",
+   "published_at": "2026-08-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "demis-hassabis",
+   "builder_name": "Demis Hassabis",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjZPd0hkSXZpM1RMMmo3bHBwLUVOUVp1dHkwTDB0bWdhdFhpV1lROUVrOW9GWmhxSWVpQzhOZmJJbUxGSThqS29XNVJjLV82NVBZY1U1N2lDX0NJOERwaWFWRjNQRlpUY1V3SWk0SXF4U3BxQUFkUEZ1aGxSVS1qY2QwYnZCOS1iYUtwNTdLcUE2RnV6MDYyb3Z1SDhNNFlLTDAyNndPLWtLaUwyWnc?oc=5\" target=\"_blank\">Google announces Gemini 3.7 Flash just three weeks after previous release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-870-eddf3436cb",
+   "source_id": "news",
+   "source_name": "BBC",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI撰写论文：“大学指控我学术不端，但明明那都是我自己写的。” - BBC",
+   "summary": "AI撰写论文：“大学指控我学术不端，但明明那都是我自己写的。” &nbsp;&nbsp; BBC",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhRVp2cEU5SVJVM3diMEdmYU02X1RFNF80aS1FMUVEcEs4bnZaNzdCdU1oSnNQUUtCdmMyRTVmaExqeER5ZU01RFh5b2pQR3dmeGR6Ni1MZzRXRTJlUWxSS1QxNVdOUdIBa0FVX3lxTE1obmZmdDR4T1hHX25ILV9FeHZuSGVhNXdsQkpuVncyLWJmRXZmRngzX28wbXR4TVdqMGd6UVN5ekhiclJCMmVsTE5iQmd6YkdmSGZGbTlWWnp3TlhBNGRvVmVvcTNVVnlldzc0?oc=5",
+   "published_at": "2026-08-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhRVp2cEU5SVJVM3diMEdmYU02X1RFNF80aS1FMUVEcEs4bnZaNzdCdU1oSnNQUUtCdmMyRTVmaExqeER5ZU01RFh5b2pQR3dmeGR6Ni1MZzRXRTJlUWxSS1QxNVdOUdIBa0FVX3lxTE1obmZmdDR4T1hHX25ILV9FeHZuSGVhNXdsQkpuVncyLWJmRXZmRngzX28wbXR4TVdqMGd6UVN5ekhiclJCMmVsTE5iQmd6YkdmSGZGbTlWWnp3TlhBNGRvVmVvcTNVVnlldzc0?oc=5\" target=\"_blank\">AI撰写论文：“大学指控我学术不端，但明明那都是我自己写的。”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

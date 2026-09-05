@@ -370,6 +370,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16THlSZ0t3YlR2SllLYW10bnljTmZIeUEwODRBNmJlMFBJa1lmckJDaVdEMVNHbXk3c2NuY1p4T05Rd1EtTVhocFlrNjJqUXZkazdsaHhwZkl0WFNITjhXd0NFSWtfQ2M?oc=5\" target=\"_blank\">OpenAI筹备ChatGPT青少年模式，强化未成年人使用限制与安全保护| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-782-55b829b8bb",
+   "source_id": "news",
+   "source_name": "Snowflake",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Snowflake Unlocks Better AI Economics with Dynamic Model Routing, Delivering More Value to Customers - Snowflake",
+   "summary": "Snowflake Unlocks Better AI Economics with Dynamic Model Routing, Delivering More Value to Customers &nbsp;&nbsp; Snowflake",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY2l5TVhaeV9uc1VkOVdaOG5HVXlhekowUG54TXZqdDRkakpVM28zTER1cV9tMlFJVUtkVW43dzVzS0VZdm5kdFNCSGlmRU9kQTY0SEZ2X0toNzc3djMtdmY4ajdkdlpIRzFYMzNaMGhPbnBDdVdZdDZXUi1aR1dfeHI3ZUVNS2JRQThuWFJOUThWcjhNMWZwV1RLNTY1dU1zblBibHliaEQ0UHlQZFE?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQY2l5TVhaeV9uc1VkOVdaOG5HVXlhekowUG54TXZqdDRkakpVM28zTER1cV9tMlFJVUtkVW43dzVzS0VZdm5kdFNCSGlmRU9kQTY0SEZ2X0toNzc3djMtdmY4ajdkdlpIRzFYMzNaMGhPbnBDdVdZdDZXUi1aR1dfeHI3ZUVNS2JRQThuWFJOUThWcjhNMWZwV1RLNTY1dU1zblBibHliaEQ0UHlQZFE?oc=5\" target=\"_blank\">Snowflake Unlocks Better AI Economics with Dynamic Model Routing, Delivering More Value to Customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Snowflake</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

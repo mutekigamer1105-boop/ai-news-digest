@@ -258,6 +258,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQazRicDBFZS1GSWhpZTN0NjJWTVhmNWFhZUhmbFpZaWhKUm9SZ3BTdlFuUDkyTkYzeFhWd0ZRdkFEMUdjOEdRdFhaSjF6MVB5MVdTbHRLekVMWUpTTV80eDN4Qm9GcG1XcVROeGRQTEctQmpfVERZX0NRUWFibW9mRmw2SHltcHFPXzFQTVNya2Z6QzFSbGM2Q0h6dlpXdUZYdEVLYWxB?oc=5\" target=\"_blank\">California Draws More Startup Investment Than All Other 49 States Combined</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-763-36fa19177a",
+   "source_id": "news",
+   "source_name": "Pew Research Center",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "How Much of the Internet Is Written With AI? - Pew Research Center",
+   "summary": "How Much of the Internet Is Written With AI? &nbsp;&nbsp; Pew Research Center",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXhPWV9EU19HV0VaWWxDSVY4T0RuV09LVFg2MnJoUjFOVndvbVFZR3U5SjNybUFoQy1NeFIyVnMzUEJNajBvenRYa3Vja3JLckpGU3JoQ0hpc2h2MTIyUkxhOU9QTnJiSTgxUTVVMkEwNHh1UGFwV2hhR3p4TUQtQldlaUwwSktxWWI3UDNVZkU4S3lKbFc4bA?oc=5",
+   "published_at": "2026-08-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXhPWV9EU19HV0VaWWxDSVY4T0RuV09LVFg2MnJoUjFOVndvbVFZR3U5SjNybUFoQy1NeFIyVnMzUEJNajBvenRYa3Vja3JLckpGU3JoQ0hpc2h2MTIyUkxhOU9QTnJiSTgxUTVVMkEwNHh1UGFwV2hhR3p4TUQtQldlaUwwSktxWWI3UDNVZkU4S3lKbFc4bA?oc=5\" target=\"_blank\">How Much of the Internet Is Written With AI?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pew Research Center</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

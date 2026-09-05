@@ -42,6 +42,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOWTQzZjJ5VGNUaGtJY3dTaTVwb0dWN01yWFY2RGtZX0gwZEpFVHM5NTZZQWRRZ04yZk1Hc2tCcFplcTg2VkxPZzVyUDhBeElfM21Id25YX3NpSXpRSmpLRVlkdXdkRWUyU1NMVXRydklfYmI4eWFrS1BqdnpNTlFmSnZ0RkZZeG9zYXRBRmdDYWIxOVA3R3E2aENra054OHl6WjhkTDVuWUY3eDdtc0J4WmVSR0lKbXNXaUNlaF9obXV5ajUwU0RNR3pLdjhlbGJYdllmNnZwZjNISUlvZFVUUkRGNTNoRWEyODgtVUQ3WXVKeDRUbHNYMEJXNnNQQWFyVGZN?oc=5\" target=\"_blank\">Commerce Department Extends Export Controls to Advanced AI Models; Authorizes Release to Specific Trusted Partners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mayer Brown</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-764-d6d06330ec",
+   "source_id": "news",
+   "source_name": "The Hill",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "White House upends AI model release - The Hill",
+   "summary": "White House upends AI model release &nbsp;&nbsp; The Hill",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVm9tMS16aHJ3YUtTSlRHZU0zLXNpMGh0RTRYRjctVGxRQ29xNWZ5Wlp3dDdDOE0tUjNjNFgzUEhNRVhoQm1MZVdvdElxOWNBUkxFTGZPR0VsZjJCbkxuNm9PNlI0TklvbXlUTkhYYVM1Y0hpalNIR2tWckFwUEtWZFpDTU1GeFFaV2NoR0QxSFDSAZYBQVVfeXFMUEkxSng3WFp1STJxZldDVEY4MEpja1lZSy0yc3VNQmIzYmxLbzBSc01aN3JKaDlPOVN5Y2dmaTFjUWNvb3VIdVoyeGtRYW15X1FvbHVyU3h3LXgxSkZBNXB6ZW5EYThpaFB3WEY5LWZQdkNHZWd1dlVrcWZpcG0ySVM1djhHd3lES2xSSFg5dmJrbFBUVXVn?oc=5",
+   "published_at": "2026-06-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVm9tMS16aHJ3YUtTSlRHZU0zLXNpMGh0RTRYRjctVGxRQ29xNWZ5Wlp3dDdDOE0tUjNjNFgzUEhNRVhoQm1MZVdvdElxOWNBUkxFTGZPR0VsZjJCbkxuNm9PNlI0TklvbXlUTkhYYVM1Y0hpalNIR2tWckFwUEtWZFpDTU1GeFFaV2NoR0QxSFDSAZYBQVVfeXFMUEkxSng3WFp1STJxZldDVEY4MEpja1lZSy0yc3VNQmIzYmxLbzBSc01aN3JKaDlPOVN5Y2dmaTFjUWNvb3VIdVoyeGtRYW15X1FvbHVyU3h3LXgxSkZBNXB6ZW5EYThpaFB3WEY5LWZQdkNHZWd1dlVrcWZpcG0ySVM1djhHd3lES2xSSFg5dmJrbFBUVXVn?oc=5\" target=\"_blank\">White House upends AI model release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

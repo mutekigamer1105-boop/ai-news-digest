@@ -153,6 +153,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb2VhdWloTE1XSnlrd1dVanpQYTMwVWhhYjE1OFZrSG1vaWJEZXlKaWljQXZSZHlxbVlyS3E3SkpaaTJCSU8tZGJaNFFTQ245YlktU1Y1RHQ4b3FnTk5ZMDZuTzJUYWlyaWFfbGRwZkxRNF85UXN6aEdFbE5uQUozeEZMQW96dzNpTkp3aHJ0WEpyNkZDOVVjN0NxcldZYkdUc0JQM0tjYjlyNG14RlIyYUQtRkRJSjFZWk1rVS1YNDR3RWVZOVJ4ZA?oc=5\" target=\"_blank\">NVIDIA 发布 BioNeMo Agent Toolkit——加速科学发现的智能体工具</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-642-84a99c1f5e",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Backer Menlo Ventures Raises $3B In New Funds To Back AI Startups Across Stages - Crunchbase News",
+   "summary": "Anthropic Backer Menlo Ventures Raises $3B In New Funds To Back AI Startups Across Stages &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXo4N0pWbnYwZEZFSlN1M1lhd0ZZMjV2RmxJTjR4VjNYdEtnbzc1NHE2S0ZKTVBnVXR2Q1RWeVc0RGlRejAzNGlrcWY1Nk9MYnJEdC1fMlRYRVJiM0NnR0VVRGs3STd4Zk1wN3FMM0ZZSUxsMDMyM0ZFb2xYNVI0YS1CS1RrZmk3eTJHelI4TDRkdmVHNEVMcWJNMzRYeVRYeXc?oc=5",
+   "published_at": "2026-06-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXo4N0pWbnYwZEZFSlN1M1lhd0ZZMjV2RmxJTjR4VjNYdEtnbzc1NHE2S0ZKTVBnVXR2Q1RWeVc0RGlRejAzNGlrcWY1Nk9MYnJEdC1fMlRYRVJiM0NnR0VVRGs3STd4Zk1wN3FMM0ZZSUxsMDMyM0ZFb2xYNVI0YS1CS1RrZmk3eTJHelI4TDRkdmVHNEVMcWJNMzRYeVRYeXc?oc=5\" target=\"_blank\">Anthropic Backer Menlo Ventures Raises $3B In New Funds To Back AI Startups Across Stages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

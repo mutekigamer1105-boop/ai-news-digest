@@ -65,6 +65,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBORUFkSnNLWHpkZzk1WDhuZ2FCT0k1T0ZIOTZoTDdlbS01YU16VG8xRTNualFWS2VMUDNMS0V0ZlVrZTFfOGoxcg?oc=5\" target=\"_blank\">OpenAI 向用户开放 ChatGPT 多语言功能 Alpha 版测试，官方中文页面上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">品玩</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-1156-8efb2f2b24",
+   "source_id": "news",
+   "source_name": "蓝点网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "ChatGPT网页版现已支持简体中文等语言 在设置中即可切换为不同语言 - 蓝点网",
+   "summary": "ChatGPT网页版现已支持简体中文等语言 在设置中即可切换为不同语言 &nbsp;&nbsp; 蓝点网",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQTEJSMDJseGxmWGlCZDRmQjZHMzFTVW9teUh3NnYzTFJfalZMckg0T0tfWHZ2bi1xRmFZNk5QbkFrWDZWRWZReXdUUkM1Ylc4ZWsySTNkRTg?oc=5",
+   "published_at": "2024-01-26T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQTEJSMDJseGxmWGlCZDRmQjZHMzFTVW9teUh3NnYzTFJfalZMckg0T0tfWHZ2bi1xRmFZNk5QbkFrWDZWRWZReXdUUkM1Ylc4ZWsySTNkRTg?oc=5\" target=\"_blank\">ChatGPT网页版现已支持简体中文等语言 在设置中即可切换为不同语言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">蓝点网</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

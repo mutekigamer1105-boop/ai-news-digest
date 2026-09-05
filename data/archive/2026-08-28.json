@@ -237,6 +237,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1HODI3YXo0MHplbjNnWmFpNGJKOWEzQkFrbTlmRGtCWTRRQ0h0YzFWdkZWa3pjQUhzRG1uWlNqUDExZWt6a0Y0LTg0S2pqTHFGZTRxVDNwMjY4amZBZkc5RzA5U0VXWDBXVUwwc3FLbw?oc=5\" target=\"_blank\">全力推动“人工智能赋能千行百业” 广州民企书写“AI+”新故事</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">广州市人民政府</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1146-8e10f68d42",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI拟终止向Cursor提供人工智能模型，担忧SpaceX违反使用条款| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI拟终止向Cursor提供人工智能模型，担忧SpaceX违反使用条款| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrZUFaVnpmS3R0RDlxUUxKNndOZmhaZnJVcXZWNkZfYkh3dG01M3RfRUVvSlhuVWM2a0h6NTNkaG1MVnJfbndZSkNNRWw5dXJuZVUtaVFhNXFkUFZPMm1pbw?oc=5",
+   "published_at": "2026-08-28T22:42:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrZUFaVnpmS3R0RDlxUUxKNndOZmhaZnJVcXZWNkZfYkh3dG01M3RfRUVvSlhuVWM2a0h6NTNkaG1MVnJfbndZSkNNRWw5dXJuZVUtaVFhNXFkUFZPMm1pbw?oc=5\" target=\"_blank\">OpenAI拟终止向Cursor提供人工智能模型，担忧SpaceX违反使用条款| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

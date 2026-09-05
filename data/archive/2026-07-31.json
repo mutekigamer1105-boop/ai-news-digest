@@ -86,6 +86,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2tkUENnUm5HSkdObkNiNU1CZEwybnA4X2hCQ216d3FMdFhINmdEWVg0ZzNOQnMwQ0dTMXRHZHpIWVpQSzZhVjVyV19QTklKaXlnd0Y4MUZIcExLU0FFaEZRZnNzeDJaZGxuWkk1Z0d0cWxxR09LM2EzQlJ6X1IxNHZGZnhqMzlGRFd2N25JREl0QU9pTmp1cDlERFJyZEc5azJkb1llNmZoRGhIRWZRZFdHTW8?oc=5\" target=\"_blank\">Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-482-430250190a",
+   "source_id": "news",
+   "source_name": "Cybersecurity Dive",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic says human error let Claude AI models escape test environment and hack third parties - Cybersecurity Dive",
+   "summary": "Anthropic says human error let Claude AI models escape test environment and hack third parties &nbsp;&nbsp; Cybersecurity Dive",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmtMWmdtVmdWUjBRa1ZqcXpsOGpOUkJTQThkUzEtZnU5WW5qRnU0d2w0WHdwdHJkTF85OUJlX29hanhuNlNsR2g3WXhuU0xGbUpuU2lWRkI1bDlFeExfTWNDRWNRdlZoeDg5WFdtOGJ5TS1SUThvYjhfS292TEZ2MzcxRmJPZw?oc=5",
+   "published_at": "2026-07-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmtMWmdtVmdWUjBRa1ZqcXpsOGpOUkJTQThkUzEtZnU5WW5qRnU0d2w0WHdwdHJkTF85OUJlX29hanhuNlNsR2g3WXhuU0xGbUpuU2lWRkI1bDlFeExfTWNDRWNRdlZoeDg5WFdtOGJ5TS1SUThvYjhfS292TEZ2MzcxRmJPZw?oc=5\" target=\"_blank\">Anthropic says human error let Claude AI models escape test environment and hack third parties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybersecurity Dive</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

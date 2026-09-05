@@ -43,6 +43,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9ZMjlkb3JyblRoS1BWanpLbnI3VGlHcmZVZHQ5aFNCYzFvR0c0MlgwRmZuX3MxUzRkTW1CZ2xSa0xkby1xcXdnVXZZal9VdkxBSlBmdGgtdVE1Y1JOMFAzMmVhVnVLTks2QTZBSkFYWHNMQQ?oc=5\" target=\"_blank\">被中国AI大模型赶超，美国就要掀桌子？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-490-63776ed07d",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Discovering cryptographic weaknesses with Claude - Anthropic",
+   "summary": "Discovering cryptographic weaknesses with Claude &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
+   "published_at": "2026-07-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5\" target=\"_blank\">Discovering cryptographic weaknesses with Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

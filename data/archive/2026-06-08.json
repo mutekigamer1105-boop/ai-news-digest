@@ -130,6 +130,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBpRDNPTU9Cc1ZIUk11ams4VWdnLXIwamgxZ3hTWEJ2ZkJlWFhDdVg5d3l0RDF6XzZyd3EtQ29EbFhMbzF1TVBtSnluYXMwdUd2MDFmUUVZTHV1eHB0MXQydlNIdkZkNFB5VU1R?oc=5\" target=\"_blank\">如何避免AI大模型“顺着你说”？专家支招</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华报业网</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-966-32541e9a41",
+   "source_id": "news",
+   "source_name": "新华网客户端",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "如何避免AI大模型“顺着你说”？专家支招 - 新华网客户端",
+   "summary": "如何避免AI大模型“顺着你说”？专家支招 &nbsp;&nbsp; 新华网客户端",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMEZfYjk0bnpacW50VGZyN2xWdGZUWTlsVXZIZVU3WEJzRTRaM3F4emwyLUNfU041N2huVmN1amtDLXJ1OHRDQmpHaGI0cnRfY0s2cE9NbGFaOF9PWXZabDdqVVZ5RFV0OHcwd2VxRThJQTJXVVVhaFFzQWZJMVFWamkybzNzSmJBZ3FXQ3BxV3U0d185cWdrTGZR?oc=5",
+   "published_at": "2026-06-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQMEZfYjk0bnpacW50VGZyN2xWdGZUWTlsVXZIZVU3WEJzRTRaM3F4emwyLUNfU041N2huVmN1amtDLXJ1OHRDQmpHaGI0cnRfY0s2cE9NbGFaOF9PWXZabDdqVVZ5RFV0OHcwd2VxRThJQTJXVVVhaFFzQWZJMVFWamkybzNzSmJBZ3FXQ3BxV3U0d185cWdrTGZR?oc=5\" target=\"_blank\">如何避免AI大模型“顺着你说”？专家支招</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网客户端</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-989-e804f0d2e9",
+   "source_id": "news",
+   "source_name": "21财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续6周领跑！全球前5中占4席，DeepSeek稳居第1；Claude跌出前5 - 21财经",
+   "summary": "中国AI大模型调用量连续6周领跑！全球前5中占4席，DeepSeek稳居第1；Claude跌出前5 &nbsp;&nbsp; 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNG41b2hrcXFPX093RVFHR0lzOEJRNXM0eS1iby1WZm9adWU2dmxjbVZZb21XVm80dUZEMTI0WnVmT0tSSWJyTkQtUWZXb1o3R00tS0h3cGFfMTdKNTNPQUhnVjVxc3ZLcHpBRmlxTHhnenRhaVhlS05SZmJnYVBWN1FOSTJ6NHBIMjJudzNxNA?oc=5",
+   "published_at": "2026-06-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNNG41b2hrcXFPX093RVFHR0lzOEJRNXM0eS1iby1WZm9adWU2dmxjbVZZb21XVm80dUZEMTI0WnVmT0tSSWJyTkQtUWZXb1o3R00tS0h3cGFfMTdKNTNPQUhnVjVxc3ZLcHpBRmlxTHhnenRhaVhlS05SZmJnYVBWN1FOSTJ6NHBIMjJudzNxNA?oc=5\" target=\"_blank\">中国AI大模型调用量连续6周领跑！全球前5中占4席，DeepSeek稳居第1；Claude跌出前5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

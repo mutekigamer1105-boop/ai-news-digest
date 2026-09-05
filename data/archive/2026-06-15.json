@@ -86,6 +86,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pdnQ1cEFnV2pXM3FId3VxdHBrbjdiQ19zT0MzeFVVb2pRZTM3ZlBMMWxpTDNZd29uQktVWW1GV1hEWjBqMXQtWUEyVjU2cG8zZUpxUXAtOU50R016MFFjZDg0YXB0QQ?oc=5\" target=\"_blank\">18.42万亿Token！中国AI大模型周调用量连续七周领跑：MiniMax M3升至第二DeepSeek V3.2半年来首次跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-614-8fff83be76",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The AI Startup Funding Boom Is Not A Global Phenomenon - Crunchbase News",
+   "summary": "The AI Startup Funding Boom Is Not A Global Phenomenon &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Rc0RfdUdVYUVEQ0w2dE5sNnZvUU1ZQ0ZLdzR3RF83VjgxZ2xVdXdac1FMNUVQcjBBendmSjlmRDd3SUNJMXF1a1Z2QlhNd09kMkVKbkgtSnNUR1ZkM0NacVhYc0xBRkR1blRabzlQMFZzaFRuelRB?oc=5",
+   "published_at": "2026-06-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9Rc0RfdUdVYUVEQ0w2dE5sNnZvUU1ZQ0ZLdzR3RF83VjgxZ2xVdXdac1FMNUVQcjBBendmSjlmRDd3SUNJMXF1a1Z2QlhNd09kMkVKbkgtSnNUR1ZkM0NacVhYc0xBRkR1blRabzlQMFZzaFRuelRB?oc=5\" target=\"_blank\">The AI Startup Funding Boom Is Not A Global Phenomenon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

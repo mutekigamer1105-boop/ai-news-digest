@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-252-c9e9d9b00c",
+   "source_id": "news",
+   "source_name": "MIT News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exposing biases, moods, personalities, and abstract concepts hidden in large language models - MIT News",
+   "summary": "Exposing biases, moods, personalities, and abstract concepts hidden in large language models &nbsp;&nbsp; MIT News",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFVPU09VcDFya0FRQVZjc3k2VUZ5SnlGNE1SQ0hUNkdvMWxQc3BiSHFjMUotdkpDSHFTVFV5clY2dFA5QzlhdmVPd3V3eHhRU0Fac001eENzdlJVQ045UV9fanpGNEdVLTNZMTZwTTVQdTAyMTVVRWNJczl2b09pVlBuU2VIOTROUnFLbEE0djBlVTNzUkN6aHVCOA?oc=5",
+   "published_at": "2026-02-19T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFVPU09VcDFya0FRQVZjc3k2VUZ5SnlGNE1SQ0hUNkdvMWxQc3BiSHFjMUotdkpDSHFTVFV5clY2dFA5QzlhdmVPd3V3eHhRU0Fac001eENzdlJVQ045UV9fanpGNEdVLTNZMTZwTTVQdTAyMTVVRWNJczl2b09pVlBuU2VIOTROUnFLbEE0djBlVTNzUkN6aHVCOA?oc=5\" target=\"_blank\">Exposing biases, moods, personalities, and abstract concepts hidden in large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT News</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  }
+ ]
+}

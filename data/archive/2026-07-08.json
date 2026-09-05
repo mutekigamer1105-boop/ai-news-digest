@@ -198,6 +198,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DVXI2NXkzejZWS2piS0F6aTh4YWlHMVRCT3lkTWdsb2NjYkpnOFpSR0hlNWxBd2swaklLak5JanFpY3dSU3lyUnlyalMwbUVJQXE2MHVSZmQ2dw?oc=5\" target=\"_blank\">Introducing GPT-Live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-679-5c0921021d",
+   "source_id": "news",
+   "source_name": "Business Insider",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "A new wave of AI startups wants to automate hedge funds' secret sauce - Business Insider",
+   "summary": "A new wave of AI startups wants to automate hedge funds' secret sauce &nbsp;&nbsp; Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0NkY2VvcThqd0hnYVdHSGg5OWJ3bDRlUjN6cGlaVEIyX2JVU0wydzVQZDlkd3lDbXdiRVdXZVNHeF84OWo4Smg1UjRxX1JGRFFzZnV1ZmNtSU94VFN5LUlWRkJ0SE5oWHhHbktlRzNEUU5STDB2dHVYNjVlU2t1dlBycVh2ZXVhZHBiNmpSVGxZZ1NHR1RJQ2tIOA?oc=5",
+   "published_at": "2026-07-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0NkY2VvcThqd0hnYVdHSGg5OWJ3bDRlUjN6cGlaVEIyX2JVU0wydzVQZDlkd3lDbXdiRVdXZVNHeF84OWo4Smg1UjRxX1JGRFFzZnV1ZmNtSU94VFN5LUlWRkJ0SE5oWHhHbktlRzNEUU5STDB2dHVYNjVlU2t1dlBycVh2ZXVhZHBiNmpSVGxZZ1NHR1RJQ2tIOA?oc=5\" target=\"_blank\">A new wave of AI startups wants to automate hedge funds' secret sauce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-736-4479614de4",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models - CNBC",
+   "summary": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDZISWFaLTZoMEFjMU94VzFxYmhGN0RSelctU3pvaVB5UG03UlloSm43QnZ3dURGekp5Z3dsdUhrUjJ5LUROWWNLdE1HeVJOYmI4UWQwdzVpaVoxYWtPY214dFVvM0R4N2pPMzNjV3N3Q0FUV3JiUl9VRXBwa0lNWkVvelpMMDl0Q0hOMGQ0Wk5MZjBEV3VCRmtSam1HbDRudXo4MEotV3lTem8?oc=5",
+   "published_at": "2026-07-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDZISWFaLTZoMEFjMU94VzFxYmhGN0RSelctU3pvaVB5UG03UlloSm43QnZ3dURGekp5Z3dsdUhrUjJ5LUROWWNLdE1HeVJOYmI4UWQwdzVpaVoxYWtPY214dFVvM0R4N2pPMzNjV3N3Q0FUV3JiUl9VRXBwa0lNWkVvelpMMDl0Q0hOMGQ0Wk5MZjBEV3VCRmtSam1HbDRudXo4MEotV3lTem8?oc=5\" target=\"_blank\">OpenAI to publicly release GPT-5.6, rolls out conversational AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

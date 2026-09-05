@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQcko0UkFuQVRvT2pzOF9lWFRtV1dMek9tZ3BvVkFWRlV1UDBjOWlvLXFtWkFZZ2lBUzRqMEU0QXhHXzR6QW5aMWM0OXlQTEUza1lpOXBrT1pVVGtObkVfakVFVTJHcmJmblROVHl4YWNreTBPQkJJZWoxWnl0RDViaExXVTNucHk4ZmxXRmpUcnV5NjI2dUdpTkZn?oc=5\" target=\"_blank\">This AI startup raised $4.5 million to help marketers fine-tune ads and respond to rivals. Read its pitch deck.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-247-7e8584ad25",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "A survey on large language models in biology and chemistry | Experimental & Molecular Medicine - Nature",
+   "summary": "A survey on large language models in biology and chemistry | Experimental & Molecular Medicine &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kOUp2NXpDN0hLY29uY1Q0V3pzemhiVlFUODUtcmI2ODVqU01HbG12UTVfdjhabGVXLUZueEs0cWdiNG5uMVZmejg1R1U0RDcwSDQwTmR4WklVblZDV0pn?oc=5",
+   "published_at": "2026-04-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kOUp2NXpDN0hLY29uY1Q0V3pzemhiVlFUODUtcmI2ODVqU01HbG12UTVfdjhabGVXLUZueEs0cWdiNG5uMVZmejg1R1U0RDcwSDQwTmR4WklVblZDV0pn?oc=5\" target=\"_blank\">A survey on large language models in biology and chemistry | Experimental & Molecular Medicine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

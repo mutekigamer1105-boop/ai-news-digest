@@ -109,6 +109,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aGRQd3BBT3JyLU13c0pvVDVXS2x5WU8xQ3dUVjE3NnVLOXhCWEw5eE94ZnBTZXRVSmVpUUNJbU0zUUVqZFVBOXE2eDRBREZ5MUtGSVBBZHhTZ2dWYnBxZ0hSY1FlUdIBa0FVX3lxTE9ZZWpjSW0xOFFlaDBha0FjLUhXWWktSWU2eUZDbVFsN3lYMTVLdll3UW1WdDFWLTdUYS1qQ0QxWmJDS0wySXJpTExiRFRpeXpCbm9tMnloblEwQXEyOE44VW1lV0lPeVJRVHVj?oc=5\" target=\"_blank\">Meta enters AI image model race in bid to court advertisers and subscribers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-234-70bff478a5",
+   "source_id": "news",
+   "source_name": "Communications of the ACM",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Can We Understand How Large Language Models Reason? - Communications of the ACM",
+   "summary": "Can We Understand How Large Language Models Reason? &nbsp;&nbsp; Communications of the ACM",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON3FNUElPU3Z4REsza1N0cEdkVmxjNlEzd0ExRUFfaFh0MlkzeG8tTng2QmJqZHNJbHRIeXNudkRKUXpvLVU0b3Z3TWI4cnZnNmpQZ1M1TmlxZFVGdkVSb3QwcTkwR3lkdmJoR25Ea3lyWnhBdGNfWEtkbkpLTzRPUlFIWQ?oc=5",
+   "published_at": "2026-07-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxON3FNUElPU3Z4REsza1N0cEdkVmxjNlEzd0ExRUFfaFh0MlkzeG8tTng2QmJqZHNJbHRIeXNudkRKUXpvLVU0b3Z3TWI4cnZnNmpQZ1M1TmlxZFVGdkVSb3QwcTkwR3lkdmJoR25Ea3lyWnhBdGNfWEtkbkpLTzRPUlFIWQ?oc=5\" target=\"_blank\">Can We Understand How Large Language Models Reason?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications of the ACM</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

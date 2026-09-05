@@ -1105,6 +1105,96 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oOVZhMmdBZkRTT09hS3JLRW5UMU90N1lBYVo5ZVhLS3huYTFBdTVVVnNaYWlZNW9peXNzdlVCYnRwanRXUHVoNTBDMFR5S3hudUpEZUtxWEI?oc=5\" target=\"_blank\">中国AI大模型调用量连续18周领跑：智谱牛来大模型登顶 DeepSeek-V4-Pro跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">驱动之家</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-602-996d2201ff",
+   "source_id": "news",
+   "source_name": "StartupHub.ai",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI Funding Roundup: $2.7B Across 31 Rounds, Aug 24 to Aug 30 - StartupHub.ai",
+   "summary": "AI Funding Roundup: $2.7B Across 31 Rounds, Aug 24 to Aug 30 &nbsp;&nbsp; StartupHub.ai",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa1oxRHFBN3dvUUNibk04X2VjUEF6SkZhOE1xMVhWS3dvTmUtYk1tNUFqZURJZlFMZlI4NlRGS0dLR2ZwNXNQY1lJU2Zaa3dDdXU5ck11cnNhNTROWHBVajFJRDlkenVDZTBEaHByVlV2RVRLRlNGeURIb3o3dUc3SEoyaGRGT0RveW10RUtFRGxzWjE2dVhtV29wZDl1R1dtTm5BY3RSamlrdy1NQzhr?oc=5",
+   "published_at": "2026-08-31T13:01:51+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNa1oxRHFBN3dvUUNibk04X2VjUEF6SkZhOE1xMVhWS3dvTmUtYk1tNUFqZURJZlFMZlI4NlRGS0dLR2ZwNXNQY1lJU2Zaa3dDdXU5ck11cnNhNTROWHBVajFJRDlkenVDZTBEaHByVlV2RVRLRlNGeURIb3o3dUc3SEoyaGRGT0RveW10RUtFRGxzWjE2dVhtV29wZDl1R1dtTm5BY3RSamlrdy1NQzhr?oc=5\" target=\"_blank\">AI Funding Roundup: $2.7B Across 31 Rounds, Aug 24 to Aug 30</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StartupHub.ai</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1047-ae9d10811a",
+   "source_id": "news",
+   "source_name": "Moomoo",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "博通推出AgentMinder，这是一款面向AI智能体治理与运行时控制的企业级解决方案 - Moomoo",
+   "summary": "博通推出AgentMinder，这是一款面向AI智能体治理与运行时控制的企业级解决方案 &nbsp;&nbsp; Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3NsUkUxaFFXLXJCV3VCbkF0V29FZlowZDFFcGl1dy1vUDVhUlhlbFZaU0pIN3paa05ZXzF2OFp5ckxGSGwwQVRxY3JWWldCMmZsZ01hT096U2d4RUZEMFZuU2lPQjFuaVJYbUJHc2prMFhZdHVmY3pnc000OVQzdHhPWGNEaElrQ1NLNnFNMjR5eEpMNEJTcG9QYVpoMHJIc3RZU2ZVdmt3OHh0UDg1N0pEUzAzU3h2eWlydHI4NA?oc=5",
+   "published_at": "2026-08-31T13:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3NsUkUxaFFXLXJCV3VCbkF0V29FZlowZDFFcGl1dy1vUDVhUlhlbFZaU0pIN3paa05ZXzF2OFp5ckxGSGwwQVRxY3JWWldCMmZsZ01hT096U2d4RUZEMFZuU2lPQjFuaVJYbUJHc2prMFhZdHVmY3pnc000OVQzdHhPWGNEaElrQ1NLNnFNMjR5eEpMNEJTcG9QYVpoMHJIc3RZU2ZVdmt3OHh0UDg1N0pEUzAzU3h2eWlydHI4NA?oc=5\" target=\"_blank\">博通推出AgentMinder，这是一款面向AI智能体治理与运行时控制的企业级解决方案</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-918-13c7edcf94",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续十八周领跑：智谱“牛来”大模型冲上榜首，DeepSeek-V4-Pro跌出榜单 - 东方财富",
+   "summary": "中国AI大模型调用量连续十八周领跑：智谱“牛来”大模型冲上榜首，DeepSeek-V4-Pro跌出榜单 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16LS0xVHFOWHduMG11ZXJGbldueGVDUFFHWVZ5RzNMM1FfT1RTc3J5b2dVc05HanA2TUFINW1LV0RvQVBQUGxZQUg2V2tySGd2LWNIMnZLWHlmY3htS2hlM09tcHptQQ?oc=5",
+   "published_at": "2026-08-31T07:32:23+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE16LS0xVHFOWHduMG11ZXJGbldueGVDUFFHWVZ5RzNMM1FfT1RTc3J5b2dVc05HanA2TUFINW1LV0RvQVBQUGxZQUg2V2tySGd2LWNIMnZLWHlmY3htS2hlM09tcHptQQ?oc=5\" target=\"_blank\">中国AI大模型调用量连续十八周领跑：智谱“牛来”大模型冲上榜首，DeepSeek-V4-Pro跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1014-a04ca93884",
+   "source_id": "news",
+   "source_name": "证券时报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体基础设施公司“以太之心”完成数千万种子轮融资 - 证券时报",
+   "summary": "AI智能体基础设施公司“以太之心”完成数千万种子轮融资 &nbsp;&nbsp; 证券时报",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xRFNJOXEtWktTODdYYzl4ZkRFOEFYMkJMSnNmQUN3eXh2LU9OUjBaUmhhMzNmcTNOckUxaXJHbzVJdG15MDFaQ2NLY2FUaGxfRjlYZE1faTh2VXRh?oc=5",
+   "published_at": "2026-08-31T06:14:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xRFNJOXEtWktTODdYYzl4ZkRFOEFYMkJMSnNmQUN3eXh2LU9OUjBaUmhhMzNmcTNOckUxaXJHbzVJdG15MDFaQ2NLY2FUaGxfRjlYZE1faTh2VXRh?oc=5\" target=\"_blank\">AI智能体基础设施公司“以太之心”完成数千万种子轮融资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

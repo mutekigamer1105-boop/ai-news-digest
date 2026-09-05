@@ -108,6 +108,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1OZmpVZU9MNm1hU2x4ZC02YldFNFI2ekpKZUNqYl9IVHU2bExTNWtRcWptQmM1NS1DMTlhWmJPWVdhMjNMWDhSQ2lsc3dmUXVjQzlhQ3EyM2RoTHg5c1ZkeEVFY3MtUEVTUlZITzBKMmM3d0xzZWln?oc=5\" target=\"_blank\">特稿｜“共同塑造全球人工智能的未来”——中国倡议为人工智能发展注入强劲动能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cn</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-659-d66615a5b0",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "China’s PsiBot Becomes Latest AI Startup to Hit $1 Billion Value - Bloomberg.com",
+   "summary": "China’s PsiBot Becomes Latest AI Startup to Hit $1 Billion Value &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGlfV0U5ZzhveHBVR2Zkb1VJUEUyY09QTkRMS1MzclBCenI2VHc1aVpHOHZ5ZGhWX3hXQ0FkRi1OeGVhWS1ibWJVSl90aV9PR3NaWkhrOGo0N2ZvYkNLOUdOWFBhOTBackkxY01hdEVUb0dZOWpKSXJqY1h2YnBic0hXMllMTl9UYWtQbm9OLWZYU1R0YW9UemU3X21tQ0RCZk5zZGpNMzFqZ0oxQzBzdUktX3Q?oc=5",
+   "published_at": "2026-07-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGlfV0U5ZzhveHBVR2Zkb1VJUEUyY09QTkRMS1MzclBCenI2VHc1aVpHOHZ5ZGhWX3hXQ0FkRi1OeGVhWS1ibWJVSl90aV9PR3NaWkhrOGo0N2ZvYkNLOUdOWFBhOTBackkxY01hdEVUb0dZOWpKSXJqY1h2YnBic0hXMllMTl9UYWtQbm9OLWZYU1R0YW9UemU3X21tQ0RCZk5zZGpNMzFqZ0oxQzBzdUktX3Q?oc=5\" target=\"_blank\">China’s PsiBot Becomes Latest AI Startup to Hit $1 Billion Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

@@ -171,6 +171,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1VbkhxZWRENHg3V2NrNU5HWF9BQmNIRnJrY2tQMTlJWGdJalY2Mkd2N1dwMHNnN3RaN0pGa3JrazBFVUpmaDRIbFFYVk5ZcVFlMU1oc3d1bGt1WGxyTXJkQldCS2xpVjVGWnEwU3loaElPUkIxYmw5Tnd4VQ?oc=5\" target=\"_blank\">人工智能展团亮出硬核创新力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北京市人民政府门户网站</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-730-84f1167e15",
+   "source_id": "news",
+   "source_name": "shattered.io",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia Cuts AI Model Releases to 4-6 Weeks [2026] - shattered.io",
+   "summary": "Nvidia Cuts AI Model Releases to 4-6 Weeks [2026] &nbsp;&nbsp; shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUnkydU9jREp1cWRFV2lXcThzNjdWeHZuVHl3YTAtV3MtQlR2clY2SjFKY0lydTc0aHNQRGVPSWJqYkNFdGV0U2g1RzYxY3AxbWRBdWJPYnpISzhDd0Nvb2NpVG52elVVY0phajJzSGo2Y2FK?oc=5",
+   "published_at": "2026-08-29T05:40:24+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUnkydU9jREp1cWRFV2lXcThzNjdWeHZuVHl3YTAtV3MtQlR2clY2SjFKY0lydTc0aHNQRGVPSWJqYkNFdGV0U2g1RzYxY3AxbWRBdWJPYnpISzhDd0Nvb2NpVG52elVVY0phajJzSGo2Y2FK?oc=5\" target=\"_blank\">Nvidia Cuts AI Model Releases to 4-6 Weeks [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

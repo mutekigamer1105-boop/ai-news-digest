@@ -1,0 +1,27 @@
+{
+ "items": [
+  {
+   "id": "web-982-2f965d4b51",
+   "source_id": "news",
+   "source_name": "安全内参",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "3·15晚会：AI大模型，遭“投毒” - 安全内参",
+   "summary": "3·15晚会：AI大模型，遭“投毒” &nbsp;&nbsp; 安全内参",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrWm5rczBhMXVUMUtVeks3aF9sTGFKMmNaenJ6WWo2cVVBWVBwRVlMYklMa0lqWUI5cUN5NTlkWE5lcE1uSjBsQmFWcHMxdw?oc=5",
+   "published_at": "2026-03-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrWm5rczBhMXVUMUtVeks3aF9sTGFKMmNaenJ6WWo2cVVBWVBwRVlMYklMa0lqWUI5cUN5NTlkWE5lcE1uSjBsQmFWcHMxdw?oc=5\" target=\"_blank\">3·15晚会：AI大模型，遭“投毒”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">安全内参</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  }
+ ]
+}

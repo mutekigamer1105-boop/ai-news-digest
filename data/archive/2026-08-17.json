@@ -194,6 +194,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oSkhHS2dvOFJKbnhwSk1yZHc4M20tNGhuN19NblRsMFVYYTRWcUNZYWxKOWdEOFZOY2tqQUlMMkZuajI4d25xOQ?oc=5\" target=\"_blank\">Anthropic营收暴增13倍+实现盈利 AI大模型迈入\"赚钱\"阶段</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-579-0faa0de823",
+   "source_id": "news",
+   "source_name": "NVIDIA Newsroom",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute - NVIDIA Newsroom",
+   "summary": "NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute &nbsp;&nbsp; NVIDIA Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYXdyMXl0ZUs3UDVBSFo1a3BCcDg4UlZUazQxSEp1allrY1B3SEVxYnQ2RjFQVFY5T3Q1YUFYM19Jc1ZQNXVobGtZNVJBc1BPQXpFWFFsTlBvWEJqV3VRM1lCU0ZzSVlHcS14UGxUZldBaEVsdUJveHN0TXJOLURfWDBxRlJYaFdXMHREU3VSNlVrcFZncENub1czY2lGV1F6eGpGSWZiU2loYlJYVVRFZTdQSU80Q0lNZmdvX3FZQ0hTU1pjZF8weHhCRWEzeURkcDk3N1Z3?oc=5",
+   "published_at": "2026-08-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYXdyMXl0ZUs3UDVBSFo1a3BCcDg4UlZUazQxSEp1allrY1B3SEVxYnQ2RjFQVFY5T3Q1YUFYM19Jc1ZQNXVobGtZNVJBc1BPQXpFWFFsTlBvWEJqV3VRM1lCU0ZzSVlHcS14UGxUZldBaEVsdUJveHN0TXJOLURfWDBxRlJYaFdXMHREU3VSNlVrcFZncENub1czY2lGV1F6eGpGSWZiU2loYlJYVVRFZTdQSU80Q0lNZmdvX3FZQ0hTU1pjZF8weHhCRWEzeURkcDk3N1Z3?oc=5\" target=\"_blank\">NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1071-5211c3cc80",
+   "source_id": "news",
+   "source_name": "四川新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "推动AI智能体落地应用，成都这场对接会如何畅通“供”与“需”？ - 四川新闻",
+   "summary": "推动AI智能体落地应用，成都这场对接会如何畅通“供”与“需”？ &nbsp;&nbsp; 四川新闻",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PUkdKRFNUV3g0TzBhUk9tdENzR0tzZzdLdU1WbkcwYmg3YTh6enBaR1lDQXBhdUtYRTJSd0Y1c1FIYm5JRHVXc3E1Rjc0eFFxZmJSSHFZREdka1hDdmowTmR6WQ?oc=5",
+   "published_at": "2026-08-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PUkdKRFNUV3g0TzBhUk9tdENzR0tzZzdLdU1WbkcwYmg3YTh6enBaR1lDQXBhdUtYRTJSd0Y1c1FIYm5JRHVXc3E1Rjc0eFFxZmJSSHFZREdka1hDdmowTmR6WQ?oc=5\" target=\"_blank\">推动AI智能体落地应用，成都这场对接会如何畅通“供”与“需”？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">四川新闻</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

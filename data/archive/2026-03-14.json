@@ -155,6 +155,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZblNIU0JTNHFPUS1iM09tOXVHNFp2LUE1V3I5YzVRaENzVlFjWFBWY2J4NTVxRzlJc0RDTUpHVGJPVmpOLVRobkJscEJUQUY1SC1JYlh1Rjg4c0RDaW93UTZwX3U?oc=5\" target=\"_blank\">How Much Do Large Language Model Cheat on Evaluation? Benchmarking Overestimation Under the One-Time-Pad-Based Framework | Proceedings of the AAAI Conference on Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Association for the Advancement of Artificial Intelligence</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-289-6d317dc52c",
+   "source_id": "news",
+   "source_name": "The Association for the Advancement of Artificial Intelligence",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Efficient Segmentation with Multimodal Large Language Model via Token Routing - The Association for the Advancement of Artificial Intelligence",
+   "summary": "Efficient Segmentation with Multimodal Large Language Model via Token Routing &nbsp;&nbsp; The Association for the Advancement of Artificial Intelligence",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xV20xLW45cFBwUUdUN2RjdXhwNkdZdml1MUM5aXB3NjlPdGl4RnM1UDNVWjVNTERzUGFza1FmS3JXTnVjbFBjb1BHZ3FydE1UclJXQk1ZYWl0XzNiQjJNWVZfMDI?oc=5",
+   "published_at": "2026-03-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xV20xLW45cFBwUUdUN2RjdXhwNkdZdml1MUM5aXB3NjlPdGl4RnM1UDNVWjVNTERzUGFza1FmS3JXTnVjbFBjb1BHZ3FydE1UclJXQk1ZYWl0XzNiQjJNWVZfMDI?oc=5\" target=\"_blank\">Efficient Segmentation with Multimodal Large Language Model via Token Routing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Association for the Advancement of Artificial Intelligence</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

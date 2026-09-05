@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1134-873d0a7287",
+   "source_id": "news",
+   "source_name": "华尔街见闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI o3-mini被曝大量使用中文推理！全世界AI都要学中国话了？ - 华尔街见闻",
+   "summary": "OpenAI o3-mini被曝大量使用中文推理！全世界AI都要学中国话了？ &nbsp;&nbsp; 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DRW9XTUxQX3RfX09JZy1YNDJCZDJETkZEdXlVeW9yMV9GMElIVWo2SVZqR0tPVVpfRF9aalhFdzBBVkVHM09FaU5tSGlWeU5Qd01J?oc=5",
+   "published_at": "2025-02-04T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DRW9XTUxQX3RfX09JZy1YNDJCZDJETkZEdXlVeW9yMV9GMElIVWo2SVZqR0tPVVpfRF9aalhFdzBBVkVHM09FaU5tSGlWeU5Qd01J?oc=5\" target=\"_blank\">OpenAI o3-mini被曝大量使用中文推理！全世界AI都要学中国话了？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
+  }
+ ]
+}

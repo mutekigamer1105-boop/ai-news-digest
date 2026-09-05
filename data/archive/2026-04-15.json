@@ -65,6 +65,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNR21JUExoNndTaUg2NXRKcG5sUlRreHIwSXhlNzdNV0ZZZHNodnpKWXNkT0RMcnhGVnJnODFvMHZ3S0RUb1NtcHFPUXdvLVY2eU5lZjBYYklzcXV5Q2MzN3pvVk1kNDNkamdvWGRCTmYxMnVGSVAwSWh0RnhmSEpJRzRYZFhtcGlQckhOV2VxZTBuNlViNjdGMFc1RQ?oc=5\" target=\"_blank\">Researchers use large language models to discover recipes for novel materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Rochester</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1114-abcee95e9d",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "Agents SDK 的全新演进 - OpenAI",
+   "summary": "Agents SDK 的全新演进 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01OFhqd01iUEdkaXFQdFYwa25vc292cTV6SUoyVHo3UXVHQ29BaVRVT013MnBYaTJSVmFYZzBsWjNQT19MVnpxTFpzQTNLbkJFb2NDUTBTdUdjdGhNbXM4dlYwQU5kRG9OVGNhYVhnOXZHU0s1dkk2ck5URnZ0UQ?oc=5",
+   "published_at": "2026-04-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE01OFhqd01iUEdkaXFQdFYwa25vc292cTV6SUoyVHo3UXVHQ29BaVRVT013MnBYaTJSVmFYZzBsWjNQT19MVnpxTFpzQTNLbkJFb2NDUTBTdUdjdGhNbXM4dlYwQU5kRG9OVGNhYVhnOXZHU0s1dkk2ck5URnZ0UQ?oc=5\" target=\"_blank\">Agents SDK 的全新演进</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }

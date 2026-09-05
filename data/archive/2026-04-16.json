@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBFT21vaTFNTHFEUC1EZGFsTmZFc2diU0xiWXNSQl84dlhUZXJZVVNfUnFtVWIxZFV5NnFfRFpxdlpMZjM3eXR1OHJHTmFyWE9Tb2Nzd2Rnbmxod0hCSzYzcVpaN3d0S1VqVEpyeVRR?oc=5\" target=\"_blank\">GPT-Rosalind：开启生命科学研究新纪元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1115-8851d688dd",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "Codex：全能型助手 - OpenAI",
+   "summary": "Codex：全能型助手 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85aXB1SDFYWDAwYXNoRUJRMHRqWmFYV2k4YVdQcm8xZFBRMkVwX3FfUzZBZVVJdE4yemExRHhGY0ExRnREZTdlUnp3MnR5c2hJRDNiQ2xMRXBMUFJ5dkJiR1d2bFFFZEJzendPTTFIalFGQQ?oc=5",
+   "published_at": "2026-04-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE85aXB1SDFYWDAwYXNoRUJRMHRqWmFYV2k4YVdQcm8xZFBRMkVwX3FfUzZBZVVJdE4yemExRHhGY0ExRnREZTdlUnp3MnR5c2hJRDNiQ2xMRXBMUFJ5dkJiR1d2bFFFZEJzendPTTFIalFGQQ?oc=5\" target=\"_blank\">Codex：全能型助手</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-05T04:05:06+00:00"
   }
  ]
 }
