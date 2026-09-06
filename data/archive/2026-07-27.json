@@ -176,6 +176,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG8wdzc5bVZUVUswc0ExcGRsVGR0djhqUWdEelFWaXVkOGpVWkNzRWdLUzI5N0NYZ0tfcWwzaHgxbG9EWlptWGNCUFAxeV9fUzNHWXZaVElUWklHQTVfTllxVzM4aVBaVU5wYm1OR2Y1T0Z6LWlWNF9TRDRpclVuVWdWODFBem1fa1lRUE80SmRVYjczYzhWbXp5SUVPNUh2WlNMNHZ1dw?oc=5\" target=\"_blank\">Stop Paying for the Newest AI Models. You Really Don't Need Them for Most Tasks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-975-edf0cdc31d",
+   "source_id": "news",
+   "source_name": "Sohu",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "全球AI大模型排名 - Sohu",
+   "summary": "全球AI大模型排名 &nbsp;&nbsp; Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RWWNXNmhFT2h1QVZleHVQeDNQblRWUXdoSWN4TlRXZTVMWkpwRl9hUDBlODdjUWVzUzBVTF9pOTY2NDU3SVVnY1VCRkszZjlPa0tScEJR?oc=5",
+   "published_at": "2026-07-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RWWNXNmhFT2h1QVZleHVQeDNQblRWUXdoSWN4TlRXZTVMWkpwRl9hUDBlODdjUWVzUzBVTF9pOTY2NDU3SVVnY1VCRkszZjlPa0tScEJR?oc=5\" target=\"_blank\">全球AI大模型排名</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

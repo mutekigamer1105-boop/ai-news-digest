@@ -87,6 +87,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CRVRMUTJiQmpCNW1Nc1RUTzdVU0hQSy1qdTZZQ3J1TnVqSGJ5SzFIOXF0MU05Vl9kT19zeHFYS2FjQkpiQnNFVmVPeUhNSmRxLUJJ?oc=5\" target=\"_blank\">高盛深度报告：谁将成为中国AI大模型行业的长期赢家？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-633-2ec93b8c39",
+   "source_id": "news",
+   "source_name": "425business.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Bellevue AI Startup Raises $50M in Series B Funding - 425business.com",
+   "summary": "Bellevue AI Startup Raises $50M in Series B Funding &nbsp;&nbsp; 425business.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQm5qNW1IRE1ZblNDWjRBeTJNbUQ4ZXdVelVsQ0ZWZ1VheEJCdkhFNkNKMVJQWF85SzhXRXVkUWtrN1B0d191eG9GXzk0aVRiWVJGYmROWGxHVFNnZkhkRkRReUliRU45cmRWa3Q3SXhuaGs2eEdFSkVJZURfVlVBeHJCa09GX2dYeDBjektNYzE5SUZnX0NyMXIyZ3NzRnlCVnVoVk9HSTU4T1p4NDZsOVJCdWxrTFFpb1BCbjJ3?oc=5",
+   "published_at": "2026-07-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPQm5qNW1IRE1ZblNDWjRBeTJNbUQ4ZXdVelVsQ0ZWZ1VheEJCdkhFNkNKMVJQWF85SzhXRXVkUWtrN1B0d191eG9GXzk0aVRiWVJGYmROWGxHVFNnZkhkRkRReUliRU45cmRWa3Q3SXhuaGs2eEdFSkVJZURfVlVBeHJCa09GX2dYeDBjektNYzE5SUZnX0NyMXIyZ3NzRnlCVnVoVk9HSTU4T1p4NDZsOVJCdWxrTFFpb1BCbjJ3?oc=5\" target=\"_blank\">Bellevue AI Startup Raises $50M in Series B Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">425business.com</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-1144-fb28b62e41",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 推出 GPT-5.6 系列，三款模型瞄準企業與資安需求| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI 推出 GPT-5.6 系列，三款模型瞄準企業與資安需求| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pRTBvUUF2QmhqOTd2TWN5N2ozcUI3ODRfRHIxbEJ6TGtINnI5Z1NlSm1RRHFoYWxzZU0yY3AwWTdPOHJzbHRCR25qbklSUkwwSktBVFNLT0taZW1XOFN2ekswenBwVUJKS1dz?oc=5",
+   "published_at": "2026-07-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1pRTBvUUF2QmhqOTd2TWN5N2ozcUI3ODRfRHIxbEJ6TGtINnI5Z1NlSm1RRHFoYWxzZU0yY3AwWTdPOHJzbHRCR25qbklSUkwwSktBVFNLT0taZW1XOFN2ekswenBwVUJKS1dz?oc=5\" target=\"_blank\">OpenAI 推出 GPT-5.6 系列，三款模型瞄準企業與資安需求| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

@@ -197,6 +197,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNRlVzYmN6VU54WFQ5WW02ZUI4dTliUVoxaDBfZFR5a2V3SG1wQU9lTTBWRENuM3BJZzlhY0IyVnJLTHM4bER3eWJfdHFERmdjOUhvM2N2TkJJcXVi?oc=5\" target=\"_blank\">特稿｜大模型急招FDE AI落地垂直行业卡口何在？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财新</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-972-aa40f02fa2",
+   "source_id": "news",
+   "source_name": "中国农业大学新闻网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国农大发布两项农业AI重大成果：神农大模型4.0与神农·农业世界模型1.0同期发布 - 中国农业大学新闻网",
+   "summary": "中国农大发布两项农业AI重大成果：神农大模型4.0与神农·农业世界模型1.0同期发布 &nbsp;&nbsp; 中国农业大学新闻网",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tX0dxNHd4c2RUV0VPU2ZlZXZFQ0VWUEp4dGY3ZllEZkF6dXdaQlFqcEJLRUJPWXJhY0Nidk9kU24yQ1l3bFRZZWNjSkNjQzlqWGZoQVBCQXlBcmU0MTFlRXQ0NC1lM0J3S19WZ1RWWVZQTHlqbDVJ?oc=5",
+   "published_at": "2026-07-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9tX0dxNHd4c2RUV0VPU2ZlZXZFQ0VWUEp4dGY3ZllEZkF6dXdaQlFqcEJLRUJPWXJhY0Nidk9kU24yQ1l3bFRZZWNjSkNjQzlqWGZoQVBCQXlBcmU0MTFlRXQ0NC1lM0J3S19WZ1RWWVZQTHlqbDVJ?oc=5\" target=\"_blank\">中国农大发布两项农业AI重大成果：神农大模型4.0与神农·农业世界模型1.0同期发布</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国农业大学新闻网</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

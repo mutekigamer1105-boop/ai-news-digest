@@ -240,6 +240,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5\" target=\"_blank\">How Claude's values vary by model and language</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-886-32df68bf3d",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 - 新华网",
+   "summary": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSmdYcFQ0NEt0SFhCbEh1bm0xVUtUamhSZWE0WTh4bWhoLUFlbzNHVXB2Nzk5TU91WGZydlVfZlNLd1hVdjZtZnlXeDZhakJZLUVtRHN1SWQtVnhaSllia1N4UE9MRmM3NUdBRzdFVUN6T0tMLV9XMVJvUTFZLTlTSDhwZVpWRjM3NnNNYzlB?oc=5",
+   "published_at": "2026-07-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSmdYcFQ0NEt0SFhCbEh1bm0xVUtUamhSZWE0WTh4bWhoLUFlbzNHVXB2Nzk5TU91WGZydlVfZlNLd1hVdjZtZnlXeDZhakJZLUVtRHN1SWQtVnhaSllia1N4UE9MRmM3NUdBRzdFVUN6T0tMLV9XMVJvUTFZLTlTSDhwZVpWRjM3NnNNYzlB?oc=5\" target=\"_blank\">习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-982-a683cb1765",
+   "source_id": "news",
+   "source_name": "证券时报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "连续七周增长！中国大模型周调用量达27.58万亿Token，是美国的四倍以上 - 证券时报",
+   "summary": "连续七周增长！中国大模型周调用量达27.58万亿Token，是美国的四倍以上 &nbsp;&nbsp; 证券时报",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZYkREdUJTSW5SWXVGZVl5c3hNY3FwTHNISzJMZkpYX1pGazFqcllDRW5tMUhyZ3pQYkNPTkNKaDk0VjFmcTM0bXFDekozbXBHaERtdTJrVQ?oc=5",
+   "published_at": "2026-07-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZYkREdUJTSW5SWXVGZVl5c3hNY3FwTHNISzJMZkpYX1pGazFqcllDRW5tMUhyZ3pQYkNPTkNKaDk0VjFmcTM0bXFDekozbXBHaERtdTJrVQ?oc=5\" target=\"_blank\">连续七周增长！中国大模型周调用量达27.58万亿Token，是美国的四倍以上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

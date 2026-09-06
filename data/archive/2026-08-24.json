@@ -310,6 +310,94 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWG9LVWNpckhpd3NvN1NyR0VoaW5JdFJOQU4wN1N6RXJibEMxeUt6c3JnblRJRUZqV0R2Y09Ua005RlhuT3ZCV25zS2FfcFFlcnZrUXpkeUdXYVliaWEycy0tcTcwdkVUb2VTMjZlTHU3WFJISmNUTmNLSkQ3dEtBNXZJck96VXBVQk8zbE50WHZVR0VsejNjb2xOWjZoMURneVVPdEtR?oc=5\" target=\"_blank\">SpaceXAI 采用 NVIDIA Vera CPU，大规模加速智能体 AI 发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-74-65df993484",
+   "source_id": "news",
+   "source_name": "alabamaag.gov",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Attorney General Marshall Launches Investigation Into OpenAI and Sam Altman for Massive Artificial Intelligence Data Breach - alabamaag.gov",
+   "summary": "Attorney General Marshall Launches Investigation Into OpenAI and Sam Altman for Massive Artificial Intelligence Data Breach &nbsp;&nbsp; alabamaag.gov",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTDhJWklISkVHU0FVUzhqd3VvWnpkTG9lYktab2lTTXE2c1NCNEszVS1MR2pTYVg0M0UwdXdyZ2ZUVXMzYXhnMk1XQXpmYTYwTGVCdlZQenF5Mk54UzNieExxbU01ekJJelFreHFpeXlkcnRSUWZvNEc3VWpST2o2RW9aRUZzY0QzY09mdXJMcTNOZmM0TDZaOW1tYUI2YVhQVG1qNEpBMUdILXo2cFlYbGhHclpWekV0LURBdFZ4ajhzN2V6SXBvLWs5eDUxZ0VrcUZDR190UnBDQzN3QjN3LVBIOVU?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTDhJWklISkVHU0FVUzhqd3VvWnpkTG9lYktab2lTTXE2c1NCNEszVS1MR2pTYVg0M0UwdXdyZ2ZUVXMzYXhnMk1XQXpmYTYwTGVCdlZQenF5Mk54UzNieExxbU01ekJJelFreHFpeXlkcnRSUWZvNEc3VWpST2o2RW9aRUZzY0QzY09mdXJMcTNOZmM0TDZaOW1tYUI2YVhQVG1qNEpBMUdILXo2cFlYbGhHclpWekV0LURBdFZ4ajhzN2V6SXBvLWs5eDUxZ0VrcUZDR190UnBDQzN3QjN3LVBIOVU?oc=5\" target=\"_blank\">Attorney General Marshall Launches Investigation Into OpenAI and Sam Altman for Massive Artificial Intelligence Data Breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alabamaag.gov</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-82-be07924824",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "When machines misread science: creating guardrails for human and AI interpretation of biomedical research - Nature",
+   "summary": "When machines misread science: creating guardrails for human and AI interpretation of biomedical research &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uU1BzbW5NN0k0c2NpdVViZzV5U1NHY2ZUdElVR3VaMExmVldSb3cyUXZmNElPQzFRaHRBa2wwQi0taWpfQm9qU3RSR3NoUi0xWTcteWwtQzBXNTRfaERZ?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uU1BzbW5NN0k0c2NpdVViZzV5U1NHY2ZUdElVR3VaMExmVldSb3cyUXZmNElPQzFRaHRBa2wwQi0taWpfQm9qU3RSR3NoUi0xWTcteWwtQzBXNTRfaERZ?oc=5\" target=\"_blank\">When machines misread science: creating guardrails for human and AI interpretation of biomedical research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-173-fdec37085f",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "OpenAI is building AI agents for everything. Will everyone use them? - TechCrunch",
+   "summary": "OpenAI is building AI agents for everything. Will everyone use them? &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnJHeUFoS1IxSUZ6bFpySlBzOVp4V2RnZ1hCYTRwUFMxejByWVhFVk9oY09zbHBXRGlaRDVWVXEzMVB1TEUxbDlqVVdfNXdiTDB6Qy1NR25zZlFHYVZnZ1Vhekw5MU9LUVV0RGt2YXlnQU1sN05JMHd6RUlMQ2xrNEtVMlpWNHV6LVotUGZQbm8wX3BtWTVxMENrNUVxOWdfR2VUc2NB?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnJHeUFoS1IxSUZ6bFpySlBzOVp4V2RnZ1hCYTRwUFMxejByWVhFVk9oY09zbHBXRGlaRDVWVXEzMVB1TEUxbDlqVVdfNXdiTDB6Qy1NR25zZlFHYVZnZ1Vhekw5MU9LUVV0RGt2YXlnQU1sN05JMHd6RUlMQ2xrNEtVMlpWNHV6LVotUGZQbm8wX3BtWTVxMENrNUVxOWdfR2VUc2NB?oc=5\" target=\"_blank\">OpenAI is building AI agents for everything. Will everyone use them?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-191-7e34cfdbbe",
+   "source_id": "news",
+   "source_name": "CSIS | Center for Strategic and International Studies",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Out of Bounds: What the U.S. Government Should Do in Response to AI Agent Containment Failures - CSIS | Center for Strategic and International Studies",
+   "summary": "Out of Bounds: What the U.S. Government Should Do in Response to AI Agent Containment Failures &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEhOa3UxeWxXdGc5c185Wi0zeDRHTjhUbnRxVnZzSDllSjJLb0pNQ1RxbWRLRWhYcGZkTllsUnV1OUk2bDc5WEFoaVJ3NHBiSkltdThfSmkxcVJUdndkdHNoLUFYN2wxb2NIZG8zTDQ3cWhEVGQ5NlVYZWlhSGpjbkhtZ1lKN01TZW1pV3ZSUElyR3FSczZyQ2tWRUJFdnZjb0NrZDlYWm5USmla?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxObEhOa3UxeWxXdGc5c185Wi0zeDRHTjhUbnRxVnZzSDllSjJLb0pNQ1RxbWRLRWhYcGZkTllsUnV1OUk2bDc5WEFoaVJ3NHBiSkltdThfSmkxcVJUdndkdHNoLUFYN2wxb2NIZG8zTDQ3cWhEVGQ5NlVYZWlhSGpjbkhtZ1lKN01TZW1pV3ZSUElyR3FSczZyQ2tWRUJFdnZjb0NrZDlYWm5USmla?oc=5\" target=\"_blank\">Out of Bounds: What the U.S. Government Should Do in Response to AI Agent Containment Failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSIS | Center for Strategic and International Studies</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

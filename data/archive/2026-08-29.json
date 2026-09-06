@@ -194,6 +194,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUnkydU9jREp1cWRFV2lXcThzNjdWeHZuVHl3YTAtV3MtQlR2clY2SjFKY0lydTc0aHNQRGVPSWJqYkNFdGV0U2g1RzYxY3AxbWRBdWJPYnpISzhDd0Nvb2NpVG52elVVY0phajJzSGo2Y2FK?oc=5\" target=\"_blank\">Nvidia Cuts AI Model Releases to 4-6 Weeks [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1064-bc821f973f",
+   "source_id": "news",
+   "source_name": "京报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "大厂AI变阵竞赛，智能体站上C位 - 京报网",
+   "summary": "大厂AI变阵竞赛，智能体站上C位 &nbsp;&nbsp; 京报网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jRXE4a1V5c2xicXB5ekl6ZEtleFFhOHVlV0FCalV6bVBKaERBSU5Od3lEVWtYakZKRkRlRzJvTnNPYjU2dlpUZGhFbFphMHprRHdHQVUtQnMyTW5TMGtVaVRTTDVaU0FZUG5KWHdoMWx5QQ?oc=5",
+   "published_at": "2026-08-29T16:21:52+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1jRXE4a1V5c2xicXB5ekl6ZEtleFFhOHVlV0FCalV6bVBKaERBSU5Od3lEVWtYakZKRkRlRzJvTnNPYjU2dlpUZGhFbFphMHprRHdHQVUtQnMyTW5TMGtVaVRTTDVaU0FZUG5KWHdoMWx5QQ?oc=5\" target=\"_blank\">大厂AI变阵竞赛，智能体站上C位</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

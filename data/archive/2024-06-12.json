@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1130-74dbd3016b",
+   "source_id": "news",
+   "source_name": "智源社区",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "拿下SOTA！最强中文Embedding模型对标OpenAI，技术路线公开 - 智源社区",
+   "summary": "拿下SOTA！最强中文Embedding模型对标OpenAI，技术路线公开 &nbsp;&nbsp; 智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52c2tPODBMb2xieVBqT1p5UWpSS2RRQU04bFZJLUhUZGg3YkxhdVlENlVJUkxYc2NDYVNrT3pJdWpueThRLUtvTw?oc=5",
+   "published_at": "2024-06-12T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE52c2tPODBMb2xieVBqT1p5UWpSS2RRQU04bFZJLUhUZGg3YkxhdVlENlVJUkxYc2NDYVNrT3pJdWpueThRLUtvTw?oc=5\" target=\"_blank\">拿下SOTA！最强中文Embedding模型对标OpenAI，技术路线公开</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">智源社区</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  }
+ ]
+}

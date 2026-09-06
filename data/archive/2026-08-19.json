@@ -241,6 +241,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1hNnZyTjl3N01WbmMtMl9YREloVlFHYUQtMm5VWjdCZ2UxNmpoOE1NSGgzSlFUNTcwa3ktalgtVHNUTVBnTDdmUWVPLWFlTnF4MlJfZmJSX1lGeWMtRXhBb0xoaFY2NnhYS1Q0UGxXZHFrZG5YZDg3WQ?oc=5\" target=\"_blank\">OpenAI blinks first in AI safety standoff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-79-655b51565b",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Co-packaged optics for high-performance computing and artificial intelligence - Nature",
+   "summary": "Co-packaged optics for high-performance computing and artificial intelligence &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44eG5iRFQ2RVc1Z203TEg4c0QteWIzRzFTMTBSTEs0MXB0VUppU01tbWlhTGd2amlZYUhtYzRxaEJpZzBORHlXNW1PbEhiSm12eXlfTjB1NjgxWC13Mml3?oc=5",
+   "published_at": "2026-08-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE44eG5iRFQ2RVc1Z203TEg4c0QteWIzRzFTMTBSTEs0MXB0VUppU01tbWlhTGd2amlZYUhtYzRxaEJpZzBORHlXNW1PbEhiSm12eXlfTjB1NjgxWC13Mml3?oc=5\" target=\"_blank\">Co-packaged optics for high-performance computing and artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

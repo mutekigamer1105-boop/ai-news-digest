@@ -460,6 +460,117 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oY3BHRjE2QUdhRFhhQWNzQXI5cmZreWktOFpDZERFbHVIMW1Na2xnazQ5cTVPNG9kY08yNE1EV1BWaW5mcm9udUJKekRaYnVsdXB1YU5oZm1jSGRxMV96c1hDRQ?oc=5\" target=\"_blank\">OpenAI再失数据中心负责人，基础设施团队重组之际至少14名高管离职| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-184-094c82ce4b",
+   "source_id": "news",
+   "source_name": "Amazon Web Services (AWS)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Closing the AI agent trust gap with graduated autonomy - Amazon Web Services (AWS)",
+   "summary": "Closing the AI agent trust gap with graduated autonomy &nbsp;&nbsp; Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTlNT1ViVWNPbXNKNkJLZkVKZTlENGg1cmNkLVRVSmx5QUxwNWxTVHFveUVxOGZ3Mmdscmo0NDdXNkZoeU4tTjJTbk5raER0dFRwb0doRUdpSm12WDg3N0x6RTNRZGV0TlY4STM2UmtiN0NqaXZLMi1PNWVnX19EejZpR2FFN3RfbG5ISmExUXVUcG9vUlVOaWtreHJSZw?oc=5",
+   "published_at": "2026-08-26T17:33:03+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUTlNT1ViVWNPbXNKNkJLZkVKZTlENGg1cmNkLVRVSmx5QUxwNWxTVHFveUVxOGZ3Mmdscmo0NDdXNkZoeU4tTjJTbk5raER0dFRwb0doRUdpSm12WDg3N0x6RTNRZGV0TlY4STM2UmtiN0NqaXZLMi1PNWVnX19EejZpR2FFN3RfbG5ISmExUXVUcG9vUlVOaWtreHJSZw?oc=5\" target=\"_blank\">Closing the AI agent trust gap with graduated autonomy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-98-af20fcfdb8",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Opinion | Much Ado About Artificial Intelligence - WSJ",
+   "summary": "Opinion | Much Ado About Artificial Intelligence &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckUzZDZzV04zdEl6Wkx0M1YwZmNxdlVnc2FQcm40c01ocUFxQkFoOFQtamFjc3JDQzNXYk9XV3dRQUpDX2lCNWEzWE45MUdfSUFDbENMSzc4RFNvX0R3NFpuUzJrSFIyQm0zRXI1TktHWnc0MHMxUnRWWW9XbGhiLQ?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQckUzZDZzV04zdEl6Wkx0M1YwZmNxdlVnc2FQcm40c01ocUFxQkFoOFQtamFjc3JDQzNXYk9XV3dRQUpDX2lCNWEzWE45MUdfSUFDbENMSzc4RFNvX0R3NFpuUzJrSFIyQm0zRXI1TktHWnc0MHMxUnRWWW9XbGhiLQ?oc=5\" target=\"_blank\">Opinion | Much Ado About Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-177-ec8c92de9a",
+   "source_id": "news",
+   "source_name": "Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI, independent firms publish reports on rogue AI agent attack on Hugging Face - Fortune",
+   "summary": "OpenAI, independent firms publish reports on rogue AI agent attack on Hugging Face &nbsp;&nbsp; Fortune",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd3l3NkZUZmhPT1FGRzZ4YTc2dzN1bU5icXVFWkJQYVZiNFBnd1JuQnF2T0FRZWdnNzAwdS1Ya29LRUVNZnpkeHRpOW9fVE9UczVINURINzU3X0NrMjBDWTB1VVJmT0l4ZFZpVXlmWS12TW1rT3dXaDVjZi1na1ljTWZDVURUaUVFSWw2cXNKeFRVLWpzWndvd2tIcXhJT2NDYTNjNkJkUks2T0tVVFlwazFYSHNDT3NSNC1Rd0RuNnN2VnRRMkRXSWY2Z0VqSnloVGhVdHBvblNwVHV4MnFRZDcyN0l0UWYyNHQ0Rw?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd3l3NkZUZmhPT1FGRzZ4YTc2dzN1bU5icXVFWkJQYVZiNFBnd1JuQnF2T0FRZWdnNzAwdS1Ya29LRUVNZnpkeHRpOW9fVE9UczVINURINzU3X0NrMjBDWTB1VVJmT0l4ZFZpVXlmWS12TW1rT3dXaDVjZi1na1ljTWZDVURUaUVFSWw2cXNKeFRVLWpzWndvd2tIcXhJT2NDYTNjNkJkUks2T0tVVFlwazFYSHNDT3NSNC1Rd0RuNnN2VnRRMkRXSWY2Z0VqSnloVGhVdHBvblNwVHV4MnFRZDcyN0l0UWYyNHQ0Rw?oc=5\" target=\"_blank\">OpenAI, independent firms publish reports on rogue AI agent attack on Hugging Face</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-185-30b5dc4512",
+   "source_id": "news",
+   "source_name": "The Guardian",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm - The Guardian",
+   "summary": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm &nbsp;&nbsp; The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg?oc=5\" target=\"_blank\">OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-574-8ffd5cc54f",
+   "source_id": "news",
+   "source_name": "NVIDIA Developer",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure | NVIDIA Technical Blog - NVIDIA Developer",
+   "summary": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEEwcE9ISjdxZmlzWXJiaXFEWTNmeEVCX3R0NU1Qa2ZONThvZ21DTDAwVmIyOUVJRHBLd1ZHeE5lWmROekVqTUdMQ2ExS0JpRVhwQmxSTWpFMGFTTW5yZ3g3NFRjTEc5U1AzU1Bmc01SemFlVHRzNFhOTzlRbDBnMWNpal91ZXNNT3RHYkNkVE9oZC1qOHRZcFpqbWVmbDIyMjdjMGI5MWc?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEEwcE9ISjdxZmlzWXJiaXFEWTNmeEVCX3R0NU1Qa2ZONThvZ21DTDAwVmIyOUVJRHBLd1ZHeE5lWmROekVqTUdMQ2ExS0JpRVhwQmxSTWpFMGFTTW5yZ3g3NFRjTEc5U1AzU1Bmc01SemFlVHRzNFhOTzlRbDBnMWNpal91ZXNNT3RHYkNkVE9oZC1qOHRZcFpqbWVmbDIyMjdjMGI5MWc?oc=5\" target=\"_blank\">NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure | NVIDIA Technical Blog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Developer</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

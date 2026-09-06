@@ -108,6 +108,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9Rc0RfdUdVYUVEQ0w2dE5sNnZvUU1ZQ0ZLdzR3RF83VjgxZ2xVdXdac1FMNUVQcjBBendmSjlmRDd3SUNJMXF1a1Z2QlhNd09kMkVKbkgtSnNUR1ZkM0NacVhYc0xBRkR1blRabzlQMFZzaFRuelRB?oc=5\" target=\"_blank\">The AI Startup Funding Boom Is Not A Global Phenomenon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-983-1b881f5781",
+   "source_id": "news",
+   "source_name": "每日经济新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "18.42万亿Token！中国AI大模型周调用量连续七周领跑：MiniMax M3升至第二，DeepSeek V3.2半年来首次跌出榜单 - 每日经济新闻",
+   "summary": "18.42万亿Token！中国AI大模型周调用量连续七周领跑：MiniMax M3升至第二，DeepSeek V3.2半年来首次跌出榜单 &nbsp;&nbsp; 每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HbGZCLS1tRmNuR1lrVnBuRTNhZGwyV3hYTlRIVVQ3WmNUWTRXR2hhRWk3OW1uNkswY0tucndsYWR1NmJrajhoQ3dFRFpMNDh3cTBqU3RTemtEa0RlY2FCRmFrMWZtZw?oc=5",
+   "published_at": "2026-06-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HbGZCLS1tRmNuR1lrVnBuRTNhZGwyV3hYTlRIVVQ3WmNUWTRXR2hhRWk3OW1uNkswY0tucndsYWR1NmJrajhoQ3dFRFpMNDh3cTBqU3RTemtEa0RlY2FCRmFrMWZtZw?oc=5\" target=\"_blank\">18.42万亿Token！中国AI大模型周调用量连续七周领跑：MiniMax M3升至第二，DeepSeek V3.2半年来首次跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">每日经济新闻</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

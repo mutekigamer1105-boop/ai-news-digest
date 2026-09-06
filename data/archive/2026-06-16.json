@@ -65,6 +65,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPa3NlaUVLeG92YUdmaW41Rmh3WG1UMlhVOHMxUGhvT19XMzBwVXNYbktWYVRoQnlzRDhJWGRGYzJwNElGZzlMUlBkZzdsVThSVDliaGRVMzhjNzNnblVzeTd5alZSUkpjaUw1MTQwNEpvUmw2SmJxRkgzeWRrS2gtU1JmaWFIRFRkOUxsdjRYYzBmQzg?oc=5\" target=\"_blank\">Probably raises $9M to build a more reliable kind of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-480-d382c6fcad",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "How Claude Code is used in practice - Anthropic",
+   "summary": "How Claude Code is used in practice &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lM0p2cGtZWWJ4aE9Ocy05NEU1SXFraWl1V1gwNmxwdGpMWkg3N2Z3WGF6eFFMZXlWMGZEeGZZVGxmcGJyVlBSLXlCUXhma0lWRm1SNllTSVlmNXlTMFEzLTZIMFIwSDA?oc=5",
+   "published_at": "2026-06-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lM0p2cGtZWWJ4aE9Ocy05NEU1SXFraWl1V1gwNmxwdGpMWkg3N2Z3WGF6eFFMZXlWMGZEeGZZVGxmcGJyVlBSLXlCUXhma0lWRm1SNllTSVlmNXlTMFEzLTZIMFIwSDA?oc=5\" target=\"_blank\">How Claude Code is used in practice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

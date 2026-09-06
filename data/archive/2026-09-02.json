@@ -4801,6 +4801,93 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOYkJ5a0M0REI1eWZiU3paQks1Qkx5N3JRMXBwMEF3YkFyTjRPZ21vOVpUOW51WHJYQmViVnU5YnRQMGNmRDVWMnN5X2xocTBVTG14UUNqUHJLLXVUUDNENUlDMmwxUHdFTFZ0d3BoRDJpS29Va0pqak5aTWVVZWV1LWxuMm1EZw?oc=5\" target=\"_blank\">AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uk.finance.yahoo.com</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-188-3c0ec0a305",
+   "source_id": "news",
+   "source_name": "No Film School",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Eddie AI Launches an Agent Marketplace of Editing Agents Built on Great Filmmakers - No Film School",
+   "summary": "Eddie AI Launches an Agent Marketplace of Editing Agents Built on Great Filmmakers &nbsp;&nbsp; No Film School",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pSy1BMm1PblA0U0NLZjdvTFBLUGdhMWJxZm0ya3U4cmFub2lYOG1mSTUwOGdzTGxZa1NQaG9JOXhHM1Zxdl8yc1YtNDJWN0ZHbXI5MUtJa0szTk1iVXVuaA?oc=5",
+   "published_at": "2026-09-02T21:12:47+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pSy1BMm1PblA0U0NLZjdvTFBLUGdhMWJxZm0ya3U4cmFub2lYOG1mSTUwOGdzTGxZa1NQaG9JOXhHM1Zxdl8yc1YtNDJWN0ZHbXI5MUtJa0szTk1iVXVuaA?oc=5\" target=\"_blank\">Eddie AI Launches an Agent Marketplace of Editing Agents Built on Great Filmmakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">No Film School</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-595-796e3e4b0b",
+   "source_id": "news",
+   "source_name": "WTVB",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI startup Wonderful’s valuation more than doubles to $5 billion in latest funding round - WTVB",
+   "summary": "AI startup Wonderful’s valuation more than doubles to $5 billion in latest funding round &nbsp;&nbsp; WTVB",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQmFsd3NuZmNqMkh1V3BqcjNuYkRjVThTWFd0T2NzMEVlUWU1OHM1VkVFYUxYQTQxdGxmcE90dlY1c0hmNmNvMHB5eDRuV21ZRFZRTnd2NUNhVWc1SFdaUnExZjZ3X0xEUndqenVsY2VvdC1mVVAwaGU4TXl3R2REb19fMU1PZnVHN3NaQkJGQlMxWUdyUGNCN1cxNA?oc=5",
+   "published_at": "2026-09-02T16:23:56+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQmFsd3NuZmNqMkh1V3BqcjNuYkRjVThTWFd0T2NzMEVlUWU1OHM1VkVFYUxYQTQxdGxmcE90dlY1c0hmNmNvMHB5eDRuV21ZRFZRTnd2NUNhVWc1SFdaUnExZjZ3X0xEUndqenVsY2VvdC1mVVAwaGU4TXl3R2REb19fMU1PZnVHN3NaQkJGQlMxWUdyUGNCN1cxNA?oc=5\" target=\"_blank\">AI startup Wonderful’s valuation more than doubles to $5 billion in latest funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVB</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-606-b33e37098b",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The IPO Window Is Closing. Here Are 8 Startups To Watch. - Crunchbase News",
+   "summary": "The IPO Window Is Closing. Here Are 8 Startups To Watch. &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa01EWG1UMndEZVgzUkhDUnZDVU1xWUs4TEZLU2xRV3AyczlVWXhqTFJhY0ItSXp0VVZndGRXaUxua1Q2NU9GWGVFbUk3X3dyTWgwMTFVTExQQW03X3lOQXBaYlpQOC1xa05IQXRzQjJkSFZFOFJfQnN2V0ExS1hWUEwwX2UwUQ?oc=5",
+   "published_at": "2026-09-02T11:00:10+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQa01EWG1UMndEZVgzUkhDUnZDVU1xWUs4TEZLU2xRV3AyczlVWXhqTFJhY0ItSXp0VVZndGRXaUxua1Q2NU9GWGVFbUk3X3dyTWgwMTFVTExQQW03X3lOQXBaYlpQOC1xa05IQXRzQjJkSFZFOFJfQnN2V0ExS1hWUEwwX2UwUQ?oc=5\" target=\"_blank\">The IPO Window Is Closing. Here Are 8 Startups To Watch.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-856-05af6fb2b1",
+   "source_id": "news",
+   "source_name": "CLACSO",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "人工智能、教育和社会科学：CLACSO 的战略对话 - CLACSO",
+   "summary": "人工智能、教育和社会科学：CLACSO 的战略对话 &nbsp;&nbsp; CLACSO",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1RNcmdJUjhiNUU5aVRjRVhzSGlucVhSLVItbTFYYU5hcXhaQUwzN3ZyZm1lWlB0YnZmU3IxcHdPRWVWZHJYaW5EVThKclRTMFdJMmMtT3RiaWhhalJINk9pbmphVE1HTm1Vekd1N182Q1hwR2k0SkdXTjNTc0Z6OWZ6alhSdGNES3pmSm1YeTJEZWFtc3d5b0plVmZfRVdQTGZ1MUdiZVdOMld0b1dXY2V0TTlQSTQ?oc=5",
+   "published_at": "2026-09-02T03:54:38+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1RNcmdJUjhiNUU5aVRjRVhzSGlucVhSLVItbTFYYU5hcXhaQUwzN3ZyZm1lWlB0YnZmU3IxcHdPRWVWZHJYaW5EVThKclRTMFdJMmMtT3RiaWhhalJINk9pbmphVE1HTm1Vekd1N182Q1hwR2k0SkdXTjNTc0Z6OWZ6alhSdGNES3pmSm1YeTJEZWFtc3d5b0plVmZfRVdQTGZ1MUdiZVdOMld0b1dXY2V0TTlQSTQ?oc=5\" target=\"_blank\">人工智能、教育和社会科学：CLACSO 的战略对话</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CLACSO</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

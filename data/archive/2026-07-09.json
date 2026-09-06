@@ -238,6 +238,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5\" target=\"_blank\">Introducing a way to reflect on how you use Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-474-77338b1e75",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "UST is bringing Claude to physical AI - Anthropic",
+   "summary": "UST is bringing Claude to physical AI &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWmhDajNFV09GX2ZrcFpRTHJUcFdwcFZDRDFvMlQ5MGhpclVkR1dYSFI4MllXTWRkaTR5cEhQN0RvcmFRVTVicXpxbUZkc2lDUTZj?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWmhDajNFV09GX2ZrcFpRTHJUcFdwcFZDRDFvMlQ5MGhpclVkR1dYSFI4MllXTWRkaTR5cEhQN0RvcmFRVTVicXpxbUZkc2lDUTZj?oc=5\" target=\"_blank\">UST is bringing Claude to physical AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-1068-04d9f7f990",
+   "source_id": "news",
+   "source_name": "观点网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "阶跃星辰将发布AI智能体手机 抢先落地新一代AI终端 - 观点网",
+   "summary": "阶跃星辰将发布AI智能体手机 抢先落地新一代AI终端 &nbsp;&nbsp; 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WemJmRnhVa2pLYUVkZmJyQ3JVRFJJZy1hbl8wRUwzLWhxOThEeTdYUGJVTzdEbXZPcktiWElJWm5WSkp4R0pnUDEtQVdKQUNOa1hyV0hCZWNPSGh4S1p6Y1NB?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WemJmRnhVa2pLYUVkZmJyQ3JVRFJJZy1hbl8wRUwzLWhxOThEeTdYUGJVTzdEbXZPcktiWElJWm5WSkp4R0pnUDEtQVdKQUNOa1hyV0hCZWNPSGh4S1p6Y1NB?oc=5\" target=\"_blank\">阶跃星辰将发布AI智能体手机 抢先落地新一代AI终端</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

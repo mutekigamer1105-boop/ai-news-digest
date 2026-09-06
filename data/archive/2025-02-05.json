@@ -20,6 +20,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9Yb1lsU2kyUG80U29yZDFYV0llTGY2TjZiRW1EMDhlWWJOZENCYzZlWGwxYkdXc2ExaE5zYk1DNVNaMlgtQ0wyTm5WclJ3aUFUZmpVa2hYdEpzNFYtWktQT0hRYlozZldwdU5HaDJVYzlUUVhrQ1E?oc=5\" target=\"_blank\">改变国运的突破？DeepSeek引爆中国社交媒体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-1125-873d0a7287",
+   "source_id": "news",
+   "source_name": "华尔街见闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI o3-mini被曝大量使用中文推理！全世界AI都要学中国话了？ - 华尔街见闻",
+   "summary": "OpenAI o3-mini被曝大量使用中文推理！全世界AI都要学中国话了？ &nbsp;&nbsp; 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DRW9XTUxQX3RfX09JZy1YNDJCZDJETkZEdXlVeW9yMV9GMElIVWo2SVZqR0tPVVpfRF9aalhFdzBBVkVHM09FaU5tSGlWeU5Qd01J?oc=5",
+   "published_at": "2025-02-05T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DRW9XTUxQX3RfX09JZy1YNDJCZDJETkZEdXlVeW9yMV9GMElIVWo2SVZqR0tPVVpfRF9aalhFdzBBVkVHM09FaU5tSGlWeU5Qd01J?oc=5\" target=\"_blank\">OpenAI o3-mini被曝大量使用中文推理！全世界AI都要学中国话了？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

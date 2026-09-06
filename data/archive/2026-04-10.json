@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNeUV1XzRPa0R4dkdKNXNGT3gyQ01YUDUxTFo2aVZ6V3dvb09ZNGFwZmtOQnVNaU9hZ09sYXI5dFhmcE5TWTNBbjhkOXVBcXRNZDVJeEd1SWVvdmtXZFE2ZFFJbk9GSkxlUlN4OFFMLTZYLVozSUxtUmJjSGZFT19jbmZ4OVNpdG03Z045Q0RKVnc3UXk0a0UzNU9nb1k4ZkFnTGE4bW5YZEl6bEdKV1ZhcG4xOTN5QQ?oc=5\" target=\"_blank\">AI Large Language Models: new report shows small changes can reduce energy use by 90%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNESCO</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-273-79d1d68e2f",
+   "source_id": "news",
+   "source_name": "Cureus",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Acceptability of a Large Language Model (LLM)-Generated Guideline-Based Checklist Among Otolaryngologists: A Cross-Sectional Survey and Thematic Analysis - Cureus",
+   "summary": "Acceptability of a Large Language Model (LLM)-Generated Guideline-Based Checklist Among Otolaryngologists: A Cross-Sectional Survey and Thematic Analysis &nbsp;&nbsp; Cureus",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQQWx3UTlOMGZvZm1KbWI0N25nSG8xcUt4UUp2ZVdleXE3M2R4aU9weUlJYThXcC11ZHRsSW9hWVJCMEhKa1MtZEhvYTN6cUdnaW5OR1VhVVh5QVlmTGFkZThoTmdYRkdDalFpYkNjRlkycUV6TGpqVmpJeFBpa19GZDQ0NlpmREV6Q2lJbm5HaG5Ed2V2MTNSUXhEZFNSNER2YWQ5YjVXZmc0Y1EwSGlYZE1vdVJYOTEtYThmNGY4U2cwdHk1b3ZjVDZDQ2t0cEs3OFZsX2JpZ2xDVm5WR0VDVjVzWHVWaC1xTllHNG5NRExGTnp5RXN0NXdrZHNnR0R6S25lbld6dDJDY1E1ZVZ3ZG9wS2FMc3RH?oc=5",
+   "published_at": "2026-04-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQQWx3UTlOMGZvZm1KbWI0N25nSG8xcUt4UUp2ZVdleXE3M2R4aU9weUlJYThXcC11ZHRsSW9hWVJCMEhKa1MtZEhvYTN6cUdnaW5OR1VhVVh5QVlmTGFkZThoTmdYRkdDalFpYkNjRlkycUV6TGpqVmpJeFBpa19GZDQ0NlpmREV6Q2lJbm5HaG5Ed2V2MTNSUXhEZFNSNER2YWQ5YjVXZmc0Y1EwSGlYZE1vdVJYOTEtYThmNGY4U2cwdHk1b3ZjVDZDQ2t0cEs3OFZsX2JpZ2xDVm5WR0VDVjVzWHVWaC1xTllHNG5NRExGTnp5RXN0NXdrZHNnR0R6S25lbld6dDJDY1E1ZVZ3ZG9wS2FMc3RH?oc=5\" target=\"_blank\">Acceptability of a Large Language Model (LLM)-Generated Guideline-Based Checklist Among Otolaryngologists: A Cross-Sectional Survey and Thematic Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cureus</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

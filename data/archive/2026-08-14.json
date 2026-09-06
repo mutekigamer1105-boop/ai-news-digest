@@ -258,6 +258,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLRTVMS3NNdFRXUnJyR3U4YTE5R01vcHFVMk1mYVRmQjk5NFFaUkpBaTNJS21yWjFJNlVOZWFEZjlwMXd0dW1GUzRFMkVJV0FReDlz?oc=5\" target=\"_blank\">报道：苹果自训中国专属AI大模型，阿里参与并提供支持</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-649-8e4569b499",
+   "source_id": "news",
+   "source_name": "MarketScale",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI investment is reshaping the U.S. startup market, and the best employers are proving it - MarketScale",
+   "summary": "AI investment is reshaping the U.S. startup market, and the best employers are proving it &nbsp;&nbsp; MarketScale",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPemZ4dk5qTndPUjhsaGlUQlNFckMwTFhhTTFxUXN6UjZJRG0zMHJhXzRBc1dQWTJoREVfVGhFZHRCU2RyZG85T3hmNzN0N2xDWlFBeUdlQkI1a1Q3Tnc5eU93VVpWN1FWYmpLbFRrQVlQQ2lUZUN2MEZyRG43RFBKZFRWZjEyT3hlVXUzVUJHTkJoTmRpTUtidG5oVU9OZEhsdlVDcnllR3cta1BRRUVlcHJEZkV2a2swSlZCZEJNLU5JM01sWjhYSkM0d1MtanMxb3N4bVJzaTQ2VWJMY21aeF9sOA?oc=5",
+   "published_at": "2026-08-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPemZ4dk5qTndPUjhsaGlUQlNFckMwTFhhTTFxUXN6UjZJRG0zMHJhXzRBc1dQWTJoREVfVGhFZHRCU2RyZG85T3hmNzN0N2xDWlFBeUdlQkI1a1Q3Tnc5eU93VVpWN1FWYmpLbFRrQVlQQ2lUZUN2MEZyRG43RFBKZFRWZjEyT3hlVXUzVUJHTkJoTmRpTUtidG5oVU9OZEhsdlVDcnllR3cta1BRRUVlcHJEZkV2a2swSlZCZEJNLU5JM01sWjhYSkM0d1MtanMxb3N4bVJzaTQ2VWJMY21aeF9sOA?oc=5\" target=\"_blank\">AI investment is reshaping the U.S. startup market, and the best employers are proving it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScale</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-732-95e71e03fe",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios",
+   "summary": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5",
+   "published_at": "2026-08-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5\" target=\"_blank\">Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

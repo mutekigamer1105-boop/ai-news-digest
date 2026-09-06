@@ -218,6 +218,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZEdjQktSZDM5NzRFVlNmU0dhVU55RE5SRUlJVnlLVkRua1JobjJOTlZ3NlAwejV4WXBfTEFLVm5JZnZUTXF0SXVaR2xsTnhuejhOZlFwMmNiT25YZUhpQThBc280RFJveGJZcXpxSzg2ZUtvY2o3aUdWU0tFcDZYTUNMdnVoaUs3UjI5eFUzckxxQ1c2UGh6MEFYVEphalhsRUg2bWRFZlBrWkE?oc=5\" target=\"_blank\">Natural raises $30M to reinvent payments for AI agents — and take on Stripe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1089-d7c6ff12c6",
+   "source_id": "news",
+   "source_name": "中国日报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "直击WAIC 2026：AI智能体加速落地教育场景，与爱为舞交出AI原生技术答卷 - 中国日报网",
+   "summary": "直击WAIC 2026：AI智能体加速落地教育场景，与爱为舞交出AI原生技术答卷 &nbsp;&nbsp; 中国日报网",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TNzRiVzgtdG4yWTN0dmJYbEhhRHg4aHBYZERmMUM0cmtYWGRSV2NmXzdpekVIQUcxS3RGXzBDUjNKN2xoM2ZZOXpkTkgyem54dkY5U1VkbEFzRjB2U3dfYmF3eHdpOHZaMVl6SG5zbHlnMDVGZEE5SldWSnI?oc=5",
+   "published_at": "2026-07-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1TNzRiVzgtdG4yWTN0dmJYbEhhRHg4aHBYZERmMUM0cmtYWGRSV2NmXzdpekVIQUcxS3RGXzBDUjNKN2xoM2ZZOXpkTkgyem54dkY5U1VkbEFzRjB2U3dfYmF3eHdpOHZaMVl6SG5zbHlnMDVGZEE5SldWSnI?oc=5\" target=\"_blank\">直击WAIC 2026：AI智能体加速落地教育场景，与爱为舞交出AI原生技术答卷</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国日报网</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

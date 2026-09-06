@@ -109,6 +109,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DckExOHhkYXl2eWd3aFZhT2EzMUpNR1ZHSnFDdENTQmxkMUhwY05YM3ZFV1dCcXJBai1XOTY5QlNycUY1ODd4ZFB6V1p4N0daMjgxRU95VkhRRXc5?oc=5\" target=\"_blank\">23.45万亿Token！中国大模型周调用量连续十周领跑，包揽榜单前六：DeepSeek-V4-Flash连续七周位居榜首，智谱GLM-5.2冲进前五</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
    "fetched_at": "2026-09-03T20:18:43+00:00"
+  },
+  {
+   "id": "web-472-82946cf37a",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "A global workspace in language models - Anthropic",
+   "summary": "A global workspace in language models &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5",
+   "published_at": "2026-07-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5\" target=\"_blank\">A global workspace in language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-681-f24ab2e45f",
+   "source_id": "news",
+   "source_name": "ICTworks",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Apply Now: $100,000 for African AI Startup Founders - ICTworks",
+   "summary": "Apply Now: $100,000 for African AI Startup Founders &nbsp;&nbsp; ICTworks",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sRFRySkVNc2hTZFVHRmFrT1ZXdG12VU1BcFRjbzJoc2pyT3p5YklhQ0hDdHJUaFpDMG94eGdEd1haVTltTG1Hbks2ZHQ5OTM2VkZ0SDVLS2RXTEpKdlY2ZDJOR3h6b0pod1BBZUdxSnJRWlZwYTZUXzN1aWluWkE?oc=5",
+   "published_at": "2026-07-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9sRFRySkVNc2hTZFVHRmFrT1ZXdG12VU1BcFRjbzJoc2pyT3p5YklhQ0hDdHJUaFpDMG94eGdEd1haVTltTG1Hbks2ZHQ5OTM2VkZ0SDVLS2RXTEpKdlY2ZDJOR3h6b0pod1BBZUdxSnJRWlZwYTZUXzN1aWluWkE?oc=5\" target=\"_blank\">Apply Now: $100,000 for African AI Startup Founders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ICTworks</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

@@ -309,6 +309,74 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBqTkNMWTNvaFVVa2V6TVNPQ0JEZUk5WGY0dUdtZEVETVJLYUFvWkZJY01tVkt4b3N1WFJKR2FhQnpaNDZGTV9BMUx1Mmg5bThEU1pKUlprQXQxR3E1czF6TmZjY2ZxUjRLSXpydHd1ZmpyQQ?oc=5\" target=\"_blank\">为什么中国大模型便宜又好用？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">xinwen.bjd.com.cn</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-588-fbdf820875",
+   "source_id": "news",
+   "source_name": "NVIDIA Blog",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents - NVIDIA Blog",
+   "summary": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents &nbsp;&nbsp; NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45UUttUUMyRTI3WHVUbF9oMlRKX0NIUHJ2WUFobm9Ta3NubmhVS0pmRjkxMzZILU0wWEFFa1JWTXVBYVhzTkhhS292U1hOWUFoUkRrOUJTTFY3RURHTkZjMWlyTVhlYjE1bHQ2M3ZDRzNlSWlpNDJPTUM1d0l0eFU?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE45UUttUUMyRTI3WHVUbF9oMlRKX0NIUHJ2WUFobm9Ta3NubmhVS0pmRjkxMzZILU0wWEFFa1JWTXVBYVhzTkhhS292U1hOWUFoUkRrOUJTTFY3RURHTkZjMWlyTVhlYjE1bHQ2M3ZDRzNlSWlpNDJPTUM1d0l0eFU?oc=5\" target=\"_blank\">NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-904-22325466a4",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "为什么中国大模型便宜又好用？ - 新华网",
+   "summary": "为什么中国大模型便宜又好用？ &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfOF8xdVhndDlaQ3ZMMmw3eXN1ZzZmT0Jtb1lyUnFPS0ZCcWFGZnFMRDByX1VsQ1I4SXl4UlZKeGJOVmM3dEpkcVhZTjZDT0JwMy1qazN6aWN3TndEQnJRb3E3Rm90azhNbXFSZnFGSTZWYmJRNmVLRzN6SjFxUQ?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBfOF8xdVhndDlaQ3ZMMmw3eXN1ZzZmT0Jtb1lyUnFPS0ZCcWFGZnFMRDByX1VsQ1I4SXl4UlZKeGJOVmM3dEpkcVhZTjZDT0JwMy1qazN6aWN3TndEQnJRb3E3Rm90azhNbXFSZnFGSTZWYmJRNmVLRzN6SjFxUQ?oc=5\" target=\"_blank\">为什么中国大模型便宜又好用？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-1150-29ed5874fe",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI推出Linux版ChatGPT桌面应用，Codex同步覆盖主流系统| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI推出Linux版ChatGPT桌面应用，Codex同步覆盖主流系统| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwLVIzcmt5TUZSM2VOUVVFUG5IRHljZzB3WnBQZHQ5NG5lSlBEakhxWUZobXhBek5aQTYtcm90WUdiUEVEY2pxWkt4VTdlWTJvR3JReUtzRmNZdFZkVVY0bS16SmRGeTlCQ2V3?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBwLVIzcmt5TUZSM2VOUVVFUG5IRHljZzB3WnBQZHQ5NG5lSlBEakhxWUZobXhBek5aQTYtcm90WUdiUEVEY2pxWkt4VTdlWTJvR3JReUtzRmNZdFZkVVY0bS16SmRGeTlCQ2V3?oc=5\" target=\"_blank\">OpenAI推出Linux版ChatGPT桌面应用，Codex同步覆盖主流系统| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE8tTjlFalM4ZkowUFpfQ0J6M0l4NEpJZ1VwbnI0MjlncDFSRGpvaG1Xd1VzclNLb0RjUF9UVDQ3NmhZMC15SmZOcnRwak9aVUJiejEzVy1XdGRBV2UtUGd1TTJ5M19wNWM2MEY1Zm5tUTdTOVhkcDhuNm45OE0?oc=5\" target=\"_blank\">AI智能体赋能中小企业，促进电商高质量发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-285-d7e8226505",
+   "source_id": "news",
+   "source_name": "RSNA Journals",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "ONCO-RADS–guided Large Language Models for Extraction and Classification of Incidental Findings on Whole-Body Imaging Reports - RSNA Journals",
+   "summary": "ONCO-RADS–guided Large Language Models for Extraction and Classification of Incidental Findings on Whole-Body Imaging Reports &nbsp;&nbsp; RSNA Journals",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wQ0cweWdGUjE0M1VTcjFYUXFhZThLS3A3c2lVWmtXNlZZVlNnV2YtZ1BrcmpacjROR3JCSnpJUzdzajk5bHdBYzg2UkdWNUVrNU8yNHdabHpFM0JyazJB?oc=5",
+   "published_at": "2026-04-17T20:31:25+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wQ0cweWdGUjE0M1VTcjFYUXFhZThLS3A3c2lVWmtXNlZZVlNnV2YtZ1BrcmpacjROR3JCSnpJUzdzajk5bHdBYzg2UkdWNUVrNU8yNHdabHpFM0JyazJB?oc=5\" target=\"_blank\">ONCO-RADS–guided Large Language Models for Extraction and Classification of Incidental Findings on Whole-Body Imaging Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RSNA Journals</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

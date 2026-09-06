@@ -240,6 +240,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPaGJrMmZ2R3F6dXoyOGtLMzRzYUdGM3JLRHhoekZ2THJrV19iYlFweWR0eWFfUWU5UGZZNzkyeHhJVElkQ2ZtS3pKcEs2YUVkX05iOEhmMVo1LWFrNllfV0NwY1BlUDZzOGtNdldHWURFT0dQc3hzdVFFdUR4SC1vRVFxR0dxVzJVcF9lYVByMldoTGM?oc=5\" target=\"_blank\">What The Record Venture Funding Quarter Actually Means For Your Startup’s Fundraise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-243-ec8a74c9fd",
+   "source_id": "news",
+   "source_name": "The Lancet",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Can large language models help young researchers develop new clinical research ideas? - The Lancet",
+   "summary": "Can large language models help young researchers develop new clinical research ideas? &nbsp;&nbsp; The Lancet",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUm1paWlvX3hRVWdNUS1WNmxMWGdzWmxDREN0U0V2X1NKVWxRLVZRcVJIeS1kRzVyY1pDNm5iRkU4MVRydGVNdFFVNVUtZE1PN0Y4WmxoQkYwOENZcDNQUmhNenBIUFVFc3BKYUROQWNPMEY3cTRfZVhBWkNQVzFEcHJpWk8tdzBNRkdN?oc=5",
+   "published_at": "2026-04-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUm1paWlvX3hRVWdNUS1WNmxMWGdzWmxDREN0U0V2X1NKVWxRLVZRcVJIeS1kRzVyY1pDNm5iRkU4MVRydGVNdFFVNVUtZE1PN0Y4WmxoQkYwOENZcDNQUmhNenBIUFVFc3BKYUROQWNPMEY3cTRfZVhBWkNQVzFEcHJpWk8tdzBNRkdN?oc=5\" target=\"_blank\">Can large language models help young researchers develop new clinical research ideas?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Lancet</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

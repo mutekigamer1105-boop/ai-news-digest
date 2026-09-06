@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQN1hkakphNW9qRml0cE5saVI0OUVtendtbFJxeGdpYmpaX0NObE96aVRQVXlTMzdVMTJzd1EtUGZBMDczZ2hIQnJkSE9yRzJWUGxYUEtNenBMRWQ1cHUyeUljZ2ZNRlR4RGplNUNZZGZVdjh5UmFMY29KV0Nyb3MtVTlneXNwdWxVTzc5SHZlMWJZNWM4dTk4blVUdHRoSDhUU3RDcXlMN0VsU2NydGR0aWNzN1NXaW1fWkJ3ZU9YNVlMQ1NlZ0ZkVEZnazJBUG1VVUF6SEZYMHBkLTczb1NBZGVqcks3QWZ1OW8tR0w4c21CenlzY2gtcV96dXd2UHlDeG5VMVhDNVpSY0E0?oc=5\" target=\"_blank\">AI智能体组织： 5个人管理100个智能体员工– McKinsey Greater China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">麦肯锡</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-274-c2253eea1d",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Making large language models reliable data science programming copilots for biomedical research - Nature",
+   "summary": "Making large language models reliable data science programming copilots for biomedical research &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50QktselJoYnR6SEdDSHQxUVBpVHIzZ3VWY3NQM1VCWUJPRjV6TTFMcC1YTXh1eGJlQlktZ1FFRGNhajRQX3dxc09iSEpTM2NHTDgwbHZZTndaQjlucm40?oc=5",
+   "published_at": "2026-01-22T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "satya-nadella",
+   "builder_name": "Satya Nadella",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE50QktselJoYnR6SEdDSHQxUVBpVHIzZ3VWY3NQM1VCWUJPRjV6TTFMcC1YTXh1eGJlQlktZ1FFRGNhajRQX3dxc09iSEpTM2NHTDgwbHZZTndaQjlucm40?oc=5\" target=\"_blank\">Making large language models reliable data science programming copilots for biomedical research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

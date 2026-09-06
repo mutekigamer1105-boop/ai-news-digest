@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1118-95f46edb8d",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI的推理模型有时会用中文“思考” 背后原因众说纷纭 - 财联社",
+   "summary": "OpenAI的推理模型有时会用中文“思考” 背后原因众说纷纭 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lbEd3MGFkZFVvNDJWZkJEQWxzTl9aTjVLWDFTRHNqSEloUjROWjMyc181QlpFQUZWejZTWUVWY3NlTjZXZElvMQ?oc=5",
+   "published_at": "2025-01-15T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lbEd3MGFkZFVvNDJWZkJEQWxzTl9aTjVLWDFTRHNqSEloUjROWjMyc181QlpFQUZWejZTWUVWY3NlTjZXZElvMQ?oc=5\" target=\"_blank\">OpenAI的推理模型有时会用中文“思考” 背后原因众说纷纭</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  }
+ ]
+}

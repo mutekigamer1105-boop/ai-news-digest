@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WaVpBQ2o5ZWdBdC1vVTlITXAyZDZnUGVFdmNfRHZPcUFaYXBNUXhSSDk0Q0pZTENKb1NWZGtULTVRdU9zZUR5a0ZPNktpQl9fbUxNZ2J0dWkxc0lwVjFz?oc=5\" target=\"_blank\">CancerLLM: a large language model in cancer domain - npj Digital Medicine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-989-0cc420c74e",
+   "source_id": "news",
+   "source_name": "证券时报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "7天狂飙超250%！AI大模型，彻底爆发！ - 证券时报",
+   "summary": "7天狂飙超250%！AI大模型，彻底爆发！ &nbsp;&nbsp; 证券时报",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50UHZrYmVJemw1dmJBUU1jT0k0aUlkSkNMTFAzWWVEZXp6X1N3a3NZWjNyZGNsYl9FUkhObDlhTlNvalNiZjd0b0NKZUFUc1M0SnZiYXh6a1dFSm9i?oc=5",
+   "published_at": "2026-02-20T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE50UHZrYmVJemw1dmJBUU1jT0k0aUlkSkNMTFAzWWVEZXp6X1N3a3NZWjNyZGNsYl9FUkhObDlhTlNvalNiZjd0b0NKZUFUc1M0SnZiYXh6a1dFSm9i?oc=5\" target=\"_blank\">7天狂飙超250%！AI大模型，彻底爆发！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

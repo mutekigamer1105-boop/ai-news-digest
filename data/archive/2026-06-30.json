@@ -64,6 +64,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVm9tMS16aHJ3YUtTSlRHZU0zLXNpMGh0RTRYRjctVGxRQ29xNWZ5Wlp3dDdDOE0tUjNjNFgzUEhNRVhoQm1MZVdvdElxOWNBUkxFTGZPR0VsZjJCbkxuNm9PNlI0TklvbXlUTkhYYVM1Y0hpalNIR2tWckFwUEtWZFpDTU1GeFFaV2NoR0QxSFDSAZYBQVVfeXFMUEkxSng3WFp1STJxZldDVEY4MEpja1lZSy0yc3VNQmIzYmxLbzBSc01aN3JKaDlPOVN5Y2dmaTFjUWNvb3VIdVoyeGtRYW15X1FvbHVyU3h3LXgxSkZBNXB6ZW5EYThpaFB3WEY5LWZQdkNHZWd1dlVrcWZpcG0ySVM1djhHd3lES2xSSFg5dmJrbFBUVXVn?oc=5\" target=\"_blank\">White House upends AI model release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-764-4977327fe1",
+   "source_id": "news",
+   "source_name": "The Hill",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "White House upends AI model release - The Hill",
+   "summary": "White House upends AI model release &nbsp;&nbsp; The Hill",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVm9tMS16aHJ3YUtTSlRHZU0zLXNpMGh0RTRYRjctVGxRQ29xNWZ5Wlp3dDdDOE0tUjNjNFgzUEhNRVhoQm1MZVdvdElxOWNBUkxFTGZPR0VsZjJCbkxuNm9PNlI0TklvbXlUTkhYYVM1Y0hpalNIR2tWckFwUEtWZFpDTU1GeFFaV2NoR0QxSFA?oc=5",
+   "published_at": "2026-06-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVm9tMS16aHJ3YUtTSlRHZU0zLXNpMGh0RTRYRjctVGxRQ29xNWZ5Wlp3dDdDOE0tUjNjNFgzUEhNRVhoQm1MZVdvdElxOWNBUkxFTGZPR0VsZjJCbkxuNm9PNlI0TklvbXlUTkhYYVM1Y0hpalNIR2tWckFwUEtWZFpDTU1GeFFaV2NoR0QxSFA?oc=5\" target=\"_blank\">White House upends AI model release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-939-4998e50969",
+   "source_id": "news",
+   "source_name": "中国科技网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "湖北发布首个交通行业AI大模型“荆楚・行” - 中国科技网",
+   "summary": "湖北发布首个交通行业AI大模型“荆楚・行” &nbsp;&nbsp; 中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42aXBBMWJ4X3ZSdmt5VUtGQkxsZDZFRllZWE1LaTZuSHhRcWZWczEtVGZ1VjI2NmNZSVloa3FpcUY3OTRBdGZaWDcyOXo0LTF1dENVUC05WGh6SVFHTXRQcmtOOTJmcUg2cDhaRVM3Vlk?oc=5",
+   "published_at": "2026-06-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE42aXBBMWJ4X3ZSdmt5VUtGQkxsZDZFRllZWE1LaTZuSHhRcWZWczEtVGZ1VjI2NmNZSVloa3FpcUY3OTRBdGZaWDcyOXo0LTF1dENVUC05WGh6SVFHTXRQcmtOOTJmcUg2cDhaRVM3Vlk?oc=5\" target=\"_blank\">湖北发布首个交通行业AI大模型“荆楚・行”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

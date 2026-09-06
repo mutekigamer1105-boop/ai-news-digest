@@ -43,6 +43,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMWDUydzNwSXNBZmoxVkxiVXZtelhlUjhsQnB5RFJpcVRMeHRjWTdOSk9jOS1uTEU2ZTNhMHFTbTRRdW9tczdNN19hNVZvVVlnQzNfZTVYNnlYVE9E?oc=5\" target=\"_blank\">Large language models and creativity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EurekAlert!</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-978-b2fa948ab7",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "热点追踪| AI也会被“投毒”，我们该如何避坑？-思客 - 新华网",
+   "summary": "热点追踪| AI也会被“投毒”，我们该如何避坑？-思客 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMV9hNjJja09TUXBaeFdFeG9rVTZfQVcxX2RsT3FNTHJ3QUVfMmZjYXNNRkliWHU2ME1kdGJKYlI2b01aajNxbHhYOUFmSHo2T1NsT1dnbGlORVNjY014MndlSjRUMllkcVRhZ1RlSS1CZFIwQXhfVkt6RE5zYUFpNg?oc=5",
+   "published_at": "2026-03-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNMV9hNjJja09TUXBaeFdFeG9rVTZfQVcxX2RsT3FNTHJ3QUVfMmZjYXNNRkliWHU2ME1kdGJKYlI2b01aajNxbHhYOUFmSHo2T1NsT1dnbGlORVNjY014MndlSjRUMllkcVRhZ1RlSS1CZFIwQXhfVkt6RE5zYUFpNg?oc=5\" target=\"_blank\">热点追踪| AI也会被“投毒”，我们该如何避坑？-思客</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

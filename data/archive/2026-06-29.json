@@ -107,6 +107,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TcTNpendDcTBOTldGemk5cDZ0Ny1jNGp0MnpzZHRHX2M2SWEtVGtHMXdDeW5PQmRaTVB2OURBNmU2QVdnVjhnTU9rbVhIemJLM053bmQ0SU5lY3FQ?oc=5\" target=\"_blank\">中国AI大模型调用量连续九周领跑，美国份额一年内从72%跌至33%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-629-b657452af0",
+   "source_id": "news",
+   "source_name": "Semafor",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exclusive / US investors lead $30M funding for Gulf AI startup 1001 - Semafor",
+   "summary": "Exclusive / US investors lead $30M funding for Gulf AI startup 1001 &nbsp;&nbsp; Semafor",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZmxjRUtoY3BsOVlYUHdicDdjNTdzcDkzLV9MUWdwOTdDVkJiOS1iQVRQd24ybVZrZkkwN3ZUTWNzN1Z4REJpODY4eFlNYzFjdWVocFJxVkVDczY3S0RNdTBfQTE0b0Q2ejlQUTNlWjZXb3R2ZkFWTkdweUhydlpGM010NHJ4T2R3Y3JQQ3lHblRjNXp2TWRhUEdacEZoZw?oc=5",
+   "published_at": "2026-06-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZmxjRUtoY3BsOVlYUHdicDdjNTdzcDkzLV9MUWdwOTdDVkJiOS1iQVRQd24ybVZrZkkwN3ZUTWNzN1Z4REJpODY4eFlNYzFjdWVocFJxVkVDczY3S0RNdTBfQTE0b0Q2ejlQUTNlWjZXb3R2ZkFWTkdweUhydlpGM010NHJ4T2R3Y3JQQ3lHblRjNXp2TWRhUEdacEZoZw?oc=5\" target=\"_blank\">Exclusive / US investors lead $30M funding for Gulf AI startup 1001</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semafor</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

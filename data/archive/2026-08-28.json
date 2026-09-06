@@ -259,6 +259,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrZUFaVnpmS3R0RDlxUUxKNndOZmhaZnJVcXZWNkZfYkh3dG01M3RfRUVvSlhuVWM2a0h6NTNkaG1MVnJfbndZSkNNRWw5dXJuZVUtaVFhNXFkUFZPMm1pbw?oc=5\" target=\"_blank\">OpenAI拟终止向Cursor提供人工智能模型，担忧SpaceX违反使用条款| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1073-e20cd6a2fd",
+   "source_id": "news",
+   "source_name": "TradingView",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "DHH：AI智能体已可承担80%至100%的编码工作，程序员角色将转向设计与判断 - TradingView",
+   "summary": "DHH：AI智能体已可承担80%至100%的编码工作，程序员角色将转向设计与判断 &nbsp;&nbsp; TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YWm40UE9VdWtkUmN1dk51d3JsYll6ZXE5RW9rdFJGeG53UWpaWVNzQkxBcC16RHB0cVNqaXVVbkNqX2NMOGxLN3ZvYjhSTFRBUEpvcU5UVUNqa0U0eFVqaDBrTW00UQ?oc=5",
+   "published_at": "2026-08-28T10:52:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YWm40UE9VdWtkUmN1dk51d3JsYll6ZXE5RW9rdFJGeG53UWpaWVNzQkxBcC16RHB0cVNqaXVVbkNqX2NMOGxLN3ZvYjhSTFRBUEpvcU5UVUNqa0U0eFVqaDBrTW00UQ?oc=5\" target=\"_blank\">DHH：AI智能体已可承担80%至100%的编码工作，程序员角色将转向设计与判断</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-362-c479012225",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Our decision on Cursor following its acquisition by SpaceX - OpenAI",
+   "summary": "Our decision on Cursor following its acquisition by SpaceX &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
+   "published_at": "2026-08-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5\" target=\"_blank\">Our decision on Cursor following its acquisition by SpaceX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

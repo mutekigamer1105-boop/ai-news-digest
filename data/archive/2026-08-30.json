@@ -194,6 +194,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1sM0Y4RVJ4eEh0NEwydGkzUkRBZHZmUHNuWFQwTzgtX19TOVdvcDB4TldqSktONExyNldfVkpCU1JMaktPWEtZdGxSN3J5dTZOOG40Z0M3dlI2MXlJVW0telVLZU5UcUgtLS1vSTEySVBtUmp3TUI1bUp0Wkx5ZEU?oc=5\" target=\"_blank\">数据要素筑基，人工智能加速落地应用（经济聚焦）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民日报</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1076-757b280032",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "超百个智能体自主入侵“抱抱脸”，AI安全防线触及临界点？ - 东方财富",
+   "summary": "超百个智能体自主入侵“抱抱脸”，AI安全防线触及临界点？ &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54bWNrRWxfQ3BuNjl2aEMtU0p2TG9ZUWU5R2JjZEJmeG1hV0Q0T2doYVFHTXRlVVVDWWFtSElQdTBWWVNyck0xWTAzSmFiOGhsckNzOFNWcEpjVm9mWHVLYg?oc=5",
+   "published_at": "2026-08-30T07:55:14+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54bWNrRWxfQ3BuNjl2aEMtU0p2TG9ZUWU5R2JjZEJmeG1hV0Q0T2doYVFHTXRlVVVDWWFtSElQdTBWWVNyck0xWTAzSmFiOGhsckNzOFNWcEpjVm9mWHVLYg?oc=5\" target=\"_blank\">超百个智能体自主入侵“抱抱脸”，AI安全防线触及临界点？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-1038-5d8074e428",
+   "source_id": "news",
+   "source_name": "新京报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "新款智己L6上市，首次搭载AI智能体 - 新京报",
+   "summary": "新款智己L6上市，首次搭载AI智能体 &nbsp;&nbsp; 新京报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pc2Mxdy1XREVGTWVyMm00SS1ibkJQVHEyNms0eXAtZldzRW9hUzcwVlVON2x3QldDamZkdFROWWFpZExwZjNLZkdKWXpTS1JWdUp6b0tmNFd1WWltWE9mNzFR?oc=5",
+   "published_at": "2026-08-30T00:55:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pc2Mxdy1XREVGTWVyMm00SS1ibkJQVHEyNms0eXAtZldzRW9hUzcwVlVON2x3QldDamZkdFROWWFpZExwZjNLZkdKWXpTS1JWdUp6b0tmNFd1WWltWE9mNzFR?oc=5\" target=\"_blank\">新款智己L6上市，首次搭载AI智能体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

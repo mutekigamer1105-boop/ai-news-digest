@@ -66,6 +66,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1EQzZmcGZlUzZrV212S2V6OTVkbXB3NXJwaWtlSEN3QjRad0RCQWIyanpyV1VVQkRKTUxraDBjYjBDYzVnN3R0ZENMQS1VLUppYm5xM0lRQ0tYX0FhczJrMHlHRERTYlBUNjZabDc3bU5ZdEpNM0Vv?oc=5\" target=\"_blank\">全线控底盘、AI智能体加速上车，“技术普及”成为下一阶段市场竞争关键词｜成都车展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">封面新闻</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1070-0b9707c802",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "金山办公启动WPS Comate百城AI智能体赋能计划 - 东方财富",
+   "summary": "金山办公启动WPS Comate百城AI智能体赋能计划 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1adHlMSldMUEdkSEd1X0tmZlBlQnVFYUlSVzlMYXBiMVRBNzlBTnJBWXo0MHdiOVNDTnFqSUI1aUxqaGdVbDU0Nk1YdHpZQ2NRNFNJZHJmeHI1TGxIQ1ZsbA?oc=5",
+   "published_at": "2026-08-22T11:52:23+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1adHlMSldMUEdkSEd1X0tmZlBlQnVFYUlSVzlMYXBiMVRBNzlBTnJBWXo0MHdiOVNDTnFqSUI1aUxqaGdVbDU0Nk1YdHpZQ2NRNFNJZHJmeHI1TGxIQ1ZsbA?oc=5\" target=\"_blank\">金山办公启动WPS Comate百城AI智能体赋能计划</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-175-53da714f49",
+   "source_id": "news",
+   "source_name": "Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "This CEO caught his AI agent wasting $1,000 in tokens. He says 'insecurity' is a bigger problem - Fortune",
+   "summary": "This CEO caught his AI agent wasting $1,000 in tokens. He says 'insecurity' is a bigger problem &nbsp;&nbsp; Fortune",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWE5ya1FoRzFUVGc4bXpZR0F2VEtxZ24tSDZKOTROZ0hLcWdPNDJjWW5GV2taRGRPaXVuVDRmS3N1TXAtM1JCa1hhVWMzTzNRRzFRRC1SQmtrTlp4ZDlDQjhaeFEtZ1E3d0dRbmg4VVdwWTFhLWx6QmZMM0lFckRWdENBV1ZNNGJKNTBjTVBmbV95STNnQVZlQw?oc=5",
+   "published_at": "2026-08-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQWE5ya1FoRzFUVGc4bXpZR0F2VEtxZ24tSDZKOTROZ0hLcWdPNDJjWW5GV2taRGRPaXVuVDRmS3N1TXAtM1JCa1hhVWMzTzNRRzFRRC1SQmtrTlp4ZDlDQjhaeFEtZ1E3d0dRbmg4VVdwWTFhLWx6QmZMM0lFckRWdENBV1ZNNGJKNTBjTVBmbV95STNnQVZlQw?oc=5\" target=\"_blank\">This CEO caught his AI agent wasting $1,000 in tokens. He says 'insecurity' is a bigger problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

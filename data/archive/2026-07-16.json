@@ -220,6 +220,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mM0xoRGdBbFBmdnU3OVdiMWhJM2UzdFhNcmJGRVdBQ3kyNGF0N0hBVkZMMEVNM1cyalJ3YUdpRnJSS2R1QVZCMlNtejJOMkNEOUR5YTZBNDNHajExSzVNZg?oc=5\" target=\"_blank\">国产AI迭代提速！全球最大开源模型Kimi K3问世 多只概念股业绩有望高增</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-619-7e141e9592",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "China And AI Lead Asia’s Startup Funding To Multiyear Peak In Q2 - Crunchbase News",
+   "summary": "China And AI Lead Asia’s Startup Funding To Multiyear Peak In Q2 &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXEyLTRjaS14TkRUcjVXMUNlR01oOFNSVTZkMXAtVlFob0o3cHR4ejhNRzJEbTdOQ2xpazBmOXBldGNTTlA3SC1YcHhOVVRJbzFjaHlMRHY3ZW1VOGs3NHVscjVBU2VsaVFXQUp1WFFJMHpPRHJsOURkNXRLc1JCRzI5RXhIYTFwVnpHeXF3ZnJLN0k?oc=5",
+   "published_at": "2026-07-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXEyLTRjaS14TkRUcjVXMUNlR01oOFNSVTZkMXAtVlFob0o3cHR4ejhNRzJEbTdOQ2xpazBmOXBldGNTTlA3SC1YcHhOVVRJbzFjaHlMRHY3ZW1VOGs3NHVscjVBU2VsaVFXQUp1WFFJMHpPRHJsOURkNXRLc1JCRzI5RXhIYTFwVnpHeXF3ZnJLN0k?oc=5\" target=\"_blank\">China And AI Lead Asia’s Startup Funding To Multiyear Peak In Q2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-637-a6915a899a",
+   "source_id": "news",
+   "source_name": "Technical.ly",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "2 local startups captured 75% of Pittsburgh’s $70M in venture funding for Q2 - Technical.ly",
+   "summary": "2 local startups captured 75% of Pittsburgh’s $70M in venture funding for Q2 &nbsp;&nbsp; Technical.ly",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0pnNy1rOU1ZckZYaEJJbks1WFlVRU9ub0hCbGF5aDk3NWYxUFp1YUE5VXZvVkl2UVIxMzZJcHl1TDlrZEZWUE42ZkZyd29UTjdyMHM5TWxoSnp0RFEzN2ZhZHhqdDhqRFM0bHZRVUoxUU51eXhJSFl0U0Q0cl9HMTRyUGwwY2l1Z1FFUUE3Mm5Rbm9ZOUE?oc=5",
+   "published_at": "2026-07-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0pnNy1rOU1ZckZYaEJJbks1WFlVRU9ub0hCbGF5aDk3NWYxUFp1YUE5VXZvVkl2UVIxMzZJcHl1TDlrZEZWUE42ZkZyd29UTjdyMHM5TWxoSnp0RFEzN2ZhZHhqdDhqRFM0bHZRVUoxUU51eXhJSFl0U0Q0cl9HMTRyUGwwY2l1Z1FFUUE3Mm5Rbm9ZOUE?oc=5\" target=\"_blank\">2 local startups captured 75% of Pittsburgh’s $70M in venture funding for Q2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Technical.ly</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

@@ -219,6 +219,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBxX2ZqaDdRSWk3SGtMR2IyelF6ZnR1UWtHbGtDb2hjQXdEcFpuMVpPTnFqV3FlTWR4R1NUN3p0bUFCbkJET1pUM1hWeVRsTV9UNjRmTGRqUGZpMXlZR1FNVGxJQWFZM09QSXZybktmenJCU01TN1czUA?oc=5\" target=\"_blank\">为什么中国大模型便宜又好用？（外国网友趣问中国）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中青在线</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1048-c66358a7ed",
+   "source_id": "news",
+   "source_name": "mittrchina.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体正在重写科研 - mittrchina.com",
+   "summary": "AI智能体正在重写科研 &nbsp;&nbsp; mittrchina.com",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EVW42SlVSeEI3N1NLdXd3dGlYdUhSb1RCeUIyWDVzcmdYVEdtR0tzaHRKZFBmWUxWckFxTUZGNk95R1paUW91Yl9QQjg3T1c2YmxpcVRJVQ?oc=5",
+   "published_at": "2026-08-12T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EVW42SlVSeEI3N1NLdXd3dGlYdUhSb1RCeUIyWDVzcmdYVEdtR0tzaHRKZFBmWUxWckFxTUZGNk95R1paUW91Yl9QQjg3T1c2YmxpcVRJVQ?oc=5\" target=\"_blank\">AI智能体正在重写科研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mittrchina.com</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

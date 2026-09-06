@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-286-92f67f57b2",
+   "source_id": "news",
+   "source_name": "MIT News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "A smarter way for large language models to think about hard problems - MIT News",
+   "summary": "A smarter way for large language models to think about hard problems &nbsp;&nbsp; MIT News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXpOREREYzNkMWl3RGhSWVRELWwzMDR4Vl9MSXZDNmlPeV9lNThsQ0dZZldZVktHcy1JdGtSanNkSHhMNms4RXpoNjRXVFVPaTdQaGNFOWlzR1E0RHNSOUJnNy02NnhjWlpvM2tyM2I3cVdxNWhfb2o5Z0VHdVNHUHlrRlVoYUszTE1mT1RJVllzMEJS?oc=5",
+   "published_at": "2025-12-04T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXpOREREYzNkMWl3RGhSWVRELWwzMDR4Vl9MSXZDNmlPeV9lNThsQ0dZZldZVktHcy1JdGtSanNkSHhMNms4RXpoNjRXVFVPaTdQaGNFOWlzR1E0RHNSOUJnNy02NnhjWlpvM2tyM2I3cVdxNWhfb2o5Z0VHdVNHUHlrRlVoYUszTE1mT1RJVllzMEJS?oc=5\" target=\"_blank\">A smarter way for large language models to think about hard problems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT News</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  }
+ ]
+}

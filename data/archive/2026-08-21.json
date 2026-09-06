@@ -175,6 +175,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lWW5ET2syamVhaGQ4QVg2TXhfQko2SzZRbWlDYnhjSUJibnNweHZ3b0ROTkc2MUlFN2dCd0xWblZ1cW9QSXYycF9OeVRnS3ptQ05nZUFGY0JRUjg1OFRpYXJB?oc=5\" target=\"_blank\">阿里虎鲸文娱自研虎鲸AI大模型 内测AI视频创作工具</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-90-990c3fb091",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "These 3 Artificial Intelligence Stocks Can Double by the End of 2027 - Yahoo Finance",
+   "summary": "These 3 Artificial Intelligence Stocks Can Double by the End of 2027 &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXZ3eEx5N19UV2M2b2ZkY1hkcTZCdDRDX3d2aFljQ2pkMUh0dGw2LTg4Z3lZWENkY0c3WlNIb1ZTUlo2VDN6MEw2Q1R5d3NqeHgyOGM4YW1mVlpJcHRhRVRhNGVxTkFFcGhnNVk5RmphX1RFQ0s2OVpEand5YW1lWmh4QldnTjdWY3E1Zi1fd2lxLUpCRXEtYzQzRmlXZkFibFIwQ1FUaw?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXZ3eEx5N19UV2M2b2ZkY1hkcTZCdDRDX3d2aFljQ2pkMUh0dGw2LTg4Z3lZWENkY0c3WlNIb1ZTUlo2VDN6MEw2Q1R5d3NqeHgyOGM4YW1mVlpJcHRhRVRhNGVxTkFFcGhnNVk5RmphX1RFQ0s2OVpEand5YW1lWmh4QldnTjdWY3E1Zi1fd2lxLUpCRXEtYzQzRmlXZkFibFIwQ1FUaw?oc=5\" target=\"_blank\">These 3 Artificial Intelligence Stocks Can Double by the End of 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-1090-259ef63606",
+   "source_id": "news",
+   "source_name": "紫牛新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "WPS Comate百城AI智能体赋能计划启动 - 紫牛新闻",
+   "summary": "WPS Comate百城AI智能体赋能计划启动 &nbsp;&nbsp; 紫牛新闻",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fTzFDTEtUT0piZkRLcGlPZmpxcHNqaXJBUUFEMWJ1ZmxhcXZSTy0wSzhoYUtub1Uwb1N1Z2laZnJmQ2M2Z1hyU2c3MFhyNWUtOFpuaHdoSk94Z0ZWSlVpWkJUNFBzNDho?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fTzFDTEtUT0piZkRLcGlPZmpxcHNqaXJBUUFEMWJ1ZmxhcXZSTy0wSzhoYUtub1Uwb1N1Z2laZnJmQ2M2Z1hyU2c3MFhyNWUtOFpuaHdoSk94Z0ZWSlVpWkJUNFBzNDho?oc=5\" target=\"_blank\">WPS Comate百城AI智能体赋能计划启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">紫牛新闻</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

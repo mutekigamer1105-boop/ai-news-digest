@@ -195,6 +195,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhRVp2cEU5SVJVM3diMEdmYU02X1RFNF80aS1FMUVEcEs4bnZaNzdCdU1oSnNQUUtCdmMyRTVmaExqeER5ZU01RFh5b2pQR3dmeGR6Ni1MZzRXRTJlUWxSS1QxNVdOUdIBa0FVX3lxTE1obmZmdDR4T1hHX25ILV9FeHZuSGVhNXdsQkpuVncyLWJmRXZmRngzX28wbXR4TVdqMGd6UVN5ekhiclJCMmVsTE5iQmd6YkdmSGZGbTlWWnp3TlhBNGRvVmVvcTNVVnlldzc0?oc=5\" target=\"_blank\">AI撰写论文：“大学指控我学术不端，但明明那都是我自己写的。”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1112-685541d317",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "IBM携手OpenAI拓展企业人工智能服务，将培训数万名顾问| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "IBM携手OpenAI拓展企业人工智能服务，将培训数万名顾问| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Zc1dvQjNINmIzdTlmNDJLckxhckprQWVxbXF1UHhKUU9EUnF5YXFfR1hFVkpmUk5laHBDb1RvelVMR1lJeEl1Y3BfT3JJWkU0Sng2dkY3czd5c0dNTVpPdVNtSQ?oc=5",
+   "published_at": "2026-08-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Zc1dvQjNINmIzdTlmNDJLckxhckprQWVxbXF1UHhKUU9EUnF5YXFfR1hFVkpmUk5laHBDb1RvelVMR1lJeEl1Y3BfT3JJWkU0Sng2dkY3czd5c0dNTVpPdVNtSQ?oc=5\" target=\"_blank\">IBM携手OpenAI拓展企业人工智能服务，将培训数万名顾问| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

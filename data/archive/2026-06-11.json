@@ -87,6 +87,72 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTBvNExNTl9uNjc2Y1hKeGpMcml2NFJ3Ykg1cUlnNmgxWlVPMzRFRUoxa0pCWnV4UHRtS0pCbkpJUDVDOWpfWVZTeTI1R0xxVHRsQkpXMHBrektPMktOM3VuckdVUGFlbXRfbVVoeG5VV2VCTFRGU2EyU1RrLU9JdER4UTBsWUF3dzhn?oc=5\" target=\"_blank\">Large language models as experimental systems in human psychopathology: a modelling study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Lancet</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-470-c42eb73fe3",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Claude Corps - Anthropic",
+   "summary": "Introducing Claude Corps &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
+   "published_at": "2026-06-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5\" target=\"_blank\">Introducing Claude Corps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-965-5e6ec14d90",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.76,
+   "title": "大模型竞争进入淘汰赛：智谱AI的“中厂”逻辑 - 钛媒体",
+   "summary": "大模型竞争进入淘汰赛：智谱AI的“中厂”逻辑 &nbsp;&nbsp; 钛媒体",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MU0ZkSkRyUWJRMDM5aFRsTWFSQVNEclZEakd3aWtHTS1RVlhmZkZob1Y5bzJGc1RlZ0doUHJNVWlRNV9sTVhHNjJEdTU?oc=5",
+   "published_at": "2026-06-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MU0ZkSkRyUWJRMDM5aFRsTWFSQVNEclZEakd3aWtHTS1RVlhmZkZob1Y5bzJGc1RlZ0doUHJNVWlRNV9sTVhHNjJEdTU?oc=5\" target=\"_blank\">大模型竞争进入淘汰赛：智谱AI的“中厂”逻辑</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">钛媒体</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-1146-46725d2d65",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI秘密提交IPO文件，市场关注估值与盈利能否匹配| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI秘密提交IPO文件，市场关注估值与盈利能否匹配| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UREtCclByN0tWb0VkLXlCTlRzWE92U3FZOHhDeVFaYXczRUlkX1d0blNVa29peFg2dDZyenhWS0x2N1FQVTg1SHdhdnpEcndJa0x6Y1JvZmNiSDJLTGthUUhGNkdJd0V0RC01TkRn?oc=5",
+   "published_at": "2026-06-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1UREtCclByN0tWb0VkLXlCTlRzWE92U3FZOHhDeVFaYXczRUlkX1d0blNVa29peFg2dDZyenhWS0x2N1FQVTg1SHdhdnpEcndJa0x6Y1JvZmNiSDJLTGthUUhGNkdJd0V0RC01TkRn?oc=5\" target=\"_blank\">OpenAI秘密提交IPO文件，市场关注估值与盈利能否匹配| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

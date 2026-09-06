@@ -2911,6 +2911,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2FsN3ZxcVlYLXhzU25JQ0t1UkEtOXYzVm4wekxhQl93OUw1Y0QxblQ4M1lZVEV2VFFNaEl5eFZIVGJ3VU96UDBBdjhRbnRMQ3BwNVcyRU1RejBQWDBqVnREeklZdXUwRXd0eXczaklOWDMwVzF4eGFldy13dzM4TERFRTVTUHpzN1VoT3hYREZpTTFodExPM2lNeDBlNjh0dTFSalNrUGxSQTMtMGRhOA?oc=5\" target=\"_blank\">OpenAI says Apple has only itself to blame in trade-secret fight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-582-107ef064c9",
+   "source_id": "news",
+   "source_name": "crn.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "VMware Adds Google, Nvidia AI Models To VCF; Boosts Tanzu Security To Drive AI Adoption - crn.com",
+   "summary": "VMware Adds Google, Nvidia AI Models To VCF; Boosts Tanzu Security To Drive AI Adoption &nbsp;&nbsp; crn.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRi1PUkRrc3NXN1plSXEzUG9MbzBmX1Z6bDBiTDRnTm81ODl1TlpOX0d6cXpidmFFWTBENnpFS2Qta3dWVGVVSXJJcjd4ODdsZXVOSmtrNXlSVlRIUl9HZUxmZ01BRmNBMnpPdTdsWjdBZ0l1SEdzckY3ektKdDZibk9weUl6ak45R1dWSldFTmN2NjE1Zl9tMkFqc3h3T1VzVFdJQ3AxZzlkSFRvSzZYVzZiM2JEdVFKNWc?oc=5",
+   "published_at": "2026-09-01T14:35:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQRi1PUkRrc3NXN1plSXEzUG9MbzBmX1Z6bDBiTDRnTm81ODl1TlpOX0d6cXpidmFFWTBENnpFS2Qta3dWVGVVSXJJcjd4ODdsZXVOSmtrNXlSVlRIUl9HZUxmZ01BRmNBMnpPdTdsWjdBZ0l1SEdzckY3ektKdDZibk9weUl6ak45R1dWSldFTmN2NjE1Zl9tMkFqc3h3T1VzVFdJQ3AxZzlkSFRvSzZYVzZiM2JEdVFKNWc?oc=5\" target=\"_blank\">VMware Adds Google, Nvidia AI Models To VCF; Boosts Tanzu Security To Drive AI Adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crn.com</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-176-fa7fb502c9",
+   "source_id": "news",
+   "source_name": "Yahoo! Finance Canada",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What Happens When Everyone Has An AI Agent? - Yahoo! Finance Canada",
+   "summary": "What Happens When Everyone Has An AI Agent? &nbsp;&nbsp; Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44d0F1cVdRMFNOaUNlWUMwU0cycXRrV2dUU2Nrb0ZfcjBKaUZMSC1FT1ZhVVd0aW5wWWdqakFKazJ6aU5PN3lCUlBNTlFGUFlnZjBxNWZ1Zjk1OHJIUjBaR2dLV2ZOaVpHcDU4Y1BGaGFXU3F0TkZyaGNPX1ZmWG8?oc=5",
+   "published_at": "2026-09-01T10:01:31+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE44d0F1cVdRMFNOaUNlWUMwU0cycXRrV2dUU2Nrb0ZfcjBKaUZMSC1FT1ZhVVd0aW5wWWdqakFKazJ6aU5PN3lCUlBNTlFGUFlnZjBxNWZ1Zjk1OHJIUjBaR2dLV2ZOaVpHcDU4Y1BGaGFXU3F0TkZyaGNPX1ZmWG8?oc=5\" target=\"_blank\">What Happens When Everyone Has An AI Agent?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }

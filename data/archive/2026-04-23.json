@@ -86,6 +86,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE16eFV4OEVsQUlNR2FBbjRpRFRlaE1CcWdhYXRON00xWUU5dElOclV4dmo3MU5RdlVFelRkM21QZWcyTW9naGZuR1F1STFUNGhPeWhXdU13RFRkMXAwV2o0?oc=5\" target=\"_blank\">The effect of medical explanations from large language models on diagnostic accuracy in radiology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-490-f55b5f52d1",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "An update on recent Claude Code quality reports - Anthropic",
+   "summary": "An update on recent Claude Code quality reports &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lbzBkRXBGLTl2YjRQU2NDT0piaWdaZks2ckFNNXYwXzdEOERUZHBEWVZSTktyZ0xQLTNrM2h3NXZnY3N2Ty0xdUJFRzNfUFRqWHl3VW5hMGxpTkttOVR1YXRSMnVJNWR5?oc=5",
+   "published_at": "2026-04-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lbzBkRXBGLTl2YjRQU2NDT0piaWdaZks2ckFNNXYwXzdEOERUZHBEWVZSTktyZ0xQLTNrM2h3NXZnY3N2Ty0xdUJFRzNfUFRqWHl3VW5hMGxpTkttOVR1YXRSMnVJNWR5?oc=5\" target=\"_blank\">An update on recent Claude Code quality reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-288-fd102292f8",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Low-energy small language models with retrieval-augmented generation can surpass large-model performance in rheumatology - Frontiers",
+   "summary": "Low-energy small language models with retrieval-augmented generation can surpass large-model performance in rheumatology &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbU9mbzR1VFZTSVVpMEpXY3BtQ1pwMUdSR3VocjNfOW1rdkRsakZ1YmpIWjIzM2YwNWlKb1AyS3RLd0p5SEpkWWZYcHJPbnVKa2NISElla2NEZFFTbzRDb2VrNkh4STU3TlNYVDN1SnRVWDFHaUJCV0VLVXZLRUdaVWZXUEdkREtyeUQ1SkxR?oc=5",
+   "published_at": "2026-04-23T06:45:49+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQbU9mbzR1VFZTSVVpMEpXY3BtQ1pwMUdSR3VocjNfOW1rdkRsakZ1YmpIWjIzM2YwNWlKb1AyS3RLd0p5SEpkWWZYcHJPbnVKa2NISElla2NEZFFTbzRDb2VrNkh4STU3TlNYVDN1SnRVWDFHaUJCV0VLVXZLRUdaVWZXUEdkREtyeUQ1SkxR?oc=5\" target=\"_blank\">Low-energy small language models with retrieval-augmented generation can surpass large-model performance in rheumatology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-09-06T04:05:07+00:00"
   }
  ]
 }
