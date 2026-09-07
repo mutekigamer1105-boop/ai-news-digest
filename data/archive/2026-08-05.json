@@ -88,6 +88,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5\" target=\"_blank\">Meta debuts first AI coding agent to take on Anthropic and OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-912-60d3d36f5b",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型惊艳华尔街？高盛盘点五大趋势 点名这些投资机会 - 财联社",
+   "summary": "中国AI大模型惊艳华尔街？高盛盘点五大趋势 点名这些投资机会 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Uc3dNT241UkU3c20wV29BOFB2R3NZYWFjbVRDODFhTFIyaXNRZGxPWU1NbUh4Vmd6VWtuS2tvcmVmRllIY29oSQ?oc=5",
+   "published_at": "2026-08-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Uc3dNT241UkU3c20wV29BOFB2R3NZYWFjbVRDODFhTFIyaXNRZGxPWU1NbUh4Vmd6VWtuS2tvcmVmRllIY29oSQ?oc=5\" target=\"_blank\">中国AI大模型惊艳华尔街？高盛盘点五大趋势 点名这些投资机会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-946-5adf8d6259",
+   "source_id": "news",
+   "source_name": "新京报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "梁文锋“硬汉梗图”走红背后，中国大模型正成为全球AI界的“鲇鱼” - 新京报",
+   "summary": "梁文锋“硬汉梗图”走红背后，中国大模型正成为全球AI界的“鲇鱼” &nbsp;&nbsp; 新京报",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YazVXQ2tMdllzN1gtZDFiVnpIZlhhNlFqTElWOUd6bERuV0dkQ3NIcUh3akZRbFlxUWhjVnZYZHpPenRvaDZSM3dHRGF6bWhvZlFXX1Azal9ZSGdQakFOLXAwTFk?oc=5",
+   "published_at": "2026-08-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YazVXQ2tMdllzN1gtZDFiVnpIZlhhNlFqTElWOUd6bERuV0dkQ3NIcUh3akZRbFlxUWhjVnZYZHpPenRvaDZSM3dHRGF6bWhvZlFXX1Azal9ZSGdQakFOLXAwTFk?oc=5\" target=\"_blank\">梁文锋“硬汉梗图”走红背后，中国大模型正成为全球AI界的“鲇鱼”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

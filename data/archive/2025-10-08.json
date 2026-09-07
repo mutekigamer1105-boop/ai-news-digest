@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8wNTdsUlJoeWd6THBCMWx5TEFGdmZuT3VYWG5STGplLVhPeGwxYU1YbUVJVFJ2WEM5Q2dEMm5vMlZnbVY1S2NSTkpxb05ITFN5cWtJWGkwTUZnQUNfRzQ4dXFhelVvS29Qa0E?oc=5\" target=\"_blank\">OpenAI封禁疑与中国政府有关联的账户</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1153-257148dab1",
+   "source_id": "news",
+   "source_name": "aboluowang.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "惹怒美国！OpenAI出手封禁多个中文用户 - aboluowang.com",
+   "summary": "惹怒美国！OpenAI出手封禁多个中文用户 &nbsp;&nbsp; aboluowang.com",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCc19sdFVyMkhudkkwRG82U2UtWGUxc2NpQnk2eU83OFM0d3VDUGozVl9idmV2dlpYN3FDTU5pck9pejdZdHNsbkJ1cWV0RmM2T25IVkliaHZRNVA3aXfSAWNBVV95cUxOdkExZDdGbUlPQklaekV4aUlCLVpJVDhCRVc2TE93ZTBSN2xLZjB4UlN2cUcwdEd5ZmtyUVZKcDhNZ3JsUzJ1c2pEblVVNFUxSzUwSDhsZ2EybGE5YUJTN2ZWWnc?oc=5",
+   "published_at": "2025-10-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCc19sdFVyMkhudkkwRG82U2UtWGUxc2NpQnk2eU83OFM0d3VDUGozVl9idmV2dlpYN3FDTU5pck9pejdZdHNsbkJ1cWV0RmM2T25IVkliaHZRNVA3aXfSAWNBVV95cUxOdkExZDdGbUlPQklaekV4aUlCLVpJVDhCRVc2TE93ZTBSN2xLZjB4UlN2cUcwdEd5ZmtyUVZKcDhNZ3JsUzJ1c2pEblVVNFUxSzUwSDhsZ2EybGE5YUJTN2ZWWnc?oc=5\" target=\"_blank\">惹怒美国！OpenAI出手封禁多个中文用户</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aboluowang.com</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

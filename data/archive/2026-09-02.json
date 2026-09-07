@@ -4888,6 +4888,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1RNcmdJUjhiNUU5aVRjRVhzSGlucVhSLVItbTFYYU5hcXhaQUwzN3ZyZm1lWlB0YnZmU3IxcHdPRWVWZHJYaW5EVThKclRTMFdJMmMtT3RiaWhhalJINk9pbmphVE1HTm1Vekd1N182Q1hwR2k0SkdXTjNTc0Z6OWZ6alhSdGNES3pmSm1YeTJEZWFtc3d5b0plVmZfRVdQTGZ1MUdiZVdOMld0b1dXY2V0TTlQSTQ?oc=5\" target=\"_blank\">人工智能、教育和社会科学：CLACSO 的战略对话</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CLACSO</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-320-4ce34268cd",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra - OpenAI",
+   "summary": "Legora reviewed 41 documents in minutes with GPT-6 Astra &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEcnZWaUdQVEx0Z2xKWlRKeTNhclFEYTdxS3V1NGdpRVpndU93SER6dGJYVGZQWVlKRHNhRW5QeTB0RXlXeWxRTWdnRi11c2hlY2pZam1hSmJJc3NNcXNLaUwwb3kySzExRTlnLWR4UTJQTThwTmxtUGdB?oc=5",
+   "published_at": "2026-09-02T15:20:56+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBEcnZWaUdQVEx0Z2xKWlRKeTNhclFEYTdxS3V1NGdpRVpndU93SER6dGJYVGZQWVlKRHNhRW5QeTB0RXlXeWxRTWdnRi11c2hlY2pZam1hSmJJc3NNcXNLaUwwb3kySzExRTlnLWR4UTJQTThwTmxtUGdB?oc=5\" target=\"_blank\">Legora reviewed 41 documents in minutes with GPT-6 Astra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-617-cadf2d63a7",
+   "source_id": "news",
+   "source_name": "- Disrupt Africa",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Askya AI Growth Platform offers $200k zero-equity funding to African startups - - Disrupt Africa",
+   "summary": "Askya AI Growth Platform offers $200k zero-equity funding to African startups &nbsp;&nbsp; - Disrupt Africa",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGROaUxyU3dGVjdFdmFwRmRvVGJNdlRYeEZqRmwyY3BDZ05mb3NfRlZxcWRyNnoxNEctNEtHc01aWUlMcUlOUDlLbXNibGF0WDhSc2dkaFNxdVN5c3VXZUJ6WHN4UXJuc1RlOVotZlpQM1BST1F2cnZiTnptV0t4X0dkamdKSXA0N3ZxTWpWRkJfWDZTalZVV0pkcVVXSDkyUGJpN01VNk8ta2NPS0ROS1Z3QlA?oc=5",
+   "published_at": "2026-09-02T07:00:44+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGROaUxyU3dGVjdFdmFwRmRvVGJNdlRYeEZqRmwyY3BDZ05mb3NfRlZxcWRyNnoxNEctNEtHc01aWUlMcUlOUDlLbXNibGF0WDhSc2dkaFNxdVN5c3VXZUJ6WHN4UXJuc1RlOVotZlpQM1BST1F2cnZiTnptV0t4X0dkamdKSXA0N3ZxTWpWRkJfWDZTalZVV0pkcVVXSDkyUGJpN01VNk8ta2NPS0ROS1Z3QlA?oc=5\" target=\"_blank\">Askya AI Growth Platform offers $200k zero-equity funding to African startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">- Disrupt Africa</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

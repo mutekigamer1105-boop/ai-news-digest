@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MMV9YNFhUZ2VJLVhuSGREdmtxNzZfRmhicUxTUkNvOTgzTmxlaXlqOGZxejFLVnY2N0E2VnNkeUo2UlNmVjlCekdfOTVSTGxuakxBaWZPN1ZvR3BzQ3c?oc=5\" target=\"_blank\">OpenAI发布ChatGPT语音助手 会说中文等50种语言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">数码科技</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-1137-46e9e725bd",
+   "source_id": "news",
+   "source_name": "华尔街见闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI全面发布类人ChatGPT语音助手，会说中文等50多种语言 - 华尔街见闻",
+   "summary": "OpenAI全面发布类人ChatGPT语音助手，会说中文等50多种语言 &nbsp;&nbsp; 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xeWp4R0V4WGFsVTd2NVRhOGJaWktjMDR6NlRvUTdBLWtoY0c2blZrYnhRcldGNEROYnMzeGpYMm1walN5RjJqdmtGNmYtMGg1Mmdv?oc=5",
+   "published_at": "2024-09-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xeWp4R0V4WGFsVTd2NVRhOGJaWktjMDR6NlRvUTdBLWtoY0c2blZrYnhRcldGNEROYnMzeGpYMm1walN5RjJqdmtGNmYtMGg1Mmdv?oc=5\" target=\"_blank\">OpenAI全面发布类人ChatGPT语音助手，会说中文等50多种语言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

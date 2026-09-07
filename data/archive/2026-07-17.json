@@ -240,6 +240,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9INGNWVjZPQ1NjbEJZVXFtRklJWURBOUZBdXUwVzdTODNxeGprUHNIalpWR3FWMFZKakxsOW5CSzBIWmtUb0dMLXFoRVIzNEYySU9uWjNLZm13RnluM1lDSUhZejVsRXplbWxYTWFmWDVYekpxcTd1RDB3Vzc?oc=5\" target=\"_blank\">千问AI眼镜将升级为智能体眼镜：能灵活调用Skill和Agent，能全天候感知</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-884-f4c6531ed3",
+   "source_id": "news",
+   "source_name": "UN News",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "古特雷斯：人工智能必须成为促进包容与可持续发展的力量 - UN News",
+   "summary": "古特雷斯：人工智能必须成为促进包容与可持续发展的力量 &nbsp;&nbsp; UN News",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xWDBfOExDV3dQTUhINVVYME5hYW53VUJqLVVFenpUT2M1TkhKakdoYS1DWTUxOXNmWnpuRUhxRUF4UjNKNkVoUDRxc1JMcGVnYnFReEk0RQ?oc=5",
+   "published_at": "2026-07-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xWDBfOExDV3dQTUhINVVYME5hYW53VUJqLVVFenpUT2M1TkhKakdoYS1DWTUxOXNmWnpuRUhxRUF4UjNKNkVoUDRxc1JMcGVnYnFReEk0RQ?oc=5\" target=\"_blank\">古特雷斯：人工智能必须成为促进包容与可持续发展的力量</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

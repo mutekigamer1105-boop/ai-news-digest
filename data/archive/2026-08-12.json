@@ -241,6 +241,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EVW42SlVSeEI3N1NLdXd3dGlYdUhSb1RCeUIyWDVzcmdYVEdtR0tzaHRKZFBmWUxWckFxTUZGNk95R1paUW91Yl9QQjg3T1c2YmxpcVRJVQ?oc=5\" target=\"_blank\">AI智能体正在重写科研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mittrchina.com</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-208-e1170c399a",
+   "source_id": "news",
+   "source_name": "Oracle Blogs",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Getting Started with Private Large Language Model Service – Part 1 - Oracle Blogs",
+   "summary": "Getting Started with Private Large Language Model Service – Part 1 &nbsp;&nbsp; Oracle Blogs",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEV6QWpDR3M2WFZWOURWT1VSTloyTndxQVdGWkQ2NVJBaTNVd3lsZHNvSl9keDRkM24xamprQ0E1dGx0VlpSNmJJSzY2RzhrWGFJbDFlbWktOThWYkRtWGVzLVB2cWVzSTFlcVdIaVd1SW44TUdMWkZWUjE5dkItbA?oc=5",
+   "published_at": "2026-08-12T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEV6QWpDR3M2WFZWOURWT1VSTloyTndxQVdGWkQ2NVJBaTNVd3lsZHNvSl9keDRkM24xamprQ0E1dGx0VlpSNmJJSzY2RzhrWGFJbDFlbWktOThWYkRtWGVzLVB2cWVzSTFlcVdIaVd1SW44TUdMWkZWUjE5dkItbA?oc=5\" target=\"_blank\">Getting Started with Private Large Language Model Service – Part 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oracle Blogs</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

@@ -262,6 +262,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE44eG5iRFQ2RVc1Z203TEg4c0QteWIzRzFTMTBSTEs0MXB0VUppU01tbWlhTGd2amlZYUhtYzRxaEJpZzBORHlXNW1PbEhiSm12eXlfTjB1NjgxWC13Mml3?oc=5\" target=\"_blank\">Co-packaged optics for high-performance computing and artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-97-5bbc219b4c",
+   "source_id": "news",
+   "source_name": "National Institute of Standards and Technology (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Seeking Public Comment! Using Artificial Intelligence for Cybersecurity Framework 2.0 Analysis and Reporting - National Institute of Standards and Technology (.gov)",
+   "summary": "Seeking Public Comment! Using Artificial Intelligence for Cybersecurity Framework 2.0 Analysis and Reporting &nbsp;&nbsp; National Institute of Standards and Technology (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzJST18wbU1TQ0FENG1nTGJ0aERmZ0dVcnBHdm1fUmdBQ012TnpLLW1XX2FXZDNhMlU5N3ZkSF8wZC1NdTQ4YjFqS21hX1hfQXhmbGQ0MXhEbjJZRUZNNDNlSUpaYTMyblBKZndxQVpIWFJodlJ3MGFQWU5KbkQ4VEVOWFowc1pyN2wzeEJsM2RUU2F2MXNkUm9pVnUzcnlrS1R6bnlVTXpmSHItUEFLWEpn?oc=5",
+   "published_at": "2026-08-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzJST18wbU1TQ0FENG1nTGJ0aERmZ0dVcnBHdm1fUmdBQ012TnpLLW1XX2FXZDNhMlU5N3ZkSF8wZC1NdTQ4YjFqS21hX1hfQXhmbGQ0MXhEbjJZRUZNNDNlSUpaYTMyblBKZndxQVpIWFJodlJ3MGFQWU5KbkQ4VEVOWFowc1pyN2wzeEJsM2RUU2F2MXNkUm9pVnUzcnlrS1R6bnlVTXpmSHItUEFLWEpn?oc=5\" target=\"_blank\">Seeking Public Comment! Using Artificial Intelligence for Cybersecurity Framework 2.0 Analysis and Reporting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Institute of Standards and Technology (.gov)</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-1147-1751c2561f",
+   "source_id": "news",
+   "source_name": "TOP1markets",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI严防模型“失控”，AI板块还有机会吗？ - TOP1markets",
+   "summary": "OpenAI严防模型“失控”，AI板块还有机会吗？ &nbsp;&nbsp; TOP1markets",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVhKcnpJY3ZXOFRvVXo4OGQ1d194ZnpiMnFqTHZ1dEtVa096MFNMV2NVX1h3UXF2WUZtSzVveFM1NC1oUHJLajhZNDZ4VVlHalZMaFNwcHhYR0ZiVXVudXpodkx0VW5DLURZMmVDQ1docXFZV0lvazkza2plTHN2R0JSekhvdXBQaHpacXlHOHozTENsZzViMmp4bmtsN0M3?oc=5",
+   "published_at": "2026-08-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVhKcnpJY3ZXOFRvVXo4OGQ1d194ZnpiMnFqTHZ1dEtVa096MFNMV2NVX1h3UXF2WUZtSzVveFM1NC1oUHJLajhZNDZ4VVlHalZMaFNwcHhYR0ZiVXVudXpodkx0VW5DLURZMmVDQ1docXFZV0lvazkza2plTHN2R0JSekhvdXBQaHpacXlHOHozTENsZzViMmp4bmtsN0M3?oc=5\" target=\"_blank\">OpenAI严防模型“失控”，AI板块还有机会吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TOP1markets</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

@@ -571,6 +571,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEEwcE9ISjdxZmlzWXJiaXFEWTNmeEVCX3R0NU1Qa2ZONThvZ21DTDAwVmIyOUVJRHBLd1ZHeE5lWmROekVqTUdMQ2ExS0JpRVhwQmxSTWpFMGFTTW5yZ3g3NFRjTEc5U1AzU1Bmc01SemFlVHRzNFhOTzlRbDBnMWNpal91ZXNNT3RHYkNkVE9oZC1qOHRZcFpqbWVmbDIyMjdjMGI5MWc?oc=5\" target=\"_blank\">NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure | NVIDIA Technical Blog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Developer</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-66-d8dfdf499d",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Patient factors in medical artificial intelligence: a systematic review - Nature",
+   "summary": "Patient factors in medical artificial intelligence: a systematic review &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wUk5zMnlsbERDdW9TMGJzYUQ5LTVHcmdzTnFzNlFXODBBODJKVkNVN05VTVZTQk9jeXhJano3amI1VHZuVzdtcXJTMGZRUWxGTXZZR0Q4UE1qMDllMzFN?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wUk5zMnlsbERDdW9TMGJzYUQ5LTVHcmdzTnFzNlFXODBBODJKVkNVN05VTVZTQk9jeXhJano3amI1VHZuVzdtcXJTMGZRUWxGTXZZR0Q4UE1qMDllMzFN?oc=5\" target=\"_blank\">Patient factors in medical artificial intelligence: a systematic review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-925-e72df69e11",
+   "source_id": "news",
+   "source_name": "中国日报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "贵州首个“一人公司”AI大模型市集将亮相2026数博会 - 中国日报网",
+   "summary": "贵州首个“一人公司”AI大模型市集将亮相2026数博会 &nbsp;&nbsp; 中国日报网",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jdDRRbWhXcFFIZ3pyUUlfZkM0QUw2NTFQRkRDVDE4OGgxdjJmbmhUU1U2Ykp5eVg2Nmh5bm9NWko5RkxIeDJXRjNPVkw1QzgwSWJSTW90N0wwNXdlVVUzUU5jZFpqUVpVNmRzRlZldlJMMFROUDJidnR0c1Y?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9jdDRRbWhXcFFIZ3pyUUlfZkM0QUw2NTFQRkRDVDE4OGgxdjJmbmhUU1U2Ykp5eVg2Nmh5bm9NWko5RkxIeDJXRjNPVkw1QzgwSWJSTW90N0wwNXdlVVUzUU5jZFpqUVpVNmRzRlZldlJMMFROUDJidnR0c1Y?oc=5\" target=\"_blank\">贵州首个“一人公司”AI大模型市集将亮相2026数博会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国日报网</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

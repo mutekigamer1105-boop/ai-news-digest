@@ -398,6 +398,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxObEhOa3UxeWxXdGc5c185Wi0zeDRHTjhUbnRxVnZzSDllSjJLb0pNQ1RxbWRLRWhYcGZkTllsUnV1OUk2bDc5WEFoaVJ3NHBiSkltdThfSmkxcVJUdndkdHNoLUFYN2wxb2NIZG8zTDQ3cWhEVGQ5NlVYZWlhSGpjbkhtZ1lKN01TZW1pV3ZSUElyR3FSczZyQ2tWRUJFdnZjb0NrZDlYWm5USmla?oc=5\" target=\"_blank\">Out of Bounds: What the U.S. Government Should Do in Response to AI Agent Containment Failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSIS | Center for Strategic and International Studies</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-107-107ee9603d",
+   "source_id": "news",
+   "source_name": "McKinsey & Company",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Where AI agents pay off: A practical guide to the economics of agentic workflows - McKinsey & Company",
+   "summary": "Where AI agents pay off: A practical guide to the economics of agentic workflows &nbsp;&nbsp; McKinsey & Company",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTTJ0UFZvQ1podXBjWHZoS0lKbDh2UkhQRDJ0Y1htVERBelVYQ1YtU1FKLTFpV2k5bGlGSms2ZjRaWXhleWtLNW8xaWFOTWdGbUs5Sk9TaHJVMENRamFFdVpZRThfTjltWDVpSWxHWk95dVVicF9kZEtiWEpKNUo4eVJFblFtZXU1azNFSmk1R0NJQm8xelF1R3VCeUpwZERNX0RlMW9fVDhEUi13cmxLb1BEVzJiY1VBV3I2c3g4S1JCeEpYNDF3VklKd1ZINmZ6S1pOelpiQzM5RUU?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTTJ0UFZvQ1podXBjWHZoS0lKbDh2UkhQRDJ0Y1htVERBelVYQ1YtU1FKLTFpV2k5bGlGSms2ZjRaWXhleWtLNW8xaWFOTWdGbUs5Sk9TaHJVMENRamFFdVpZRThfTjltWDVpSWxHWk95dVVicF9kZEtiWEpKNUo4eVJFblFtZXU1azNFSmk1R0NJQm8xelF1R3VCeUpwZERNX0RlMW9fVDhEUi13cmxLb1BEVzJiY1VBV3I2c3g4S1JCeEpYNDF3VklKd1ZINmZ6S1pOelpiQzM5RUU?oc=5\" target=\"_blank\">Where AI agents pay off: A practical guide to the economics of agentic workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">McKinsey & Company</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

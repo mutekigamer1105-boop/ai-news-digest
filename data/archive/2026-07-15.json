@@ -109,6 +109,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHZmVXduVjhLM2RvNUl3dEw0RmVlc2daOWxqaVFGVXl5blN2UVExS1RxRjB4Y29fTDE3enVRQ3EyNTQxSDA0OXJVZ05mUkxPT0RsMmJQRjNoNjdkSC14N2w0cXltNGhGWkdIanoxUllWbkFLR1RnR1dUX0x3RW5HenVYZk1BSEk3SjNyeFRwMEk5bjJ1MW5B?oc=5\" target=\"_blank\">Murati’s Thinking Machines releases first AI model for broad use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-887-0bdf01bb66",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "人工智能发展的中国之道：前瞻布局 健康发展 - 新华网",
+   "summary": "人工智能发展的中国之道：前瞻布局 健康发展 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkRScFJQVVVfRUJpXzFjeWZQSkIyWHYtXzJxQTBSOENwdlBhY1dTc1o2dHlZcmJKaGNqbVBsc3FEZlBiNi0zZlhZWjI5R205X2tZc0xQLUtMSHFPUUxSa0JuUWJSeHhOLWo1M1piQmVXRXBNUVFNeXowV1VrcmhRQm9jY29ZMkhZd2JJT3JB?oc=5",
+   "published_at": "2026-07-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkRScFJQVVVfRUJpXzFjeWZQSkIyWHYtXzJxQTBSOENwdlBhY1dTc1o2dHlZcmJKaGNqbVBsc3FEZlBiNi0zZlhZWjI5R205X2tZc0xQLUtMSHFPUUxSa0JuUWJSeHhOLWo1M1piQmVXRXBNUVFNeXowV1VrcmhRQm9jY29ZMkhZd2JJT3JB?oc=5\" target=\"_blank\">人工智能发展的中国之道：前瞻布局 健康发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

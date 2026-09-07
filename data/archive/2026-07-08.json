@@ -242,6 +242,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDZISWFaLTZoMEFjMU94VzFxYmhGN0RSelctU3pvaVB5UG03UlloSm43QnZ3dURGekp5Z3dsdUhrUjJ5LUROWWNLdE1HeVJOYmI4UWQwdzVpaVoxYWtPY214dFVvM0R4N2pPMzNjV3N3Q0FUV3JiUl9VRXBwa0lNWkVvelpMMDl0Q0hOMGQ0Wk5MZjBEV3VCRmtSam1HbDRudXo4MEotV3lTem8?oc=5\" target=\"_blank\">OpenAI to publicly release GPT-5.6, rolls out conversational AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-788-1ddbeb9330",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI to Roll Out Top AI Model Globally After Limited Preview - Bloomberg.com",
+   "summary": "OpenAI to Roll Out Top AI Model Globally After Limited Preview &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ25Yd29LczFQMUd3Wi1PdWxlUmlxdXU0cTUzVlFFT3AyZUZVNWk4cjBreW1lV3VLZGNXbmpfdFp6Z3p6eE1sY3N4VzRuQ2g4QUYxamRmSF9tSlRlVkxET0hMV0ZuMVVZQklwaTJKNzJjM3ZkeVZmMkhTOVg0RHFFYnlVSFBCQmc2T2VXZW9iYUQwa0FYb1ZsNkNKOUxvdk9NY01FWjd2YXJ4eGVtVVZnVE9Rcw?oc=5",
+   "published_at": "2026-07-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ25Yd29LczFQMUd3Wi1PdWxlUmlxdXU0cTUzVlFFT3AyZUZVNWk4cjBreW1lV3VLZGNXbmpfdFp6Z3p6eE1sY3N4VzRuQ2g4QUYxamRmSF9tSlRlVkxET0hMV0ZuMVVZQklwaTJKNzJjM3ZkeVZmMkhTOVg0RHFFYnlVSFBCQmc2T2VXZW9iYUQwa0FYb1ZsNkNKOUxvdk9NY01FWjd2YXJ4eGVtVVZnVE9Rcw?oc=5\" target=\"_blank\">OpenAI to Roll Out Top AI Model Globally After Limited Preview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

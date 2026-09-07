@@ -2956,6 +2956,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE44d0F1cVdRMFNOaUNlWUMwU0cycXRrV2dUU2Nrb0ZfcjBKaUZMSC1FT1ZhVVd0aW5wWWdqakFKazJ6aU5PN3lCUlBNTlFGUFlnZjBxNWZ1Zjk1OHJIUjBaR2dLV2ZOaVpHcDU4Y1BGaGFXU3F0TkZyaGNPX1ZmWG8?oc=5\" target=\"_blank\">What Happens When Everyone Has An AI Agent?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-546-01f0fd6f34",
+   "source_id": "news",
+   "source_name": "NVIDIA",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "DLSS 5 3D-Guided Neural Rendering Debuts in NBA 2K27 - NVIDIA",
+   "summary": "DLSS 5 3D-Guided Neural Rendering Debuts in NBA 2K27 &nbsp;&nbsp; NVIDIA",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEFmUkNCdHNTVll2QzAySzE3dUsybzFZZmRoWEt6TWhfMGtGRThqT3pwQm1TWUFNelR2eXU5S1Zsa2VYMllhVXdpQTVMV2htdkhCNkhZRVZyeGRHTFVRTU1lWWlTaG1LTkpvbDlNV3lRYVhpV2ExYVA1ejM2cXdJaW9n?oc=5",
+   "published_at": "2026-09-01T13:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEFmUkNCdHNTVll2QzAySzE3dUsybzFZZmRoWEt6TWhfMGtGRThqT3pwQm1TWUFNelR2eXU5S1Zsa2VYMllhVXdpQTVMV2htdkhCNkhZRVZyeGRHTFVRTU1lWWlTaG1LTkpvbDlNV3lRYVhpV2ExYVA1ejM2cXdJaW9n?oc=5\" target=\"_blank\">DLSS 5 3D-Guided Neural Rendering Debuts in NBA 2K27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

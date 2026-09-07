@@ -151,6 +151,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQRklUbXZiQktyUFd2clQ0N1pQWi1VcnJ2bGhyYnJPcE5nRXFWRG0ydVlpVV9OWFotcGxEbXRqSnRaLVN4YW9JVFhlcWxpMmEyRVhNSDU1eUVnbFZRRC1uWFpsblNBeC14X0VhVE1FT3BoNURLZDhSTF96XzFVS3htcGZxbTFIRHlQenA5enRDRGZKQldJRkZaMVBESHExSDh6RGRNV0Jn0gGrAUFVX3lxTE9QNHNqYXU0UTl3RnRGT18wMlJqbHRMNTB5TFBMWFZVdHItWXBXZ21KczE2VTBLM29HLTRtdGxPUnhOOFpIQ25fSWlGWFdYZWE5N3BHeG9kc2ZHOFhUbWlTX015c2t6RDYzZklnUExtWVktWTJjQm43NlpJYTI1eEtRX1pJV2ZERjVDckFtcTZfV2JRbklvcGlud3prUVUwVHNjd3RVTHJCZWkwNA?oc=5\" target=\"_blank\">Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-886-ab5e48d9cf",
+   "source_id": "news",
+   "source_name": "观察者网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "美工程师咋呼：不得了，中国AI搜出来“台湾属于中国” - 观察者网",
+   "summary": "美工程师咋呼：不得了，中国AI搜出来“台湾属于中国” &nbsp;&nbsp; 观察者网",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uOGNFdWxpeEJ5WjVKYTQxU0ZIc21ZVHR1MTZWSHBGWVN2cVVwb05pVjRja3doTGRQU21fTUg2MzRYbC1fV05IckYtX0JCQlJoODJmNnp0ckxUYzNGTVFPbWpUQUdWVllGZnc?oc=5",
+   "published_at": "2026-07-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1uOGNFdWxpeEJ5WjVKYTQxU0ZIc21ZVHR1MTZWSHBGWVN2cVVwb05pVjRja3doTGRQU21fTUg2MzRYbC1fV05IckYtX0JCQlJoODJmNnp0ckxUYzNGTVFPbWpUQUdWVllGZnc?oc=5\" target=\"_blank\">美工程师咋呼：不得了，中国AI搜出来“台湾属于中国”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观察者网</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

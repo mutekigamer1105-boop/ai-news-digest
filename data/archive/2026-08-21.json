@@ -218,6 +218,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fTzFDTEtUT0piZkRLcGlPZmpxcHNqaXJBUUFEMWJ1ZmxhcXZSTy0wSzhoYUtub1Uwb1N1Z2laZnJmQ2M2Z1hyU2c3MFhyNWUtOFpuaHdoSk94Z0ZWSlVpWkJUNFBzNDho?oc=5\" target=\"_blank\">WPS Comate百城AI智能体赋能计划启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">紫牛新闻</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-491-f714d3662c",
+   "source_id": "news",
+   "source_name": "Forbes",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Claude Adds Watermarks. Implications For Business? - Forbes",
+   "summary": "Anthropic Claude Adds Watermarks. Implications For Business? &nbsp;&nbsp; Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2doWjhud1BqOVlXOFp3ZVRqTTM2dW1yZ1VvU2pNeDNrLXlCOU9PM1gxR1lzVlZwS1B2aXJKNmkyUnhhbkd6Y0Z6aUY1aVZ1cDdnSlNkWkF3bFF0aVRYRzNhcy1mZm1CT1pWeTBKSHY1ZWZxcjZOX01Nem0zY29RT3l4b3hZUHZiUEk3bHlYRzJBR0YzcmFtOERuTVRLU0RaY2I1bXBaRkFXcjlhOHNnMGpZaw?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2doWjhud1BqOVlXOFp3ZVRqTTM2dW1yZ1VvU2pNeDNrLXlCOU9PM1gxR1lzVlZwS1B2aXJKNmkyUnhhbkd6Y0Z6aUY1aVZ1cDdnSlNkWkF3bFF0aVRYRzNhcy1mZm1CT1pWeTBKSHY1ZWZxcjZOX01Nem0zY29RT3l4b3hZUHZiUEk3bHlYRzJBR0YzcmFtOERuTVRLU0RaY2I1bXBaRkFXcjlhOHNnMGpZaw?oc=5\" target=\"_blank\">Anthropic Claude Adds Watermarks. Implications For Business?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

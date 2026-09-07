@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-287-9115bba826",
+   "source_id": "news",
+   "source_name": "Virginia Tech News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Advanced Research Computing expands large language model access - Virginia Tech News",
+   "summary": "Advanced Research Computing expands large language model access &nbsp;&nbsp; Virginia Tech News",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0d3pCVUJEbVFMd2FBRHkyM1h5MTlvY0pqOEd3Q2xKengzQVR1UWk2OGRVOFdaZWNsQ29XQkp6VHYwelBSdmtJT2wtc3B4NndNXy1NZmdRamhZX2dOUTFvWWs1Z1hKdEVEQmtILU9oZw?oc=5",
+   "published_at": "2025-11-13T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFB0d3pCVUJEbVFMd2FBRHkyM1h5MTlvY0pqOEd3Q2xKengzQVR1UWk2OGRVOFdaZWNsQ29XQkp6VHYwelBSdmtJT2wtc3B4NndNXy1NZmdRamhZX2dOUTFvWWs1Z1hKdEVEQmtILU9oZw?oc=5\" target=\"_blank\">Advanced Research Computing expands large language model access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Virginia Tech News</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
+  }
+ ]
+}

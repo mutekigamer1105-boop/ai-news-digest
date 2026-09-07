@@ -283,6 +283,114 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9ERTFVb0NSYWxlWGxYdEwzV1Bfb3BnR1dDNjlySVMzcHA1M01ia3lYbS1Jak1vYTZXekl5RlA4ZHA4ME15SjlmOE1Ga2F3X0ZDazd5Y1hsT0lDOUtWN0N6YjN6bk5NS1ZydWk4dWFsdUI0eUk0Tl9CYU5UNA?oc=5\" target=\"_blank\">OpenAI Is Developing a ‘Persistent’ AI Agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-76-17a8d1a285",
+   "source_id": "news",
+   "source_name": "Vatican News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Filipino theologians explore how Church should respond to AI - Vatican News",
+   "summary": "Filipino theologians explore how Church should respond to AI &nbsp;&nbsp; Vatican News",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZGJUallXYnJYUUFYeHNZTkJyMDl0RDVGUGVrVTg1MzZyMjkweUx0SHFyc294LUV3NzBRYXRxNEhzdTZGZW5FeXQta1BpNWZwLUlDZGdNVHdKc0N5WnNhTlBqUDVtdUNhSEdkSF9WbWhyRFdZSWdWZG1tb0duUzExVFhOazl1enpWX1ltbE4xVWpRWFdTR0llUG1UWmlHcmFjNzlIQl8telRCNDJNc2c?oc=5",
+   "published_at": "2026-08-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPZGJUallXYnJYUUFYeHNZTkJyMDl0RDVGUGVrVTg1MzZyMjkweUx0SHFyc294LUV3NzBRYXRxNEhzdTZGZW5FeXQta1BpNWZwLUlDZGdNVHdKc0N5WnNhTlBqUDVtdUNhSEdkSF9WbWhyRFdZSWdWZG1tb0duUzExVFhOazl1enpWX1ltbE4xVWpRWFdTR0llUG1UWmlHcmFjNzlIQl8telRCNDJNc2c?oc=5\" target=\"_blank\">Filipino theologians explore how Church should respond to AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vatican News</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-95-af20fcfdb8",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Opinion | Much Ado About Artificial Intelligence - WSJ",
+   "summary": "Opinion | Much Ado About Artificial Intelligence &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckUzZDZzV04zdEl6Wkx0M1YwZmNxdlVnc2FQcm40c01ocUFxQkFoOFQtamFjc3JDQzNXYk9XV3dRQUpDX2lCNWEzWE45MUdfSUFDbENMSzc4RFNvX0R3NFpuUzJrSFIyQm0zRXI1TktHWnc0MHMxUnRWWW9XbGhiLQ?oc=5",
+   "published_at": "2026-08-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQckUzZDZzV04zdEl6Wkx0M1YwZmNxdlVnc2FQcm40c01ocUFxQkFoOFQtamFjc3JDQzNXYk9XV3dRQUpDX2lCNWEzWE45MUdfSUFDbENMSzc4RFNvX0R3NFpuUzJrSFIyQm0zRXI1TktHWnc0MHMxUnRWWW9XbGhiLQ?oc=5\" target=\"_blank\">Opinion | Much Ado About Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-389-0a236b58b1",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training - OpenAI",
+   "summary": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0VG9NZGFZU1hUZERtcUk0N2Z4TXJnYm04a2ltSE5wRUV5VGNQaHR3bDdtZVVka3VuNTR2dWlqNkNkcEQtNUxBOGNHTDBSNG5sdkVnVEVQLURPZWJqdTFIOTJud3I4RjZ1Z25oWVJtXzFvU3cwNHdnWTNST0lMczMwclpSSlVZcHc4bw?oc=5",
+   "published_at": "2026-08-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkI0VG9NZGFZU1hUZERtcUk0N2Z4TXJnYm04a2ltSE5wRUV5VGNQaHR3bDdtZVVka3VuNTR2dWlqNkNkcEQtNUxBOGNHTDBSNG5sdkVnVEVQLURPZWJqdTFIOTJud3I4RjZ1Z25oWVJtXzFvU3cwNHdnWTNST0lMczMwclpSSlVZcHc4bw?oc=5\" target=\"_blank\">Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-586-0365fc4bd4",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ",
+   "summary": "Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlMycHNtbklRdFFPaXNoeHlmVzF1dHJYU042Z0xMRFdXdE45V1ZFek1wOGdVUjg2WHVxc3NBdjdXQnJibnlLUTVLb0Zya1A4czhaQkMxNTlFbVBBZ0RtTTduY0VydW51RF94dTRyaXExZ25ReUU0OG9BX3lUWUZqVHlLQjNjUm1RdWlKclJScXlHWlUxRlBtNw?oc=5",
+   "published_at": "2026-08-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlMycHNtbklRdFFPaXNoeHlmVzF1dHJYU042Z0xMRFdXdE45V1ZFek1wOGdVUjg2WHVxc3NBdjdXQnJibnlLUTVLb0Zya1A4czhaQkMxNTlFbVBBZ0RtTTduY0VydW51RF94dTRyaXExZ25ReUU0OG9BX3lUWUZqVHlLQjNjUm1RdWlKclJScXlHWlUxRlBtNw?oc=5\" target=\"_blank\">Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-1138-3f048a7d35",
+   "source_id": "news",
+   "source_name": "PANews",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "《时代》杂志公布AI百大人物榜：马斯克、OpenAI奥尔特曼、阿里吴泳铭等登上封面 - PANews",
+   "summary": "《时代》杂志公布AI百大人物榜：马斯克、OpenAI奥尔特曼、阿里吴泳铭等登上封面 &nbsp;&nbsp; PANews",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yS1VVaE01X20yWkMwYTFtbmpyS3owdEpXX3p0bGFta3RBRy1GSEloN0RfYktsallETEx2OHlVU2x1amhDQmRHRjVfSm1Jc1huVl9tYk1ta28tU21RdlVwWFB0aF8zdkJFSFNnQnJkeGJKV3lQQklsZVVDV3lqZkU?oc=5",
+   "published_at": "2026-08-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9yS1VVaE01X20yWkMwYTFtbmpyS3owdEpXX3p0bGFta3RBRy1GSEloN0RfYktsallETEx2OHlVU2x1amhDQmRHRjVfSm1Jc1huVl9tYk1ta28tU21RdlVwWFB0aF8zdkJFSFNnQnJkeGJKV3lQQklsZVVDV3lqZkU?oc=5\" target=\"_blank\">《时代》杂志公布AI百大人物榜：马斯克、OpenAI奥尔特曼、阿里吴泳铭等登上封面</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

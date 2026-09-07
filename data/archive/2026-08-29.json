@@ -216,6 +216,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1jRXE4a1V5c2xicXB5ekl6ZEtleFFhOHVlV0FCalV6bVBKaERBSU5Od3lEVWtYakZKRkRlRzJvTnNPYjU2dlpUZGhFbFphMHprRHdHQVUtQnMyTW5TMGtVaVRTTDVaU0FZUG5KWHdoMWx5QQ?oc=5\" target=\"_blank\">大厂AI变阵竞赛，智能体站上C位</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-1029-11df826955",
+   "source_id": "news",
+   "source_name": "中国科技网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "今日视点丨AI智能体入侵“抱抱脸”事件调查报告提示，人工智能发展应敲响安防警钟 - 中国科技网",
+   "summary": "今日视点丨AI智能体入侵“抱抱脸”事件调查报告提示，人工智能发展应敲响安防警钟 &nbsp;&nbsp; 中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYnV5ZDk4VjVHZzF1czNaTm81R0UzSXB5SVpqNkJxcDhJTnNmMHBwbzJGWndEaUx0dGZ3cmUtWEpabFNrX2RtazR4UHpKVk1zQUVhZlFxV2lXWUlnWkVoSEozOWQ0SFVqa2dCeTFiQ0s?oc=5",
+   "published_at": "2026-08-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYnV5ZDk4VjVHZzF1czNaTm81R0UzSXB5SVpqNkJxcDhJTnNmMHBwbzJGWndEaUx0dGZ3cmUtWEpabFNrX2RtazR4UHpKVk1zQUVhZlFxV2lXWUlnWkVoSEozOWQ0SFVqa2dCeTFiQ0s?oc=5\" target=\"_blank\">今日视点丨AI智能体入侵“抱抱脸”事件调查报告提示，人工智能发展应敲响安防警钟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

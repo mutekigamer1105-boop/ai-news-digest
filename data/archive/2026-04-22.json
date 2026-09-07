@@ -262,6 +262,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUm1paWlvX3hRVWdNUS1WNmxMWGdzWmxDREN0U0V2X1NKVWxRLVZRcVJIeS1kRzVyY1pDNm5iRkU4MVRydGVNdFFVNVUtZE1PN0Y4WmxoQkYwOENZcDNQUmhNenBIUFVFc3BKYUROQWNPMEY3cTRfZVhBWkNQVzFEcHJpWk8tdzBNRkdN?oc=5\" target=\"_blank\">Can large language models help young researchers develop new clinical research ideas?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Lancet</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-1115-41f47d752e",
+   "source_id": "news",
+   "source_name": "blog.csdn.net",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 放王炸！AI 生图突然长脑子了！中文也写明白了！设计师拜拜。。。 - blog.csdn.net",
+   "summary": "OpenAI 放王炸！AI 生图突然长脑子了！中文也写明白了！设计师拜拜。。。 &nbsp;&nbsp; blog.csdn.net",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuVERKb2xOaE5GZldnNkkxNjlOa1dlX1p6TlZfRmctdDFEQXRwVXlOemlBTVVkQmJJWE95ZmxWZjVTMFl0a1A5YUMwcVlEWWNpdTYxR2R2UzJOQTZ5Ymk0Z0FHemtDdG56X19jbm5B?oc=5",
+   "published_at": "2026-04-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBuVERKb2xOaE5GZldnNkkxNjlOa1dlX1p6TlZfRmctdDFEQXRwVXlOemlBTVVkQmJJWE95ZmxWZjVTMFl0a1A5YUMwcVlEWWNpdTYxR2R2UzJOQTZ5Ymk0Z0FHemtDdG56X19jbm5B?oc=5\" target=\"_blank\">OpenAI 放王炸！AI 生图突然长脑子了！中文也写明白了！设计师拜拜。。。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.csdn.net</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

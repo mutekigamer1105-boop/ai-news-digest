@@ -240,6 +240,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1TNzRiVzgtdG4yWTN0dmJYbEhhRHg4aHBYZERmMUM0cmtYWGRSV2NmXzdpekVIQUcxS3RGXzBDUjNKN2xoM2ZZOXpkTkgyem54dkY5U1VkbEFzRjB2U3dfYmF3eHdpOHZaMVl6SG5zbHlnMDVGZEE5SldWSnI?oc=5\" target=\"_blank\">直击WAIC 2026：AI智能体加速落地教育场景，与爱为舞交出AI原生技术答卷</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国日报网</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-683-22aa3cb160",
+   "source_id": "news",
+   "source_name": "The Guardian",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Jeff Bezos and UK government invest in £2bn British startup CuspAI - The Guardian",
+   "summary": "Jeff Bezos and UK government invest in £2bn British startup CuspAI &nbsp;&nbsp; The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlhiTE5CTFVLYjZiRk40ZU9ROTFZSUFkVGQ5VHA2enNjcmJaSlJHRVRtZzdRT2pYem01NHZydHpiUlEtV0pnV29HMVVwRUVreXNyZm9UYVYtazBhZzUyVGdwVlJ3ejVVOFZiZVVBaDdsTFFrYTlYQ0pPeUR4RFl4cUE1c2ZYdTE4OURwcmw5dUktdEljcF85MF82M0kwM3dTekxyY3Y2VXhFbGxfX2tMYWdn?oc=5",
+   "published_at": "2026-07-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlhiTE5CTFVLYjZiRk40ZU9ROTFZSUFkVGQ5VHA2enNjcmJaSlJHRVRtZzdRT2pYem01NHZydHpiUlEtV0pnV29HMVVwRUVreXNyZm9UYVYtazBhZzUyVGdwVlJ3ejVVOFZiZVVBaDdsTFFrYTlYQ0pPeUR4RFl4cUE1c2ZYdTE4OURwcmw5dUktdEljcF85MF82M0kwM3dTekxyY3Y2VXhFbGxfX2tMYWdn?oc=5\" target=\"_blank\">Jeff Bezos and UK government invest in £2bn British startup CuspAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-888-aa9e9e5628",
+   "source_id": "news",
+   "source_name": "中华人民共和国科学技术部",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "阴和俊主持召开人工智能全球治理高级别会议 - 中华人民共和国科学技术部",
+   "summary": "阴和俊主持召开人工智能全球治理高级别会议 &nbsp;&nbsp; 中华人民共和国科学技术部",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fczBKZ1pHVHIyb09BMGUtQS1KMDk4NjJMTlh4R2NWUFVaeUVvR0RRSGhUME9Sa2tYZ2Eydk0zaEUwc3pDVE1jbmFJUmpNcDBUM21xc2lLbFhjZV9IdjktRTJBR0pBc1diOVE?oc=5",
+   "published_at": "2026-07-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9fczBKZ1pHVHIyb09BMGUtQS1KMDk4NjJMTlh4R2NWUFVaeUVvR0RRSGhUME9Sa2tYZ2Eydk0zaEUwc3pDVE1jbmFJUmpNcDBUM21xc2lLbFhjZV9IdjktRTJBR0pBc1diOVE?oc=5\" target=\"_blank\">阴和俊主持召开人工智能全球治理高级别会议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中华人民共和国科学技术部</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

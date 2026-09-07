@@ -86,6 +86,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1LNW9UUG5SbF9hNDN4VlFfVE1MSW5tZi16VUhUbXRMSElFUFFKZGwtekItTG5pUGJROS02QTYwQXBUS1YtRjZLRlA2NUFUaGJDLVAxdFNiWHJNb2p1MVRpOWZLelBjU1FLUFE?oc=5\" target=\"_blank\">两公司AI大模型接连失控</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">世界互联网大会</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-885-4697823e25",
+   "source_id": "news",
+   "source_name": "UN News",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "世行报告：人工智能可为发展中经济体提供新机遇 同时带来新的风险 - UN News",
+   "summary": "世行报告：人工智能可为发展中经济体提供新机遇 同时带来新的风险 &nbsp;&nbsp; UN News",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KQmNnNE5RQ3Z6OFdsNVBHSDZmdFYzem1lV0VuZk05Y3RsUnFYSWVWdTVwbWpBTWluNEdISENXSldkWjVaMUlvWlFCckNRTS1oTHFQbmZsNA?oc=5",
+   "published_at": "2026-08-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KQmNnNE5RQ3Z6OFdsNVBHSDZmdFYzem1lV0VuZk05Y3RsUnFYSWVWdTVwbWpBTWluNEdISENXSldkWjVaMUlvWlFCckNRTS1oTHFQbmZsNA?oc=5\" target=\"_blank\">世行报告：人工智能可为发展中经济体提供新机遇 同时带来新的风险</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

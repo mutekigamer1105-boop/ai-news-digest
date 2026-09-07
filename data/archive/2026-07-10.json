@@ -131,6 +131,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1pRTBvUUF2QmhqOTd2TWN5N2ozcUI3ODRfRHIxbEJ6TGtINnI5Z1NlSm1RRHFoYWxzZU0yY3AwWTdPOHJzbHRCR25qbklSUkwwSktBVFNLT0taZW1XOFN2ekswenBwVUJKS1dz?oc=5\" target=\"_blank\">OpenAI 推出 GPT-5.6 系列，三款模型瞄準企業與資安需求| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-961-6d7d2cc911",
+   "source_id": "news",
+   "source_name": "Moomoo",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？ - Moomoo",
+   "summary": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？ &nbsp;&nbsp; Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPblp4czNjYzdNb3JtTDhUT1pDZTRzMjNyaHJqTV9QMkYzdFdKY1hMMTRvdDVUUUNoYnRNTFJ2ZnFfQ2hBd0lSY084b0JFS1A2czltWGxTaS1NY0lyeWt4QWd1MTlodmNWNTlVS19rU2d0ODBVd3FCMXA1LVZKNHI5eEVKeHJrWWNvcWNTZHExdzRJMkJCTU1WSUFoWWJjTEE?oc=5",
+   "published_at": "2026-07-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPblp4czNjYzdNb3JtTDhUT1pDZTRzMjNyaHJqTV9QMkYzdFdKY1hMMTRvdDVUUUNoYnRNTFJ2ZnFfQ2hBd0lSY084b0JFS1A2czltWGxTaS1NY0lyeWt4QWd1MTlodmNWNTlVS19rU2d0ODBVd3FCMXA1LVZKNHI5eEVKeHJrWWNvcWNTZHExdzRJMkJCTU1WSUFoWWJjTEE?oc=5\" target=\"_blank\">高盛深度报告：谁将成为中国AI大模型行业的长期赢家？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

@@ -44,6 +44,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE05VkIzMWR4YmpXclplUXVSVnZzYk1ELW5PQnFlWmFuVnBrUFR5TUNWQVljSk1MUHRpaFROcDY1MkRWNVR3eU5TYUZ4T2E?oc=5\" target=\"_blank\">那个在OpenAI修中文的人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网科技</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-1101-f59cfb6ff7",
+   "source_id": "news",
+   "source_name": "智源社区",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "GPT Image 2研究科学家陈博远：我在OpenAI修中文 - 智源社区",
+   "summary": "GPT Image 2研究科学家陈博远：我在OpenAI修中文 &nbsp;&nbsp; 智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90MTl5VFZGNVFWRnpnRThYWWstNHpwNE9hLWxYQk9tM1Q2ZWdBaUdQaDFRM1czTnV5Q212ZXh0Zkh4MXJTQmptRA?oc=5",
+   "published_at": "2026-05-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE90MTl5VFZGNVFWRnpnRThYWWstNHpwNE9hLWxYQk9tM1Q2ZWdBaUdQaDFRM1czTnV5Q212ZXh0Zkh4MXJTQmptRA?oc=5\" target=\"_blank\">GPT Image 2研究科学家陈博远：我在OpenAI修中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">智源社区</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

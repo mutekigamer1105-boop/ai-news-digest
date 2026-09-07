@@ -86,6 +86,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOMm9Hd0ZPYXZLbzBPb19JRUtJbnZjeGV2VDdjd0tRUFFQemZyX3gtZGJoZmQ0a1BPNFZaZVB1Y2VWWWFHeG9JVVRvRjNCR3J6MnZsVURnSDZ3OVNldkRmeURGRUpVR3RFNXFfMXY5eFpHNmF4aWRIdDl1Y3lDRjg4d2xrUnByOWxNNVhOR3VQa1JtNU5nTGNNOVhrQ2FzNEI1QVFrMXoxRU1IWkhvU2VUQXgyQllLY0FUT0g4VnhKRmZ0dTdJVnZXa2ZwR0nSAc8BQVVfeXFMTmxXa1g4S3RSQUI0eklSaVF4UWVNd0l0TTg0cVUyNWdtdkRWYUlUb0YyUHV6aHQtWUlJNTNmZEZnWlRfQzJPZlJCOTB3Z3hDQ1J5WHNsTnpIbzJfWEVwY3kta20yQkQ2V2ltRHVuV2dtOElOSmdHM3J5bjA2dzN1NU9icFdzZG15LWI3cEFFeFFPbGQxUkFJLV81dU9LeVg4MlJKQmFyQnVsTjl0X1hxNzFPQjZBbnhhY29wUXl6S20wOFMzc0dIbHppMGdTSUZr?oc=5\" target=\"_blank\">OpenAI称中国相关影响力行动利用ChatGPT介入美国人工智能政策辩论</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">voachinese.com</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-488-c02d8b4102",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "TCS and Anthropic partner to bring Claude to regulated industries - Anthropic",
+   "summary": "TCS and Anthropic partner to bring Claude to regulated industries &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS004dFB2RHhmSy0zVWJXN0ZXbXFsdzBQTjNxNm5uOEh0cC1tVm4xdk11alFNS01lS0l4N0VVRjJHSjFUNjNfc3lHZllXRFB5Zks0X3U2VExuQ3N5aVRmV2xvd3BwNHc?oc=5",
+   "published_at": "2026-06-12T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS004dFB2RHhmSy0zVWJXN0ZXbXFsdzBQTjNxNm5uOEh0cC1tVm4xdk11alFNS01lS0l4N0VVRjJHSjFUNjNfc3lHZllXRFB5Zks0X3U2VExuQ3N5aVRmV2xvd3BwNHc?oc=5\" target=\"_blank\">TCS and Anthropic partner to bring Claude to regulated industries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

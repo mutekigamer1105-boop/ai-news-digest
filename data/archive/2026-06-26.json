@@ -175,6 +175,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBjNEdCUG9TNUtxRzhHMHVncnhHeHZPNlNPbi00Z2JGRUthTnhZajVGNzU0VnhMcEgwZzhobUphTXp1dWwza0JGOUZ4T0JZNktCSF9xVzAwMmQ0a2dwenhHOU5RcGVNSHNMcXJzU2JfckJjeDk3cF9V?oc=5\" target=\"_blank\">新华社权威AI时政资讯智能体“新华语典”正式上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cn</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-770-3adc4ef4cd",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI Limits Release of New Model Under Pressure From US - Bloomberg.com",
+   "summary": "OpenAI Limits Release of New Model Under Pressure From US &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2dpa3lTUDFtUHlNZ2YwY1VyemVpR1J6NUJtQUs4c3ZweE1ZRTNBNHRLcWQ0TWxQTFR6Y1o1eFdSUF9Kc3EzdUhzM0ZsSlQzUmpwNjA5R2hNXzNsdTlNRjU4NmZLNEtDWXhWYUlqWGlJVWk5dzNOYncySDRGVUZ6UjZmSTNRN0tHeDdVQmQyOXNyYnp0ZGFUYm9VSnBkNGUzOGNtdjdEQklUN3Et?oc=5",
+   "published_at": "2026-06-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2dpa3lTUDFtUHlNZ2YwY1VyemVpR1J6NUJtQUs4c3ZweE1ZRTNBNHRLcWQ0TWxQTFR6Y1o1eFdSUF9Kc3EzdUhzM0ZsSlQzUmpwNjA5R2hNXzNsdTlNRjU4NmZLNEtDWXhWYUlqWGlJVWk5dzNOYncySDRGVUZ6UjZmSTNRN0tHeDdVQmQyOXNyYnp0ZGFUYm9VSnBkNGUzOGNtdjdEQklUN3Et?oc=5\" target=\"_blank\">OpenAI Limits Release of New Model Under Pressure From US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

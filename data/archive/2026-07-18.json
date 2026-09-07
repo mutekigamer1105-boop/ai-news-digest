@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE91dlJIUVBsaDhNRkJ0SWpUMjFmU1hRVzJhOFhzZGRsblBlM1h5MndqazVZa0JvNW9nbGlsZFFPbDlGZlF5Zl9xWEhNeldPVlh5MVNNT3puWkdneW1lQ3FkYm5BVkw?oc=5\" target=\"_blank\">从追赶到“摸高”，中国大模型的AGI征途</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
    "fetched_at": "2026-09-03T19:40:14+00:00"
+  },
+  {
+   "id": "web-781-e9519e8bfd",
+   "source_id": "news",
+   "source_name": "Broadband Breakfast",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Chinese AI Model Takes U.S. by Surprise with Abilities Rivaling Claude and ChatGPT - Broadband Breakfast",
+   "summary": "Chinese AI Model Takes U.S. by Surprise with Abilities Rivaling Claude and ChatGPT &nbsp;&nbsp; Broadband Breakfast",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelBYVzJyalRhajJpZ1UxR0pHUXIyOG01cEZ2cUdTZzZnb3BLNHgyV1lXNl95R0FRbm5NYmZNV0ptaFZtY24xYmdpbDZhR1BPZExwY0tZajk0LXFyRHA3LVNiNE8yaGhXdkpfVzVFZGZKXy0zYkthQUtyVjNvMnZVWGJ2TVJrdnJvZGRqR3RMaE1BNTdIN2tVLVhHdzU4OVF1NmN2bGgzMmZObllNdng3QlRyRQ?oc=5",
+   "published_at": "2026-07-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNelBYVzJyalRhajJpZ1UxR0pHUXIyOG01cEZ2cUdTZzZnb3BLNHgyV1lXNl95R0FRbm5NYmZNV0ptaFZtY24xYmdpbDZhR1BPZExwY0tZajk0LXFyRHA3LVNiNE8yaGhXdkpfVzVFZGZKXy0zYkthQUtyVjNvMnZVWGJ2TVJrdnJvZGRqR3RMaE1BNTdIN2tVLVhHdzU4OVF1NmN2bGgzMmZObllNdng3QlRyRQ?oc=5\" target=\"_blank\">Chinese AI Model Takes U.S. by Surprise with Abilities Rivaling Claude and ChatGPT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Broadband Breakfast</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

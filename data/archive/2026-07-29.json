@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlbmRZNlV6UU50NzQ2b3l4dnVCV01WaTQ0NUh2anJXQjRCazFaOGtid0JVMTQyVnB3MFdWaUhFX0JoQmtKbE1vOGhlS1JiYzA5b0dQNXBtcEtmRFFIQl93dG9EVUNrQdIBa0FVX3lxTE1raEpJTVFsWVFwWkNaNGVnb3Z0ZGZUc09yN1FZZkxTR1FRMXI5Ykh4TVFEVkVmWVFRZ055N1ZqZTdMN2Z4MnRLbUtFamFWRjdNcHZOQkNRQVhsU3Z1LVVxOFRzNkg0N3BlT1lF?oc=5\" target=\"_blank\">OpenAI：失控AI曾试图入侵其他公司系统</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-947-71d134df62",
+   "source_id": "news",
+   "source_name": "ZTE",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "基于AI大模型的无线故障跨域协同系统 - ZTE",
+   "summary": "基于AI大模型的无线故障跨域协同系统 &nbsp;&nbsp; ZTE",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekptcld1b3dvaU9zckp2TFZqeTBib1ZVSkJjaWhqYWI4UDZ1bjM1bVJXS25acVdyTS0tUW5GN0JsMjU4U2prY0U2enNTblRqT1FWRzNFMERKeDdoa0llMElvSFQ0eFVJZ0lHa0hUVzA3WFdtZXJQYjlscFZYUWRsTVFNcVZVQ3hlZ0RacTU4MEhtUFBzWExQT0NHclR6dEY5Q01vRlcyV0xaa0hiWHc?oc=5",
+   "published_at": "2026-07-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOekptcld1b3dvaU9zckp2TFZqeTBib1ZVSkJjaWhqYWI4UDZ1bjM1bVJXS25acVdyTS0tUW5GN0JsMjU4U2prY0U2enNTblRqT1FWRzNFMERKeDdoa0llMElvSFQ0eFVJZ0lHa0hUVzA3WFdtZXJQYjlscFZYUWRsTVFNcVZVQ3hlZ0RacTU4MEhtUFBzWExQT0NHclR6dEY5Q01vRlcyV0xaa0hiWHc?oc=5\" target=\"_blank\">基于AI大模型的无线故障跨域协同系统</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZTE</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

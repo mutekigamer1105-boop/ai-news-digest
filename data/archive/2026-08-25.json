@@ -328,6 +328,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5\" target=\"_blank\">Jalapeño’s first results show industry-leading speed and efficiency in AI inference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-390-9b8d40b984",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing the Admin plugin for ChatGPT Work and Codex - OpenAI",
+   "summary": "Introducing the Admin plugin for ChatGPT Work and Codex &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnQ1dZRm51Q3lLeElRZUpJZU1XVkpTWkNySHBQMTBfVEMyUjlWQkxwWkdOcjhrVTJUM2FZcm9Dand2U3lBZ2ZfcE00bDNFS0lrVHZrWWRqcDJ1X3NIa1lJ?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnQ1dZRm51Q3lLeElRZUpJZU1XVkpTWkNySHBQMTBfVEMyUjlWQkxwWkdOcjhrVTJUM2FZcm9Dand2U3lBZ2ZfcE00bDNFS0lrVHZrWWRqcDJ1X3NIa1lJ?oc=5\" target=\"_blank\">Introducing the Admin plugin for ChatGPT Work and Codex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-622-333dbed41b",
+   "source_id": "news",
+   "source_name": "The American Bazaar",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Reach Capital closes $265 million fund to back AI startup founders - The American Bazaar",
+   "summary": "Reach Capital closes $265 million fund to back AI startup founders &nbsp;&nbsp; The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTENvVGhpZ1RlNnNXZVpGMXppeXgtZ0lZd3R2elpyN213dmRZenJhX1V3ZUpRdjQxZlB2R3p6Szh2c0U4elN5S2FvWUt6cnhadG14aWM0dDRvb3JqRDJKNzk0VVlPUVZJQmFsa0htUlNnMlFNYk9MSFdWWk91ekQ2U21EN2pza3dQQi1pcUVaUTQ1YkZXQnBEZXBfTXpQYWJlVWFCd0p5N1FobGNaNmZ1VWZZVjEzUHFL?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTENvVGhpZ1RlNnNXZVpGMXppeXgtZ0lZd3R2elpyN213dmRZenJhX1V3ZUpRdjQxZlB2R3p6Szh2c0U4elN5S2FvWUt6cnhadG14aWM0dDRvb3JqRDJKNzk0VVlPUVZJQmFsa0htUlNnMlFNYk9MSFdWWk91ekQ2U21EN2pza3dQQi1pcUVaUTQ1YkZXQnBEZXBfTXpQYWJlVWFCd0p5N1FobGNaNmZ1VWZZVjEzUHFL?oc=5\" target=\"_blank\">Reach Capital closes $265 million fund to back AI startup founders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The American Bazaar</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }

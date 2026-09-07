@@ -67,6 +67,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ORlhDNS1OYmVZcDRlVndGSHVXOFpKbU5teURjQ3VoX2lrOWh6ejlwdUFkUVJmR0dhQ1FoZVJ4eGpHc0d3Y2JIRmtOekdYeUpXLXk4Snh5RQ?oc=5\" target=\"_blank\">Zendesk 借助 OpenAI 技术，打造以“高效解决”为核心的自适应服务智能体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-653-ba2370af96",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Mapping AI startup investment and innovation in healthcare using a five-tier AI systems complexity framework - Nature",
+   "summary": "Mapping AI startup investment and innovation in healthcare using a five-tier AI systems complexity framework &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uNjBDaF8yY1pBY3JCTHlXQXZ0SmVrTmFGQkozLTlMajBtdGJpR3l2Sk52UDFwQ2tJbmZ3Q1dPN25laC0yM0x0aTJGMVJ3MXJoOEprUWdnV0JaWFJlb2kw?oc=5",
+   "published_at": "2026-04-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uNjBDaF8yY1pBY3JCTHlXQXZ0SmVrTmFGQkozLTlMajBtdGJpR3l2Sk52UDFwQ2tJbmZ3Q1dPN25laC0yM0x0aTJGMVJ3MXJoOEprUWdnV0JaWFJlb2kw?oc=5\" target=\"_blank\">Mapping AI startup investment and innovation in healthcare using a five-tier AI systems complexity framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-07T04:05:03+00:00"
   }
  ]
 }
