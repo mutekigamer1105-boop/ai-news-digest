@@ -17911,6 +17911,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1NCMDA0cU9XNFBMbXJqaUNQNGpBX0hWQU1IdmNPcjVPbW1fSGFqMEdYOFNjUkNvUEtjN25kekozeUR2bEU3aHFiQTkyU3R2ek80cUN4czNKNkVPd0czbmNZTUgxaUg2ZDBjVmluSktXUGZCWDRDdWhpZ2k4cGppNUc2aFkyQlczY3FkRXNZbE9PQWdMV05hdFdSbHlKakha?oc=5\" target=\"_blank\">Austin AI security startup raises $100M as agentic applications take off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-911-b30d21d7c4",
+   "source_id": "news",
+   "source_name": "wuhan.gov.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "百度智能云千帆大模型武汉创新中心打造AI产业生态圈 - wuhan.gov.cn",
+   "summary": "百度智能云千帆大模型武汉创新中心打造AI产业生态圈 &nbsp;&nbsp; wuhan.gov.cn",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tZm5xenliVHBVcDZEQVA3ZWR1eG1YWnIzTi1aSnh3QV8tTE5KMmV2OGlCdmdETFZkNlZJdUZOc0V1T2p3c2lTSXBpMzJmRkVORVZsVVV6Zi10MU1uMER6akljc0d2QWpKN0NqVkhsX1o?oc=5",
+   "published_at": "2026-09-03T23:29:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8tZm5xenliVHBVcDZEQVA3ZWR1eG1YWnIzTi1aSnh3QV8tTE5KMmV2OGlCdmdETFZkNlZJdUZOc0V1T2p3c2lTSXBpMzJmRkVORVZsVVV6Zi10MU1uMER6akljc0d2QWpKN0NqVkhsX1o?oc=5\" target=\"_blank\">百度智能云千帆大模型武汉创新中心打造AI产业生态圈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wuhan.gov.cn</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-733-274053173e",
+   "source_id": "news",
+   "source_name": "blog.google",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model - blog.google",
+   "summary": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model &nbsp;&nbsp; blog.google",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUW1VQ0hUakJ5T0M1UUk4RlBPcUtBUWtsSC0wX2xIS3B6bDNyOEJqNWxfaHVETTZTNEFCeWpOMWl0VDM1V1JWT2U5RE5qY3NrUDBjSlNGcF9IUEZCWEI0MXk0QzRseU9pYlFEUUF4MGZNOXN2VWFlMmdCV3R4WGRhTXZKNHZvRFJUdDk3aFJNdHJXRm90eEhJaHNnaWNzOW9VWEE?oc=5",
+   "published_at": "2026-09-03T15:10:36+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUW1VQ0hUakJ5T0M1UUk4RlBPcUtBUWtsSC0wX2xIS3B6bDNyOEJqNWxfaHVETTZTNEFCeWpOMWl0VDM1V1JWT2U5RE5qY3NrUDBjSlNGcF9IUEZCWEI0MXk0QzRseU9pYlFEUUF4MGZNOXN2VWFlMmdCV3R4WGRhTXZKNHZvRFJUdDk3aFJNdHJXRm90eEhJaHNnaWNzOW9VWEE?oc=5\" target=\"_blank\">Introducing WeatherNext 3, our most advanced and accurate global weather AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

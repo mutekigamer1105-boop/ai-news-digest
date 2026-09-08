@@ -239,6 +239,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2doWjhud1BqOVlXOFp3ZVRqTTM2dW1yZ1VvU2pNeDNrLXlCOU9PM1gxR1lzVlZwS1B2aXJKNmkyUnhhbkd6Y0Z6aUY1aVZ1cDdnSlNkWkF3bFF0aVRYRzNhcy1mZm1CT1pWeTBKSHY1ZWZxcjZOX01Nem0zY29RT3l4b3hZUHZiUEk3bHlYRzJBR0YzcmFtOERuTVRLU0RaY2I1bXBaRkFXcjlhOHNnMGpZaw?oc=5\" target=\"_blank\">Anthropic Claude Adds Watermarks. Implications For Business?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-169-49f4cf9516",
+   "source_id": "news",
+   "source_name": "NVIDIA Developer",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Where Security Fits in an AI Agent Stack | NVIDIA Technical Blog - NVIDIA Developer",
+   "summary": "Where Security Fits in an AI Agent Stack | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORFk2TGl4UXNSYTRLaFdpay1xd3QzZUhKMzEzN2JVeWxpWWV2R3JRNmk2c3NKUVJ5aUxGSEdBRFlWWFVXbjBaNG4tN01NTURSenljX3pnN0pjdi1VeG9yRkUwZUtpT1A4Xy1sVEpyZkhFQnd3YlgyZDFSa1NYQmVYNQ?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxORFk2TGl4UXNSYTRLaFdpay1xd3QzZUhKMzEzN2JVeWxpWWV2R3JRNmk2c3NKUVJ5aUxGSEdBRFlWWFVXbjBaNG4tN01NTURSenljX3pnN0pjdi1VeG9yRkUwZUtpT1A4Xy1sVEpyZkhFQnd3YlgyZDFSa1NYQmVYNQ?oc=5\" target=\"_blank\">Where Security Fits in an AI Agent Stack | NVIDIA Technical Blog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Developer</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-196-4b37e743cc",
+   "source_id": "news",
+   "source_name": "Amazon Web Services (AWS)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway | Artificial Intelligence - Amazon Web Services (AWS)",
+   "summary": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway | Artificial Intelligence &nbsp;&nbsp; Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkJEYU42WTQ2SmZUaVdPeExKSmFVLVgtUjl3VW00cHdiRVA4ZGFsQ1ZJOW9kMlp6clhHbXFBRDRWdWxxWFpNNjNtS2h2MzRRYk8yOEktMHFzbHV6Ym5hRW15Y096aGN4bHhCaW1lX3BueE5fckpPV0tUNmtzM0FiZFd0WS1sZTBST1cydXNzVHE1OHZtWmFDczBoMnF0eG1VdWhxNnB6Zk1wMVBTWjBXTnNn?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkJEYU42WTQ2SmZUaVdPeExKSmFVLVgtUjl3VW00cHdiRVA4ZGFsQ1ZJOW9kMlp6clhHbXFBRDRWdWxxWFpNNjNtS2h2MzRRYk8yOEktMHFzbHV6Ym5hRW15Y096aGN4bHhCaW1lX3BueE5fckpPV0tUNmtzM0FiZFd0WS1sZTBST1cydXNzVHE1OHZtWmFDczBoMnF0eG1VdWhxNnB6Zk1wMVBTWjBXTnNn?oc=5\" target=\"_blank\">Govern AI agent tool access with Amazon Bedrock AgentCore Gateway | Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

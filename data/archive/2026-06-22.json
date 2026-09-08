@@ -65,6 +65,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GbkF2SXFMRFA3V1RYNXh3cHg0WVNZcnBPYWFzVlRNSHBGYnpELUpLcWFEckZLY1ZYcFZtWElZcEdrTVNadVZPU3RMa3NhcE1KUXRv?oc=5\" target=\"_blank\">图解全球17家主流AI大模型（2026）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-795-6e35d70275",
+   "source_id": "news",
+   "source_name": "Interconnects AI",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "GLM-5.2 is the step change for open agents - Interconnects AI",
+   "summary": "GLM-5.2 is the step change for open agents &nbsp;&nbsp; Interconnects AI",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxZFVHYUwyLU9kZ0JZMUhnYkw2M0xwNVRPX1ZSNWp1LTBCOUtZMU42M3B1SXJzVHQ0WEFHUnl6WHdoTEV6SFJ5U0FOTFl3Z0U2OHBUTXo0RWhwQ3JuTzhCR0RYQWUxa2RRZVF3UnQ5ZkVpXzg?oc=5",
+   "published_at": "2026-06-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFAxZFVHYUwyLU9kZ0JZMUhnYkw2M0xwNVRPX1ZSNWp1LTBCOUtZMU42M3B1SXJzVHQ0WEFHUnl6WHdoTEV6SFJ5U0FOTFl3Z0U2OHBUTXo0RWhwQ3JuTzhCR0RYQWUxa2RRZVF3UnQ5ZkVpXzg?oc=5\" target=\"_blank\">GLM-5.2 is the step change for open agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interconnects AI</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

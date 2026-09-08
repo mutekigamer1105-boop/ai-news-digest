@@ -65,6 +65,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wQ0cweWdGUjE0M1VTcjFYUXFhZThLS3A3c2lVWmtXNlZZVlNnV2YtZ1BrcmpacjROR3JCSnpJUzdzajk5bHdBYzg2UkdWNUVrNU8yNHdabHpFM0JyazJB?oc=5\" target=\"_blank\">ONCO-RADS–guided Large Language Models for Extraction and Classification of Incidental Findings on Whole-Body Imaging Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RSNA Journals</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-492-7aecc550b8",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Claude Design by Anthropic Labs - Anthropic",
+   "summary": "Introducing Claude Design by Anthropic Labs &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JT2syNlBSbmRUM0xtZzl3bG02dTRicmR2N0J3UDRpQ29zY0tSeEhoUmp5dEJyWmhfY0I2MzVEbjY3NkV4UTJtYzhKbDB6Ri1PSGJDSnJhY3o3T1JfU3FMcEVFUjFjbkNVaGR3?oc=5",
+   "published_at": "2026-04-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9JT2syNlBSbmRUM0xtZzl3bG02dTRicmR2N0J3UDRpQ29zY0tSeEhoUmp5dEJyWmhfY0I2MzVEbjY3NkV4UTJtYzhKbDB6Ri1PSGJDSnJhY3o3T1JfU3FMcEVFUjFjbkNVaGR3?oc=5\" target=\"_blank\">Introducing Claude Design by Anthropic Labs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

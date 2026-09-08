@@ -241,6 +241,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNNGdRLU5ieDg0am5SWFplODFZUmpYdkdXcFdIQzI4b3ZKdnVzTzdxRWdMZFpPRjdQMGZhZFRfX1E4V19pS3diZlFPd3YzODZ6TVVsNWVhS1prRU43cFJWQWY1VEZsMEc0UzRIWEJoNU9DMVFhVGpTajVKU0FybFExSVA4WkZySy1ZWG1KQg?oc=5\" target=\"_blank\">学习手记｜习近平总书记指引人工智能发展与治理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-499-e19c342160",
+   "source_id": "news",
+   "source_name": "Fierce Healthcare",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic bets bigger on healthcare with Optum tie-up, UST integration - Fierce Healthcare",
+   "summary": "Anthropic bets bigger on healthcare with Optum tie-up, UST integration &nbsp;&nbsp; Fierce Healthcare",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2FCbGtPRjM4V3JaWHpLeGc2Q0Q0M0pmQzNXdnFnQVFCVVVjMTZvMkxlcTgtNkh6Y3llZEcydDRvSWVsaHB1bEtuLUlzWWxMLTV5TVc4bGpvcENSUDNHZmdyRTlDdWdOeFY1THM3RXNFZ3RUVl9LMWozSzVoNjRSdWZkM2pZcmhFdEpxVVZSWlpZS3VoVnpjWjR6bTFkQzQ?oc=5",
+   "published_at": "2026-07-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2FCbGtPRjM4V3JaWHpLeGc2Q0Q0M0pmQzNXdnFnQVFCVVVjMTZvMkxlcTgtNkh6Y3llZEcydDRvSWVsaHB1bEtuLUlzWWxMLTV5TVc4bGpvcENSUDNHZmdyRTlDdWdOeFY1THM3RXNFZ3RUVl9LMWozSzVoNjRSdWZkM2pZcmhFdEpxVVZSWlpZS3VoVnpjWjR6bTFkQzQ?oc=5\" target=\"_blank\">Anthropic bets bigger on healthcare with Optum tie-up, UST integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Healthcare</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

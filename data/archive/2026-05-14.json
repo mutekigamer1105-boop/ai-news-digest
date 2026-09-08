@@ -22,6 +22,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3kxZXozdHJOY2ZJRTNoV043RGF4WHl0RnJ4dVNRb1JsdHhJNWlKUWJIMmlDNFF2T3l3cnJqNlg2VE5tSnZNdThTR1NKUHhWRkpXRDRDR0VXTUFqV1VqV28zV1RQbEU0dEc4XzVUS19ORnc0QVBKZDdHT1JYc2I5NjNVeFJ2LTE1Q1Vv?oc=5\" target=\"_blank\">从《智能体新规》看AI智能体的风险防范与合规治理（上）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexology</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-487-4d84ee2568",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients - Anthropic",
+   "summary": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tSU1NdEJPY2ZHX2JYNjhBa01YeXFybGc1Q1F3VmxySlZueVduREMxZ2FkTU1PYy1BWlJFX2h1VWRTcXZBSWdMQXdUQmtLekk3QWd5Ynl2bV81dXB1b3BZekNEREFuQQ?oc=5",
+   "published_at": "2026-05-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tSU1NdEJPY2ZHX2JYNjhBa01YeXFybGc1Q1F3VmxySlZueVduREMxZ2FkTU1PYy1BWlJFX2h1VWRTcXZBSWdMQXdUQmtLekk3QWd5Ynl2bV81dXB1b3BZekNEREFuQQ?oc=5\" target=\"_blank\">PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

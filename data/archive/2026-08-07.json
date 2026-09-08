@@ -196,6 +196,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5Ha3VpZmtoTlFsUFRDY3VUTE0ycWUtRTZ4Q3gwRmtfY1E2OWdtWjRuOG9SeUd1RTVJVFY0elFZSGhzaWdmS0FPLWQwamg1OWItOFU1dGxhbmVGaFNGM2ZUTkJxQjV6U3ZMSmYzUFQxZkMyZw?oc=5\" target=\"_blank\">中国开源大模型海外救场，国产AI何以领跑全球？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-970-cd5b1bdacd",
+   "source_id": "news",
+   "source_name": "stdaily.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国开源大模型海外救场，国产AI何以领跑全球？ - stdaily.com",
+   "summary": "中国开源大模型海外救场，国产AI何以领跑全球？ &nbsp;&nbsp; stdaily.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sYVdTTzhySnQzT3Q4WHVXWHM0Rld3WUtOMG5GWVhnbDB0TEE1dk1hLThFeHFFZng3TXZBLVBDNjV5Y05lX1htc2FtT0VUaVFVOTVEX0tZbF9JYTR1a0I2NTg4ZDdkbkxNTVZCajNSdlE?oc=5",
+   "published_at": "2026-08-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9sYVdTTzhySnQzT3Q4WHVXWHM0Rld3WUtOMG5GWVhnbDB0TEE1dk1hLThFeHFFZng3TXZBLVBDNjV5Y05lX1htc2FtT0VUaVFVOTVEX0tZbF9JYTR1a0I2NTg4ZDdkbkxNTVZCajNSdlE?oc=5\" target=\"_blank\">中国开源大模型海外救场，国产AI何以领跑全球？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stdaily.com</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

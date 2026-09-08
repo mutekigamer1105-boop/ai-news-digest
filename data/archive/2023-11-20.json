@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1BCUXJKd2R2SFhRT25DaEkwV2dmaXNXT19aWkpHaFFMQ3dTbGdpWWwtODFHZ3NnWlhZTVVoV1B5WG1ldzFZQ1JqMG5hb1pwcjFKcjQ5Z1pqeDEzcWVXTkhpUVR6RWQ0aWhldTg1MFhULTdndGItYy1fel85RUVhbC1iVHoxSDFXdklSSmttRzFVbHFYMzREVGFMTWtTTnVqbTRQenNwamphd2h6RmNwTVRlNHo?oc=5\" target=\"_blank\">头条：奥特曼被OpenAI解雇 数百员工要跟随其加入微软</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News & Headlines – Australian Broadcasting Corporation</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1164-6a5c630d3b",
+   "source_id": "news",
+   "source_name": "新西兰中文先驱网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI已聘请Twitch联合创始人任临时CEO - 新西兰中文先驱网",
+   "summary": "OpenAI已聘请Twitch联合创始人任临时CEO &nbsp;&nbsp; 新西兰中文先驱网",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZT1E5eUM2enlqem8tVUZHOGppeGVaZ0h4X3Y4RlNUSG9mdTRKbThvVVEtaDFtQnZrX1djVjFIeXUyWTQ0NE81c1YxX0lzck8tQjZOaG5BS2hwTE5mQUVBVEV2TmY2ZFF2Mnc?oc=5",
+   "published_at": "2023-11-20T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBZT1E5eUM2enlqem8tVUZHOGppeGVaZ0h4X3Y4RlNUSG9mdTRKbThvVVEtaDFtQnZrX1djVjFIeXUyWTQ0NE81c1YxX0lzck8tQjZOaG5BS2hwTE5mQUVBVEV2TmY2ZFF2Mnc?oc=5\" target=\"_blank\">OpenAI已聘请Twitch联合创始人任临时CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新西兰中文先驱网</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

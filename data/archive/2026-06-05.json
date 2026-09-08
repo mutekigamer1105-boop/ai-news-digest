@@ -63,6 +63,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMkgxR3JCakJ0S2pJLUEzQ2gzZjVHdjNjUjBaV2hVTHE4UFYtTVdpdmdUcUtzeldxWXpEXzJRX2dTTzJjSGlpbm1CME9mZkJZa2FWVnpCdU1UeDhYbEprQjVSeVdQakUzMGc?oc=5\" target=\"_blank\">Making Claude a chemist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-798-4b08bd5b7a",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "OpenAI says it will comply with Trump's order requiring AI model reviews before release - CNBC",
+   "summary": "OpenAI says it will comply with Trump's order requiring AI model reviews before release &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yUjF5VUpfMHBpcmtsU29sWWVNT3JCbkdzdTl0OW1hUmEzelBDUXpGWVdUWVh1ZG9uR2xuLU55TlFnQzgwdkVGenFPcHpJRXY4Y2tIVkh2STFFNUpQcjNseVVYNjE2dDVfTFBXTTdsWDF4RkVpTXJjdmhmUdIBgAFBVV95cUxQTVhpZVBBTWhDcHc5TThGak5LSEtRSDhUM2U0NjBVWlBJS3RwWkx2S1REWHNHU2h2cFRYLUE0YWJpY0dpUFpUaUNnYzE1M2ZoQVp0al9rWDZvZk9aemo3ZlZ1dTNKeDVNdVU0TExYQ2tGOGg4WU1oT0tXQ3p1TzVKTQ?oc=5",
+   "published_at": "2026-06-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE4yUjF5VUpfMHBpcmtsU29sWWVNT3JCbkdzdTl0OW1hUmEzelBDUXpGWVdUWVh1ZG9uR2xuLU55TlFnQzgwdkVGenFPcHpJRXY4Y2tIVkh2STFFNUpQcjNseVVYNjE2dDVfTFBXTTdsWDF4RkVpTXJjdmhmUdIBgAFBVV95cUxQTVhpZVBBTWhDcHc5TThGak5LSEtRSDhUM2U0NjBVWlBJS3RwWkx2S1REWHNHU2h2cFRYLUE0YWJpY0dpUFpUaUNnYzE1M2ZoQVp0al9rWDZvZk9aemo3ZlZ1dTNKeDVNdVU0TExYQ2tGOGg4WU1oT0tXQ3p1TzVKTQ?oc=5\" target=\"_blank\">OpenAI says it will comply with Trump's order requiring AI model reviews before release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

@@ -391,6 +391,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9yS1VVaE01X20yWkMwYTFtbmpyS3owdEpXX3p0bGFta3RBRy1GSEloN0RfYktsallETEx2OHlVU2x1amhDQmRHRjVfSm1Jc1huVl9tYk1ta28tU21RdlVwWFB0aF8zdkJFSFNnQnJkeGJKV3lQQklsZVVDV3lqZkU?oc=5\" target=\"_blank\">《时代》杂志公布AI百大人物榜：马斯克、OpenAI奥尔特曼、阿里吴泳铭等登上封面</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-586-a2afe4d60b",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom - WSJ",
+   "summary": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVVkZ3E3ZmJtVFR1SGFmMm1CNUpSTVRFM3psNWRGZndCZXFTaUdvR1cwUXBXN0N3bGJqb3hTUi1BdkxrbmZtUVVXQ1JjVVpqTm5vSmM3eXV2VkRadFFNcTdzeFdEMlJRQk5JZFNHcGdtRk80ZlRJaFpsLU9fUXBPejZZbHYtY2tiNExJcmVGVXZETUhVMHF5R0Jsd1RVcTQ?oc=5",
+   "published_at": "2026-08-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObVVkZ3E3ZmJtVFR1SGFmMm1CNUpSTVRFM3psNWRGZndCZXFTaUdvR1cwUXBXN0N3bGJqb3hTUi1BdkxrbmZtUVVXQ1JjVVpqTm5vSmM3eXV2VkRadFFNcTdzeFdEMlJRQk5JZFNHcGdtRk80ZlRJaFpsLU9fUXBPejZZbHYtY2tiNExJcmVGVXZETUhVMHF5R0Jsd1RVcTQ?oc=5\" target=\"_blank\">Nvidia Insists It Can Keep Printing Money to Fund the AI Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

@@ -64,6 +64,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBYV01vd3FJUTBXUDAzSEhXYUZvU1ZSOFpnWlFqMjFFT1BLcmZ4SUhzbjBRVEFsMmExeTAzZ184ZzU3aTVaZ1VtS213UGx5cGxhbWtLbTRDSi0yVE82YW1XXzlRTlJ0VmExeXppRFdMRTVHdw?oc=5\" target=\"_blank\">数学与理论计算机科学的十项进展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-755-aaed8bea88",
+   "source_id": "news",
+   "source_name": "tech-insider.org",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Open Source AI Models: 9 Launches in 12 Days [2026] - tech-insider.org",
+   "summary": "Open Source AI Models: 9 Launches in 12 Days [2026] &nbsp;&nbsp; tech-insider.org",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JNGdYQ2FtWnN2aHNpbTFYWjhTQU1HYTVGcmFEUmdFZ08ydy04S0t2SGVtSDRPdlFzUVlrTURLTTdYZWd4WDJsWS0zT00zeEc1ZWRuTnBPQURrN095c2RzSnZpQndpa1B0YVhF?oc=5",
+   "published_at": "2026-08-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9JNGdYQ2FtWnN2aHNpbTFYWjhTQU1HYTVGcmFEUmdFZ08ydy04S0t2SGVtSDRPdlFzUVlrTURLTTdYZWd4WDJsWS0zT00zeEc1ZWRuTnBPQURrN095c2RzSnZpQndpa1B0YVhF?oc=5\" target=\"_blank\">Open Source AI Models: 9 Launches in 12 Days [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tech-insider.org</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

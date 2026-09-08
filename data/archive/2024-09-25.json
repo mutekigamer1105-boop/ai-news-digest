@@ -42,6 +42,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oZV8xWTJqbjZsWGdxRDRGOU43OWNvYXlIVHNHVEhaNElheWdkQkUtWnlJQXM4QUJBWFZpaU13WVpIbEF2ajdyRHVPRWxJbDVxTndYNWdR?oc=5\" target=\"_blank\">ChatGPT重磅功能全量开放：支持中文普通话，能说50种语言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">腾讯新闻</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-1151-88ba18a4d6",
+   "source_id": "news",
+   "source_name": "第一财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI官方视频爆料！ChatGPT语音助手终于来了无需手动输入提示词会说中文等50多种语言 - 第一财经",
+   "summary": "OpenAI官方视频爆料！ChatGPT语音助手终于来了无需手动输入提示词会说中文等50多种语言 &nbsp;&nbsp; 第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qMk9Ud1N2Wmc1WXRPWDZrbElPN2k5ZGJ5aThrcktneG9SbHFmVi1KUC1hVERtbDVDSHZPN1h2Q2ItVVk1MG5mdlVucDVBUUdLWTF3aw?oc=5",
+   "published_at": "2024-09-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qMk9Ud1N2Wmc1WXRPWDZrbElPN2k5ZGJ5aThrcktneG9SbHFmVi1KUC1hVERtbDVDSHZPN1h2Q2ItVVk1MG5mdlVucDVBUUdLWTF3aw?oc=5\" target=\"_blank\">OpenAI官方视频爆料！ChatGPT语音助手终于来了无需手动输入提示词会说中文等50多种语言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-1169-848eae5325",
+   "source_id": "news",
+   "source_name": "aboluowang.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI发布ChatGPT语音助手 会说中文等50种语言 - aboluowang.com",
+   "summary": "OpenAI发布ChatGPT语音助手 会说中文等50种语言 &nbsp;&nbsp; aboluowang.com",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vSTNHNW85WWE3Yk12a29mTWhGRWI5T1lGWFp5cFdrWG9oUDZBUDR6aGkwY1NzMkZoLU9aS2dvam1uS0VmQVdlMl9COXNGTUlDblctcWVvUm83Q2tEZVHSAWNBVV95cUxQNVFjcVV2NE5CNE9GQ0RkSVEyMVlaNnJJNmVsNWlNWFJHSzZndEFvaWVNVEczOGlZam9aNUtqTVBzUVo1dVBxTnQ1ZW5KSWtGTDI2b1F3dkMyOHlQNkNkb2ZGZEk?oc=5",
+   "published_at": "2024-09-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vSTNHNW85WWE3Yk12a29mTWhGRWI5T1lGWFp5cFdrWG9oUDZBUDR6aGkwY1NzMkZoLU9aS2dvam1uS0VmQVdlMl9COXNGTUlDblctcWVvUm83Q2tEZVHSAWNBVV95cUxQNVFjcVV2NE5CNE9GQ0RkSVEyMVlaNnJJNmVsNWlNWFJHSzZndEFvaWVNVEczOGlZam9aNUtqTVBzUVo1dVBxTnQ1ZW5KSWtGTDI2b1F3dkMyOHlQNkNkb2ZGZEk?oc=5\" target=\"_blank\">OpenAI发布ChatGPT语音助手 会说中文等50种语言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aboluowang.com</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

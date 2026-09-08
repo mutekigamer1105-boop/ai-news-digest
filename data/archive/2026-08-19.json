@@ -305,6 +305,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVhKcnpJY3ZXOFRvVXo4OGQ1d194ZnpiMnFqTHZ1dEtVa096MFNMV2NVX1h3UXF2WUZtSzVveFM1NC1oUHJLajhZNDZ4VVlHalZMaFNwcHhYR0ZiVXVudXpodkx0VW5DLURZMmVDQ1docXFZV0lvazkza2plTHN2R0JSekhvdXBQaHpacXlHOHozTENsZzViMmp4bmtsN0M3?oc=5\" target=\"_blank\">OpenAI严防模型“失控”，AI板块还有机会吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TOP1markets</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-498-ecb26aaaf1",
+   "source_id": "news",
+   "source_name": "Mashable",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic’s Claude can now send Gmail emails without asking first - Mashable",
+   "summary": "Anthropic’s Claude can now send Gmail emails without asking first &nbsp;&nbsp; Mashable",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZlZjWGxjcDNNckRKYVFYeXFsVHVrOUQ4aGk0d2s5NnBuWUY0MzVNaG9HYk43SG1QbjRvWHYybEJGclBsR1lVZWVqbmc4M2lfMzdIdlVaZmVWcmF3VTFMaU1Kd25rcGwyMUVQZHplVzhDV0dPaE42MU4ya0Fmc0V6Uw?oc=5",
+   "published_at": "2026-08-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNZlZjWGxjcDNNckRKYVFYeXFsVHVrOUQ4aGk0d2s5NnBuWUY0MzVNaG9HYk43SG1QbjRvWHYybEJGclBsR1lVZWVqbmc4M2lfMzdIdlVaZmVWcmF3VTFMaU1Kd25rcGwyMUVQZHplVzhDV0dPaE42MU4ya0Fmc0V6Uw?oc=5\" target=\"_blank\">Anthropic’s Claude can now send Gmail emails without asking first</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

@@ -220,6 +220,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8teHQybmI5RjRncHlLS3ROcUVWb2ZKbF8tWUpXSGFUQjg2djZmVXpldWVhWjBsUDNuV1l1WFhXQXVlazQ2RlpQbTBZOTU5MFZ0X3F0VTJxSzdWV1NyT0dsRXY3eXRPUQ?oc=5\" target=\"_blank\">机构预测高增长的AI大模型概念股一览</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-805-537c670f2a",
+   "source_id": "news",
+   "source_name": "Cisco Blogs",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization - Cisco Blogs",
+   "summary": "Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization &nbsp;&nbsp; Cisco Blogs",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5",
+   "published_at": "2026-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5\" target=\"_blank\">Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cisco Blogs</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

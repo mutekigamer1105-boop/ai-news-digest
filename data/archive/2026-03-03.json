@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iQXhTdWdOVHpmZ19sWWxLbFpCXzZaUF9ic2FTMnhzRFlxODF0YmJpdmhvR0lsX0VtZUk4QnljRUo2NUxEaG02MU1EWFh3cWQ3U1gyMF9lNHBfeUE3M01v?oc=5\" target=\"_blank\">LLM-assisted systematic review of large language models in clinical medicine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-648-4ce8cec94a",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Massive AI Deals Drive $189B Startup Funding Record In February While Public Software Stocks Reel - Crunchbase News",
+   "summary": "Massive AI Deals Drive $189B Startup Funding Record In February While Public Software Stocks Reel &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWdDNEM2emRQbEZiYndISV9nbG5tRFVFZ0Q0aXJrU3BIMTl5S3d1eHFyOXV2dUZzWkVlZmZ2MWNSdXRPRGRLTk9pSS1SRVd5dG1MZ1NUYVE2YXlSOWZwYlJ6NmRpejZ3Q3ZHcW5idFJ6WW4yM0FnaXZHRkFqRlZxb21Da2lLaVo1SWh2djZ5dmJTS3ZJWld4LVFPRVFRQQ?oc=5",
+   "published_at": "2026-03-03T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPYWdDNEM2emRQbEZiYndISV9nbG5tRFVFZ0Q0aXJrU3BIMTl5S3d1eHFyOXV2dUZzWkVlZmZ2MWNSdXRPRGRLTk9pSS1SRVd5dG1MZ1NUYVE2YXlSOWZwYlJ6NmRpejZ3Q3ZHcW5idFJ6WW4yM0FnaXZHRkFqRlZxb21Da2lLaVo1SWh2djZ5dmJTS3ZJWld4LVFPRVFRQQ?oc=5\" target=\"_blank\">Massive AI Deals Drive $189B Startup Funding Record In February While Public Software Stocks Reel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }

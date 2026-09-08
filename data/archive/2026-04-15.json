@@ -88,6 +88,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE01OFhqd01iUEdkaXFQdFYwa25vc292cTV6SUoyVHo3UXVHQ29BaVRVT013MnBYaTJSVmFYZzBsWjNQT19MVnpxTFpzQTNLbkJFb2NDUTBTdUdjdGhNbXM4dlYwQU5kRG9OVGNhYVhnOXZHU0s1dkk2ck5URnZ0UQ?oc=5\" target=\"_blank\">Agents SDK 的全新演进</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-296-712ec8553b",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Can small language models handle context-summarized multi-turn customer-service QA? A synthetic data-driven comparative evaluation - Frontiers",
+   "summary": "Can small language models handle context-summarized multi-turn customer-service QA? A synthetic data-driven comparative evaluation &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnUwYjZWVW1Valcyd0VfdWlqY04zUnJmX1M3dDVvS1lfRjlwbW56aDU0SU9ZYTU3V19yS2lMX21JVzZsUXFjV3pxNkE4VlhTNXBoU3FZbi1fYWthNW8yMWJPa0RNVmJBRjFvWkw4RHEtcnlWLVFxdVZQOXEwWWhjUnVheU1vTndRTFVUTzJ4VldvdUVLbXpFVUMzZm44bi1QR0E?oc=5",
+   "published_at": "2026-04-15T12:08:27+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnUwYjZWVW1Valcyd0VfdWlqY04zUnJmX1M3dDVvS1lfRjlwbW56aDU0SU9ZYTU3V19yS2lMX21JVzZsUXFjV3pxNkE4VlhTNXBoU3FZbi1fYWthNW8yMWJPa0RNVmJBRjFvWkw4RHEtcnlWLVFxdVZQOXEwWWhjUnVheU1vTndRTFVUTzJ4VldvdUVLbXpFVUMzZm44bi1QR0E?oc=5\" target=\"_blank\">Can small language models handle context-summarized multi-turn customer-service QA? A synthetic data-driven comparative evaluation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-09-08T04:05:56+00:00"
   }
  ]
 }
