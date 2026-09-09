@@ -10692,6 +10692,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5ubDJjMGRwV2ZLMW9sYnlNOUJuRl9DekVpOFF4bEpZVEZzUTltZ0ZkWE9TN3BTR244NWViOW5fYzkwdlFqdVdYcll5cEVIOHFZYzJXaDVydXpwZFV2QXNvWHNwUHY4TkFMQ0E?oc=5\" target=\"_blank\">Compare 9 Large Language Models in Healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AIMultiple</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-1083-0c39406fc9",
+   "source_id": "news",
+   "source_name": "新浪网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta全力防范即将上线的AI智能体“Hatch”失控 - 新浪网",
+   "summary": "Meta全力防范即将上线的AI智能体“Hatch”失控 &nbsp;&nbsp; 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTmVrZGl0RjZkcmc4OUZ6U3JUZjlGNjlOOTNTVHhodU8zS1R4RXZyNkctWHhQeER2TWRiUS1TbWphZFl2X1BmUzBZQkhrM3ZlUHVMQ3A0d2VyTC1hS2ZuZHVYdUYzbFN0OFY1dUJvZ0N0WHR3VU9CV3kyTldOX2o5dDRNV3ZuRFRQUGc?oc=5",
+   "published_at": "2026-09-04T13:11:39+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOTmVrZGl0RjZkcmc4OUZ6U3JUZjlGNjlOOTNTVHhodU8zS1R4RXZyNkctWHhQeER2TWRiUS1TbWphZFl2X1BmUzBZQkhrM3ZlUHVMQ3A0d2VyTC1hS2ZuZHVYdUYzbFN0OFY1dUJvZ0N0WHR3VU9CV3kyTldOX2o5dDRNV3ZuRFRQUGc?oc=5\" target=\"_blank\">Meta全力防范即将上线的AI智能体“Hatch”失控</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

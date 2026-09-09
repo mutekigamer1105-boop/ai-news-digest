@@ -285,6 +285,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5\" target=\"_blank\">China warns about AI risks with Anthropic's Claude Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-1113-8a7b2bf556",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "推出 GPT-Live - OpenAI",
+   "summary": "推出 GPT-Live &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BWmt1dlpRenpNN1dNRnpwb2FpTzMxak5ub2RscWszcExpc3M0akgzaThMclZJZnlfTEhsZWprb0FCMTY5d2dNeGVMTVA4YmhfTHZxcENMZ3BhOTh4dzY5d2dJTnQtV0tI?oc=5",
+   "published_at": "2026-07-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BWmt1dlpRenpNN1dNRnpwb2FpTzMxak5ub2RscWszcExpc3M0akgzaThMclZJZnlfTEhsZWprb0FCMTY5d2dNeGVMTVA4YmhfTHZxcENMZ3BhOTh4dzY5d2dJTnQtV0tI?oc=5\" target=\"_blank\">推出 GPT-Live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

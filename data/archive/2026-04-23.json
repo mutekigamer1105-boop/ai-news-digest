@@ -129,6 +129,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQbU9mbzR1VFZTSVVpMEpXY3BtQ1pwMUdSR3VocjNfOW1rdkRsakZ1YmpIWjIzM2YwNWlKb1AyS3RLd0p5SEpkWWZYcHJPbnVKa2NISElla2NEZFFTbzRDb2VrNkh4STU3TlNYVDN1SnRVWDFHaUJCV0VLVXZLRUdaVWZXUEdkREtyeUQ1SkxR?oc=5\" target=\"_blank\">Low-energy small language models with retrieval-augmented generation can surpass large-model performance in rheumatology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-801-e95c2e5152",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing GPT-5.5 - OpenAI",
+   "summary": "Introducing GPT-5.5 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
+   "published_at": "2026-04-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5\" target=\"_blank\">Introducing GPT-5.5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

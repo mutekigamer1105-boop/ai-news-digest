@@ -281,6 +281,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WemJmRnhVa2pLYUVkZmJyQ3JVRFJJZy1hbl8wRUwzLWhxOThEeTdYUGJVTzdEbXZPcktiWElJWm5WSkp4R0pnUDEtQVdKQUNOa1hyV0hCZWNPSGh4S1p6Y1NB?oc=5\" target=\"_blank\">阶跃星辰将发布AI智能体手机 抢先落地新一代AI终端</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-804-14fbb3ee09",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "OpenAI launches its new family of models with GPT-5.6 - TechCrunch",
+   "summary": "OpenAI launches its new family of models with GPT-5.6 &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5\" target=\"_blank\">OpenAI launches its new family of models with GPT-5.6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

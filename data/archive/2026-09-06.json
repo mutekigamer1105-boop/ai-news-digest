@@ -4320,6 +4320,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5POXp1NlUyRmc2MTJyYXUyOHZQdEpzQmhVN2dycFFPMTliZzZhSHg1ZmJXNjNfbVhTWkxXQ01tSncxT1VKcmkyVUxoR1FTU1V4a0FB?oc=5\" target=\"_blank\">Did Claude Solve the Millennium Prize Problems? Terence Tao: I Never Said That</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-719-4f0f05f52f",
+   "source_id": "news",
+   "source_name": "ChinaTalk | Jordan Schneider",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Open Models are the United Front of AI - ChinaTalk | Jordan Schneider",
+   "summary": "Open Models are the United Front of AI &nbsp;&nbsp; ChinaTalk | Jordan Schneider",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EeFVSZi1QdEFXS0R5VHh2aGRnS2JOVGdDcVU0MEtHXzJPMXdnbVJabFY5eVN1dnBQNTREcEFoeGk2MFV2WERPZi1hUHlsMEVOdkN4WnU5SlJtd3NydHJOZ1VfOFJVTDdZOW1WOWZYOA?oc=5",
+   "published_at": "2026-09-06T10:45:34+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1EeFVSZi1QdEFXS0R5VHh2aGRnS2JOVGdDcVU0MEtHXzJPMXdnbVJabFY5eVN1dnBQNTREcEFoeGk2MFV2WERPZi1hUHlsMEVOdkN4WnU5SlJtd3NydHJOZ1VfOFJVTDdZOW1WOWZYOA?oc=5\" target=\"_blank\">Open Models are the United Front of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChinaTalk | Jordan Schneider</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

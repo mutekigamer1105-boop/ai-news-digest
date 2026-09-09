@@ -131,6 +131,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQMFhXR2t2eVpoZkZHejFSNld6bzlMOThKbk5zdTJtczBZbkpDLXJZN2s4Nm91bjZfYnk5QnA1eE03TkdxLUZQSnJmUTdaZDFVS2NjVzNrNk1aS0w1aWt6Sll3MzlBcWk4UnNFSDNzSF9PcUxNOElCbUZEamJ5QVAzZ3JENA?oc=5\" target=\"_blank\">Who’s behind the new ‘stealth model’ Ox Alpha?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-959-dc8a83d7f3",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "牛来大模型 Ox Alpha 屠榜全球AI圈，免费使用一周！ - 新浪财经",
+   "summary": "牛来大模型 Ox Alpha 屠榜全球AI圈，免费使用一周！ &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PLXJHTDZxOFN1eXh2MVhWQ1NzT0JPeTVOTy1hVFFCVmFEZk1kUi15SktGancxeFFxWVl5TFhwaURCY3BLRkpEZW9DaUw0Vnh5Y0ROek9JYmIwOE85VUN5OEhERC1TZnRmc1FPTDFwTlJnUDY2Yi1Zbg?oc=5",
+   "published_at": "2026-08-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5PLXJHTDZxOFN1eXh2MVhWQ1NzT0JPeTVOTy1hVFFCVmFEZk1kUi15SktGancxeFFxWVl5TFhwaURCY3BLRkpEZW9DaUw0Vnh5Y0ROek9JYmIwOE85VUN5OEhERC1TZnRmc1FPTDFwTlJnUDY2Yi1Zbg?oc=5\" target=\"_blank\">牛来大模型 Ox Alpha 屠榜全球AI圈，免费使用一周！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

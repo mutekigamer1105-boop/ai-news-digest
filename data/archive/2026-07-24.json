@@ -153,6 +153,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9FRWxEb0ZoaDJoUk81WEpMam9LSTkyTlBrVUIyTkxqLUZnYnZqa0ZwOHE1VUpncllwZE5OampoWWNEekstY0lZcVh5SnRnaEZlSHZpLUJRTG5iRThaZnNaTVRObjlIVTJrRGpCd1dwT2NKQUU?oc=5\" target=\"_blank\">Exploring Large Language Model-Based Intelligent Agents: Definitions, Methods, and Prospects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wiley Interdisciplinary Reviews</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-219-2f832e49e0",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Tutorial: guidance on the use of large language models for medical research - Nature",
+   "summary": "Tutorial: guidance on the use of large language models for medical research &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XWE05QnNZdkgzdW1vMzk4RGJRcHpMaHMwZjdvY01sUW9jQmRuOEpQUXYzbzMtREZVaWtXYm1XX2dGeDVMamg0Sk9ZSXdVWDgzaGc2b2VqMDRHUjVwQl9N?oc=5",
+   "published_at": "2026-07-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XWE05QnNZdkgzdW1vMzk4RGJRcHpMaHMwZjdvY01sUW9jQmRuOEpQUXYzbzMtREZVaWtXYm1XX2dGeDVMamg0Sk9ZSXdVWDgzaGc2b2VqMDRHUjVwQl9N?oc=5\" target=\"_blank\">Tutorial: guidance on the use of large language models for medical research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-694-936ae8b0e4",
+   "source_id": "news",
+   "source_name": "MLQ.ai",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI Insurance Startup Corgi Hits $4B Valuation After Third Funding Round in Eight Weeks - MLQ.ai",
+   "summary": "AI Insurance Startup Corgi Hits $4B Valuation After Third Funding Round in Eight Weeks &nbsp;&nbsp; MLQ.ai",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXdIeHpLR3ZOUkNQeTVlLXZYTnNVM3BoR1VqTUp2RVRzdzJjUlB3SFRRdTlwM1NtdWpnbWhjeVlBcXh6NTU3SlJqTUVGaXdqLXBBN2VuUXh6MzRpR3o2Rlp4U0pIRjFyUG0yVkh5X2xLRDBOcmtSNHZVZmF3YVVScmtaZjNDVTY4SjhyYUxWSm1CanlfMFBIZWd2YzVjYzc1VVpTVEVENHRVUQ?oc=5",
+   "published_at": "2026-07-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXdIeHpLR3ZOUkNQeTVlLXZYTnNVM3BoR1VqTUp2RVRzdzJjUlB3SFRRdTlwM1NtdWpnbWhjeVlBcXh6NTU3SlJqTUVGaXdqLXBBN2VuUXh6MzRpR3o2Rlp4U0pIRjFyUG0yVkh5X2xLRDBOcmtSNHZVZmF3YVVScmtaZjNDVTY4SjhyYUxWSm1CanlfMFBIZWd2YzVjYzc1VVpTVEVENHRVUQ?oc=5\" target=\"_blank\">AI Insurance Startup Corgi Hits $4B Valuation After Third Funding Round in Eight Weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLQ.ai</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

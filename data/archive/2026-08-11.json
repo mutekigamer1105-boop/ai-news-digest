@@ -401,6 +401,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmVFSzFuVmdReS0wZXZxMDJKRW5JdW5CcFE2VEhDTG9OUkhkamM5d25TWTRpSy1lNm4zX1V5bHlPZDZIbXpXMi1vQ0VwZEY1aHdCeHgwYVZZVzU2NGQzeG9JbEJYaHRsWmM0UVJZbWtsSERzby1OVmZxSVFfeUdiY1lfLU95MEp0blZJRnRpS0habVNfZlFkVHg2YWJscHhxU2tF?oc=5\" target=\"_blank\">Route AI Agents Across Models with NVIDIA NeMo Switchyard | NVIDIA Technical Blog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Developer</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-979-c4486b40b6",
+   "source_id": "news",
+   "source_name": "新蓝网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "外国网友趣问：为什么中国大模型便宜又好用？ - 新蓝网",
+   "summary": "外国网友趣问：为什么中国大模型便宜又好用？ &nbsp;&nbsp; 新蓝网",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YUlI1UVl2NEpyNVJDZldHVVQ4Ty1ld0tVeTR5MkkwOS02YTQ3V19FcnQxbjdiUjMxQzhRdzJmeEd0emZPM0RtNUt4TWZSdmc?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YUlI1UVl2NEpyNVJDZldHVVQ4Ty1ld0tVeTR5MkkwOS02YTQ3V19FcnQxbjdiUjMxQzhRdzJmeEd0emZPM0RtNUt4TWZSdmc?oc=5\" target=\"_blank\">外国网友趣问：为什么中国大模型便宜又好用？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新蓝网</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

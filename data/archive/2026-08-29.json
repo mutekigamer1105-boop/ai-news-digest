@@ -238,6 +238,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYnV5ZDk4VjVHZzF1czNaTm81R0UzSXB5SVpqNkJxcDhJTnNmMHBwbzJGWndEaUx0dGZ3cmUtWEpabFNrX2RtazR4UHpKVk1zQUVhZlFxV2lXWUlnWkVoSEozOWQ0SFVqa2dCeTFiQ0s?oc=5\" target=\"_blank\">今日视点丨AI智能体入侵“抱抱脸”事件调查报告提示，人工智能发展应敲响安防警钟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-571-a2afe4d60b",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom - WSJ",
+   "summary": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVVkZ3E3ZmJtVFR1SGFmMm1CNUpSTVRFM3psNWRGZndCZXFTaUdvR1cwUXBXN0N3bGJqb3hTUi1BdkxrbmZtUVVXQ1JjVVpqTm5vSmM3eXV2VkRadFFNcTdzeFdEMlJRQk5JZFNHcGdtRk80ZlRJaFpsLU9fUXBPejZZbHYtY2tiNExJcmVGVXZETUhVMHF5R0Jsd1RVcTQ?oc=5",
+   "published_at": "2026-08-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObVVkZ3E3ZmJtVFR1SGFmMm1CNUpSTVRFM3psNWRGZndCZXFTaUdvR1cwUXBXN0N3bGJqb3hTUi1BdkxrbmZtUVVXQ1JjVVpqTm5vSmM3eXV2VkRadFFNcTdzeFdEMlJRQk5JZFNHcGdtRk80ZlRJaFpsLU9fUXBPejZZbHYtY2tiNExJcmVGVXZETUhVMHF5R0Jsd1RVcTQ?oc=5\" target=\"_blank\">Nvidia Insists It Can Keep Printing Money to Fund the AI Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

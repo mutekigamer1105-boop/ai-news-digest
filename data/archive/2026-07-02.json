@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcE1CSXY3b1NVTmdnRDcyM3dUeUpxLW93SE9MNW9TX2VSZTJzdHRmTzNpdkdwaFVxTkFqQjFpUnk0cU1JWmtrTTNWVnliSERyVnZGWFZ2VmgtelpEMHhPMDBsVVc4S3RfakFlMFJZTjNDbVpVN1NGVk56R3dJdFZNQTR1RXFyUURVY18zVktHMmJwSGNNbTd4dVBEWUppOXFpc0pJQ3pDYnZsc1lYNzZXU3U1TDA5dzFTemRhX1M2cWlJZw?oc=5\" target=\"_blank\">US in talks with AI companies for voluntary model standards, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-224-212144b491",
+   "source_id": "news",
+   "source_name": "Santa Fe Institute",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Does intelligence ‘emerge’ in large language models? - Santa Fe Institute",
+   "summary": "Does intelligence ‘emerge’ in large language models? &nbsp;&nbsp; Santa Fe Institute",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHVTRm8yZ2ZLNmFkbGxtRmNrSEZCb1d4b0R5X09RRXZ3akQ3cUczdUxqUFlzSU5aWmdUYTFkLTl0RlJVbFp0M2gzdjl4b0IwVTkteTBSWjdDWmJyZ280dkpvNXgzY3pBTk9ZVDdxbFJ6R2IxYlN2SE1Wdm9PWEUwZE9HVGFNdDJ1eWxPeHoxV2Jsblo5?oc=5",
+   "published_at": "2026-07-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHVTRm8yZ2ZLNmFkbGxtRmNrSEZCb1d4b0R5X09RRXZ3akQ3cUczdUxqUFlzSU5aWmdUYTFkLTl0RlJVbFp0M2gzdjl4b0IwVTkteTBSWjdDWmJyZ280dkpvNXgzY3pBTk9ZVDdxbFJ6R2IxYlN2SE1Wdm9PWEUwZE9HVGFNdDJ1eWxPeHoxV2Jsblo5?oc=5\" target=\"_blank\">Does intelligence ‘emerge’ in large language models?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Fe Institute</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

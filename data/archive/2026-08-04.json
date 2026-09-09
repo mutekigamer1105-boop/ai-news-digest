@@ -107,6 +107,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KQmNnNE5RQ3Z6OFdsNVBHSDZmdFYzem1lV0VuZk05Y3RsUnFYSWVWdTVwbWpBTWluNEdISENXSldkWjVaMUlvWlFCckNRTS1oTHFQbmZsNA?oc=5\" target=\"_blank\">世行报告：人工智能可为发展中经济体提供新机遇 同时带来新的风险</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-789-a164d1d06b",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Scoop: Inside Trump's AI framework - Axios",
+   "summary": "Scoop: Inside Trump's AI framework &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNdmxpbWR4amNkcWVtTzQyTmFKUkJTNDNMcS1fSTgyOGZBNVhwS19OUEdsczVjNDZDQVBJd0ZWNFlzNTVjN1BSbkgwNnRjQkxYU042YW5ING1ITzNHQ0NlMEl4TlVFUWVQenZsSnpPdlE?oc=5",
+   "published_at": "2026-08-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBNdmxpbWR4amNkcWVtTzQyTmFKUkJTNDNMcS1fSTgyOGZBNVhwS19OUEdsczVjNDZDQVBJd0ZWNFlzNTVjN1BSbkgwNnRjQkxYU042YW5ING1ITzNHQ0NlMEl4TlVFUWVQenZsSnpPdlE?oc=5\" target=\"_blank\">Scoop: Inside Trump's AI framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

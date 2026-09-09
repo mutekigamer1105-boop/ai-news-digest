@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1157-64502ee978",
+   "source_id": "news",
+   "source_name": "财新",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "GPT周报｜OpenAI发布文生视频模型Sora；谷歌Gemini暂停人像生成功能；字节跳动辟谣推出“中文版Sora” - 财新",
+   "summary": "GPT周报｜OpenAI发布文生视频模型Sora；谷歌Gemini暂停人像生成功能；字节跳动辟谣推出“中文版Sora” &nbsp;&nbsp; 财新",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MZTBMRGk5MWhoeEY3Z0JXNVdUWEJoSUpXblFzcHV0SUV1dEpJcjl3VkxnWG5tRzJNdkJqWjF3TF9iVERPSlM0ajllY0J6MDcyMUZ3SmxkeDhPTldx?oc=5",
+   "published_at": "2024-02-23T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MZTBMRGk5MWhoeEY3Z0JXNVdUWEJoSUpXblFzcHV0SUV1dEpJcjl3VkxnWG5tRzJNdkJqWjF3TF9iVERPSlM0ajllY0J6MDcyMUZ3SmxkeDhPTldx?oc=5\" target=\"_blank\">GPT周报｜OpenAI发布文生视频模型Sora；谷歌Gemini暂停人像生成功能；字节跳动辟谣推出“中文版Sora”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财新</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
+  }
+ ]
+}

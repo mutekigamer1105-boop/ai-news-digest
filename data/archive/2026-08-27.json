@@ -413,6 +413,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObVVkZ3E3ZmJtVFR1SGFmMm1CNUpSTVRFM3psNWRGZndCZXFTaUdvR1cwUXBXN0N3bGJqb3hTUi1BdkxrbmZtUVVXQ1JjVVpqTm5vSmM3eXV2VkRadFFNcTdzeFdEMlJRQk5JZFNHcGdtRk80ZlRJaFpsLU9fUXBPejZZbHYtY2tiNExJcmVGVXZETUhVMHF5R0Jsd1RVcTQ?oc=5\" target=\"_blank\">Nvidia Insists It Can Keep Printing Money to Fund the AI Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-599-e9eab02b4e",
+   "source_id": "news",
+   "source_name": "cnbc.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence - cnbc.com",
+   "summary": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence &nbsp;&nbsp; cnbc.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wT0tKVG5QdjJIV3RXNmZNYUROM1dJYWJ3d3VOUzdKUEZjTFgweTFXNlhFT3RwLUoxZ1E4SXYzQ0g4LUFYdW9tNkNVUmE5OE5TendnYU02ekhBeThSZDRpTVBwcmlCRXdkcDVoetIBckFVX3lxTFBTYXloWFBxMWUxVXBhV1VLdkJzbWpITXdabzh3b00zYXlnb0ZHcEZlRjFqRHRtWmF4QjA2ei1Id3hTQ3N3X1lQcGZyQkJKRzhZalpsbmZrd3lRd2gxQXRpMWpQUUpiVTFxTHJ3N0NEY0k1Zw?oc=5",
+   "published_at": "2026-08-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1wT0tKVG5QdjJIV3RXNmZNYUROM1dJYWJ3d3VOUzdKUEZjTFgweTFXNlhFT3RwLUoxZ1E4SXYzQ0g4LUFYdW9tNkNVUmE5OE5TendnYU02ekhBeThSZDRpTVBwcmlCRXdkcDVoetIBckFVX3lxTFBTYXloWFBxMWUxVXBhV1VLdkJzbWpITXdabzh3b00zYXlnb0ZHcEZlRjFqRHRtWmF4QjA2ei1Id3hTQ3N3X1lQcGZyQkJKRzhZalpsbmZrd3lRd2gxQXRpMWpQUUpiVTFxTHJ3N0NEY0k1Zw?oc=5\" target=\"_blank\">Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

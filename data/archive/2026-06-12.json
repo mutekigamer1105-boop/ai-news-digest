@@ -107,6 +107,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS004dFB2RHhmSy0zVWJXN0ZXbXFsdzBQTjNxNm5uOEh0cC1tVm4xdk11alFNS01lS0l4N0VVRjJHSjFUNjNfc3lHZllXRFB5Zks0X3U2VExuQ3N5aVRmV2xvd3BwNHc?oc=5\" target=\"_blank\">TCS and Anthropic partner to bring Claude to regulated industries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-995-3415e9b2d9",
+   "source_id": "news",
+   "source_name": "重庆市人民政府",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "超越谷歌等巨头，重庆自研从容大模型何以登顶全球多模态榜首 - 重庆市人民政府",
+   "summary": "超越谷歌等巨头，重庆自研从容大模型何以登顶全球多模态榜首 &nbsp;&nbsp; 重庆市人民政府",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnU2SzhzeThwNEplUk1YM25MZkhHeTBmZEdCcVlyUFRnY0FmUGJqT3pRa1pacmw4Z2EySER3X3VRQ1RoUk9kaWtUZUs0NDl1UEVIbmZFNjFOVWhOZ1JucW9xblBoQmg5MXU1RzdhbnlsVndIa2VuaW1LTlM1c0J4MzRCbTZlemVDbUF3?oc=5",
+   "published_at": "2026-06-12T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnU2SzhzeThwNEplUk1YM25MZkhHeTBmZEdCcVlyUFRnY0FmUGJqT3pRa1pacmw4Z2EySER3X3VRQ1RoUk9kaWtUZUs0NDl1UEVIbmZFNjFOVWhOZ1JucW9xblBoQmg5MXU1RzdhbnlsVndIa2VuaW1LTlM1c0J4MzRCbTZlemVDbUF3?oc=5\" target=\"_blank\">超越谷歌等巨头，重庆自研从容大模型何以登顶全球多模态榜首</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">重庆市人民政府</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

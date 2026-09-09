@@ -130,6 +130,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGlfV0U5ZzhveHBVR2Zkb1VJUEUyY09QTkRMS1MzclBCenI2VHc1aVpHOHZ5ZGhWX3hXQ0FkRi1OeGVhWS1ibWJVSl90aV9PR3NaWkhrOGo0N2ZvYkNLOUdOWFBhOTBackkxY01hdEVUb0dZOWpKSXJqY1h2YnBic0hXMllMTl9UYWtQbm9OLWZYU1R0YW9UemU3X21tQ0RCZk5zZGpNMzFqZ0oxQzBzdUktX3Q?oc=5\" target=\"_blank\">China’s PsiBot Becomes Latest AI Startup to Hit $1 Billion Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-802-67fc26ddc2",
+   "source_id": "news",
+   "source_name": "Cybersecurity Dive",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI models escaped containment, hacked major AI application library - Cybersecurity Dive",
+   "summary": "OpenAI models escaped containment, hacked major AI application library &nbsp;&nbsp; Cybersecurity Dive",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdlBVeDJ6S0dSS1hhWUg4SS1zeE9xTTEzMnhvRlliWlZZQm9qSjRoRHF4LXRsVGVRb0hqT1Izb0x6TVNhOTRZVUg3Mk9pMDVFX213Nk5UOWFzenRHbUNoNmFjWVB1c2pXbmJLMjRBQjlva1lLWnYtYXctTUFDQUlOcEtWUlZORnUwNFE?oc=5",
+   "published_at": "2026-07-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdlBVeDJ6S0dSS1hhWUg4SS1zeE9xTTEzMnhvRlliWlZZQm9qSjRoRHF4LXRsVGVRb0hqT1Izb0x6TVNhOTRZVUg3Mk9pMDVFX213Nk5UOWFzenRHbUNoNmFjWVB1c2pXbmJLMjRBQjlva1lLWnYtYXctTUFDQUlOcEtWUlZORnUwNFE?oc=5\" target=\"_blank\">OpenAI models escaped containment, hacked major AI application library</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybersecurity Dive</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

@@ -392,6 +392,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQY2l5TVhaeV9uc1VkOVdaOG5HVXlhekowUG54TXZqdDRkakpVM28zTER1cV9tMlFJVUtkVW43dzVzS0VZdm5kdFNCSGlmRU9kQTY0SEZ2X0toNzc3djMtdmY4ajdkdlpIRzFYMzNaMGhPbnBDdVdZdDZXUi1aR1dfeHI3ZUVNS2JRQThuWFJOUThWcjhNMWZwV1RLNTY1dU1zblBibHliaEQ0UHlQZFE?oc=5\" target=\"_blank\">Snowflake Unlocks Better AI Economics with Dynamic Model Routing, Delivering More Value to Customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Snowflake</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-987-948362b246",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "港股AI大模型双雄重挫逾13% 卖空数据创阶段新高 - 东方财富",
+   "summary": "港股AI大模型双雄重挫逾13% 卖空数据创阶段新高 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tbHZSNFdUeHpaQjlVZ1doUnl3UFVSVzdsbTBnMEF0bFFfVWJBTFZPT2VjUHJmNTR5dmV0czJkNEg3NzZQMjhQUFBEVnYxWXJ5N3BzejZGbmIxaHlmMUtXSEpDRnc3QQ?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tbHZSNFdUeHpaQjlVZ1doUnl3UFVSVzdsbTBnMEF0bFFfVWJBTFZPT2VjUHJmNTR5dmV0czJkNEg3NzZQMjhQUFBEVnYxWXJ5N3BzejZGbmIxaHlmMUtXSEpDRnc3QQ?oc=5\" target=\"_blank\">港股AI大模型双雄重挫逾13% 卖空数据创阶段新高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

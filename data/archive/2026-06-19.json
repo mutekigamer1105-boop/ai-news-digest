@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQeEZ1UHh1bjFDNDF3em1TS2J4VENpVUlJcUJCMkp6MFdFT3JqSUhjUXZ0cTdWel9ESEV1dVZBUThHTVpmbEt4WW53SGkxcG52WTgwSC1scEtNWWNOVDVKa1F5TEw4ejNfRjFlSkhIaERReTdiblROTnZlVDdMaUVwazhB?oc=5\" target=\"_blank\">财经慧说丨AI大模型上市，路径通了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-222-69837380f5",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Memorization in large language models in medicine prevalence characteristics and implications - Nature",
+   "summary": "Memorization in large language models in medicine prevalence characteristics and implications &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTWJ0WWFzVWN6MFNoczdyR1FjRnd0TzRyQlJyRi14S3YtczRaNVhPVkV0ckxDaGJjOE9RM3VKWEtPM0ZtemZVYnpGeHhTSDU1di1KWEdOVzRFcHViczhz?oc=5",
+   "published_at": "2026-06-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTWJ0WWFzVWN6MFNoczdyR1FjRnd0TzRyQlJyRi14S3YtczRaNVhPVkV0ckxDaGJjOE9RM3VKWEtPM0ZtemZVYnpGeHhTSDU1di1KWEdOVzRFcHViczhz?oc=5\" target=\"_blank\">Memorization in large language models in medicine prevalence characteristics and implications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

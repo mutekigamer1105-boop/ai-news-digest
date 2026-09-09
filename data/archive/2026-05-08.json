@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "id": "web-490-2624044e82",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Teaching Claude why - Anthropic",
+   "summary": "Teaching Claude why &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeXh2UWs4b3V3WkhsTkhEOVVWeVA3NjlIN1JOSWJQQ3VONnIzUW1LSmhRaEt3QVMyRFZvZEo0aVpIV1JYRzk2X2llUjdwS09EUmhiX2VmVmYzc3lQdW5TSVhHU3U?oc=5",
+   "published_at": "2026-05-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeXh2UWs4b3V3WkhsTkhEOVVWeVA3NjlIN1JOSWJQQ3VONnIzUW1LSmhRaEt3QVMyRFZvZEo0aVpIV1JYRzk2X2llUjdwS09EUmhiX2VmVmYzc3lQdW5TSVhHU3U?oc=5\" target=\"_blank\">Teaching Claude why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
+  }
+ ]
+}

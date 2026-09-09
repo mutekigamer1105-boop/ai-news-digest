@@ -66,6 +66,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE50MGx2RWxBS2lqVHpLY2VrQ1RLeVVMcThWaWtfNy1HVzRjNXIxci13a0xnd2wyMVhXWGtnMUt4VURzMDVTSld2a29vVFV2YUFRbm5saXJnSUVoU3BJ?oc=5\" target=\"_blank\">28.9万亿Token！全球AI大模型周调用量五连涨，国产AI连续4周超美国，DeepSeek-V4-Flash登顶，Kimi K2.6跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stcn.com</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-303-80108afcda",
+   "source_id": "news",
+   "source_name": "newyorker.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "A Vindication of the Rights of L.L.M.s - newyorker.com",
+   "summary": "A Vindication of the Rights of L.L.M.s &nbsp;&nbsp; newyorker.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0s5RW5QbjB5VGlwSmFrNHpBR1ctcUlENE9DX2lKdmhPMjBoYjlLZUF6NkZQX09pSHRVUnFsUE5DemQzMGlmVkpScndlV1Y0VzRSOER2MnQ3M1V3YTdKei1xUlRBbFdmNXpUaERraTczSGNSVjhYSGsySUYyVWZDcEJjdVpDSm9K?oc=5",
+   "published_at": "2026-05-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0s5RW5QbjB5VGlwSmFrNHpBR1ctcUlENE9DX2lKdmhPMjBoYjlLZUF6NkZQX09pSHRVUnFsUE5DemQzMGlmVkpScndlV1Y0VzRSOER2MnQ3M1V3YTdKei1xUlRBbFdmNXpUaERraTczSGNSVjhYSGsySUYyVWZDcEJjdVpDSm9K?oc=5\" target=\"_blank\">A Vindication of the Rights of L.L.M.s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newyorker.com</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }

@@ -264,6 +264,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0pnNy1rOU1ZckZYaEJJbks1WFlVRU9ub0hCbGF5aDk3NWYxUFp1YUE5VXZvVkl2UVIxMzZJcHl1TDlrZEZWUE42ZkZyd29UTjdyMHM5TWxoSnp0RFEzN2ZhZHhqdDhqRFM0bHZRVUoxUU51eXhJSFl0U0Q0cl9HMTRyUGwwY2l1Z1FFUUE3Mm5Rbm9ZOUE?oc=5\" target=\"_blank\">2 local startups captured 75% of Pittsburgh’s $70M in venture funding for Q2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Technical.ly</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-799-2e0de6a8ff",
+   "source_id": "news",
+   "source_name": "Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Moonshot’s Kimi K3 pushes Chinese AI into Fable-level territory - Fortune",
+   "summary": "Moonshot’s Kimi K3 pushes Chinese AI into Fable-level territory &nbsp;&nbsp; Fortune",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmpxdXVqWlU3TWhraGVLa290R191VEZ3UmVwRXA0QzhhQzVUcGJNUm5oR3hUNnNxUThjVmk2c1k5VmVzeXExT1hOMFhtMHpTQ25USUJiZzBaRkI4MFRiZmJLTGhIdE5UZGg5cnJ3Z1RiX2hfcnlKOXhadmJtZkRiSU8xU2cxV2tiNVVBakFsUWhFX3h2ZnNBeWVR?oc=5",
+   "published_at": "2026-07-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmpxdXVqWlU3TWhraGVLa290R191VEZ3UmVwRXA0QzhhQzVUcGJNUm5oR3hUNnNxUThjVmk2c1k5VmVzeXExT1hOMFhtMHpTQ25USUJiZzBaRkI4MFRiZmJLTGhIdE5UZGg5cnJ3Z1RiX2hfcnlKOXhadmJtZkRiSU8xU2cxV2tiNVVBakFsUWhFX3h2ZnNBeWVR?oc=5\" target=\"_blank\">Moonshot’s Kimi K3 pushes Chinese AI into Fable-level territory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "fetched_at": "2026-09-09T04:05:31+00:00"
   }
  ]
 }
