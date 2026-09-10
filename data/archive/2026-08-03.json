@@ -199,6 +199,72 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOaWdCTjh4bzVVeVNXQTNjeXJ1RW5DNzFPc3RJN1UzR1pWUEozdHdBTjh5dVlhRnRfeTNIV0U0WWJnak94ZkVoMXA0QkxOOFZQaWxPVTZDMWdNOVNtT0NzbVBQR2ZSY0ZveEhPTk5TaGdDWWt5RnNHZEE1Z3gxTFlOQw?oc=5\" target=\"_blank\">前五全是中国产品！中国AI大模型调用量连续十四周领跑：DeepSeek</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-679-bd228fe4bb",
+   "source_id": "news",
+   "source_name": "AlleyWatch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The 7 Largest NYC Tech Startup Funding Rounds of July 2026 - AlleyWatch",
+   "summary": "The 7 Largest NYC Tech Startup Funding Rounds of July 2026 &nbsp;&nbsp; AlleyWatch",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPekRKdGRWZVJIUkczbVZWMUhKY2h2ZVVvaVN3bGVNbXZJUVJFQUxhQzdOUGhUN09nVFJIUEF5c01VdzdLdXpHUUhtei1qS0hIaTIxOHFscmphaEU3REJzUXB2Y2NLVnY2T1lTQTRFdU9QMk1Scm1idy05VnpwSlhhS3dn?oc=5",
+   "published_at": "2026-08-03T15:32:07+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPekRKdGRWZVJIUkczbVZWMUhKY2h2ZVVvaVN3bGVNbXZJUVJFQUxhQzdOUGhUN09nVFJIUEF5c01VdzdLdXpHUUhtei1qS0hIaTIxOHFscmphaEU3REJzUXB2Y2NLVnY2T1lTQTRFdU9QMk1Scm1idy05VnpwSlhhS3dn?oc=5\" target=\"_blank\">The 7 Largest NYC Tech Startup Funding Rounds of July 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AlleyWatch</font>",
+   "fetched_at": "2026-09-10T04:05:08+00:00"
+  },
+  {
+   "id": "web-793-91355d5ac3",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost - Reuters",
+   "summary": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5",
+   "published_at": "2026-08-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5\" target=\"_blank\">Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-09-10T04:05:08+00:00"
+  },
+  {
+   "id": "web-1123-dc74f79ba3",
+   "source_id": "news",
+   "source_name": "FT Chinese",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "亚马逊完成对OpenAI的500亿美元投资 - FT Chinese",
+   "summary": "亚马逊完成对OpenAI的500亿美元投资 &nbsp;&nbsp; FT Chinese",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBET1FMVk9IMGpkTEdYWXVGZ0pNbmZFQ2ZScUxPYURsNXgwVW9RX21SYVZWaU1KRVNDOExQaEZhOUl3c3ZMcDR3UVlqZTFQemRCWTcw?oc=5",
+   "published_at": "2026-08-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBET1FMVk9IMGpkTEdYWXVGZ0pNbmZFQ2ZScUxPYURsNXgwVW9RX21SYVZWaU1KRVNDOExQaEZhOUl3c3ZMcDR3UVlqZTFQemRCWTcw?oc=5\" target=\"_blank\">亚马逊完成对OpenAI的500亿美元投资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FT Chinese</font>",
+   "fetched_at": "2026-09-10T04:05:08+00:00"
   }
  ]
 }

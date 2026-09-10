@@ -284,6 +284,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZYkREdUJTSW5SWXVGZVl5c3hNY3FwTHNISzJMZkpYX1pGazFqcllDRW5tMUhyZ3pQYkNPTkNKaDk0VjFmcTM0bXFDekozbXBHaERtdTJrVQ?oc=5\" target=\"_blank\">连续七周增长！中国大模型周调用量达27.58万亿Token，是美国的四倍以上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-263-4bdbb75cc8",
+   "source_id": "news",
+   "source_name": "Communications of the ACM",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Defining and Evaluating Physical Safety for Large Language Models - Communications of the ACM",
+   "summary": "Defining and Evaluating Physical Safety for Large Language Models &nbsp;&nbsp; Communications of the ACM",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGdDYkk2TTJnTEZRVTR1bW42WFE4OG1FempXVjdPVVNtN0ZEeGtVMTMybDh2MGxfWFo1aUJfQ3JueVBqSm9jLWJoWUtmTGRjelY1VWpXazRnQmhZOUxXNjBlLVFvcFZ5bDlpTWVmN0U4UjdfYU83MXZkS2NiWTFNZDQyRXJ3S2RnLWFjTlk5U3NuellpLUg4dDlpRGw?oc=5",
+   "published_at": "2026-07-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGdDYkk2TTJnTEZRVTR1bW42WFE4OG1FempXVjdPVVNtN0ZEeGtVMTMybDh2MGxfWFo1aUJfQ3JueVBqSm9jLWJoWUtmTGRjelY1VWpXazRnQmhZOUxXNjBlLVFvcFZ5bDlpTWVmN0U4UjdfYU83MXZkS2NiWTFNZDQyRXJ3S2RnLWFjTlk5U3NuellpLUg4dDlpRGw?oc=5\" target=\"_blank\">Defining and Evaluating Physical Safety for Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications of the ACM</font>",
+   "fetched_at": "2026-09-10T04:05:08+00:00"
   }
  ]
 }

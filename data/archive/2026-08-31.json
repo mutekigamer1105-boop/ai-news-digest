@@ -1239,6 +1239,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DZk5TX1N2bDNMTl95ZkZQMHBUdnc5YzFsM0YxcThzYVJsdFhTY2VVVVRzQlN6dXBaWWctYlI2d1FVVDV5bDVzRjZrenM5UXF3MnBqWEhmWXBDR2I0TXlfNFZWNDZMdw?oc=5\" target=\"_blank\">中国AI大模型调用量连续十八周领跑：智谱“牛来”大模型冲上榜首，DeepSeek-V4-Pro跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">每日经济新闻</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-1110-a236f89371",
+   "source_id": "news",
+   "source_name": "Moomoo",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中文讲座报名🔈带你看懂 AI 巨头、OpenAI 与潜在 IPO 机会 - Moomoo",
+   "summary": "中文讲座报名🔈带你看懂 AI 巨头、OpenAI 与潜在 IPO 机会 &nbsp;&nbsp; Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX3FaQXpmZUNERHN0QXlqQ0FVcDdJamRxeW83TVN2bUtlSnVrRjU4WTZ2SEQ5aEx0WHJKWVV1MkZfRHRzX0xXT25SaEJwb3ktaFptWUM5Tkc3RThpUkNaZEJwak1LZHpvYmJLS3VIc3piWmdqemlzZ2xNSnlkTUZNS2ZVTU1acGRYVllaazJDNF9VV193alhHeE5TcmdHa255MzhTY19RUG95VVRBM2xFblg2SldKaVFQc1NrLTd1QS05R1ZpUmc?oc=5",
+   "published_at": "2026-08-31T09:46:29+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOX3FaQXpmZUNERHN0QXlqQ0FVcDdJamRxeW83TVN2bUtlSnVrRjU4WTZ2SEQ5aEx0WHJKWVV1MkZfRHRzX0xXT25SaEJwb3ktaFptWUM5Tkc3RThpUkNaZEJwak1LZHpvYmJLS3VIc3piWmdqemlzZ2xNSnlkTUZNS2ZVTU1acGRYVllaazJDNF9VV193alhHeE5TcmdHa255MzhTY19RUG95VVRBM2xFblg2SldKaVFQc1NrLTd1QS05R1ZpUmc?oc=5\" target=\"_blank\">中文讲座报名🔈带你看懂 AI 巨头、OpenAI 与潜在 IPO 机会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+   "fetched_at": "2026-09-10T04:05:08+00:00"
   }
  ]
 }

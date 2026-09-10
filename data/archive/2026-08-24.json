@@ -464,6 +464,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNbncxd3NuTzh6dVBpYzZtb25BdlhWUnhjQ0lobHNCSFppV1M0aDQ3Rm83Tk9tRHNZNlIxX3JkTE1XWTZzdVkyNW9kMGdFTm1CcWtSQTVBT3RJWkxzNXNyMm5ueDg0MUZ0OVdTX2ZET1h4OHNqVTg0VncwMFM0QjRYNDhyRG90ZGdIU3R4UjN6V1p5UTkzUURobERIS19qMUhxSTlXWGkzbTFDdWlpN2hacWU5clhJTmNBMi1LaXNMVQ?oc=5\" target=\"_blank\">Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-216-d1c94449f3",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The shrinking landscape of linguistic diversity in the age of large language models - Nature",
+   "summary": "The shrinking landscape of linguistic diversity in the age of large language models &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50RkRFQ1J5bkhMTmpYa0lCWGh2eUVtSHotS0M5aWpRWXk5REdhNkktRm14ZHNHbkI2Q3RTcnMzQjZFMXBPWmJRU1RKN3owV284VExQVFBRQTdBRGIycTJB?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE50RkRFQ1J5bkhMTmpYa0lCWGh2eUVtSHotS0M5aWpRWXk5REdhNkktRm14ZHNHbkI2Q3RTcnMzQjZFMXBPWmJRU1RKN3owV284VExQVFBRQTdBRGIycTJB?oc=5\" target=\"_blank\">The shrinking landscape of linguistic diversity in the age of large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-10T04:05:08+00:00"
   }
  ]
 }

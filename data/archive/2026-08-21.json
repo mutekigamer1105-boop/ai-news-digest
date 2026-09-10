@@ -284,6 +284,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkJEYU42WTQ2SmZUaVdPeExKSmFVLVgtUjl3VW00cHdiRVA4ZGFsQ1ZJOW9kMlp6clhHbXFBRDRWdWxxWFpNNjNtS2h2MzRRYk8yOEktMHFzbHV6Ym5hRW15Y096aGN4bHhCaW1lX3BueE5fckpPV0tUNmtzM0FiZFd0WS1sZTBST1cydXNzVHE1OHZtWmFDczBoMnF0eG1VdWhxNnB6Zk1wMVBTWjBXTnNn?oc=5\" target=\"_blank\">Govern AI agent tool access with Amazon Bedrock AgentCore Gateway | Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-785-bf9c8e76db",
+   "source_id": "news",
+   "source_name": "SemiAnalysis",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Are Open Models Catching Up? - SemiAnalysis",
+   "summary": "Are Open Models Catching Up? &nbsp;&nbsp; SemiAnalysis",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Gb1NMVVZOOUFaTEJWVjFBNEpWSUNQSTJGcWExZ2lrZmszOFFXbGlBQkI4czQxeGdnaVZMUlJickxUa2pVSGh5RGg0dWsyYjNWckk1Q0JnaXplNFVBdmlwTlNtVEpZMkZveWhLTERzRVl1MzA?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5Gb1NMVVZOOUFaTEJWVjFBNEpWSUNQSTJGcWExZ2lrZmszOFFXbGlBQkI4czQxeGdnaVZMUlJickxUa2pVSGh5RGg0dWsyYjNWckk1Q0JnaXplNFVBdmlwTlNtVEpZMkZveWhLTERzRVl1MzA?oc=5\" target=\"_blank\">Are Open Models Catching Up?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SemiAnalysis</font>",
+   "fetched_at": "2026-09-10T04:05:08+00:00"
   }
  ]
 }

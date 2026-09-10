@@ -86,6 +86,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnMyMUZTeWhKa1pYUFAtNFBJVWVQdEpXZEl5MnhMM2pMTlpPdG9kQkRLck1nODFuaDRoMFJNQnBQRkszd3JJdUYwc1BXbUg3ekVvMHZ5STlZNHZEd3dRV294WlBRWm1IXzFHOUZoMmVZOTROWkx5d0UtNkdOWTNoRU9xTzJla0h2Q2I5Z09LTVo4NjNLTGg3TjNhUlJvNWNDeEI1R0gwYzhSVzF6RUVnM0kxVTBfTTQ1ZWc?oc=5\" target=\"_blank\">Anthropic’s Claude Code Reigns Despite Rising Interest in Codex, Open-Source Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-480-ccfc98f0f5",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Discovering cryptographic weaknesses with Claude - Anthropic",
+   "summary": "Discovering cryptographic weaknesses with Claude &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00X2lueTEwWnQ1R3V0YnVod3VNeUYzQlBsaWlFcF92VkpvdnF1X2dTOVdscWthczVlWGJIbGNVdjdRSzhRbjYzdVNWRDNkbzNJNkJZWGthYVMyWVEwT0lTaVlkLTB5YnNfNHZmNUtMMmR5YTZDb3c?oc=5",
+   "published_at": "2026-07-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE00X2lueTEwWnQ1R3V0YnVod3VNeUYzQlBsaWlFcF92VkpvdnF1X2dTOVdscWthczVlWGJIbGNVdjdRSzhRbjYzdVNWRDNkbzNJNkJZWGthYVMyWVEwT0lTaVlkLTB5YnNfNHZmNUtMMmR5YTZDb3c?oc=5\" target=\"_blank\">Discovering cryptographic weaknesses with Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-10T04:05:08+00:00"
   }
  ]
 }

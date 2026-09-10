@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1155-26f84646c0",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "DeepSeek、OpenAI、Kimi 视觉推理哪家强，港中文 MMLab 推出推理基准 MME-COT - 新浪财经",
+   "summary": "DeepSeek、OpenAI、Kimi 视觉推理哪家强，港中文 MMLab 推出推理基准 MME-COT &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbGpFalBwOU1ILWl4QTZ4V1NZa2hNemJQZHhqQ1ZVQ1lITHE4Q2VyM28xcHlWY1Z2aUVsdl82WEJKSWZTTm5QeDNQT1cwcEpXdHFNczVldmgybzllTERjQXZPMV9RWUhEMDdIcWZkZjJ1dVAyeU8wR0w3MzYwcXM?oc=5",
+   "published_at": "2025-02-22T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbGpFalBwOU1ILWl4QTZ4V1NZa2hNemJQZHhqQ1ZVQ1lITHE4Q2VyM28xcHlWY1Z2aUVsdl82WEJKSWZTTm5QeDNQT1cwcEpXdHFNczVldmgybzllTERjQXZPMV9RWUhEMDdIcWZkZjJ1dVAyeU8wR0w3MzYwcXM?oc=5\" target=\"_blank\">DeepSeek、OpenAI、Kimi 视觉推理哪家强，港中文 MMLab 推出推理基准 MME-COT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-09-10T04:05:08+00:00"
+  }
+ ]
+}

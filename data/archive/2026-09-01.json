@@ -2999,6 +2999,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOR2taUVBMel9CbVZmOWI5c3drU0lHdXVEZHhfSkdraTZPV0licGdabDZBWmtDUklCbXgtN2NCeFJXSU9OQ1Z6eklSV1E0cmNvaHg2MDJBbzR2Y3g2ZjJibER2c20zMmxyczJQMEdmeEhIUVpZazlfY0VnZDZJa0NOT3dBVDM3TEthb3pIcHRLeWNJelQzcVB1djRGYkwxOXdsV2lIeWU3MXhWUGF3YlJveFhzNzM3bEYwSzY1a0ZtLVh4WmhxUDNkSE9sREdQdw?oc=5\" target=\"_blank\">人工智能是否存在泡沫？通过 5个思路寻找答案| 摩根大通私人银行亚洲</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">J.P. Morgan Private Bank</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-721-315c59a8e7",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Path to Astra: critical capabilities and frontier safeguards - OpenAI",
+   "summary": "Path to Astra: critical capabilities and frontier safeguards &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5",
+   "published_at": "2026-09-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5\" target=\"_blank\">Path to Astra: critical capabilities and frontier safeguards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-10T04:05:08+00:00"
   }
  ]
 }

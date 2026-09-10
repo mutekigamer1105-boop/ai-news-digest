@@ -175,6 +175,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXo4N0pWbnYwZEZFSlN1M1lhd0ZZMjV2RmxJTjR4VjNYdEtnbzc1NHE2S0ZKTVBnVXR2Q1RWeVc0RGlRejAzNGlrcWY1Nk9MYnJEdC1fMlRYRVJiM0NnR0VVRGs3STd4Zk1wN3FMM0ZZSUxsMDMyM0ZFb2xYNVI0YS1CS1RrZmk3eTJHelI4TDRkdmVHNEVMcWJNMzRYeVRYeXc?oc=5\" target=\"_blank\">Anthropic Backer Menlo Ventures Raises $3B In New Funds To Back AI Startups Across Stages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-484-5489af0b6e",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Claude Tag - Anthropic",
+   "summary": "Introducing Claude Tag &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
+   "published_at": "2026-06-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5\" target=\"_blank\">Introducing Claude Tag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-10T04:05:08+00:00"
   }
  ]
 }

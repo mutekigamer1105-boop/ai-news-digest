@@ -4342,6 +4342,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1EeFVSZi1QdEFXS0R5VHh2aGRnS2JOVGdDcVU0MEtHXzJPMXdnbVJabFY5eVN1dnBQNTREcEFoeGk2MFV2WERPZi1hUHlsMEVOdkN4WnU5SlJtd3NydHJOZ1VfOFJVTDdZOW1WOWZYOA?oc=5\" target=\"_blank\">Open Models are the United Front of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChinaTalk | Jordan Schneider</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-919-23fc69f6d1",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "【明日主题前瞻】中国AI大模型调用量连续十九周领跑 - 财联社",
+   "summary": "【明日主题前瞻】中国AI大模型调用量连续十九周领跑 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtLU5qR0h0VDQySEhuN3VQX2xMdXFQWWlEazZ2ZUM3dFp5Wlo3QXhUSHRKQUIyeTd5VWNrMU15TTdreFBMTFNNTQ?oc=5",
+   "published_at": "2026-09-06T11:17:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtLU5qR0h0VDQySEhuN3VQX2xMdXFQWWlEazZ2ZUM3dFp5Wlo3QXhUSHRKQUIyeTd5VWNrMU15TTdreFBMTFNNTQ?oc=5\" target=\"_blank\">【明日主题前瞻】中国AI大模型调用量连续十九周领跑</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-09-10T04:05:08+00:00"
   }
  ]
 }
