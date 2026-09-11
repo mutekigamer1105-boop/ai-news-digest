@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBBa1ZLVElUWDVPUDVGQjViSTVfbDJ3Mkc2b2JpcF85WlpUSnNyVWhZZHZjNVUtOEl4SGVKZWo3MkUyUTZXTndVUUtmRl9kRm9LeS1OYTM1dFZCYTRicE1CYloyRUhkcm54MmhjQm05anM?oc=5\" target=\"_blank\">6 months to live for open models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interconnects AI</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-263-fe8a9e23d2",
+   "source_id": "news",
+   "source_name": "The University of Chicago Press: Journals",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Accuracy and Readability of Large Language Models’ Responses to Frequently Asked Questions on Social Assistance - The University of Chicago Press: Journals",
+   "summary": "Accuracy and Readability of Large Language Models’ Responses to Frequently Asked Questions on Social Assistance &nbsp;&nbsp; The University of Chicago Press: Journals",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsV0VIQ3NacWJDdVNMaHBuWU15TlRsOGZCNnZlVk5zVzdaVUlVdEFWREFYdWg3dzl0LTB0ZVBZV05VWjdZSm5PVjBDZThyVGZlYmJLUVVQM0lYQmlvT1pReXlYcXlPbmJm?oc=5",
+   "published_at": "2026-07-12T21:35:26+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsV0VIQ3NacWJDdVNMaHBuWU15TlRsOGZCNnZlVk5zVzdaVUlVdEFWREFYdWg3dzl0LTB0ZVBZV05VWjdZSm5PVjBDZThyVGZlYmJLUVVQM0lYQmlvT1pReXlYcXlPbmJm?oc=5\" target=\"_blank\">Accuracy and Readability of Large Language Models’ Responses to Frequently Asked Questions on Social Assistance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The University of Chicago Press: Journals</font>",
+   "fetched_at": "2026-09-11T04:05:30+00:00"
   }
  ]
 }

@@ -9333,6 +9333,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZbXlPOHFleExfZHVxRWRnZm41UF94dERnTm8yTWtPOC15dDJKQ0d5VE9vMWlCR1ZpVnl0RVg2TFRSYm8zQW01bVpwaVNqeENkZjdyVFlpd0l0Tm50Z25VT2ZianE4ZWEzRGpudFlkbDBKQVdPUFl0OQ?oc=5\" target=\"_blank\">AI大模型“周更”，企业跟不上了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-09-10T04:05:08+00:00"
+  },
+  {
+   "id": "web-918-23fc69f6d1",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "【明日主题前瞻】中国AI大模型调用量连续十九周领跑 - 财联社",
+   "summary": "【明日主题前瞻】中国AI大模型调用量连续十九周领跑 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtLU5qR0h0VDQySEhuN3VQX2xMdXFQWWlEazZ2ZUM3dFp5Wlo3QXhUSHRKQUIyeTd5VWNrMU15TTdreFBMTFNNTQ?oc=5",
+   "published_at": "2026-09-07T13:15:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtLU5qR0h0VDQySEhuN3VQX2xMdXFQWWlEazZ2ZUM3dFp5Wlo3QXhUSHRKQUIyeTd5VWNrMU15TTdreFBMTFNNTQ?oc=5\" target=\"_blank\">【明日主题前瞻】中国AI大模型调用量连续十九周领跑</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-09-11T04:05:30+00:00"
   }
  ]
 }

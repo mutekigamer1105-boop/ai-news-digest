@@ -265,6 +265,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBET1FMVk9IMGpkTEdYWXVGZ0pNbmZFQ2ZScUxPYURsNXgwVW9RX21SYVZWaU1KRVNDOExQaEZhOUl3c3ZMcDR3UVlqZTFQemRCWTcw?oc=5\" target=\"_blank\">亚马逊完成对OpenAI的500亿美元投资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FT Chinese</font>",
    "fetched_at": "2026-09-10T04:05:08+00:00"
+  },
+  {
+   "id": "web-686-3ac56572d3",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI Frenzy Splits Venture Capital Into Winners and Have-Nots - Bloomberg.com",
+   "summary": "AI Frenzy Splits Venture Capital Into Winners and Have-Nots &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdEt1cTJOVzBzWkd6YkhUNGxEcUJTQUJGQml5a3hWU0Q4RnpkbldSMUtyMkotVVdoYXhQRjdZRjlIMUd2S2ZEVTV1UzBXWm5FYUJnVy13bjFKUHVZQ3RaM09OSFR3b2YtVTBHR2l5VXkwS2hGaERaS20xdWJaTGlqYjBZOWxvTjJDdU4wTzFaeFI1Tk92TEpHVldrUXdKZHhxOGJ1V3Z2X0l2Z2ZoWS15cXFWYUk?oc=5",
+   "published_at": "2026-08-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdEt1cTJOVzBzWkd6YkhUNGxEcUJTQUJGQml5a3hWU0Q4RnpkbldSMUtyMkotVVdoYXhQRjdZRjlIMUd2S2ZEVTV1UzBXWm5FYUJnVy13bjFKUHVZQ3RaM09OSFR3b2YtVTBHR2l5VXkwS2hGaERaS20xdWJaTGlqYjBZOWxvTjJDdU4wTzFaeFI1Tk92TEpHVldrUXdKZHhxOGJ1V3Z2X0l2Z2ZoWS15cXFWYUk?oc=5\" target=\"_blank\">AI Frenzy Splits Venture Capital Into Winners and Have-Nots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-09-11T04:05:30+00:00"
   }
  ]
 }

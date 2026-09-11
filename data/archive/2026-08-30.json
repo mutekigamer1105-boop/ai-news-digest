@@ -261,6 +261,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hMl9fQms5RGR0X1hVVi1UbXNlSjFzTHYyaFdoVnE0eW9XNGNVSzFNUUVPYmtHZVltbFZDd1BXX0IwX2lYZlR0SWNYa2sxWjJjaXc?oc=5\" target=\"_blank\">华为云周跃峰：RuiPath 2.0带来病理AI大模型五大升级 已落地90多家医院</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C114通信网</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-215-f7fe819392",
+   "source_id": "news",
+   "source_name": "Hackaday",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "LLM Moats Quickly Evaporating - Hackaday",
+   "summary": "LLM Moats Quickly Evaporating &nbsp;&nbsp; Hackaday",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpa1JPVk1rUkVqN3NsbnY2N0c4TTAtTmNHRFN3ZWxka0NvS0prbk5kSDA0blZHTEE1QkhlbThTdUdNa0tEOXpfVWFDOGVPdHo3MlJFRTZxdFNRUmtFZjRyT3I4eVp0OS1VQXQxdzFUOA?oc=5",
+   "published_at": "2026-08-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBpa1JPVk1rUkVqN3NsbnY2N0c4TTAtTmNHRFN3ZWxka0NvS0prbk5kSDA0blZHTEE1QkhlbThTdUdNa0tEOXpfVWFDOGVPdHo3MlJFRTZxdFNRUmtFZjRyT3I4eVp0OS1VQXQxdzFUOA?oc=5\" target=\"_blank\">LLM Moats Quickly Evaporating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hackaday</font>",
+   "fetched_at": "2026-09-11T04:05:30+00:00"
   }
  ]
 }

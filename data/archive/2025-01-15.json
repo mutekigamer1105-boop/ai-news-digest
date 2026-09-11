@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oWDJ0OXpmYWQ0LXZDT2xXclVmVnAwbzRPVUVLUF9mSnl0Ulg5Um4xM2JKY0lEOXkycFJuYUo3X2hPaGgtUFhUVzlFZ0xqb2NnUEs5NjhOU2RDaFY1OXBEVA?oc=5\" target=\"_blank\">OpenAI的A推理模型有时会用中文\"思考\" 但没人知道为什么- AI 人工智能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnBeta.COM</font>",
    "fetched_at": "2026-09-10T04:05:08+00:00"
+  },
+  {
+   "id": "web-1148-ee6a60bfda",
+   "source_id": "news",
+   "source_name": "t.cj.sina.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI的推理模型有时会用中文“思考” 背后原因众说纷纭 - t.cj.sina.cn",
+   "summary": "OpenAI的推理模型有时会用中文“思考” 背后原因众说纷纭 &nbsp;&nbsp; t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPWllVMmYyVGhvTkVRSDZEdTNYeEZsMWNNdmI3SlRXemdsSHdzV2FGWXZfRUZVQXlVRWh6aWNvZnpsengzaGtyak9vckcySFBvMzRNN1o0aHN6Rl9jZFhaZHNod2gwb21YdXRTMXNHSnhQX0wwTTh5MURPd1JWbzQ5MG93QXFIaTBnS0xBYUY0d0poWHpvQzRkOG1FWWp1ZktKcWl3blRBMmQzcElSa3FLejJzVFc0U2J1eVNEQXFiaE9YTExhOEExUTBrNi0yeC1mbU9QR2JVSmN0QVF5amQ5OFdUbEhxZndkSnhaNnI1T1NLbDEzR21JcGtpaHpRVjdZYl9PeGpYazhiN2ZDSzMtNmlJVmFkaXpPOFRQT0V0QXVMSUF5akZLTGdkb3o3ODE0ZFJ4amZwWFlQbkhQMjBKZlhUQnJfTFdGMF92ZUtMVQ?oc=5",
+   "published_at": "2025-01-15T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizwJBVV95cUxPWllVMmYyVGhvTkVRSDZEdTNYeEZsMWNNdmI3SlRXemdsSHdzV2FGWXZfRUZVQXlVRWh6aWNvZnpsengzaGtyak9vckcySFBvMzRNN1o0aHN6Rl9jZFhaZHNod2gwb21YdXRTMXNHSnhQX0wwTTh5MURPd1JWbzQ5MG93QXFIaTBnS0xBYUY0d0poWHpvQzRkOG1FWWp1ZktKcWl3blRBMmQzcElSa3FLejJzVFc0U2J1eVNEQXFiaE9YTExhOEExUTBrNi0yeC1mbU9QR2JVSmN0QVF5amQ5OFdUbEhxZndkSnhaNnI1T1NLbDEzR21JcGtpaHpRVjdZYl9PeGpYazhiN2ZDSzMtNmlJVmFkaXpPOFRQT0V0QXVMSUF5akZLTGdkb3o3ODE0ZFJ4amZwWFlQbkhQMjBKZlhUQnJfTFdGMF92ZUtMVQ?oc=5\" target=\"_blank\">OpenAI的推理模型有时会用中文“思考” 背后原因众说纷纭</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">t.cj.sina.cn</font>",
+   "fetched_at": "2026-09-11T04:05:30+00:00"
   }
  ]
 }

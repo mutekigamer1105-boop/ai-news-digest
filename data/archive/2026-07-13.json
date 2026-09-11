@@ -306,6 +306,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGdDYkk2TTJnTEZRVTR1bW42WFE4OG1FempXVjdPVVNtN0ZEeGtVMTMybDh2MGxfWFo1aUJfQ3JueVBqSm9jLWJoWUtmTGRjelY1VWpXazRnQmhZOUxXNjBlLVFvcFZ5bDlpTWVmN0U4UjdfYU83MXZkS2NiWTFNZDQyRXJ3S2RnLWFjTlk5U3NuellpLUg4dDlpRGw?oc=5\" target=\"_blank\">Defining and Evaluating Physical Safety for Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications of the ACM</font>",
    "fetched_at": "2026-09-10T04:05:08+00:00"
+  },
+  {
+   "id": "web-978-568eaa3048",
+   "source_id": "news",
+   "source_name": "中国科技网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "俄国家杜马通过AI监管法案，引入“主权AI”与“国家AI”大模型双轨制 - 中国科技网",
+   "summary": "俄国家杜马通过AI监管法案，引入“主权AI”与“国家AI”大模型双轨制 &nbsp;&nbsp; 中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwbnhjUU41bzJtTFh5bDRaMy1pNGZMQllRdExCUkhtTjV3Y2JkR1NUanQ1ODlBTVRKMWUwLVVEc0VVS2NJMHh5S290ZE9SdVVfS2FXbEFhS2o4cTdhNnpsQlFMWUpSUUxwS1pEU05acU0?oc=5",
+   "published_at": "2026-07-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAwbnhjUU41bzJtTFh5bDRaMy1pNGZMQllRdExCUkhtTjV3Y2JkR1NUanQ1ODlBTVRKMWUwLVVEc0VVS2NJMHh5S290ZE9SdVVfS2FXbEFhS2o4cTdhNnpsQlFMWUpSUUxwS1pEU05acU0?oc=5\" target=\"_blank\">俄国家杜马通过AI监管法案，引入“主权AI”与“国家AI”大模型双轨制</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+   "fetched_at": "2026-09-11T04:05:30+00:00"
   }
  ]
 }

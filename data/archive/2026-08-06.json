@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FUG9MQXI4Y3BvQ1RxZ3Z5RHZfU2NqQzlJMk5fSXV6N2VUQzUyTEtFdlJfWmdWbm94Z1FNN0J3OVFMUDlDXy13SGdtejdoQTV2SXpQRHdjclQ2MDRRMUF6STRJNl9JZ9IBa0FVX3lxTFBTTk8xZUZqLThUZG0tWG5TdjE2V2xsZHdyTjkyM0ZOSVJBWVJvVV9EZ1VzYlU4MnQ5V3lVZ192d1ZLNHpDSi1oOXNZQU5EbU9paDJJTGdFcUpGeFR1TDBZN3VSMEdRcnJmVlBv?oc=5\" target=\"_blank\">Meta的AI模型也突破密闭环境上网入侵其他公司</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1002-e8144793da",
+   "source_id": "news",
+   "source_name": "新京报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "字节CEO梁汝波：坚持自研AI大语言模型并非因外部压力 - 新京报",
+   "summary": "字节CEO梁汝波：坚持自研AI大语言模型并非因外部压力 &nbsp;&nbsp; 新京报",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HX3p3c3NLTzhaUWxtNTJiVm9RTlBaMnA0ekc4WlpfblJFZEZQXzZuanUxR2lUa1pKS2xrYldmT2piRDNqX1diRVpNRUdDdnpNV1dranBTTHptVEo1Y2hPQ2Q5aW4?oc=5",
+   "published_at": "2026-08-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HX3p3c3NLTzhaUWxtNTJiVm9RTlBaMnA0ekc4WlpfblJFZEZQXzZuanUxR2lUa1pKS2xrYldmT2piRDNqX1diRVpNRUdDdnpNV1dranBTTHptVEo1Y2hPQ2Q5aW4?oc=5\" target=\"_blank\">字节CEO梁汝波：坚持自研AI大语言模型并非因外部压力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
+   "fetched_at": "2026-09-11T04:05:30+00:00"
   }
  ]
 }

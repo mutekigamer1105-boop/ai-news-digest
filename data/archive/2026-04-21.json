@@ -63,6 +63,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE41cFNaYnJXTkEzZzIyVUtsaGRMcVJlek9jNW1ZaEFuZk03NEJ1YWlaMS1pY3JMYzgwQlVMVG1hZGlpbjJKZVAtU09RbDJudw?oc=5\" target=\"_blank\">奥特曼亲自上阵，Images 2.0登顶王座！大米刻字，生图跨入GPT-5时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1137-2294e645e1",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "ChatGPT 图像 2.0 现已上线 - OpenAI",
+   "summary": "ChatGPT 图像 2.0 现已上线 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BMW9LbGZjdjh6MGJSMHd2WnJ6LVNFR0RSWUFnRVM4WDNoYlFEY1lkRTlXY252UklMVVhSbTF1QldHNUwwSFAxbnV5V0ZUZGxnZFFrRGdpNTN3T1g5QlR5cy1QYlBFbWdhY2tYWWo1UzgtUDBBZ3c?oc=5",
+   "published_at": "2026-04-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1BMW9LbGZjdjh6MGJSMHd2WnJ6LVNFR0RSWUFnRVM4WDNoYlFEY1lkRTlXY252UklMVVhSbTF1QldHNUwwSFAxbnV5V0ZUZGxnZFFrRGdpNTN3T1g5QlR5cy1QYlBFbWdhY2tYWWo1UzgtUDBBZ3c?oc=5\" target=\"_blank\">ChatGPT 图像 2.0 现已上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-11T04:05:30+00:00"
   }
  ]
 }

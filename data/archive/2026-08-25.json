@@ -416,6 +416,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxON0p5ZXowMVJPS3l0NldhTGVtVHlZeER1YjVQZUJreEpXV2NEVzJmWmFsSE9lZFBhTWMxSlY4bFZianBSUkYxXzYtRkFLaGNHbnRDWlRFREkzNlExQUVWVW8zQXR1X3NHdU80U0dkdUVaUk9SaEl0UGdLYVNrc2oxQS1haVJVZDRyTXA2WWZ0Tk1TYzlROFBrTjhHdFppQ2ZoVzZ2UEdRdFoxd2tQS0E?oc=5\" target=\"_blank\">Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-222-21834c6d3a",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Evidence, use cases, and implementation safeguards of large language models in primary care - Nature",
+   "summary": "Evidence, use cases, and implementation safeguards of large language models in primary care &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jVXdvY19QcXNmT1ZQNUNyQ09sZEZtZTBlSU1HRkI3aVdqZnozdE5PTTY0OWEwMjVuY0ItcFdXNm5NbWpENk5pb2R2Y1dRUlZTdjdsM2ZFREhnMnZERk1V?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jVXdvY19QcXNmT1ZQNUNyQ09sZEZtZTBlSU1HRkI3aVdqZnozdE5PTTY0OWEwMjVuY0ItcFdXNm5NbWpENk5pb2R2Y1dRUlZTdjdsM2ZFREhnMnZERk1V?oc=5\" target=\"_blank\">Evidence, use cases, and implementation safeguards of large language models in primary care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-11T04:05:30+00:00"
   }
  ]
 }
