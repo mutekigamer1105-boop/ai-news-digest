@@ -284,6 +284,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBuVERKb2xOaE5GZldnNkkxNjlOa1dlX1p6TlZfRmctdDFEQXRwVXlOemlBTVVkQmJJWE95ZmxWZjVTMFl0a1A5YUMwcVlEWWNpdTYxR2R2UzJOQTZ5Ymk0Z0FHemtDdG56X19jbm5B?oc=5\" target=\"_blank\">OpenAI 放王炸！AI 生图突然长脑子了！中文也写明白了！设计师拜拜。。。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.csdn.net</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-1118-fba1aa9c03",
+   "source_id": "news",
+   "source_name": "Sohu",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "又要颠覆设计行业？OpenAI炸场发布Images 2.0，中文不再乱码、超越谷歌登顶 - Sohu",
+   "summary": "又要颠覆设计行业？OpenAI炸场发布Images 2.0，中文不再乱码、超越谷歌登顶 &nbsp;&nbsp; Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RTGRGakVtU19kVjg4c0ktSDQtcVZ5U2NJZUJWREYxbzlSd0tob0dPSWtFa3U2VVdZQlZiT2tQNlhrVk5jcUx1X25XRjNDVlRiUFE?oc=5",
+   "published_at": "2026-04-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RTGRGakVtU19kVjg4c0ktSDQtcVZ5U2NJZUJWREYxbzlSd0tob0dPSWtFa3U2VVdZQlZiT2tQNlhrVk5jcUx1X25XRjNDVlRiUFE?oc=5\" target=\"_blank\">又要颠覆设计行业？OpenAI炸场发布Images 2.0，中文不再乱码、超越谷歌登顶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
+   "fetched_at": "2026-09-12T04:05:12+00:00"
   }
  ]
 }

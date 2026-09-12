@@ -198,6 +198,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RWWNXNmhFT2h1QVZleHVQeDNQblRWUXdoSWN4TlRXZTVMWkpwRl9hUDBlODdjUWVzUzBVTF9pOTY2NDU3SVVnY1VCRkszZjlPa0tScEJR?oc=5\" target=\"_blank\">全球AI大模型排名</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-268-2098520fff",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "EduFairBench: reproducible evaluation of large language models for educational assessment - Frontiers",
+   "summary": "EduFairBench: reproducible evaluation of large language models for educational assessment &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmJEZExrMFZNa00xalJFUlJqWEJRMFMtbnd4b1RBS1ZvT1pBb2w2Q2xwZTU2Z1VNNW1uNFBBV0xaaGRoUXE2MkdGSmVDVTdwTGJncXRsLUJaWWdPeURsUnpTS3FBSGVfal9UOXdsSEprRzQ0M3FNbVByQkhTektNQTRzVm9nOUowTjlTYzJ4bUJpVDhrZFI4MlhUdGlkNy1LTVE?oc=5",
+   "published_at": "2026-07-27T08:59:50+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmJEZExrMFZNa00xalJFUlJqWEJRMFMtbnd4b1RBS1ZvT1pBb2w2Q2xwZTU2Z1VNNW1uNFBBV0xaaGRoUXE2MkdGSmVDVTdwTGJncXRsLUJaWWdPeURsUnpTS3FBSGVfal9UOXdsSEprRzQ0M3FNbVByQkhTektNQTRzVm9nOUowTjlTYzJ4bUJpVDhrZFI4MlhUdGlkNy1LTVE?oc=5\" target=\"_blank\">EduFairBench: reproducible evaluation of large language models for educational assessment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-09-12T04:05:12+00:00"
   }
  ]
 }

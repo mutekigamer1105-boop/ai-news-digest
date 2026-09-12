@@ -131,6 +131,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE5VQW1pUnQyZ29WbDA4U3JSSW5ILXdZcTAtT0d0X0MwSVNXcDhnYkc1OEJXZERiOURVOUZnLVZSUDBudkRNM1hKVjVOQ0ppdmk1bEZiWjB5d3F3ZDVWNXRUTVRTdk05LWtLaTRHSlladzVRdUZYc3RDTzU1YS1TY2x3d196TG9JOFpYUmlBaFVNY2puSXdsbmJHbk9mMzBEYWJSTVZuWUEzNnI0bXhIRjBKdkE?oc=5\" target=\"_blank\">Trump Administration Asks OpenAI to Stagger AI Model Release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-280-bea67db63e",
+   "source_id": "news",
+   "source_name": "aimultiple.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The Future of Large Language Models - aimultiple.com",
+   "summary": "The Future of Large Language Models &nbsp;&nbsp; aimultiple.com",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
+   "published_at": "2026-06-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5\" target=\"_blank\">The Future of Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aimultiple.com</font>",
+   "fetched_at": "2026-09-12T04:05:12+00:00"
   }
  ]
 }

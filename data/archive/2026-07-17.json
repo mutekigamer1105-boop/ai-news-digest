@@ -325,6 +325,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ1plbDhtazNaeGhYT2Jyc0NXY2NQSzk2d2htdVdOMXc4UzRQZ2lSc3d6M2VVWERPOFJWcGZ6ak40eTF4a0lFVGJwY2hlVldESTBLRlctQk5uZUVwSm9Jbjg3OGh6R2ZRZWtTaVBUcko3eS1CcW45WHBjeTFSeVBrX1BpMlBpcUxI?oc=5\" target=\"_blank\">习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mfa.gov.cn</font>",
    "fetched_at": "2026-09-10T04:05:08+00:00"
+  },
+  {
+   "id": "web-782-20ffe2579d",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift - CNBC",
+   "summary": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2gxRHB2VXl2NEdXWHowb0QtcEFsanhlQk5zTEQzWE03cjd5QWluNjV0VWtWUi1Ia2JIOFVQODdhYWloYTdxR0xWOU5MSHBXazJkeEo4SW1Db2I2Ul9CMjRjeVBLLUVFWS1objBHNy1Rb2NYYTFQT0pKWlZja0tVMThCWlJ3SkFVY3N6VmJB0gGTAUFVX3lxTE1sd0lHVWVmRHpwZ1FtV3BGV1E0TGpLRzhuWE14QTZ6ZUJjblBEdXVFYnhtbnJYR3BCcHhPVFFUcmxOS1cxU0NmMnc4VkwydVpIZVZPWUVQdUo4aDhRc3lEaWh1N0JWcy1iZTdHZldtZm1RN0c4WTNYQlV3REJtZVhjZjBVd0tuTzhnTmNLS1lHRl90NA?oc=5",
+   "published_at": "2026-07-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2gxRHB2VXl2NEdXWHowb0QtcEFsanhlQk5zTEQzWE03cjd5QWluNjV0VWtWUi1Ia2JIOFVQODdhYWloYTdxR0xWOU5MSHBXazJkeEo4SW1Db2I2Ul9CMjRjeVBLLUVFWS1objBHNy1Rb2NYYTFQT0pKWlZja0tVMThCWlJ3SkFVY3N6VmJB0gGTAUFVX3lxTE1sd0lHVWVmRHpwZ1FtV3BGV1E0TGpLRzhuWE14QTZ6ZUJjblBEdXVFYnhtbnJYR3BCcHhPVFFUcmxOS1cxU0NmMnc4VkwydVpIZVZPWUVQdUo4aDhRc3lEaWh1N0JWcy1iZTdHZldtZm1RN0c4WTNYQlV3REJtZVhjZjBVd0tuTzhnTmNLS1lHRl90NA?oc=5\" target=\"_blank\">Chinese AI has leveled up, and brought renewed focus on the open weight model shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-12T04:05:12+00:00"
   }
  ]
 }

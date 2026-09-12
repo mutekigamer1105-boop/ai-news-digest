@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdm5YcFhBOVVqMjJjREh1aWp2Sy13UmVDb2YyYVZwUm80UGgwSk9XZ0JiakNHTWNLNVNhdC1OZDRacjJHd0pRc0x4LV84Z2pZWWNqZEpoa2RmUnVoMmxLZ2dkTXZSam9YNU1RZHdERTVVWEszQVlyRjVWM0oyX2NQZWdRaWRaa1J5bFdoamZhamZ4NkRWZmRUdldrdTRFaUZnMW5hQ1VlYXRCVmcxSExBQm9mbWw?oc=5\" target=\"_blank\">Anthropic Plans Wide Release of Mythos-Level AI Models in Weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-295-c2e9c32fa9",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "From automation to augmentation: a retrieval-augmented large language model framework for reshaping learning experiences in higher education - Frontiers",
+   "summary": "From automation to augmentation: a retrieval-augmented large language model framework for reshaping learning experiences in higher education &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjNfdHkyU3lQSG45NHFmVGxNSjc1ZXpwcDQ0X0pic1QxaWtmMm90T2lzampsZG1QdzQzWmhHWjluTUZwREVqeHlWY3NfdVFpSUFsZWJ4bFhvd0o2TkhiS3lEOUo0Z3F3WjQxNlJtRjNSUnQyZ1I5aHNVME1SVzBKZEN3WDJESUtwNUY0QkttVC1WQQ?oc=5",
+   "published_at": "2026-05-28T18:18:54+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjNfdHkyU3lQSG45NHFmVGxNSjc1ZXpwcDQ0X0pic1QxaWtmMm90T2lzampsZG1QdzQzWmhHWjluTUZwREVqeHlWY3NfdVFpSUFsZWJ4bFhvd0o2TkhiS3lEOUo0Z3F3WjQxNlJtRjNSUnQyZ1I5aHNVME1SVzBKZEN3WDJESUtwNUY0QkttVC1WQQ?oc=5\" target=\"_blank\">From automation to augmentation: a retrieval-augmented large language model framework for reshaping learning experiences in higher education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-09-12T04:05:12+00:00"
   }
  ]
 }

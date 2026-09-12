@@ -129,6 +129,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZmxjRUtoY3BsOVlYUHdicDdjNTdzcDkzLV9MUWdwOTdDVkJiOS1iQVRQd24ybVZrZkkwN3ZUTWNzN1Z4REJpODY4eFlNYzFjdWVocFJxVkVDczY3S0RNdTBfQTE0b0Q2ejlQUTNlWjZXb3R2ZkFWTkdweUhydlpGM010NHJ4T2R3Y3JQQ3lHblRjNXp2TWRhUEdacEZoZw?oc=5\" target=\"_blank\">Exclusive / US investors lead $30M funding for Gulf AI startup 1001</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semafor</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-269-04d38a6dad",
+   "source_id": "news",
+   "source_name": "Cureus",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Evaluating the Accuracy of Large Language Models in Selecting Appropriate Statistical Tests for Healthcare Research - Cureus",
+   "summary": "Evaluating the Accuracy of Large Language Models in Selecting Appropriate Statistical Tests for Healthcare Research &nbsp;&nbsp; Cureus",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTGluQ2NrN09NUXlwOFNlUzlXSGJpLU41VFh4ODYtd3FQeUctZFN5VnpGVzRBdzUwUVJOMmEtVlFBbWdVblhsS3UteGJsQnFTdmN6QVBmcmdrVDdYd2c5M2VZWVlITjhzTmotd0JuT3hBREJ0ZkpncGRpMkJhalphREVEanBadVhraXBwM25iRWxCRncyZHVaYllRNFBKeGFqNmxaS3VvamJnWHY1Qmo5QVRwcnAzeUVqYUt1WExoMzN5c0JqdDZObThXNEhHR09CWEpLemRVeFdISXAwYndjS0h1NU1XYzVlZlE?oc=5",
+   "published_at": "2026-06-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTGluQ2NrN09NUXlwOFNlUzlXSGJpLU41VFh4ODYtd3FQeUctZFN5VnpGVzRBdzUwUVJOMmEtVlFBbWdVblhsS3UteGJsQnFTdmN6QVBmcmdrVDdYd2c5M2VZWVlITjhzTmotd0JuT3hBREJ0ZkpncGRpMkJhalphREVEanBadVhraXBwM25iRWxCRncyZHVaYllRNFBKeGFqNmxaS3VvamJnWHY1Qmo5QVRwcnAzeUVqYUt1WExoMzN5c0JqdDZObThXNEhHR09CWEpLemRVeFdISXAwYndjS0h1NU1XYzVlZlE?oc=5\" target=\"_blank\">Evaluating the Accuracy of Large Language Models in Selecting Appropriate Statistical Tests for Healthcare Research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cureus</font>",
+   "fetched_at": "2026-09-12T04:05:12+00:00"
   }
  ]
 }

@@ -260,6 +260,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGFodld0bUNaak0zcjNiZU5MbmF6NWhrVjIxTFl5Tkl1MEFSOENuczNza1cwRGFnSXlTcU1sLUJmeWJMTjNOUG1RTFBzMTNMRGJsQzFHTlgzbkp3cmIwdy03N2tYd2RuN2Z0QnZzUGxWTmJJM2lWMVVIWkk3MUFkcjNtWkFqVHBlVjEw0gGQAUFVX3lxTE9LV0xtYUQ5UXpDNVIzYXk5VXVrUGREUFBQSlJyS0NDNzNkdDhSeVBXZkt0QVBKY09TOUtldVpUQjA4SEQ1UmsxaVpaMWdGeWFHdUg5MFVqTTRkRFItRTFWU2FiY3NSRjBMN0NDLTJMNXkwRTJrdi16OTlPd3VyU3RZeFZINEV2c29IeFFUSkhvWg?oc=5\" target=\"_blank\">Alibaba answers Meta’s AI challenge with new laptop-ready model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-09-10T04:05:08+00:00"
+  },
+  {
+   "id": "web-229-9ed54f2bb3",
+   "source_id": "news",
+   "source_name": "aimultiple.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large Multimodal Models (LMMs) vs LLMs - aimultiple.com",
+   "summary": "Large Multimodal Models (LMMs) vs LLMs &nbsp;&nbsp; aimultiple.com",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqR2tRT1ZJWUdpN3BxampmMUlLRkpNa0U4bVpvVExvaXc0ZmRUX3pHbFdJSjNfdk8wSXhxTEtuQVBKTkg1ZVRWb1JYcXZxcGdOODV2MGxmMDlsUQ?oc=5",
+   "published_at": "2026-08-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqR2tRT1ZJWUdpN3BxampmMUlLRkpNa0U4bVpvVExvaXc0ZmRUX3pHbFdJSjNfdk8wSXhxTEtuQVBKTkg1ZVRWb1JYcXZxcGdOODV2MGxmMDlsUQ?oc=5\" target=\"_blank\">Large Multimodal Models (LMMs) vs LLMs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aimultiple.com</font>",
+   "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-266-f9621e4929",
+   "source_id": "news",
+   "source_name": "Cureus",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "A Medical Large Language Model-Based System Improves History-Taking Performance Among Medical Students - Cureus",
+   "summary": "A Medical Large Language Model-Based System Improves History-Taking Performance Among Medical Students &nbsp;&nbsp; Cureus",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSlhFRjMwdWliakdXM3JxYTk0dG9tZDVqb3pfLTdEUFVUaDBqUTRURkFLYllPZDZNQTItQ3JvTHJTMTRPZXl1WGJDT2x5OXgweVM0NVVCTVM1a0hNRkRGc3JZTXQwZEV3cDlBUVF3QTBuMHZ6T3NzSGVqaHAxYWRkOHR2eEsxX1lUUWtyZXo0bWFONHVlZ1RyMWhRWEh4NFhRenRSNWhNMWo3MjlLd2pRWHNpM0EtbkV0UGktQnh1NERoNlA2QTFZVzFSVGR2RkZMWUgxN2hRZS0?oc=5",
+   "published_at": "2026-08-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSlhFRjMwdWliakdXM3JxYTk0dG9tZDVqb3pfLTdEUFVUaDBqUTRURkFLYllPZDZNQTItQ3JvTHJTMTRPZXl1WGJDT2x5OXgweVM0NVVCTVM1a0hNRkRGc3JZTXQwZEV3cDlBUVF3QTBuMHZ6T3NzSGVqaHAxYWRkOHR2eEsxX1lUUWtyZXo0bWFONHVlZ1RyMWhRWEh4NFhRenRSNWhNMWo3MjlLd2pRWHNpM0EtbkV0UGktQnh1NERoNlA2QTFZVzFSVGR2RkZMWUgxN2hRZS0?oc=5\" target=\"_blank\">A Medical Large Language Model-Based System Improves History-Taking Performance Among Medical Students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cureus</font>",
+   "fetched_at": "2026-09-12T04:05:12+00:00"
   }
  ]
 }

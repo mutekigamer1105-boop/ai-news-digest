@@ -242,6 +242,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEZfMDBtQWp3M1lIcDZNazhRaXZ3al9UMXlYaW9ueVgyRm9BVjc3bkRrdXpSQ0l5TkJMYmpjWGVLQkloTWJPS3lwYWQ2cC05YWQwQ294S1FfcWdrMmk1Nk53Ym5EZWlCMW1aajY0RG85cDUtcW5ZcGZGRjFjakxFdm9JYUNrZ2ZhN25qNGh0QkF1azRSZFppRzZtQWJZMEVGa2M1VmIzQVpteWtFNUNaX0liTFgzSFBaTkE?oc=5\" target=\"_blank\">Introducing Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cisco Blogs</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-257-155c4186d2",
+   "source_id": "news",
+   "source_name": "American Heart Association Journals",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Structured Clinical Input–Guided Large Language Model Workflow for Acute Ischemic Stroke Discharge Education: A Multicenter Feasibility Study - American Heart Association Journals",
+   "summary": "Structured Clinical Input–Guided Large Language Model Workflow for Acute Ischemic Stroke Discharge Education: A Multicenter Feasibility Study &nbsp;&nbsp; American Heart Association Journals",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSUo3ZVpmTWY0aXpzd1luaHpUcDZNeWJnTUQ0R055UkkyejY3LTQzTWpEcllyeHBPcjEzd2xuZTJuMFRhU2cybEZxVkpSTkp2THlSOFhmUFEwT2x0ZVlMWXhfV0lhWi1Ta2ozcw?oc=5",
+   "published_at": "2026-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSUo3ZVpmTWY0aXpzd1luaHpUcDZNeWJnTUQ0R055UkkyejY3LTQzTWpEcllyeHBPcjEzd2xuZTJuMFRhU2cybEZxVkpSTkp2THlSOFhmUFEwT2x0ZVlMWXhfV0lhWi1Ta2ozcw?oc=5\" target=\"_blank\">Structured Clinical Input–Guided Large Language Model Workflow for Acute Ischemic Stroke Discharge Education: A Multicenter Feasibility Study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Heart Association Journals</font>",
+   "fetched_at": "2026-09-12T04:05:12+00:00"
   }
  ]
 }

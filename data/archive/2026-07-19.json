@@ -88,6 +88,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE80YUJSNUIwQlQ1UXc4VG5VX3FPbFVxTm5iQXQxeFZ1QnN1Q2FyY0d3LUJlV01jcUNhQ1RFa2V6SzJqQnk3V1BxYWNiY0wyaExkQjNhdG9iUWV6eHRfXzRxY2RQYw?oc=5\" target=\"_blank\">苹果起诉OpenAI指控挖角泄密，可能拖延其硬件与IPO计划</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-289-51a6467c25",
+   "source_id": "news",
+   "source_name": "Trend Hunter",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "High-Efficiency LLM Models - Trend Hunter",
+   "summary": "High-Efficiency LLM Models &nbsp;&nbsp; Trend Hunter",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XblBWci1NdG81cnMycUtXNGxyU0hNMGk5Zll2OU9HRFNGV3pmN29BeWN6LVJjc3R1eTh2RlZENXRPTE5WanJNalBFdVZ5Z1ExYnJSMVRxdE9vZTdTOWozdzRLVTZ2UdIBa0FVX3lxTE13ak1wZEpTZ1N3cnM5M0Fvd2E5dWFqbV9NX1pjVnBZa1lLWEVOR1JYVUdNdmRRUFZhV3dPNERtWXRPYWZXSEtWV0djUmJaMVo0TFk4cDl3U2RseFl6bDF6UG8tSlJTcE9mVzBr?oc=5",
+   "published_at": "2026-07-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XblBWci1NdG81cnMycUtXNGxyU0hNMGk5Zll2OU9HRFNGV3pmN29BeWN6LVJjc3R1eTh2RlZENXRPTE5WanJNalBFdVZ5Z1ExYnJSMVRxdE9vZTdTOWozdzRLVTZ2UdIBa0FVX3lxTE13ak1wZEpTZ1N3cnM5M0Fvd2E5dWFqbV9NX1pjVnBZa1lLWEVOR1JYVUdNdmRRUFZhV3dPNERtWXRPYWZXSEtWV0djUmJaMVo0TFk4cDl3U2RseFl6bDF6UG8tSlJTcE9mVzBr?oc=5\" target=\"_blank\">High-Efficiency LLM Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trend Hunter</font>",
+   "fetched_at": "2026-09-12T04:05:12+00:00"
   }
  ]
 }

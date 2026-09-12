@@ -108,6 +108,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQbE1FYVZqU0hDTUZyUGcyRWNMd2t2V1E1X1RFWk1PRUlYOUFDUTQyV1lIT3NLMjcweFQ2Si1fclRNQnBQNm1EckN3aEczTDdERFlsdVhTNDllZGIyR2c4bzBrRGtfU3Jld29nZ0pjeU8yRmUteExfSmQ2UTJqbWZIdWc5WkRGZ2h1VFhRbGNqR1VZM1JIeUpONEV6cnlWb0RSaGZZNF9B?oc=5\" target=\"_blank\">Ex-Twitter CEO’s AI Startup Raises Funds at $2 Billion Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-299-d534fecf27",
+   "source_id": "news",
+   "source_name": "Psychiatry Online",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Psychiatric Risk Associated With Large Language Model Chatbots: An Emerging Concern - Psychiatry Online",
+   "summary": "Psychiatric Risk Associated With Large Language Model Chatbots: An Emerging Concern &nbsp;&nbsp; Psychiatry Online",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wcjBpc1Z4OXcxaHRvcmN1VW9aNk9wX3E1ZThKVnRURHpla1NmWC0taEtCVWQ0eUh2ZE03SDlMRVd6TzhmbS1uUkxlbEFWS3A0UU5yLWNoQldsVWFpeUdGZHlmeXBBd1ltTmRLUmhSMA?oc=5",
+   "published_at": "2026-04-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1wcjBpc1Z4OXcxaHRvcmN1VW9aNk9wX3E1ZThKVnRURHpla1NmWC0taEtCVWQ0eUh2ZE03SDlMRVd6TzhmbS1uUkxlbEFWS3A0UU5yLWNoQldsVWFpeUdGZHlmeXBBd1ltTmRLUmhSMA?oc=5\" target=\"_blank\">Psychiatric Risk Associated With Large Language Model Chatbots: An Emerging Concern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Psychiatry Online</font>",
+   "fetched_at": "2026-09-12T04:05:12+00:00"
   }
  ]
 }

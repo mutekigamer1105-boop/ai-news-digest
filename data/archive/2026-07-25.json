@@ -88,6 +88,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xdWVEWGNPaWt1UTVmTWJRNmlQOUlWSXhVaTJTOW53RVlYVThpOWZGVFZLcDN4MFVmQzhKS0RSXzJKZ1d3M1hJQWM4alhpYk0tRWhR?oc=5\" target=\"_blank\">趋势丨AI大厂转向效率优先，大模型商业化分配生变</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1151-f1d3770a87",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 推出 Micro 智能鍵盤引發熱議蘋果提告| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI 推出 Micro 智能鍵盤引發熱議蘋果提告| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4bnJBVy1WbWV1OFg3M0ZRR2xGWWk3V1FUUFR3NUp6VlJJSEltQVVwcXdMbzBRRzJnQmw3VGdBNWlER1Vpc3U2b2RKYkVnal9LSDl5Q0l4TktDRm1RNUdVNllqV2V6YjRa?oc=5",
+   "published_at": "2026-07-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4bnJBVy1WbWV1OFg3M0ZRR2xGWWk3V1FUUFR3NUp6VlJJSEltQVVwcXdMbzBRRzJnQmw3VGdBNWlER1Vpc3U2b2RKYkVnal9LSDl5Q0l4TktDRm1RNUdVNllqV2V6YjRa?oc=5\" target=\"_blank\">OpenAI 推出 Micro 智能鍵盤引發熱議蘋果提告| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-12T04:05:12+00:00"
   }
  ]
 }
