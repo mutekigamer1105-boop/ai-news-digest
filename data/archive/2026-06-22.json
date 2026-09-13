@@ -88,6 +88,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFAxZFVHYUwyLU9kZ0JZMUhnYkw2M0xwNVRPX1ZSNWp1LTBCOUtZMU42M3B1SXJzVHQ0WEFHUnl6WHdoTEV6SFJ5U0FOTFl3Z0U2OHBUTXo0RWhwQ3JuTzhCR0RYQWUxa2RRZVF3UnQ5ZkVpXzg?oc=5\" target=\"_blank\">GLM-5.2 is the step change for open agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interconnects AI</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-290-59a34932c4",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "A custom-configured large language model for Arabic academic feedback: a case study within the SSDEC curriculum - Frontiers",
+   "summary": "A custom-configured large language model for Arabic academic feedback: a case study within the SSDEC curriculum &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQm01cVlLeVVFc2JidERQUC1rYkRWU3hjVGxWX0Z1TUt2Zk9uRlctODFtNzlzZldaM0FoWXA0NFZIR0NlWW5MZWRJenJla1BUQ0RTVm1pYjhCbC1YRXRNMTBvT1RfdGNjVlpBTHVPUEhzQ0dHQVpMM3JMUWF3eFI5SzI0UlNaUDAzbmpyclFScE4?oc=5",
+   "published_at": "2026-06-22T11:19:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQm01cVlLeVVFc2JidERQUC1rYkRWU3hjVGxWX0Z1TUt2Zk9uRlctODFtNzlzZldaM0FoWXA0NFZIR0NlWW5MZWRJenJla1BUQ0RTVm1pYjhCbC1YRXRNMTBvT1RfdGNjVlpBTHVPUEhzQ0dHQVpMM3JMUWF3eFI5SzI0UlNaUDAzbmpyclFScE4?oc=5\" target=\"_blank\">A custom-configured large language model for Arabic academic feedback: a case study within the SSDEC curriculum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-09-13T04:05:55+00:00"
   }
  ]
 }

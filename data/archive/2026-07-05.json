@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqcXV2cHBhc0xIdHpWMF9oZXBoOTBjenUtQXVBZjRxREFJdnZkSk9TYXpzTjZxMTN2bk8zYktaWnhKRWFNXzNpNw?oc=5\" target=\"_blank\">AI大模型跨越生产级“质变点”？|深度</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-885-f2eca49a61",
+   "source_id": "news",
+   "source_name": "UN News",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "警惕人工智能“灾难性危害” 全球治理竞跑加速 - UN News",
+   "summary": "警惕人工智能“灾难性危害” 全球治理竞跑加速 &nbsp;&nbsp; UN News",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tNGgxSGZLVVhtM0VQUVNsRzFLdE45SXJCdHNXUzF2VnFxZ3cwUWpOcUprSlZEek5ISmQtUXJXWUtHbWlzWVNNbWZNbzBEX0lKRmhPb0ZVQQ?oc=5",
+   "published_at": "2026-07-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tNGgxSGZLVVhtM0VQUVNsRzFLdE45SXJCdHNXUzF2VnFxZ3cwUWpOcUprSlZEek5ISmQtUXJXWUtHbWlzWVNNbWZNbzBEX0lKRmhPb0ZVQQ?oc=5\" target=\"_blank\">警惕人工智能“灾难性危害” 全球治理竞跑加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font>",
+   "fetched_at": "2026-09-13T04:05:55+00:00"
   }
  ]
 }

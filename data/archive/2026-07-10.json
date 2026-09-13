@@ -153,6 +153,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPblp4czNjYzdNb3JtTDhUT1pDZTRzMjNyaHJqTV9QMkYzdFdKY1hMMTRvdDVUUUNoYnRNTFJ2ZnFfQ2hBd0lSY084b0JFS1A2czltWGxTaS1NY0lyeWt4QWd1MTlodmNWNTlVS19rU2d0ODBVd3FCMXA1LVZKNHI5eEVKeHJrWWNvcWNTZHExdzRJMkJCTU1WSUFoWWJjTEE?oc=5\" target=\"_blank\">高盛深度报告：谁将成为中国AI大模型行业的长期赢家？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-1082-eb55929943",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "财经聚焦丨从“技术可用”到“商业可赚” AI智能体加速落地 - 新华网",
+   "summary": "财经聚焦丨从“技术可用”到“商业可赚” AI智能体加速落地 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOak8zcHIyY2l1NHg1Z3VCRXE2SnBKcC13Mk1pMlhLeUR5b1JlSzNSczZfMzhyN0FqQzFRMWFvbDFMbzI3ZnIzMFVEa3dfRmx3cVlYcjJrUldkZGtWZFV0UHFOMHd4aWpKejltMU1FWXMwQkZ3VkdqQU9sRU5tQUZzSmV3?oc=5",
+   "published_at": "2026-07-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOak8zcHIyY2l1NHg1Z3VCRXE2SnBKcC13Mk1pMlhLeUR5b1JlSzNSczZfMzhyN0FqQzFRMWFvbDFMbzI3ZnIzMFVEa3dfRmx3cVlYcjJrUldkZGtWZFV0UHFOMHd4aWpKejltMU1FWXMwQkZ3VkdqQU9sRU5tQUZzSmV3?oc=5\" target=\"_blank\">财经聚焦丨从“技术可用”到“商业可赚” AI智能体加速落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-13T04:05:55+00:00"
   }
  ]
 }

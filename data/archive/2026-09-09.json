@@ -11274,6 +11274,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxON0lvd21MeEVNMVFLWXc1c09BMmdpUzRTV1M5NTZJcVJTU182MGhVSWE3cmhKeHdxSk9lTm9TSEg0YUE1aU14blVaSE5ubThVZ2tPRDRLSmlubEhNSDB0TkdTSFJfM3hZQlJYUHl6YUNtOHNmUHpGZjVqN2txZDNFdERrREVDbEd2V3NyMEEtUmNaTzRMR3ROeTRhd2tCR1U5QlhjYTBCTXBvc2FncmhYWG5LNGt4aGh1T0tzdw?oc=5\" target=\"_blank\">Samsung to take equity stake in Mistral AI, jointly develop AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-184-8195b19056",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Options traders make bullish bets on Meta following personal AI agent launch - CNBC",
+   "summary": "Options traders make bullish bets on Meta following personal AI agent launch &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSi10MTRyZHBRU2M5QnZMX0FRTTFEZUJYak8waV9IaDZQN3dTckJDYlc4Y0hKZlNIUWJaWHAtak9qMXlSS2diVzgzUG1qOWtzUmhMNlVjdUIyWFVmZ3d2VExLeGVpd3A0dzlWZ0tyOC1zN0ViSUN3a19RUzdNQXB5UFZrbnNqLUJvdGtKNXpzeVMtRUJ4MUpxeHJwbXJMMEUwOXpMbGMxVE94X19qclpNNUtmczlITDd2eVB3?oc=5",
+   "published_at": "2026-09-09T20:14:04+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSi10MTRyZHBRU2M5QnZMX0FRTTFEZUJYak8waV9IaDZQN3dTckJDYlc4Y0hKZlNIUWJaWHAtak9qMXlSS2diVzgzUG1qOWtzUmhMNlVjdUIyWFVmZ3d2VExLeGVpd3A0dzlWZ0tyOC1zN0ViSUN3a19RUzdNQXB5UFZrbnNqLUJvdGtKNXpzeVMtRUJ4MUpxeHJwbXJMMEUwOXpMbGMxVE94X19qclpNNUtmczlITDd2eVB3?oc=5\" target=\"_blank\">Options traders make bullish bets on Meta following personal AI agent launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-13T04:05:55+00:00"
+  },
+  {
+   "id": "web-1072-02fbceb032",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta推出个人AI智能体Muse 可代用户处理日常事务 - 新浪财经",
+   "summary": "Meta推出个人AI智能体Muse 可代用户处理日常事务 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR19oMEQ4Y0U5emdYNVFkNnNfWElPbHBSaDlJVHo4bE0xY2NZNjJ4Y1FwZXJ1Z1BrSFRaOWczMVNBNkFOR1VNaGQ4QlNfMVRzS0VWN0R3YjZrbmJjQ0I1NllVbjBWancxY3Z2dVZlXzJ6T2tXajRMeUdiQktpMjFtRmMzb21VMnVVbDNNU1dkOVRIcFd2MVgta05jcHA?oc=5",
+   "published_at": "2026-09-09T09:06:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOR19oMEQ4Y0U5emdYNVFkNnNfWElPbHBSaDlJVHo4bE0xY2NZNjJ4Y1FwZXJ1Z1BrSFRaOWczMVNBNkFOR1VNaGQ4QlNfMVRzS0VWN0R3YjZrbmJjQ0I1NllVbjBWancxY3Z2dVZlXzJ6T2tXajRMeUdiQktpMjFtRmMzb21VMnVVbDNNU1dkOVRIcFd2MVgta05jcHA?oc=5\" target=\"_blank\">Meta推出个人AI智能体Muse 可代用户处理日常事务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-09-13T04:05:55+00:00"
   }
  ]
 }

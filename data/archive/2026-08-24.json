@@ -508,6 +508,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5\" target=\"_blank\">Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Startup News</font>",
    "fetched_at": "2026-09-11T04:05:30+00:00"
+  },
+  {
+   "id": "web-587-cd028165e5",
+   "source_id": "news",
+   "source_name": "NVIDIA Blog",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents - NVIDIA Blog",
+   "summary": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents &nbsp;&nbsp; NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1abDNiV1R3b1JKQ01wRmJYVFdkMVVGempWd3hYQlFhRl9ZdG9ONjB0eXhNS2REdk9sZk43Q0V4eE9fa09KSm11UUJvck00eGNCWUFRdXZsLXVIU3dfbWNqOFNTekN6dmR3Z0JTTTdvZm1kbWxGS0ZJ?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1abDNiV1R3b1JKQ01wRmJYVFdkMVVGempWd3hYQlFhRl9ZdG9ONjB0eXhNS2REdk9sZk43Q0V4eE9fa09KSm11UUJvck00eGNCWUFRdXZsLXVIU3dfbWNqOFNTekN6dmR3Z0JTTTdvZm1kbWxGS0ZJ?oc=5\" target=\"_blank\">Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+   "fetched_at": "2026-09-13T04:05:55+00:00"
   }
  ]
 }

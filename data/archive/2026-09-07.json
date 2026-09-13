@@ -9355,6 +9355,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtLU5qR0h0VDQySEhuN3VQX2xMdXFQWWlEazZ2ZUM3dFp5Wlo3QXhUSHRKQUIyeTd5VWNrMU15TTdreFBMTFNNTQ?oc=5\" target=\"_blank\">【明日主题前瞻】中国AI大模型调用量连续十九周领跑</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
    "fetched_at": "2026-09-11T04:05:30+00:00"
+  },
+  {
+   "id": "web-1011-d64700711d",
+   "source_id": "news",
+   "source_name": "eeo.com.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AGI若隐若现，AI智能体却已开始“操作”世界 - eeo.com.cn",
+   "summary": "AGI若隐若现，AI智能体却已开始“操作”世界 &nbsp;&nbsp; eeo.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBucVk3aXRFOG5udFpZRmZMd3VabkNySE9qZkZsVDhad0dZNmF6UGcybE5NX0RuYVA1em40TVJtOGNVdktYUE1CYmpQME5BcWxoeUt0OUYyNW4?oc=5",
+   "published_at": "2026-09-07T12:33:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBucVk3aXRFOG5udFpZRmZMd3VabkNySE9qZkZsVDhad0dZNmF6UGcybE5NX0RuYVA1em40TVJtOGNVdktYUE1CYmpQME5BcWxoeUt0OUYyNW4?oc=5\" target=\"_blank\">AGI若隐若现，AI智能体却已开始“操作”世界</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eeo.com.cn</font>",
+   "fetched_at": "2026-09-13T04:05:55+00:00"
   }
  ]
 }

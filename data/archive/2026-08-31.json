@@ -1284,6 +1284,48 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wbnAwbkp4RDk1bF9kZkxfdFFiQ2ZNVGo5UXRZSkNCaG5VZDlTLTdqdVBoTE1ZQnRfSWFnX2I5RFZBbjhUZDlGMmlOZHVxbHRP?oc=5\" target=\"_blank\">国产算力+AI智能体：官宣！TeleAgent信创版正式上线，AI办公真正实现数据不出域</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C114通信网</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-77-0682148759",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "House Intelligence Committee warns of 'Black Swan' AI risks - CNBC",
+   "summary": "House Intelligence Committee warns of 'Black Swan' AI risks &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSldFa0VOb0pOQTkxckR0ZHBOSWJFalQ1NVIyaFdPVDM5SEQ3RXFxOEJjY0Y3cEU3QWcwMC1kTWRyak00THMxNXhuTGZ5THdvLVZuTFdTTXBDbjhFVWxibVhYdGNYQmF2S3p6bzA3TnBuR3ZEbVNlLXNwWEZpMFhQdWJR0gGHAUFVX3lxTE9BbzhvdWdiTFcxcXB0SDcxSVlDekRsZlcwUldyTEtoU09rc21aTk9iU3I3WXV2cW1wcXJmQ0s3LTR1VnEyWm9nU21GaFlvZEg1ZFgtZ1V3YUY3UjBDd0c4c3ZnaUVZNFYxeUdLZV9hZ1hBaEs0bUtPbjNHQnRMSnA3T3dzd29hRQ?oc=5",
+   "published_at": "2026-08-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSldFa0VOb0pOQTkxckR0ZHBOSWJFalQ1NVIyaFdPVDM5SEQ3RXFxOEJjY0Y3cEU3QWcwMC1kTWRyak00THMxNXhuTGZ5THdvLVZuTFdTTXBDbjhFVWxibVhYdGNYQmF2S3p6bzA3TnBuR3ZEbVNlLXNwWEZpMFhQdWJR0gGHAUFVX3lxTE9BbzhvdWdiTFcxcXB0SDcxSVlDekRsZlcwUldyTEtoU09rc21aTk9iU3I3WXV2cW1wcXJmQ0s3LTR1VnEyWm9nU21GaFlvZEg1ZFgtZ1V3YUY3UjBDd0c4c3ZnaUVZNFYxeUdLZV9hZ1hBaEs0bUtPbjNHQnRMSnA3T3dzd29hRQ?oc=5\" target=\"_blank\">House Intelligence Committee warns of 'Black Swan' AI risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-13T04:05:55+00:00"
+  },
+  {
+   "id": "web-886-32117f1b5b",
+   "source_id": "news",
+   "source_name": "人民日报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "数据要素筑基，人工智能加速落地应用（经济聚焦） - 人民日报",
+   "summary": "数据要素筑基，人工智能加速落地应用（经济聚焦） &nbsp;&nbsp; 人民日报",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sM0Y4RVJ4eEh0NEwydGkzUkRBZHZmUHNuWFQwTzgtX19TOVdvcDB4TldqSktONExyNldfVkpCU1JMaktPWEtZdGxSN3J5dTZOOG40Z0M3dlI2MXlJVW0telVLZU5UcUgtLS1vSTEySVBtUmp3TUI1bUp0Wkx5ZEU?oc=5",
+   "published_at": "2026-08-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1sM0Y4RVJ4eEh0NEwydGkzUkRBZHZmUHNuWFQwTzgtX19TOVdvcDB4TldqSktONExyNldfVkpCU1JMaktPWEtZdGxSN3J5dTZOOG40Z0M3dlI2MXlJVW0telVLZU5UcUgtLS1vSTEySVBtUmp3TUI1bUp0Wkx5ZEU?oc=5\" target=\"_blank\">数据要素筑基，人工智能加速落地应用（经济聚焦）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民日报</font>",
+   "fetched_at": "2026-09-13T04:05:55+00:00"
   }
  ]
 }

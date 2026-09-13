@@ -282,6 +282,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBpa1JPVk1rUkVqN3NsbnY2N0c4TTAtTmNHRFN3ZWxka0NvS0prbk5kSDA0blZHTEE1QkhlbThTdUdNa0tEOXpfVWFDOGVPdHo3MlJFRTZxdFNRUmtFZjRyT3I4eVp0OS1VQXQxdzFUOA?oc=5\" target=\"_blank\">LLM Moats Quickly Evaporating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hackaday</font>",
    "fetched_at": "2026-09-11T04:05:30+00:00"
+  },
+  {
+   "id": "web-76-ba830bb6b4",
+   "source_id": "news",
+   "source_name": "Futurism",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "MIT Warns That AI Can Now Credibly Complete Pretty Much Any Undergrad Assignment, Considers Overhaul of Entire Educational Model - Futurism",
+   "summary": "MIT Warns That AI Can Now Credibly Complete Pretty Much Any Undergrad Assignment, Considers Overhaul of Entire Educational Model &nbsp;&nbsp; Futurism",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOamVFOHNUSmtRRndPbGE3cWJhb2RBN2FXQmFjMG05T1NJYXFCVVVUMUdnV1I1VGRtblNXbG45a2NObW45dkhJdVpZUVUyWFoyZ1RQOG5vVWt1bDlRTnJzUmJrcmhwX2IteFFpeU42bkZOOVZ3MTVHMGxpcXVUdWdFMGVVME5Ldw?oc=5",
+   "published_at": "2026-08-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOamVFOHNUSmtRRndPbGE3cWJhb2RBN2FXQmFjMG05T1NJYXFCVVVUMUdnV1I1VGRtblNXbG45a2NObW45dkhJdVpZUVUyWFoyZ1RQOG5vVWt1bDlRTnJzUmJrcmhwX2IteFFpeU42bkZOOVZ3MTVHMGxpcXVUdWdFMGVVME5Ldw?oc=5\" target=\"_blank\">MIT Warns That AI Can Now Credibly Complete Pretty Much Any Undergrad Assignment, Considers Overhaul of Entire Educational Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font>",
+   "fetched_at": "2026-09-13T04:05:55+00:00"
   }
  ]
 }

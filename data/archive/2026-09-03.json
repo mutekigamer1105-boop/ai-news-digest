@@ -18040,6 +18040,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5\" target=\"_blank\">GPT-6 Astra: A new generation of intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-711-016ef8d9b0",
+   "source_id": "news",
+   "source_name": "Mashable",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI Astra is a mysterious new quantum math-solving model - Mashable",
+   "summary": "OpenAI Astra is a mysterious new quantum math-solving model &nbsp;&nbsp; Mashable",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3puSjBhcy1TRmloVzBfNlA4LWlsUEI5NEVzRk41SDFnVmdTS3Y0eWpuVkR5TkFGZ3N2cHYwYnN5WVVncjlhYWNXN1NmZ1ZIRGNTOWFQeHpmVGgxZGo4SGlLekF2MU5ZQUxDV2puZ3ZRY1dhUG5kSmlfYnBCTERRWkZn?oc=5",
+   "published_at": "2026-09-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3puSjBhcy1TRmloVzBfNlA4LWlsUEI5NEVzRk41SDFnVmdTS3Y0eWpuVkR5TkFGZ3N2cHYwYnN5WVVncjlhYWNXN1NmZ1ZIRGNTOWFQeHpmVGgxZGo4SGlLekF2MU5ZQUxDV2puZ3ZRY1dhUG5kSmlfYnBCTERRWkZn?oc=5\" target=\"_blank\">OpenAI Astra is a mysterious new quantum math-solving model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+   "fetched_at": "2026-09-13T04:05:55+00:00"
   }
  ]
 }
