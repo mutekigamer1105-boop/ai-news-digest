@@ -304,6 +304,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSlhFRjMwdWliakdXM3JxYTk0dG9tZDVqb3pfLTdEUFVUaDBqUTRURkFLYllPZDZNQTItQ3JvTHJTMTRPZXl1WGJDT2x5OXgweVM0NVVCTVM1a0hNRkRGc3JZTXQwZEV3cDlBUVF3QTBuMHZ6T3NzSGVqaHAxYWRkOHR2eEsxX1lUUWtyZXo0bWFONHVlZ1RyMWhRWEh4NFhRenRSNWhNMWo3MjlLd2pRWHNpM0EtbkV0UGktQnh1NERoNlA2QTFZVzFSVGR2RkZMWUgxN2hRZS0?oc=5\" target=\"_blank\">A Medical Large Language Model-Based System Improves History-Taking Performance Among Medical Students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cureus</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-795-339f8bada6",
+   "source_id": "news",
+   "source_name": "businessinsider.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The Hottest AI Models Aren't the Ones Developers Actually Use - businessinsider.com",
+   "summary": "The Hottest AI Models Aren't the Ones Developers Actually Use &nbsp;&nbsp; businessinsider.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNDhRN2xVX2FFS1pLUmVMQ0hMbU1QMlM3Q2wwUnF1dklhNkNaNXB1aUZaSTYyRU5ab1p0QzJuc0tpMHlTYWJXanpCTkIyUGx6TmdXTVcwWHlKTnlfRWVNb2E0aWdyNjFNT29UcmxkdWxoYjI0NTdBSk1Ncmpjc0plSlBn?oc=5",
+   "published_at": "2026-08-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPNDhRN2xVX2FFS1pLUmVMQ0hMbU1QMlM3Q2wwUnF1dklhNkNaNXB1aUZaSTYyRU5ab1p0QzJuc0tpMHlTYWJXanpCTkIyUGx6TmdXTVcwWHlKTnlfRWVNb2E0aWdyNjFNT29UcmxkdWxoYjI0NTdBSk1Ncmpjc0plSlBn?oc=5\" target=\"_blank\">The Hottest AI Models Aren't the Ones Developers Actually Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">businessinsider.com</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
   }
  ]
 }

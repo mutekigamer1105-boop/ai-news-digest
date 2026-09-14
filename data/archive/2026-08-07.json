@@ -218,6 +218,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9sYVdTTzhySnQzT3Q4WHVXWHM0Rld3WUtOMG5GWVhnbDB0TEE1dk1hLThFeHFFZng3TXZBLVBDNjV5Y05lX1htc2FtT0VUaVFVOTVEX0tZbF9JYTR1a0I2NTg4ZDdkbkxNTVZCajNSdlE?oc=5\" target=\"_blank\">中国开源大模型海外救场，国产AI何以领跑全球？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stdaily.com</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-727-4f4af103b9",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Responding to the next frontier of critical cyber capabilities - OpenAI",
+   "summary": "Responding to the next frontier of critical cyber capabilities &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NXUG1KWUhSOVU2TE1wWWk5LUtwOHRBc2dGQWxlZTh2azJ2MHlnUHlTcWhaTWJKZ1g4WXUzS0VxcnRxbTByNjR6LUdJS3pYRUtKVmVwb3hQTVFqQXNSQjliUDRLSFVpR01uR3hjcTNreG1hR3FDc2ZpMW1qYXRUT25KdE8?oc=5",
+   "published_at": "2026-08-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NXUG1KWUhSOVU2TE1wWWk5LUtwOHRBc2dGQWxlZTh2azJ2MHlnUHlTcWhaTWJKZ1g4WXUzS0VxcnRxbTByNjR6LUdJS3pYRUtKVmVwb3hQTVFqQXNSQjliUDRLSFVpR01uR3hjcTNreG1hR3FDc2ZpMW1qYXRUT25KdE8?oc=5\" target=\"_blank\">Responding to the next frontier of critical cyber capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-1080-329e104f16",
+   "source_id": "news",
+   "source_name": "bgi.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "顾兵教授专访：AI智能体如何破解mNGS报告解读的“三大痛点” - bgi.com",
+   "summary": "顾兵教授专访：AI智能体如何破解mNGS报告解读的“三大痛点” &nbsp;&nbsp; bgi.com",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0M3BMR0RsN3pSamc3NlJZMG5BaXMzWjFGN2J0VkRjdUdCU3I2RXZKdDBmQ3ZBQVZYd19DUjNRY3d5dnp5aTByelhKcw?oc=5",
+   "published_at": "2026-08-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0M3BMR0RsN3pSamc3NlJZMG5BaXMzWjFGN2J0VkRjdUdCU3I2RXZKdDBmQ3ZBQVZYd19DUjNRY3d5dnp5aTByelhKcw?oc=5\" target=\"_blank\">顾兵教授专访：AI智能体如何破解mNGS报告解读的“三大痛点”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgi.com</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
   }
  ]
 }

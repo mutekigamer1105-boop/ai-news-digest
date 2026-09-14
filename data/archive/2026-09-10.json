@@ -11763,6 +11763,71 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2o2VUItNFg5QW81Z1pGUDRZejdleV9jLXpNTTRFWWd6aHVrRkEzYk04dHIwUU1DcXNBc2pGQ2hFU01UNUtkZVBseGd1RE9SdGotVkxnLWZoYk9BQ2owaHZKZ1NNQTEtUDdaSzMtZXFMcnB2RXNtbjBEMXhwUGJhQXgtNmZLTHNnODdPTVNYZ3c1ZXZJclUzOWJBTkZuaVREVWN3a2Z0TUh5MjY4MmFsTWMyWEdIVWF6LXNWQVpELXR1SXFucUNhQ3Nzbw?oc=5\" target=\"_blank\">OpenAI says working with Samsung on next-generation chips, deepening cooperation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
    "fetched_at": "2026-09-13T04:05:55+00:00"
+  },
+  {
+   "id": "web-404-cbdb875ad1",
+   "source_id": "news",
+   "source_name": "Politico",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Bad actors in China and Russia are already weaponizing Anthropic’s AI - Politico",
+   "summary": "Bad actors in China and Russia are already weaponizing Anthropic’s AI &nbsp;&nbsp; Politico",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUkdfM2pwajF6R21sU0drR3BwYWZzdnhIZzFCcHE5M01EQnpBTElaQk9XSlV3UUViMzhNeDFvcDZMMGNxV0pKbXBZTlhNVVJGOHRPZUZrY3VwNUNpN182d2tFdzdkeDV3ZktkOWhwejRJZ1ptdHdJM0J3OWEtbnhHbnZPeXFmTXRsbDRyRG9hM2ZWMnlzb0gtdjFzbw?oc=5",
+   "published_at": "2026-09-10T17:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNUkdfM2pwajF6R21sU0drR3BwYWZzdnhIZzFCcHE5M01EQnpBTElaQk9XSlV3UUViMzhNeDFvcDZMMGNxV0pKbXBZTlhNVVJGOHRPZUZrY3VwNUNpN182d2tFdzdkeDV3ZktkOWhwejRJZ1ptdHdJM0J3OWEtbnhHbnZPeXFmTXRsbDRyRG9hM2ZWMnlzb0gtdjFzbw?oc=5\" target=\"_blank\">Bad actors in China and Russia are already weaponizing Anthropic’s AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-764-f6862ed19c",
+   "source_id": "news",
+   "source_name": "Unite.AI",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Abacus.AI Releases Three Open-Weight Smaug Models for Agentic Workloads - Unite.AI",
+   "summary": "Abacus.AI Releases Three Open-Weight Smaug Models for Agentic Workloads &nbsp;&nbsp; Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUN0RlI5OWF4Z1p1enhsR0Jaa0ZyeGpLcGUweFM3Z21Pelh2TWYxM0J6RVdzR0lGUnhuMUUyMi0tWGFCNzFPbXZSaW5mVDd0bERxb0hPVF9fWU9ScmxZMERVSDJEWl9QRGNVb19mUHpqRy01bXEtUVdld2xOYjlmd1M2Yml2Nmt3Nk90Z0UzTldrWW9NZG9QYQ?oc=5",
+   "published_at": "2026-09-10T16:25:01+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUN0RlI5OWF4Z1p1enhsR0Jaa0ZyeGpLcGUweFM3Z21Pelh2TWYxM0J6RVdzR0lGUnhuMUUyMi0tWGFCNzFPbXZSaW5mVDd0bERxb0hPVF9fWU9ScmxZMERVSDJEWl9QRGNVb19mUHpqRy01bXEtUVdld2xOYjlmd1M2Yml2Nmt3Nk90Z0UzTldrWW9NZG9QYQ?oc=5\" target=\"_blank\">Abacus.AI Releases Three Open-Weight Smaug Models for Agentic Workloads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-18-89a725446a",
+   "source_id": "news",
+   "source_name": "Department of Energy (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Artificial Intelligence for Nuclear Deterrence Strategy 2023 - Department of Energy (.gov)",
+   "summary": "Artificial Intelligence for Nuclear Deterrence Strategy 2023 &nbsp;&nbsp; Department of Energy (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjF4LVVxSzc2MWJEa212X3ZmZnBvbDJFcmFoTzQ1SnlZY0dGWmhQMllXbW5WYUUxLWx3MlhRTXZsSjBSbHFEbFlmZGtuaDF0YThoelh3UHl4d2JQQjBxWWthVEZUYnR5WEJ0dGFjdXZlVGd1T2tlQnVGUmdaeUpOcjlwR1k1dFBSM1pBODJmN2hUZw?oc=5",
+   "published_at": "2026-09-10T16:21:28+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjF4LVVxSzc2MWJEa212X3ZmZnBvbDJFcmFoTzQ1SnlZY0dGWmhQMllXbW5WYUUxLWx3MlhRTXZsSjBSbHFEbFlmZGtuaDF0YThoelh3UHl4d2JQQjBxWWthVEZUYnR5WEJ0dGFjdXZlVGd1T2tlQnVGUmdaeUpOcjlwR1k1dFBSM1pBODJmN2hUZw?oc=5\" target=\"_blank\">Artificial Intelligence for Nuclear Deterrence Strategy 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
   }
  ]
 }

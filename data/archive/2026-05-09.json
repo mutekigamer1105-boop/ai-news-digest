@@ -43,6 +43,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4a2x6NkJsQ29rbzB1eXV5ZFdFSzhldTFuTXJiVjNGaE5oTC1DTTVJRDZLVy1EdmRQQWluaEMwYnlHUlpGNEx1am9sOWFzNkd2ZDZXRXM0SE5fYm54WVE?oc=5\" target=\"_blank\">接入超300款AI大模型，国内最大大模型服务平台正式上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
    "fetched_at": "2026-09-03T20:18:43+00:00"
+  },
+  {
+   "id": "web-988-cb15a01d4d",
+   "source_id": "tmtpost",
+   "source_name": "钛媒体",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.76,
+   "title": "三天，三家公司，超百亿美元：中国AI大模型的融资决战周 - 钛媒体",
+   "summary": "三天，三家公司，超百亿美元：中国AI大模型的融资决战周 &nbsp;&nbsp; 钛媒体",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BX0JiRXFTM1RaNzJhM0JRSFlHbk54RU5yWHdvX3RidUh3UmlhbDVkbXAtYzZfbWQ1MndtMnROTDFUMUlfME91emp1OVY?oc=5",
+   "published_at": "2026-05-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BX0JiRXFTM1RaNzJhM0JRSFlHbk54RU5yWHdvX3RidUh3UmlhbDVkbXAtYzZfbWQ1MndtMnROTDFUMUlfME91emp1OVY?oc=5\" target=\"_blank\">三天，三家公司，超百亿美元：中国AI大模型的融资决战周</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">钛媒体</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
   }
  ]
 }

@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jb25vVEJrZUs5ekdnZ3ZmZ2tKV2c5THZlVTkzTHBleWhHU0xWWGVPOUw0V3gxNVRaNFJtMXFRcjF1UHhxaEt5TzRTNjR3RkJwdk9HOVJYZzNzVDhUNm5pSjFpeHBqQdIBa0FVX3lxTE0tR19LTmdBZW1IMk1yTjcyT2pyMWpUUS1RMDVvYm1mcGltRzRrOW9GMlB1UEdzTHotQUdlS0o2alYzVkJJV0ZGSUo4cUxPUkIyQVFOd2Jsa3ctYWZ5MlFmRzZvYjFTbnZra3FB?oc=5\" target=\"_blank\">OpenAI报告指中国账号求助ChatGPT打压异见人士，要求协助抹黑高市早苗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-289-fdbd78c771",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Comparative analysis of large language models as decision support tools in oral pathology | Scientific Reports - Nature",
+   "summary": "Comparative analysis of large language models as decision support tools in oral pathology | Scientific Reports &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUXc2LVpvb01paVhkbmhaQ0NEbTZXUl9FbU5pX3JEWm93UGZSRnB2Y1AxMm00YTRfUVladWZFWmhNaW5ObFZjQlFtcGtMWWxKX2E1S3BZR21OX0RBVTVn?oc=5",
+   "published_at": "2026-02-27T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUXc2LVpvb01paVhkbmhaQ0NEbTZXUl9FbU5pX3JEWm93UGZSRnB2Y1AxMm00YTRfUVladWZFWmhNaW5ObFZjQlFtcGtMWWxKX2E1S3BZR21OX0RBVTVn?oc=5\" target=\"_blank\">Comparative analysis of large language models as decision support tools in oral pathology | Scientific Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
   }
  ]
 }

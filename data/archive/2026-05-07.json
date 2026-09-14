@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vcTZocDBPeXJOVnJkRlEzWEVlR3NyYzJOT1hKVlJFMUdqdGczN3c4WWNLSmR4RzFHWEJUck5naE93aTlTZnlvQ2ptSHVCOVhtWUtkQTRFRjdWNG50YjBtSDNQVlpvZ9IBa0FVX3lxTFB5aVVNM0VpZWEtTENwTmt3V3l5U0JBMjRBZjZvYXFBN2dOTDF1UG04eV9NV19SbV96SnE2QVpKc0s5TndDUGtFd0ItT2lSRzhpa25PbmZXc1FHRy1iUUNoakNBdzdjbXdyVzFF?oc=5\" target=\"_blank\">OpenAI前董事：马斯克主动捐精 两人已有四个孩子</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-996-1745c994eb",
+   "source_id": "news",
+   "source_name": "电子工程专辑",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "图解国内外17家主流AI大模型（2026） - 电子工程专辑",
+   "summary": "图解国内外17家主流AI大模型（2026） &nbsp;&nbsp; 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MQ0w0Mjh6VGJxay1rMDBySnFfWEtDaDUxOGZldEJVQWRuekFaM2QwYnQ5Slh5SnpFcG5xSzFxcGRNdWhQWmQ0N0d5YXYzd2tkTW9J?oc=5",
+   "published_at": "2026-05-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MQ0w0Mjh6VGJxay1rMDBySnFfWEtDaDUxOGZldEJVQWRuekFaM2QwYnQ5Slh5SnpFcG5xSzFxcGRNdWhQWmQ0N0d5YXYzd2tkTW9J?oc=5\" target=\"_blank\">图解国内外17家主流AI大模型（2026）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
   }
  ]
 }

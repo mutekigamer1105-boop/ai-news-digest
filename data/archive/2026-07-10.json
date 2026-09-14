@@ -175,6 +175,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOak8zcHIyY2l1NHg1Z3VCRXE2SnBKcC13Mk1pMlhLeUR5b1JlSzNSczZfMzhyN0FqQzFRMWFvbDFMbzI3ZnIzMFVEa3dfRmx3cVlYcjJrUldkZGtWZFV0UHFOMHd4aWpKejltMU1FWXMwQkZ3VkdqQU9sRU5tQUZzSmV3?oc=5\" target=\"_blank\">财经聚焦丨从“技术可用”到“商业可赚” AI智能体加速落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-13T04:05:55+00:00"
+  },
+  {
+   "id": "web-670-7aff82773c",
+   "source_id": "news",
+   "source_name": "news.crunchbase.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "5 Interesting Startup Deals You May Have Missed: AI That Dispatches The Plumber, Underground Warfare And Cutting Down Private-Market Paperwork - news.crunchbase.com",
+   "summary": "5 Interesting Startup Deals You May Have Missed: AI That Dispatches The Plumber, Underground Warfare And Cutting Down Private-Market Paperwork &nbsp;&nbsp; news.crunchbase.com",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmdwYklTbEZJODVWYTcxUnBiVWVKZkc2dGlzb2NCMnVubDJySDZlS0ppUXJJN0NqZVFVU0VkT3Y1NXZGRVlUSlY3bFFXLTZrNGxDUVF1RGlaWlRWMU5wVnZXTmIxWEZxS2VrMUFOS0pNMmZXbUNvamtZNUQyclM4RzVIUUFlQlpBdkt0OEZ5dlR6NlE?oc=5",
+   "published_at": "2026-07-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmdwYklTbEZJODVWYTcxUnBiVWVKZkc2dGlzb2NCMnVubDJySDZlS0ppUXJJN0NqZVFVU0VkT3Y1NXZGRVlUSlY3bFFXLTZrNGxDUVF1RGlaWlRWMU5wVnZXTmIxWEZxS2VrMUFOS0pNMmZXbUNvamtZNUQyclM4RzVIUUFlQlpBdkt0OEZ5dlR6NlE?oc=5\" target=\"_blank\">5 Interesting Startup Deals You May Have Missed: AI That Dispatches The Plumber, Underground Warfare And Cutting Down Private-Market Paperwork</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.crunchbase.com</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
   }
  ]
 }

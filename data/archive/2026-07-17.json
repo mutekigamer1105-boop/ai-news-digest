@@ -347,6 +347,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2gxRHB2VXl2NEdXWHowb0QtcEFsanhlQk5zTEQzWE03cjd5QWluNjV0VWtWUi1Ia2JIOFVQODdhYWloYTdxR0xWOU5MSHBXazJkeEo4SW1Db2I2Ul9CMjRjeVBLLUVFWS1objBHNy1Rb2NYYTFQT0pKWlZja0tVMThCWlJ3SkFVY3N6VmJB0gGTAUFVX3lxTE1sd0lHVWVmRHpwZ1FtV3BGV1E0TGpLRzhuWE14QTZ6ZUJjblBEdXVFYnhtbnJYR3BCcHhPVFFUcmxOS1cxU0NmMnc4VkwydVpIZVZPWUVQdUo4aDhRc3lEaWh1N0JWcy1iZTdHZldtZm1RN0c4WTNYQlV3REJtZVhjZjBVd0tuTzhnTmNLS1lHRl90NA?oc=5\" target=\"_blank\">Chinese AI has leveled up, and brought renewed focus on the open weight model shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-995-ff6ebe1033",
+   "source_id": "news",
+   "source_name": "上观新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型还推导不出牛顿第二定律，如何让人才能力领先产业需求哪怕半步？ - 上观新闻",
+   "summary": "AI大模型还推导不出牛顿第二定律，如何让人才能力领先产业需求哪怕半步？ &nbsp;&nbsp; 上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuWFlrd3k2b09ZY1lhNlJkMTVVdnlSS1dYR2VtQ3FFTG9Bbk5tbHppNndvbjhqWFd0RldfSmF3ZUN5R0NPTE93TGlfaXFPVm1wWnBzdlNEX3o?oc=5",
+   "published_at": "2026-07-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuWFlrd3k2b09ZY1lhNlJkMTVVdnlSS1dYR2VtQ3FFTG9Bbk5tbHppNndvbjhqWFd0RldfSmF3ZUN5R0NPTE93TGlfaXFPVm1wWnBzdlNEX3o?oc=5\" target=\"_blank\">AI大模型还推导不出牛顿第二定律，如何让人才能力领先产业需求哪怕半步？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-1098-d6a3403199",
+   "source_id": "news",
+   "source_name": "news.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "WAIC：智能体站上C位 产业链布局提速 - news.cn",
+   "summary": "WAIC：智能体站上C位 产业链布局提速 &nbsp;&nbsp; news.cn",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13RnpibFJ3cXBHRHg3ZFZEZkx6d1BaZWlHUzBXRVdsR0hETl80aEk2a1VOX3d5YUdKRXlvQzlGMThvbkE5d0NRbU9BNlF5NEYyTU9RWTBfVVhrMm8tUEFkTVVaZFphaU1vTmc2RWVQVFJjcF9LOE5v?oc=5",
+   "published_at": "2026-07-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE13RnpibFJ3cXBHRHg3ZFZEZkx6d1BaZWlHUzBXRVdsR0hETl80aEk2a1VOX3d5YUdKRXlvQzlGMThvbkE5d0NRbU9BNlF5NEYyTU9RWTBfVVhrMm8tUEFkTVVaZFphaU1vTmc2RWVQVFJjcF9LOE5v?oc=5\" target=\"_blank\">WAIC：智能体站上C位 产业链布局提速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cn</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
   }
  ]
 }

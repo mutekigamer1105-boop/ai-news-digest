@@ -1326,6 +1326,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1sM0Y4RVJ4eEh0NEwydGkzUkRBZHZmUHNuWFQwTzgtX19TOVdvcDB4TldqSktONExyNldfVkpCU1JMaktPWEtZdGxSN3J5dTZOOG40Z0M3dlI2MXlJVW0telVLZU5UcUgtLS1vSTEySVBtUmp3TUI1bUp0Wkx5ZEU?oc=5\" target=\"_blank\">数据要素筑基，人工智能加速落地应用（经济聚焦）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民日报</font>",
    "fetched_at": "2026-09-13T04:05:55+00:00"
+  },
+  {
+   "id": "web-852-45f12ef6f5",
+   "source_id": "news",
+   "source_name": "news.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "人工智能应用服务商培育专项行动启动 - news.cn",
+   "summary": "人工智能应用服务商培育专项行动启动 &nbsp;&nbsp; news.cn",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNVp3ZktqMmpaSUVuMFA4M0l6elM1R05qaElGVWdhaVUyWVpTRVppMHItNnFqNENuZWZEVnVnQU1FbzZMNHVnZXMyRmpjS0w0SndpZ3owSnp2TnkwalQ5OENJcXNGV1pKQjlrV1JJdDU4bWlEVndOdnA4MzBuc3BRZUNR?oc=5",
+   "published_at": "2026-08-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPNVp3ZktqMmpaSUVuMFA4M0l6elM1R05qaElGVWdhaVUyWVpTRVppMHItNnFqNENuZWZEVnVnQU1FbzZMNHVnZXMyRmpjS0w0SndpZ3owSnp2TnkwalQ5OENJcXNGV1pKQjlrV1JJdDU4bWlEVndOdnA4MzBuc3BRZUNR?oc=5\" target=\"_blank\">人工智能应用服务商培育专项行动启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cn</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
   }
  ]
 }

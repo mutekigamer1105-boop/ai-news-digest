@@ -130,6 +130,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HbGZCLS1tRmNuR1lrVnBuRTNhZGwyV3hYTlRIVVQ3WmNUWTRXR2hhRWk3OW1uNkswY0tucndsYWR1NmJrajhoQ3dFRFpMNDh3cTBqU3RTemtEa0RlY2FCRmFrMWZtZw?oc=5\" target=\"_blank\">18.42万亿Token！中国AI大模型周调用量连续七周领跑：MiniMax M3升至第二，DeepSeek V3.2半年来首次跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">每日经济新闻</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-963-e1f3f39b4d",
+   "source_id": "news",
+   "source_name": "news.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "免费 AI 为啥能赚钱？Token 才是大模型变现的密码 - news.cn",
+   "summary": "免费 AI 为啥能赚钱？Token 才是大模型变现的密码 &nbsp;&nbsp; news.cn",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQmNqenZ2ZDAyMExhRGNodzhNY25BVU9OSlJUYkl6YjNMVUloNGxmaHNxV1c1anJ6YjlfRnBUbnJzQ01hWUVJVTJuVDVGeUFPUDRwRDJUa0ljWGFwS1Z1eHhaYlNndGZTcmgySXZjUi1fM2pwUFZ0a0RGcm9iOUs3RQ?oc=5",
+   "published_at": "2026-06-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQmNqenZ2ZDAyMExhRGNodzhNY25BVU9OSlJUYkl6YjNMVUloNGxmaHNxV1c1anJ6YjlfRnBUbnJzQ01hWUVJVTJuVDVGeUFPUDRwRDJUa0ljWGFwS1Z1eHhaYlNndGZTcmgySXZjUi1fM2pwUFZ0a0RGcm9iOUs3RQ?oc=5\" target=\"_blank\">免费 AI 为啥能赚钱？Token 才是大模型变现的密码</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cn</font>",
+   "fetched_at": "2026-09-14T04:05:42+00:00"
   }
  ]
 }
