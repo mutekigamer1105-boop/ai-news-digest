@@ -6160,6 +6160,48 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pZG01ZTdnVHo2WlAzTVh0TVBFRzFYMlJEMHMwMGV1SzZNRlhJbmFLRWdBd0c3bnVCU1FpVVVsSmZUeXo4T0N2dXRfMUwzVUlOVTFxa0tYMW1XVTR4MGN0YTVFNU9DX0k?oc=5\" target=\"_blank\">浦江观潮，构建湖湘文化大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">湖南红网</font>",
    "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-490-06932e526b",
+   "source_id": "the-verge",
+   "source_name": "The Verge",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.92,
+   "title": "Anthropic CEO says it’s time to pump the brakes on AI - The Verge",
+   "summary": "Anthropic CEO says it’s time to pump the brakes on AI &nbsp;&nbsp; The Verge",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFZnMkRQVmd5WmMzd2FYM2otcm03YnZpS3NnWWxicE4yOXJsdlNUWHVzWW9CNk5TVHNoZV9kYk8zS2szN2RxYXhudzhrVnJQT0drcG9RWXlVMEYyN25SbDJoSFVrODg0eFp5N2pFWnlPTFN6OXVSSEZVYW41MFlzcVc3OVdfdFZoWUNmQ3FDU0wyLW1xdU5sd2cwQzNnQQ?oc=5",
+   "published_at": "2026-09-12T16:23:40+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVFZnMkRQVmd5WmMzd2FYM2otcm03YnZpS3NnWWxicE4yOXJsdlNUWHVzWW9CNk5TVHNoZV9kYk8zS2szN2RxYXhudzhrVnJQT0drcG9RWXlVMEYyN25SbDJoSFVrODg0eFp5N2pFWnlPTFN6OXVSSEZVYW41MFlzcVc3OVdfdFZoWUNmQ3FDU0wyLW1xdU5sd2cwQzNnQQ?oc=5\" target=\"_blank\">Anthropic CEO says it’s time to pump the brakes on AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+   "fetched_at": "2026-09-15T04:06:01+00:00"
+  },
+  {
+   "id": "web-412-07e151d9bc",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
+   "summary": "Anthropic report: 5 ways Claude was exploited for war, spying and repression &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5",
+   "published_at": "2026-09-12T13:21:04+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5\" target=\"_blank\">Anthropic report: 5 ways Claude was exploited for war, spying and repression</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-09-15T04:06:01+00:00"
   }
  ]
 }

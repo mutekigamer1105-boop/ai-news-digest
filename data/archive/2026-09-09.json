@@ -11318,6 +11318,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOR19oMEQ4Y0U5emdYNVFkNnNfWElPbHBSaDlJVHo4bE0xY2NZNjJ4Y1FwZXJ1Z1BrSFRaOWczMVNBNkFOR1VNaGQ4QlNfMVRzS0VWN0R3YjZrbmJjQ0I1NllVbjBWancxY3Z2dVZlXzJ6T2tXajRMeUdiQktpMjFtRmMzb21VMnVVbDNNU1dkOVRIcFd2MVgta05jcHA?oc=5\" target=\"_blank\">Meta推出个人AI智能体Muse 可代用户处理日常事务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-09-13T04:05:55+00:00"
+  },
+  {
+   "id": "web-433-504ddd4ac0",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "An alignment assessment of recent cybersecurity incidents - Anthropic",
+   "summary": "An alignment assessment of recent cybersecurity incidents &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcVVuc004cms0OWlHYm9ZanBnaXJVWDgtWHNRWGhROEtCSVg3aDVxcFBoVU94UnpJVTV4cmhYVjRhUzFkMTFwNjljMVRiT0ZYR1Q2SW5VN2RET1hTbzJkdDB5aFJkV3kxVG1YYkZ3cVV4Z1VWak1lakQtMXJQOFhYXw?oc=5",
+   "published_at": "2026-09-09T19:13:44+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNcVVuc004cms0OWlHYm9ZanBnaXJVWDgtWHNRWGhROEtCSVg3aDVxcFBoVU94UnpJVTV4cmhYVjRhUzFkMTFwNjljMVRiT0ZYR1Q2SW5VN2RET1hTbzJkdDB5aFJkV3kxVG1YYkZ3cVV4Z1VWak1lakQtMXJQOFhYXw?oc=5\" target=\"_blank\">An alignment assessment of recent cybersecurity incidents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-15T04:06:01+00:00"
+  },
+  {
+   "id": "web-1051-e391e55c57",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta推出个人AI智能体Muse：强调没有安全风险问题 “不会失控” - 东方财富",
+   "summary": "Meta推出个人AI智能体Muse：强调没有安全风险问题 “不会失控” &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kOXdlUWhnWVBhUzZqRGhFcEFWdTZONE96UFBEYXhNcVZHclJfd1pwcElhb0Y1VXA0cWNTSV9PNW1aWHA1YlBYamFkaEJJWUJpSDdQWXdJd2JEZzZrRlZic3oyQjVxbGM?oc=5",
+   "published_at": "2026-09-09T06:10:49+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kOXdlUWhnWVBhUzZqRGhFcEFWdTZONE96UFBEYXhNcVZHclJfd1pwcElhb0Y1VXA0cWNTSV9PNW1aWHA1YlBYamFkaEJJWUJpSDdQWXdJd2JEZzZrRlZic3oyQjVxbGM?oc=5\" target=\"_blank\">Meta推出个人AI智能体Muse：强调没有安全风险问题 “不会失控”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-15T04:06:01+00:00"
   }
  ]
 }

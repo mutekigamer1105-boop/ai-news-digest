@@ -553,6 +553,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAybTFEazc3NUM2SWZMNEZ0cW8wNTh6blRIUS0yZGhneUdUdEZkbXVfYmVmNk40aGFLa3NDYlhXTHpUT08tbzROaVNrTzYyQnEwTjE1VElZR1RtbEFaZktUQVdjcUxEaHR4WVk1WVV1RGE5UQ?oc=5\" target=\"_blank\">武汉AI智能体创新大赛种下27颗“金种子”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">湖北省经济和信息化厅</font>",
    "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-1169-b05bef947c",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "阿拉巴马州调查OpenAI与Hugging Face疑似遭入侵事件| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "阿拉巴马州调查OpenAI与Hugging Face疑似遭入侵事件| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfWklMQWROX01YX2w2OWx1S2toTXBqeWtMLXJFTDNXNEVnbVNDZVBiZElFZ2hLQW1aTVpxdndnVGR3T0tmWS1UMmtKZGtaVHZMS1ZQWl9RY19kOW13bklGQVR4Q3lHNGdHSngxWnE3V0VxQQ?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBfWklMQWROX01YX2w2OWx1S2toTXBqeWtMLXJFTDNXNEVnbVNDZVBiZElFZ2hLQW1aTVpxdndnVGR3T0tmWS1UMmtKZGtaVHZMS1ZQWl9RY19kOW13bklGQVR4Q3lHNGdHSngxWnE3V0VxQQ?oc=5\" target=\"_blank\">阿拉巴马州调查OpenAI与Hugging Face疑似遭入侵事件| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-15T04:06:01+00:00"
   }
  ]
 }

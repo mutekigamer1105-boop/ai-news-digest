@@ -154,6 +154,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWxlMlJjV3JZVWZoeTJhRzlhTDJOenZaS195ZEl4a1NkWERBQUwyU2hQcXlTOEk2RkpqLW5OeWhybzlFbzFONVkyWHhjNWhnSEhZQUpJS2xlSU0wOUQ3b2NsZXd0RTdGMHZsQ25rYTI4aDNNOU05OEVHMHVuaXQ0N2NyUXQtN194VXhqQ0g1SlpwdFZrM3JEeTZvYjFfVWhJaC12NkRfWTE5bzZkMXNyTC1Xbk8?oc=5\" target=\"_blank\">Nvidia Customers Notified About AI-Related Price Hikes Above 15%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
    "fetched_at": "2026-09-13T04:05:55+00:00"
+  },
+  {
+   "id": "web-1164-51d85e9270",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI改变态度，呼吁加州强化前沿人工智能安全法案SB 53 - Межа. Новини України.",
+   "summary": "OpenAI改变态度，呼吁加州强化前沿人工智能安全法案SB 53 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fa3RtRnVjMTJPRHI5T1BFU2hlZGtVRW1NaWU5ZjhrUm0tX1MyYU1HZ3h1MTdERWpzS3RoMnlIT0RJeHROY1pBSG03UjdITllUZldPLTgzYTFPb1d0VnFvZVQyY1ZKOXVrbTNZ?oc=5",
+   "published_at": "2026-08-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9fa3RtRnVjMTJPRHI5T1BFU2hlZGtVRW1NaWU5ZjhrUm0tX1MyYU1HZ3h1MTdERWpzS3RoMnlIT0RJeHROY1pBSG03UjdITllUZldPLTgzYTFPb1d0VnFvZVQyY1ZKOXVrbTNZ?oc=5\" target=\"_blank\">OpenAI改变态度，呼吁加州强化前沿人工智能安全法案SB 53</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-15T04:06:01+00:00"
   }
  ]
 }

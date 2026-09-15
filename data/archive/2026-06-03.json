@@ -64,6 +64,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzFMQXZWZ1pBUXo2V0Z4eXJQdkMwbHVndW9rQjlmdUN5Y2ZLcmRPNUs3VERiaUZpS2VYMU9GN0l5VGxXbnltajlha2EySWRVUnJhSklTcGMyb1piOWFLX3JCdm42UUJPVmJOM1paUjFEREZMR21aRWJ2eWJfaDV0NzR5QmhaWll6b2Q3dTFCUUVGOHRJa0VkQzR5TjRDS2JwZ1JhVg?oc=5\" target=\"_blank\">Exclusive | Meta Keeps Delaying the Release of Its New AI Model to Developers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-1135-179f7b036c",
+   "source_id": "news",
+   "source_name": "Sohu",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "马斯克旗下xAI时薪超300元招中文AI导师 - Sohu",
+   "summary": "马斯克旗下xAI时薪超300元招中文AI导师 &nbsp;&nbsp; Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsYjMxQnZVWDVmZkdEVzd0MFZwVVF2cVdqNXhNMDB3dXJ5eU5mb0lIS3V2U1NWcUJQRGhEMnhpUU4xVlRLZHc4bzFQa21GNUsyUlE?oc=5",
+   "published_at": "2026-06-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "elon-musk",
+   "builder_name": "Elon Musk",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsYjMxQnZVWDVmZkdEVzd0MFZwVVF2cVdqNXhNMDB3dXJ5eU5mb0lIS3V2U1NWcUJQRGhEMnhpUU4xVlRLZHc4bzFQa21GNUsyUlE?oc=5\" target=\"_blank\">马斯克旗下xAI时薪超300元招中文AI导师</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
+   "fetched_at": "2026-09-15T04:06:01+00:00"
   }
  ]
 }

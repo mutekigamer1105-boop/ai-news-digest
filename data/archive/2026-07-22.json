@@ -152,6 +152,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdlBVeDJ6S0dSS1hhWUg4SS1zeE9xTTEzMnhvRlliWlZZQm9qSjRoRHF4LXRsVGVRb0hqT1Izb0x6TVNhOTRZVUg3Mk9pMDVFX213Nk5UOWFzenRHbUNoNmFjWVB1c2pXbmJLMjRBQjlva1lLWnYtYXctTUFDQUlOcEtWUlZORnUwNFE?oc=5\" target=\"_blank\">OpenAI models escaped containment, hacked major AI application library</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybersecurity Dive</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-1160-df19235992",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI測試模型失控入侵Hugging Face並引發網絡安全警鐘| 乌克兰新闻 - Межа. Новини України.",
+   "summary": "OpenAI測試模型失控入侵Hugging Face並引發網絡安全警鐘| 乌克兰新闻 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1cDI5Vnh6OFpaSkppR21rNzhNM2lSNzRJaHFzTFVjb1BmVkU1ZXZ6dXduel9oNkxUdUdKQjAzc3BOZFlPX1BOc1lTX081cHJKWFhuUVl6UjRUdXpSN0F0bHdOb21rbFJndnRZVUpvTGI?oc=5",
+   "published_at": "2026-07-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB1cDI5Vnh6OFpaSkppR21rNzhNM2lSNzRJaHFzTFVjb1BmVkU1ZXZ6dXduel9oNkxUdUdKQjAzc3BOZFlPX1BOc1lTX081cHJKWFhuUVl6UjRUdXpSN0F0bHdOb21rbFJndnRZVUpvTGI?oc=5\" target=\"_blank\">OpenAI測試模型失控入侵Hugging Face並引發網絡安全警鐘| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-15T04:06:01+00:00"
   }
  ]
 }

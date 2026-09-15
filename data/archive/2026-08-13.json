@@ -217,6 +217,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Zc1dvQjNINmIzdTlmNDJLckxhckprQWVxbXF1UHhKUU9EUnF5YXFfR1hFVkpmUk5laHBDb1RvelVMR1lJeEl1Y3BfT3JJWkU0Sng2dkY3czd5c0dNTVpPdVNtSQ?oc=5\" target=\"_blank\">IBM携手OpenAI拓展企业人工智能服务，将培训数万名顾问| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-1155-39e05f7939",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI发布GPT 5.6 Sol超快模式：响应速度提升14倍 - Межа. Новини України.",
+   "summary": "OpenAI发布GPT 5.6 Sol超快模式：响应速度提升14倍 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wUWVmaXlPOXE0Q2gyNG5iRHhCRUNnVDFHaWFoNjZkNFRWOGJwc0JKaVF6ZDRucHhMUXhxQXZ1WkEyNm5kbVMxT3VyaGNyTGNJZkZ3VDdRQmdqWElmNGZZcGNXd3lYamkxY183Rk5sSU4?oc=5",
+   "published_at": "2026-08-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9wUWVmaXlPOXE0Q2gyNG5iRHhCRUNnVDFHaWFoNjZkNFRWOGJwc0JKaVF6ZDRucHhMUXhxQXZ1WkEyNm5kbVMxT3VyaGNyTGNJZkZ3VDdRQmdqWElmNGZZcGNXd3lYamkxY183Rk5sSU4?oc=5\" target=\"_blank\">OpenAI发布GPT 5.6 Sol超快模式：响应速度提升14倍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-15T04:06:01+00:00"
   }
  ]
 }

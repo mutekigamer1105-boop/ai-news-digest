@@ -131,6 +131,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxON3FNUElPU3Z4REsza1N0cEdkVmxjNlEzd0ExRUFfaFh0MlkzeG8tTng2QmJqZHNJbHRIeXNudkRKUXpvLVU0b3Z3TWI4cnZnNmpQZ1M1TmlxZFVGdkVSb3QwcTkwR3lkdmJoR25Ea3lyWnhBdGNfWEtkbkpLTzRPUlFIWQ?oc=5\" target=\"_blank\">Can We Understand How Large Language Models Reason?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications of the ACM</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-693-e948e74c53",
+   "source_id": "news",
+   "source_name": "finance.yahoo.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Legal AI startup Norm Ai hits $1.2 billion valuation after $120 million funding - finance.yahoo.com",
+   "summary": "Legal AI startup Norm Ai hits $1.2 billion valuation after $120 million funding &nbsp;&nbsp; finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUzRlMWFHbjFYN25LVUk2dFdTdEtKWEJZZzZUaUFEaEZMY1hxTlhEUU1oX2Fsb29Qd2tjdTNQLVRaTDlfbkVOUWJXbXBSUTlYT2RDWmpJVkJFSThUSUUzQ0Y2MWtRV1YtZVFqb1hpOTBwcWhfdS1RRlBxOU9xOWRUZm5iblA2dmdDYXplX3ozWEJRQQ?oc=5",
+   "published_at": "2026-07-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUzRlMWFHbjFYN25LVUk2dFdTdEtKWEJZZzZUaUFEaEZMY1hxTlhEUU1oX2Fsb29Qd2tjdTNQLVRaTDlfbkVOUWJXbXBSUTlYT2RDWmpJVkJFSThUSUUzQ0Y2MWtRV1YtZVFqb1hpOTBwcWhfdS1RRlBxOU9xOWRUZm5iblA2dmdDYXplX3ozWEJRQQ?oc=5\" target=\"_blank\">Legal AI startup Norm Ai hits $1.2 billion valuation after $120 million funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+   "fetched_at": "2026-09-15T04:06:01+00:00"
   }
  ]
 }

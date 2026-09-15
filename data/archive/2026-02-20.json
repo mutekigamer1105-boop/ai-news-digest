@@ -65,6 +65,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE50UHZrYmVJemw1dmJBUU1jT0k0aUlkSkNMTFAzWWVEZXp6X1N3a3NZWjNyZGNsYl9FUkhObDlhTlNvalNiZjd0b0NKZUFUc1M0SnZiYXh6a1dFSm9i?oc=5\" target=\"_blank\">7天狂飙超250%！AI大模型，彻底爆发！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-1140-e1dac1e584",
+   "source_id": "news",
+   "source_name": "新西兰中文先驱网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "两大AI掌门人拒绝握手 - 新西兰中文先驱网",
+   "summary": "两大AI掌门人拒绝握手 &nbsp;&nbsp; 新西兰中文先驱网",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeEZRaVpORzY0S1hTY1RoSkhleEZKMjVrYWdkTG9Rd2c4RGtIeHVOQ2JKaUZqYnd4Tjl3cmE1dGp6aFNYMU92Ujk4ckgtdk5ubENlS3dGMkI3TWNOM3ZieXBPY1dHZ2VpcExreWFuY09qMlRleDRBZWNFV3E5LVl2SzVQOF8?oc=5",
+   "published_at": "2026-02-20T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQeEZRaVpORzY0S1hTY1RoSkhleEZKMjVrYWdkTG9Rd2c4RGtIeHVOQ2JKaUZqYnd4Tjl3cmE1dGp6aFNYMU92Ujk4ckgtdk5ubENlS3dGMkI3TWNOM3ZieXBPY1dHZ2VpcExreWFuY09qMlRleDRBZWNFV3E5LVl2SzVQOF8?oc=5\" target=\"_blank\">两大AI掌门人拒绝握手</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新西兰中文先驱网</font>",
+   "fetched_at": "2026-09-15T04:06:01+00:00"
   }
  ]
 }

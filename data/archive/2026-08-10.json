@@ -416,6 +416,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE80VnU4N3ZuWmhkZk9LajRuaGpRNDhWQ1lWbVU3WTRNR2JMblhLc1hHUHdweWJIcTJpY056d0FXemU5LVQ1UDlKbjYzSVFHRkxJRlBEb1dOQ3JXdk4ybi1maElrRGdPYnZZc0lhbg?oc=5\" target=\"_blank\">为什么中国大模型便宜又好用？（外国网友趣问中国⑩） --国际</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民网</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-984-2d60fe01bd",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续十五周领跑：环比增长570% DeepSeek-V4-Flash正式版登顶！ - 东方财富",
+   "summary": "中国AI大模型调用量连续十五周领跑：环比增长570% DeepSeek-V4-Flash正式版登顶！ &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqYjdjN0NObi1vOEFzNlNHNnZIdWd4NTJtSlM4VTQ0QTI4UWw5N2MydjNsMHZ5dktaekhFN09wQ1ZDaF9qcy1iZkFuM3lGSHpUeFk4SkZMVGNDSms1YnRmeFFaanUzQQ?oc=5",
+   "published_at": "2026-08-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqYjdjN0NObi1vOEFzNlNHNnZIdWd4NTJtSlM4VTQ0QTI4UWw5N2MydjNsMHZ5dktaekhFN09wQ1ZDaF9qcy1iZkFuM3lGSHpUeFk4SkZMVGNDSms1YnRmeFFaanUzQQ?oc=5\" target=\"_blank\">中国AI大模型调用量连续十五周领跑：环比增长570% DeepSeek-V4-Flash正式版登顶！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-15T04:06:01+00:00"
   }
  ]
 }
