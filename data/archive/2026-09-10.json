@@ -11851,6 +11851,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB0UjQ5MU92N2ZLUGtQMEpjMWs4YkNvbVJNdENMangtaFE4Z2psbjdlV0dBRGJUSkJ5NUE2VGVPTHI4azFQMGlBWkt3MW43MHRjNWlGRkFsU3lYc3FZa05xZGY4cmRya3VxWW0yRUticUI3ay1aeVo0?oc=5\" target=\"_blank\">金融领域首个智能体安全标准发布 AI未经授权不得自动化操作金融App</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecover.cn</font>",
    "fetched_at": "2026-09-15T04:06:01+00:00"
+  },
+  {
+   "id": "web-336-0c1231c431",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing ChatGPT for Financial Services - OpenAI",
+   "summary": "Introducing ChatGPT for Financial Services &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55RjB3U1pjRUtMSUlGaGhvX0ptWFVkYlg5Rk1Fd3AtYVBEZm5UQmpVQmc1Yi1WRkFqbEVrOVFrQ2FpMVNCTDRDZDNsY1k5VHhBS1FQSjhaM2Y1aVliOC1XSW1HLW8wY1RfZWJFMDE3N3Zmdw?oc=5",
+   "published_at": "2026-09-10T17:43:08+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE55RjB3U1pjRUtMSUlGaGhvX0ptWFVkYlg5Rk1Fd3AtYVBEZm5UQmpVQmc1Yi1WRkFqbEVrOVFrQ2FpMVNCTDRDZDNsY1k5VHhBS1FQSjhaM2Y1aVliOC1XSW1HLW8wY1RfZWJFMDE3N3Zmdw?oc=5\" target=\"_blank\">Introducing ChatGPT for Financial Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-1101-c5f65fa6f0",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI一批AI智能体“参加考试”，被发现偷偷在多个老旧网站互相交流\"留答案\" - 新浪财经",
+   "summary": "OpenAI一批AI智能体“参加考试”，被发现偷偷在多个老旧网站互相交流\"留答案\" &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTNpWlBOWmtFeWMwYzJnR19KQjVfeDlDcHZXZUxfN2xTd2s1Q0FCX3NROFdCM01QTWNqYkNfLUdDbUZhWjRuOTZrbG1TWFc4anZNdkR1YlBsNTY0Q285Q0FCWXZYU0NSeFo5OFdBYzdacG9jZEdJTEQwU1d2ck9NYXhZX2pMWlJFeXBYUk0yUEtwdw?oc=5",
+   "published_at": "2026-09-10T12:12:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTNpWlBOWmtFeWMwYzJnR19KQjVfeDlDcHZXZUxfN2xTd2s1Q0FCX3NROFdCM01QTWNqYkNfLUdDbUZhWjRuOTZrbG1TWFc4anZNdkR1YlBsNTY0Q285Q0FCWXZYU0NSeFo5OFdBYzdacG9jZEdJTEQwU1d2ck9NYXhZX2pMWlJFeXBYUk0yUEtwdw?oc=5\" target=\"_blank\">OpenAI一批AI智能体“参加考试”，被发现偷偷在多个老旧网站互相交流\"留答案\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-09-16T04:05:18+00:00"
   }
  ]
 }

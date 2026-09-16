@@ -107,6 +107,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE00X2lueTEwWnQ1R3V0YnVod3VNeUYzQlBsaWlFcF92VkpvdnF1X2dTOVdscWthczVlWGJIbGNVdjdRSzhRbjYzdVNWRDNkbzNJNkJZWGthYVMyWVEwT0lTaVlkLTB5YnNfNHZmNUtMMmR5YTZDb3c?oc=5\" target=\"_blank\">Discovering cryptographic weaknesses with Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-09-10T04:05:08+00:00"
+  },
+  {
+   "id": "web-1005-fe7528607b",
+   "source_id": "news",
+   "source_name": "jwview.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "被中国AI大模型赶超，美国就要掀桌子？ - jwview.com",
+   "summary": "被中国AI大模型赶超，美国就要掀桌子？ &nbsp;&nbsp; jwview.com",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oYmE0VHY3S21VRExlc1ppSjNEa09ZSXhxV0VkREl1UjVsQzdvSktydFhZdFNTX1ZXQUxmR3MzWE9qMzVNbW9OR2M2MklwQ0NKVGl4UmxyM0Fnd0NJQzNoSElEVUpoMlU?oc=5",
+   "published_at": "2026-07-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oYmE0VHY3S21VRExlc1ppSjNEa09ZSXhxV0VkREl1UjVsQzdvSktydFhZdFNTX1ZXQUxmR3MzWE9qMzVNbW9OR2M2MklwQ0NKVGl4UmxyM0Fnd0NJQzNoSElEVUpoMlU?oc=5\" target=\"_blank\">被中国AI大模型赶超，美国就要掀桌子？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jwview.com</font>",
+   "fetched_at": "2026-09-16T04:05:18+00:00"
   }
  ]
 }

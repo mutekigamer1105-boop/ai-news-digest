@@ -6202,6 +6202,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5\" target=\"_blank\">Anthropic report: 5 ways Claude was exploited for war, spying and repression</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
    "fetched_at": "2026-09-15T04:06:01+00:00"
+  },
+  {
+   "id": "web-1054-2d05bfd324",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI智能体再被曝“失控”！RubyGems曾遭轰炸被迫关闭注册4天 - 东方财富",
+   "summary": "OpenAI智能体再被曝“失控”！RubyGems曾遭轰炸被迫关闭注册4天 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ITk5QSUxwbU85R29GdDJSaGRuMjRhY21iVlJqc29lekx1MTlQbks2Tkphel82UlUtMXFra0dvVGc1Q05pLUlpVUJtVEMxZ0pycFJJVWtuNUpPSHFNdlJRaA?oc=5",
+   "published_at": "2026-09-12T15:04:11+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ITk5QSUxwbU85R29GdDJSaGRuMjRhY21iVlJqc29lekx1MTlQbks2Tkphel82UlUtMXFra0dvVGc1Q05pLUlpVUJtVEMxZ0pycFJJVWtuNUpPSHFNdlJRaA?oc=5\" target=\"_blank\">OpenAI智能体再被曝“失控”！RubyGems曾遭轰炸被迫关闭注册4天</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-12-84df374529",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Why It’s Difficult for Tech Companies to Rein In A.I. - The New York Times",
+   "summary": "Why It’s Difficult for Tech Companies to Rein In A.I. &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmYlRiNEZ5cHRINjNmbmpUOU81eDdGYVJQN0dqX0N1TzI1SS1rM19EZVItWFI2SGNUVkdEb0FKOGUwNW9QQTQzY2Q5M2RjeUtwbm1LWlZWRUhoQmdPcldtRVBGcm9VOUNWcmxyNlhnd2JvQQ?oc=5",
+   "published_at": "2026-09-12T09:02:54+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBmYlRiNEZ5cHRINjNmbmpUOU81eDdGYVJQN0dqX0N1TzI1SS1rM19EZVItWFI2SGNUVkdEb0FKOGUwNW9QQTQzY2Q5M2RjeUtwbm1LWlZWRUhoQmdPcldtRVBGcm9VOUNWcmxyNlhnd2JvQQ?oc=5\" target=\"_blank\">Why It’s Difficult for Tech Companies to Rein In A.I.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-09-16T04:05:18+00:00"
   }
  ]
 }

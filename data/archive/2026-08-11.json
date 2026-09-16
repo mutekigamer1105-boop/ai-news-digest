@@ -446,6 +446,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZaVprR2dmZTBwbEwyN2xQd3hwd1JoRGxZVHMtLUFkNzBGT2xwMXQ3TkpiRHY2T0p0bmd5ZDlCSWdtR2RiMS1ITEtRVzd5VWlDdDJBWEhyNndMamdNdWxQM0hXU3k?oc=5\" target=\"_blank\">OpenAI推出网络安全人工智能模型，帮助专家更快发现漏洞| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-15T04:06:01+00:00"
+  },
+  {
+   "id": "web-990-95ac2ed684",
+   "source_id": "news",
+   "source_name": "人民网财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "为什么中国大模型便宜又好用？（外国网友趣问中国⑩） --经济·科技 - 人民网财经",
+   "summary": "为什么中国大模型便宜又好用？（外国网友趣问中国⑩） --经济·科技 &nbsp;&nbsp; 人民网财经",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kdTJ1ZTNlUS1hQ1BCX0ZNWXRMQkg3aFh1QVlhdjBHRml5UGVPLUc4TjhXV0J1OUpsNGVsUzhadzdpY2YxSU1qYW96bmsydUNreUgyMGU3OGpTTEhFN2VsVmdiazVuVHVFUFltRERB?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1kdTJ1ZTNlUS1hQ1BCX0ZNWXRMQkg3aFh1QVlhdjBHRml5UGVPLUc4TjhXV0J1OUpsNGVsUzhadzdpY2YxSU1qYW96bmsydUNreUgyMGU3OGpTTEhFN2VsVmdiazVuVHVFUFltRERB?oc=5\" target=\"_blank\">为什么中国大模型便宜又好用？（外国网友趣问中国⑩） --经济·科技</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民网财经</font>",
+   "fetched_at": "2026-09-16T04:05:18+00:00"
   }
  ]
 }

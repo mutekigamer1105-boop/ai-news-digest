@@ -345,6 +345,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9zU2tIdmloeC1WQmY5V0NuczRNRm51d0hZcmNvTG5tVjVnVDNwd3FWNE1pZ2g1X0xsQnFNVVVBQmFVS0tjQmJWb3B5ZzhQcWstc19LV1R4TFJaNkxMZWIzMGdvU3hzUVZKMFc3WUJnVUV4WUhVWWNjaWFuU1RjUQ?oc=5\" target=\"_blank\">人工智能激活力 “新”意盎然促发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-802-1e7b82f684",
+   "source_id": "news",
+   "source_name": "StartupHub.ai",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Ilya Sutskever's SSI First Model After $8 Billion Raised 2026 - StartupHub.ai",
+   "summary": "Ilya Sutskever's SSI First Model After $8 Billion Raised 2026 &nbsp;&nbsp; StartupHub.ai",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHhwY0pIeWZ2ZExteHkxMVlrQjk1VjIwMkljT1NZcmlNbHJ1azR6OGFtOFhoOExWb1BrMW9hTjZINkhDWFVKVUYxRXNkczROcVhOV0dwdzZ1ZG5xd1VDQTI3MUpONFAxekhoMFRwZ3RWY2JiTl84bFRSQXJKY25lMVg2aldaTEdxbUktZkxzYWI5bkVUUERjYVV5YVlZSVk?oc=5",
+   "published_at": "2026-08-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHhwY0pIeWZ2ZExteHkxMVlrQjk1VjIwMkljT1NZcmlNbHJ1azR6OGFtOFhoOExWb1BrMW9hTjZINkhDWFVKVUYxRXNkczROcVhOV0dwdzZ1ZG5xd1VDQTI3MUpONFAxekhoMFRwZ3RWY2JiTl84bFRSQXJKY25lMVg2aldaTEdxbUktZkxzYWI5bkVUUERjYVV5YVlZSVk?oc=5\" target=\"_blank\">Ilya Sutskever's SSI First Model After $8 Billion Raised 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StartupHub.ai</font>",
+   "fetched_at": "2026-09-16T04:05:18+00:00"
   }
  ]
 }

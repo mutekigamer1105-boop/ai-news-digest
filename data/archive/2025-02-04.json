@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DRW9XTUxQX3RfX09JZy1YNDJCZDJETkZEdXlVeW9yMV9GMElIVWo2SVZqR0tPVVpfRF9aalhFdzBBVkVHM09FaU5tSGlWeU5Qd01J?oc=5\" target=\"_blank\">OpenAI o3-mini被曝大量使用中文推理！全世界AI都要学中国话了？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1147-a4164a651e",
+   "source_id": "news",
+   "source_name": "i.ifeng.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "抄袭DeepSeek？OpenAi o3-mini被曝使用中文进行推理 - i.ifeng.com",
+   "summary": "抄袭DeepSeek？OpenAi o3-mini被曝使用中文进行推理 &nbsp;&nbsp; i.ifeng.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5USTl4SWppdXRFYlMzN0E1NEdHcVNXeGVQN0w2eElqaTJpU3RMYVBoRDdiOERRakdxS1NDdnBVVkxnRFBGenhFeQ?oc=5",
+   "published_at": "2025-02-04T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5USTl4SWppdXRFYlMzN0E1NEdHcVNXeGVQN0w2eElqaTJpU3RMYVBoRDdiOERRakdxS1NDdnBVVkxnRFBGenhFeQ?oc=5\" target=\"_blank\">抄袭DeepSeek？OpenAi o3-mini被曝使用中文进行推理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">i.ifeng.com</font>",
+   "fetched_at": "2026-09-16T04:05:18+00:00"
   }
  ]
 }

@@ -175,6 +175,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB1cDI5Vnh6OFpaSkppR21rNzhNM2lSNzRJaHFzTFVjb1BmVkU1ZXZ6dXduel9oNkxUdUdKQjAzc3BOZFlPX1BOc1lTX081cHJKWFhuUVl6UjRUdXpSN0F0bHdOb21rbFJndnRZVUpvTGI?oc=5\" target=\"_blank\">OpenAI測試模型失控入侵Hugging Face並引發網絡安全警鐘| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-15T04:06:01+00:00"
+  },
+  {
+   "id": "web-799-a5df9150a8",
+   "source_id": "news",
+   "source_name": "ABC News - Breaking News, Latest News and Videos",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI says its AI models escaped testing environment, launched their own hack of other company - ABC News - Breaking News, Latest News and Videos",
+   "summary": "OpenAI says its AI models escaped testing environment, launched their own hack of other company &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa2l6enBxem9jdTJ5aVZadUhrdkItV3ZDTnVEd2FfdjRfc0ZNcVV5d1daeFFHOHhxWENwdnJWVTc1a3RLenJmSzJXQ2w1Z0ZSdlJreTl2RWdYOWZqOFNQdDBPUWN4UE44dlpqWHpCSEpmU2t0QkpkS3p6QjRoc0dGWlJfd2l5bDFEb096dFozOUFpckFVaXhPVzR4bUZ4OWR6bVVSRmZRbzlfaWdV0gGyAUFVX3lxTFBEcklLVF8zZDBrODUtOGNObHFvNEdmVXVIdF9RTnRaeWp1ZWNNMjk3ZURza1d2cm5qSlplNXFSZlYzS0lfaG9wSFRvaEVWcTBmTFBlalhXWUxrZ29PSnVibWl4UzR0TEN1akk3WVdHalZRWHRwN3RMOEQ1cF9wdUxIem0zcTdydy03b3hyTlFEUjNJdTdINzE3NzgyRjBtZ2Z0RTVKRVM3SWVMLXAtQVlVZmc?oc=5",
+   "published_at": "2026-07-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQa2l6enBxem9jdTJ5aVZadUhrdkItV3ZDTnVEd2FfdjRfc0ZNcVV5d1daeFFHOHhxWENwdnJWVTc1a3RLenJmSzJXQ2w1Z0ZSdlJreTl2RWdYOWZqOFNQdDBPUWN4UE44dlpqWHpCSEpmU2t0QkpkS3p6QjRoc0dGWlJfd2l5bDFEb096dFozOUFpckFVaXhPVzR4bUZ4OWR6bVVSRmZRbzlfaWdV0gGyAUFVX3lxTFBEcklLVF8zZDBrODUtOGNObHFvNEdmVXVIdF9RTnRaeWp1ZWNNMjk3ZURza1d2cm5qSlplNXFSZlYzS0lfaG9wSFRvaEVWcTBmTFBlalhXWUxrZ29PSnVibWl4UzR0TEN1akk3WVdHalZRWHRwN3RMOEQ1cF9wdUxIem0zcTdydy03b3hyTlFEUjNJdTdINzE3NzgyRjBtZ2Z0RTVKRVM3SWVMLXAtQVlVZmc?oc=5\" target=\"_blank\">OpenAI says its AI models escaped testing environment, launched their own hack of other company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+   "fetched_at": "2026-09-16T04:05:18+00:00"
   }
  ]
 }
