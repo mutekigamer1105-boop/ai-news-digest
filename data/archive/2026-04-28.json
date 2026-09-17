@@ -42,6 +42,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iUlZoVHFnVnNVdnZGeFBkUWJidEU0TnJ0aGdBTGNucDR2a1FLalhDT3d6emV4b1dQcGItWTc3eHZIVEt4MkN5NFVwblVmNmpURXEwX3pRZS1rdXpNX0gtbktQYVpSZw?oc=5\" target=\"_blank\">Claude for Creative Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-297-3eeb11e71f",
+   "source_id": "news",
+   "source_name": "The AI Security Institute (AISI)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Ask Don't Tell: Reducing Sycophancy in Large Language Models - The AI Security Institute (AISI)",
+   "summary": "Ask Don't Tell: Reducing Sycophancy in Large Language Models &nbsp;&nbsp; The AI Security Institute (AISI)",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUROb3RWUk05bDBVU0k3UEctOVRTcURodWJ5ajZ4eThIV3RVUDJzMWZXYnJEUFpiQnZZVWVtYU94Y2pWZnpOTDBkQ29aZ29Jbi0xZldNQXk0LWdob2xSekwxSTlMeC0taVlOenl3UVBjRi1UVmVLdks3SDd6WW1pdExwWmxhRW4yNEY3Wmp6YmNMenM?oc=5",
+   "published_at": "2026-04-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUROb3RWUk05bDBVU0k3UEctOVRTcURodWJ5ajZ4eThIV3RVUDJzMWZXYnJEUFpiQnZZVWVtYU94Y2pWZnpOTDBkQ29aZ29Jbi0xZldNQXk0LWdob2xSekwxSTlMeC0taVlOenl3UVBjRi1UVmVLdks3SDd6WW1pdExwWmxhRW4yNEY3Wmp6YmNMenM?oc=5\" target=\"_blank\">Ask Don't Tell: Reducing Sycophancy in Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Security Institute (AISI)</font>",
+   "fetched_at": "2026-09-17T04:05:51+00:00"
   }
  ]
 }

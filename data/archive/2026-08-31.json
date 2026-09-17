@@ -1347,6 +1347,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPNVp3ZktqMmpaSUVuMFA4M0l6elM1R05qaElGVWdhaVUyWVpTRVppMHItNnFqNENuZWZEVnVnQU1FbzZMNHVnZXMyRmpjS0w0SndpZ3owSnp2TnkwalQ5OENJcXNGV1pKQjlrV1JJdDU4bWlEVndOdnA4MzBuc3BRZUNR?oc=5\" target=\"_blank\">人工智能应用服务商培育专项行动启动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cn</font>",
    "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-246-e6fe7ff95c",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Performance of large language models as a source of clinical information on bacteriophage therapy - Nature",
+   "summary": "Performance of large language models as a source of clinical information on bacteriophage therapy &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pZTh4RUQzUzM0N0xZTWFjc3RfQkRGVlA4RFRFUUp4XzVpU2cwbFRxNnJNNWp0SWFjMXplcnRKRXRJdnpmckxpVVg1WS1kT2FPV1ZIQkJtamQ4MXlDcXlJ?oc=5",
+   "published_at": "2026-08-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pZTh4RUQzUzM0N0xZTWFjc3RfQkRGVlA4RFRFUUp4XzVpU2cwbFRxNnJNNWp0SWFjMXplcnRKRXRJdnpmckxpVVg1WS1kT2FPV1ZIQkJtamQ4MXlDcXlJ?oc=5\" target=\"_blank\">Performance of large language models as a source of clinical information on bacteriophage therapy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-17T04:05:51+00:00"
   }
  ]
 }

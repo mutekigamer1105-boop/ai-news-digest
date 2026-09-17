@@ -575,6 +575,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBfWklMQWROX01YX2w2OWx1S2toTXBqeWtMLXJFTDNXNEVnbVNDZVBiZElFZ2hLQW1aTVpxdndnVGR3T0tmWS1UMmtKZGtaVHZMS1ZQWl9RY19kOW13bklGQVR4Q3lHNGdHSngxWnE3V0VxQQ?oc=5\" target=\"_blank\">阿拉巴马州调查OpenAI与Hugging Face疑似遭入侵事件| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-15T04:06:01+00:00"
+  },
+  {
+   "id": "web-687-0231f84bc3",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Scoop: Generalist raises another $200 million for AI robotics - Axios",
+   "summary": "Scoop: Generalist raises another $200 million for AI robotics &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5\" target=\"_blank\">Scoop: Generalist raises another $200 million for AI robotics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-09-17T04:05:51+00:00"
   }
  ]
 }

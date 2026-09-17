@@ -325,6 +325,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnFpcmlGRXYxcU9ycDdZWVZ5Q0Z1MWFTNnduQl9nWnhNTExNRGJSODFTLUVNVFF6cUhYY0JrMWlLakpXdlB4QVROYzBrUDdwWEt3M25vUWN5RU1MVG9HZ0F0bFQ2ZVh5TjZBb09UWlpqYlJHOTMtS1dQUG83N0RxRHliU1Q3eTdLVHR3QkJOUGk1bVpRMVU3b1hDWS0yeUhONUZ5TjJWQjBhSVk?oc=5\" target=\"_blank\">How did the government decide OpenAI’s frontier model was safe to release?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-1010-56f9417a2a",
+   "source_id": "news",
+   "source_name": "NVIDIA",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI 赋能私有化大模型，HTZL.AI 实现 NVIDIA DGX Spark 全栈标准化落地 - NVIDIA",
+   "summary": "AI 赋能私有化大模型，HTZL.AI 实现 NVIDIA DGX Spark 全栈标准化落地 &nbsp;&nbsp; NVIDIA",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONmYzd3F1VWlhRE1zbVZXcFlvMFF1R3Zoa3NoNGF3cVZqaHpld3dfMkdGSzgtNFprTkdMTEM2N0xIZXdHcmd1RGl0NkxYRjcweE5QeUdlLWItMFJBN2IwTkxoemxEb1htSG8yeVZQUDFpeTZyUzN0RHl1SUswQUNjZUMwTmJhMkQ2MlhOUmt2R2F2R09fVXdtYzhoQlhJXzhGbExzSmttYWJQZno1TWZNQ0xJOVh4V2V0M2FRVWw3Z2NUdm5SMkE?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxONmYzd3F1VWlhRE1zbVZXcFlvMFF1R3Zoa3NoNGF3cVZqaHpld3dfMkdGSzgtNFprTkdMTEM2N0xIZXdHcmd1RGl0NkxYRjcweE5QeUdlLWItMFJBN2IwTkxoemxEb1htSG8yeVZQUDFpeTZyUzN0RHl1SUswQUNjZUMwTmJhMkQ2MlhOUmt2R2F2R09fVXdtYzhoQlhJXzhGbExzSmttYWJQZno1TWZNQ0xJOVh4V2V0M2FRVWw3Z2NUdm5SMkE?oc=5\" target=\"_blank\">AI 赋能私有化大模型，HTZL.AI 实现 NVIDIA DGX Spark 全栈标准化落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
+   "fetched_at": "2026-09-17T04:05:51+00:00"
   }
  ]
 }

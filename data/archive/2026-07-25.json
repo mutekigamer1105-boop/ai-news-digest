@@ -110,6 +110,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4bnJBVy1WbWV1OFg3M0ZRR2xGWWk3V1FUUFR3NUp6VlJJSEltQVVwcXdMbzBRRzJnQmw3VGdBNWlER1Vpc3U2b2RKYkVnal9LSDl5Q0l4TktDRm1RNUdVNllqV2V6YjRa?oc=5\" target=\"_blank\">OpenAI 推出 Micro 智能鍵盤引發熱議蘋果提告| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-1121-6ca8da2118",
+   "source_id": "news",
+   "source_name": "hub.baai.ac.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "刚刚，Claude爆改语音！11种语言，就是没中文 - hub.baai.ac.cn",
+   "summary": "刚刚，Claude爆改语音！11种语言，就是没中文 &nbsp;&nbsp; hub.baai.ac.cn",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jV1ZUUUdTT29SR05YWmZ0Mmh3YjA2NklVOC0wZFlYV0hYa3BqMGpfVk9Ndmo4ZXhsMFpFdEhGWjl2SUI5Q2NOZA?oc=5",
+   "published_at": "2026-07-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jV1ZUUUdTT29SR05YWmZ0Mmh3YjA2NklVOC0wZFlYV0hYa3BqMGpfVk9Ndmo4ZXhsMFpFdEhGWjl2SUI5Q2NOZA?oc=5\" target=\"_blank\">刚刚，Claude爆改语音！11种语言，就是没中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hub.baai.ac.cn</font>",
+   "fetched_at": "2026-09-17T04:05:51+00:00"
   }
  ]
 }

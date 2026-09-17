@@ -12095,6 +12095,158 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZLUYwdWJsd3RMdVhYcUpQU2F5ZGVQOTlaR0pSdWtoVEhLMlN4TlJHc0xhSWFuV0E3TzBsYTVMS3ZRRGZZaEh4VHNBVFFxMGxnRjlCRndlOUh3ZkJmX2tCS3Q4ZUZxNVE?oc=5\" target=\"_blank\">Anthropic’s $2 trillion IPO is taking shape as Nvidia considers a $10 billion investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
    "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-597-1ec7f3d7e4",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "President Trump Is on the Line About an A.I. Slowdown - The New York Times",
+   "summary": "President Trump Is on the Line About an A.I. Slowdown &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRjhtdU1rR0ZPZzBMOGZwZUpnYk8tWWtnVk0tV2VsRF9abV9pR2RicmJGbmtld045bkdwZVpSbzNKVDlLQ3ltamh0amZ0SnpQVGwwYnNvSS14SEZKRlNPb05Tdkxxc3k3b3h1N1RhVTJDbmtLNDBFd2VMSlEzQWN5UzUwajJFQQ?oc=5",
+   "published_at": "2026-09-14T23:51:33+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPRjhtdU1rR0ZPZzBMOGZwZUpnYk8tWWtnVk0tV2VsRF9abV9pR2RicmJGbmtld045bkdwZVpSbzNKVDlLQ3ltamh0amZ0SnpQVGwwYnNvSS14SEZKRlNPb05Tdkxxc3k3b3h1N1RhVTJDbmtLNDBFd2VMSlEzQWN5UzUwajJFQQ?oc=5\" target=\"_blank\">President Trump Is on the Line About an A.I. Slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-1051-7f31e0e313",
+   "source_id": "news",
+   "source_name": "封面新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国工程院院士黄殿中：AI智能体安全需建“仿真工厂”，让AI在真实业务中暴露问题｜网络安全宣传周 - 封面新闻",
+   "summary": "中国工程院院士黄殿中：AI智能体安全需建“仿真工厂”，让AI在真实业务中暴露问题｜网络安全宣传周 &nbsp;&nbsp; 封面新闻",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfYm1RVG1obm9VWXlWNzgtUW02eGlIN1FUTnlnN3Zmbl9KcUxIWGRHbUo4YVJJcHozZWVqdHVvNVV3WUVvNHRqTWhtSm5aMjBya2RITVROYlJQR0dPS2N6NVF1Y1lKSHhad04yYUF1VmxhQ1lybE9z?oc=5",
+   "published_at": "2026-09-14T21:48:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBfYm1RVG1obm9VWXlWNzgtUW02eGlIN1FUTnlnN3Zmbl9KcUxIWGRHbUo4YVJJcHozZWVqdHVvNVV3WUVvNHRqTWhtSm5aMjBya2RITVROYlJQR0dPS2N6NVF1Y1lKSHhad04yYUF1VmxhQ1lybE9z?oc=5\" target=\"_blank\">中国工程院院士黄殿中：AI智能体安全需建“仿真工厂”，让AI在真实业务中暴露问题｜网络安全宣传周</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">封面新闻</font>",
+   "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-1080-bd934f3a3d",
+   "source_id": "news",
+   "source_name": "环球网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体藏数据泄露风险 专家提醒：关键操作必须二次核实 - 环球网",
+   "summary": "AI智能体藏数据泄露风险 专家提醒：关键操作必须二次核实 &nbsp;&nbsp; 环球网",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NVVpRdzM4cnlzRG9MV0JEQTBvS2d5UDIycnNoSDVMMUpSbktDVF9Ua1pySVJ1aURqWU85NGIzVlJPTlFlYm9RcC1fSF9xOGJ0SUJZ?oc=5",
+   "published_at": "2026-09-14T18:39:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NVVpRdzM4cnlzRG9MV0JEQTBvS2d5UDIycnNoSDVMMUpSbktDVF9Ua1pySVJ1aURqWU85NGIzVlJPTlFlYm9RcC1fSF9xOGJ0SUJZ?oc=5\" target=\"_blank\">AI智能体藏数据泄露风险 专家提醒：关键操作必须二次核实</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">环球网</font>",
+   "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-414-1a6ac3e11b",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Launches Claude for Financial Advisors - Yahoo Finance",
+   "summary": "Anthropic Launches Claude for Financial Advisors &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDhXR2RLTU5KcWtiVUxvVTBSbU1BSkZ0Mm1YbElYUGZrdXhBZ3htbWQ2WmU5aDBfUHVMcFdMbXJUQ3FsMHRmZzk3LS04ZUs0NWJ6WXRGenYtQmNiamkyRko1TGJ6ZHY2RHdyTnVpNDJhcUVhOG1hQVJFbW91TjdyVm15d3hRZElOUmhITWtFRFRDZW9vV2hLQlE1QjQ5amp4TUdUM0RNd0xXSEt4?oc=5",
+   "published_at": "2026-09-14T16:31:37+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDhXR2RLTU5KcWtiVUxvVTBSbU1BSkZ0Mm1YbElYUGZrdXhBZ3htbWQ2WmU5aDBfUHVMcFdMbXJUQ3FsMHRmZzk3LS04ZUs0NWJ6WXRGenYtQmNiamkyRko1TGJ6ZHY2RHdyTnVpNDJhcUVhOG1hQVJFbW91TjdyVm15d3hRZElOUmhITWtFRFRDZW9vV2hLQlE1QjQ5amp4TUdUM0RNd0xXSEt4?oc=5\" target=\"_blank\">Anthropic Launches Claude for Financial Advisors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-413-c9f4cb003a",
+   "source_id": "news",
+   "source_name": "bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Pitches New Claude Tool for Financial Advisers - bloomberg.com",
+   "summary": "Anthropic Pitches New Claude Tool for Financial Advisers &nbsp;&nbsp; bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRmhuRXViUDlfZnRwMkNKVmtMZGpkeXF5bkppVGV4ejlIdUNnZkpXNHpHeTBXcF9tRkx2d1h2UVkzUU5OanAyVXVZcFhnaTRscTJxa0M3eVBiemZpMTdCZU5UeVVtZ0NQd1dKZ1JVMDhzNkVobVJGNDdWT2tkQlVYRjZ1ckpKRVVTdWZKSHhOTFBqMV9QN1JoZUYzcDloVXZremVEMW13SHFnUms?oc=5",
+   "published_at": "2026-09-14T16:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRmhuRXViUDlfZnRwMkNKVmtMZGpkeXF5bkppVGV4ejlIdUNnZkpXNHpHeTBXcF9tRkx2d1h2UVkzUU5OanAyVXVZcFhnaTRscTJxa0M3eVBiemZpMTdCZU5UeVVtZ0NQd1dKZ1JVMDhzNkVobVJGNDdWT2tkQlVYRjZ1ckpKRVVTdWZKSHhOTFBqMV9QN1JoZUYzcDloVXZremVEMW13SHFnUms?oc=5\" target=\"_blank\">Anthropic Pitches New Claude Tool for Financial Advisers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomberg.com</font>",
+   "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-1112-9f4e23029b",
+   "source_id": "news",
+   "source_name": "至顶网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "英伟达推出PAIR，让闲置设备为AI智能体打工-AI基础设施 - 至顶网",
+   "summary": "英伟达推出PAIR，让闲置设备为AI智能体打工-AI基础设施 &nbsp;&nbsp; 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yb0lzcGd1OWlybzRJSHNlTXdjRXN1UklFWWZnUmlqalVjbzFWYUNqQVAyelEyMWZoVUJBLU1laEl4bUo1dFlKZEZqUXNVUEVXWTJlNnNaQ3JoQVk5Ulg3M2wtVzZnNFowU3l6dTNLdFFoUQ?oc=5",
+   "published_at": "2026-09-14T07:44:11+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9yb0lzcGd1OWlybzRJSHNlTXdjRXN1UklFWWZnUmlqalVjbzFWYUNqQVAyelEyMWZoVUJBLU1laEl4bUo1dFlKZEZqUXNVUEVXWTJlNnNaQ3JoQVk5Ulg3M2wtVzZnNFowU3l6dTNLdFFoUQ?oc=5\" target=\"_blank\">英伟达推出PAIR，让闲置设备为AI智能体打工-AI基础设施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">至顶网</font>",
+   "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-1095-253d16730f",
+   "source_id": "news",
+   "source_name": "京报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "“豆包手机”9月16日开售，首款AI智能体手机能做啥？ - 京报网",
+   "summary": "“豆包手机”9月16日开售，首款AI智能体手机能做啥？ &nbsp;&nbsp; 京报网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnSWpBN1R0VGxncjQwRk9tdW8zeHhFWUhMejF2bWlVU0p6MUlEalBvVXdwYnlFRHpyNk9CWG1iT3JpVTBnZWFGMjN4eFpkWS1LbHE3ZmhMdGNtNTdMT01TM1BYaktBUHhwYkgtSFV2bXQzQQ?oc=5",
+   "published_at": "2026-09-14T07:43:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBnSWpBN1R0VGxncjQwRk9tdW8zeHhFWUhMejF2bWlVU0p6MUlEalBvVXdwYnlFRHpyNk9CWG1iT3JpVTBnZWFGMjN4eFpkWS1LbHE3ZmhMdGNtNTdMT01TM1BYaktBUHhwYkgtSFV2bXQzQQ?oc=5\" target=\"_blank\">“豆包手机”9月16日开售，首款AI智能体手机能做啥？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
+   "fetched_at": "2026-09-17T04:05:51+00:00"
   }
  ]
 }
