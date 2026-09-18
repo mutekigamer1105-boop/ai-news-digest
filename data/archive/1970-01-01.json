@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-256-e29237b3a4",
+   "source_id": "news",
+   "source_name": "The Association for the Advancement of Artificial Intelligence",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Can LLM Replace Stack Overflow? A Study on Robustness and Reliability of Large Language Model Code Generation - The Association for the Advancement of Artificial Intelligence",
+   "summary": "Can LLM Replace Stack Overflow? A Study on Robustness and Reliability of Large Language Model Code Generation &nbsp;&nbsp; The Association for the Advancement of Artificial Intelligence",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GZ3RFZHA4UjY2cVNiNmREdGFBclA1SE1XMnVSTGpKYzZZalE3QV9nUW5vNEV0a1hJOVgyNDdPRTlMemdqSE5kaEgwVG4zT2RuVkFHbDk4UUJFWGtwOXhyQXJteWw?oc=5",
+   "published_at": "1970-01-01T00:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GZ3RFZHA4UjY2cVNiNmREdGFBclA1SE1XMnVSTGpKYzZZalE3QV9nUW5vNEV0a1hJOVgyNDdPRTlMemdqSE5kaEgwVG4zT2RuVkFHbDk4UUJFWGtwOXhyQXJteWw?oc=5\" target=\"_blank\">Can LLM Replace Stack Overflow? A Study on Robustness and Reliability of Large Language Model Code Generation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Association for the Advancement of Artificial Intelligence</font>",
+   "fetched_at": "2026-09-18T04:05:23+00:00"
+  }
+ ]
+}

@@ -108,6 +108,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE42aXBBMWJ4X3ZSdmt5VUtGQkxsZDZFRllZWE1LaTZuSHhRcWZWczEtVGZ1VjI2NmNZSVloa3FpcUY3OTRBdGZaWDcyOXo0LTF1dENVUC05WGh6SVFHTXRQcmtOOTJmcUg2cDhaRVM3Vlk?oc=5\" target=\"_blank\">湖北发布首个交通行业AI大模型“荆楚・行”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-498-d88b94e37d",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Claude Sonnet 5 - Anthropic",
+   "summary": "Introducing Claude Sonnet 5 &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+   "published_at": "2026-06-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5\" target=\"_blank\">Introducing Claude Sonnet 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-09-18T04:05:23+00:00"
   }
  ]
 }

@@ -348,6 +348,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxONmYzd3F1VWlhRE1zbVZXcFlvMFF1R3Zoa3NoNGF3cVZqaHpld3dfMkdGSzgtNFprTkdMTEM2N0xIZXdHcmd1RGl0NkxYRjcweE5QeUdlLWItMFJBN2IwTkxoemxEb1htSG8yeVZQUDFpeTZyUzN0RHl1SUswQUNjZUMwTmJhMkQ2MlhOUmt2R2F2R09fVXdtYzhoQlhJXzhGbExzSmttYWJQZno1TWZNQ0xJOVh4V2V0M2FRVWw3Z2NUdm5SMkE?oc=5\" target=\"_blank\">AI 赋能私有化大模型，HTZL.AI 实现 NVIDIA DGX Spark 全栈标准化落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
    "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-799-3c4cc34df8",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up - The New York Times",
+   "summary": "Meta Launches New A.I. Model as Global Technology Race Heats Up &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5\" target=\"_blank\">Meta Launches New A.I. Model as Global Technology Race Heats Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-09-18T04:05:23+00:00"
   }
  ]
 }

@@ -326,6 +326,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNZlZjWGxjcDNNckRKYVFYeXFsVHVrOUQ4aGk0d2s5NnBuWUY0MzVNaG9HYk43SG1QbjRvWHYybEJGclBsR1lVZWVqbmc4M2lfMzdIdlVaZmVWcmF3VTFMaU1Kd25rcGwyMUVQZHplVzhDV0dPaE42MU4ya0Fmc0V6Uw?oc=5\" target=\"_blank\">Anthropic’s Claude can now send Gmail emails without asking first</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-1130-2cd5d678d1",
+   "source_id": "news",
+   "source_name": "mezha.net",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI确认技术故障导致网络安全研究员TAC权限被撤销| 乌克兰新闻- #Mezha - mezha.net",
+   "summary": "OpenAI确认技术故障导致网络安全研究员TAC权限被撤销| 乌克兰新闻- #Mezha &nbsp;&nbsp; mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByTFE0YzVnakVPVHdwQzlOc3BrWElCSDktNG5kOE5SLVBEYlVxQmhKeUtkcG1NZHhlaGN4blFlVVE3a3pLWlR2cG1BOU1EWDh0cXJnSDdRTUwyRlJrUWJfb0RuWEZUU3ZJWmRN?oc=5",
+   "published_at": "2026-08-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFByTFE0YzVnakVPVHdwQzlOc3BrWElCSDktNG5kOE5SLVBEYlVxQmhKeUtkcG1NZHhlaGN4blFlVVE3a3pLWlR2cG1BOU1EWDh0cXJnSDdRTUwyRlJrUWJfb0RuWEZUU3ZJWmRN?oc=5\" target=\"_blank\">OpenAI确认技术故障导致网络安全研究员TAC权限被撤销| 乌克兰新闻- #Mezha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
+   "fetched_at": "2026-09-18T04:05:23+00:00"
   }
  ]
 }

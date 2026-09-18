@@ -128,6 +128,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBNdmxpbWR4amNkcWVtTzQyTmFKUkJTNDNMcS1fSTgyOGZBNVhwS19OUEdsczVjNDZDQVBJd0ZWNFlzNTVjN1BSbkgwNnRjQkxYU042YW5ING1ITzNHQ0NlMEl4TlVFUWVQenZsSnpPdlE?oc=5\" target=\"_blank\">Scoop: Inside Trump's AI framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-773-5b243816bb",
+   "source_id": "news",
+   "source_name": "Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "‘Baffling’: White House won’t publicly release AI model evaluation framework it reviewed today with OpenAI, Anthropic, Microsoft, and others - Fortune",
+   "summary": "‘Baffling’: White House won’t publicly release AI model evaluation framework it reviewed today with OpenAI, Anthropic, Microsoft, and others &nbsp;&nbsp; Fortune",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWlcyMlRoSEdoMWV5QjZBeXRGenZEeHVSeV9NMzFRajlpX2xITkNiLS14TjJIcVhtYWExY2VaNzltV3F5TmgyRnFjdFBuTmozWWdsVm5mX3BIUG51eWNxQnBMenJCOUtYeUE3RlRhQV9DLVo4RU53U0lGNTdjTGw5NWVNeG11SDRQT2oxeWFMTmJIZ2I3RzBOSzRsWEctMFRKWFY5R21aS1YzcktXSjRubzVqM2NlTHVRcjBRYWV6WmlTbHBwblVfa0RIQUlLX0o3WE9Sa0NqV08yRGRDX2ZKdU1aV1JSeDNCRGVKd0NrV25TMDhNNGRPNQ?oc=5",
+   "published_at": "2026-08-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWlcyMlRoSEdoMWV5QjZBeXRGenZEeHVSeV9NMzFRajlpX2xITkNiLS14TjJIcVhtYWExY2VaNzltV3F5TmgyRnFjdFBuTmozWWdsVm5mX3BIUG51eWNxQnBMenJCOUtYeUE3RlRhQV9DLVo4RU53U0lGNTdjTGw5NWVNeG11SDRQT2oxeWFMTmJIZ2I3RzBOSzRsWEctMFRKWFY5R21aS1YzcktXSjRubzVqM2NlTHVRcjBRYWV6WmlTbHBwblVfa0RIQUlLX0o3WE9Sa0NqV08yRGRDX2ZKdU1aV1JSeDNCRGVKd0NrV25TMDhNNGRPNQ?oc=5\" target=\"_blank\">‘Baffling’: White House won’t publicly release AI model evaluation framework it reviewed today with OpenAI, Anthropic, Microsoft, and others</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "fetched_at": "2026-09-18T04:05:23+00:00"
   }
  ]
 }

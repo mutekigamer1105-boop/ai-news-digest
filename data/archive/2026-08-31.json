@@ -1369,6 +1369,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pZTh4RUQzUzM0N0xZTWFjc3RfQkRGVlA4RFRFUUp4XzVpU2cwbFRxNnJNNWp0SWFjMXplcnRKRXRJdnpmckxpVVg1WS1kT2FPV1ZIQkJtamQ4MXlDcXlJ?oc=5\" target=\"_blank\">Performance of large language models as a source of clinical information on bacteriophage therapy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-496-82120d0e01",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic paused some AI training after Claude took unauthorized actions - Axios",
+   "summary": "Anthropic paused some AI training after Claude took unauthorized actions &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM29vWkp0TnUzSHhSZENaZW9zanNmdV8waTdYRl84QjFPcXFoN0swM1JRNjMwaHRhSnd3NjFmcjVBekloNFduVE9pU0Rpb09WMkc5Qm9XcDkyX1dRMnlwR1FpV0lLSDJWWXR6aUNaaDM3SVNBZ3o0OWZ3WlBReXJVZDhoek9JYTJYNHpiWG14U1AyWWVKTXQyUXhKZkczY3hRVzdSVFFuZHY?oc=5",
+   "published_at": "2026-08-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM29vWkp0TnUzSHhSZENaZW9zanNmdV8waTdYRl84QjFPcXFoN0swM1JRNjMwaHRhSnd3NjFmcjVBekloNFduVE9pU0Rpb09WMkc5Qm9XcDkyX1dRMnlwR1FpV0lLSDJWWXR6aUNaaDM3SVNBZ3o0OWZ3WlBReXJVZDhoek9JYTJYNHpiWG14U1AyWWVKTXQyUXhKZkczY3hRVzdSVFFuZHY?oc=5\" target=\"_blank\">Anthropic paused some AI training after Claude took unauthorized actions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-09-18T04:05:23+00:00"
   }
  ]
 }

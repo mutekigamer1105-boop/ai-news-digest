@@ -264,6 +264,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSUo3ZVpmTWY0aXpzd1luaHpUcDZNeWJnTUQ0R055UkkyejY3LTQzTWpEcllyeHBPcjEzd2xuZTJuMFRhU2cybEZxVkpSTkp2THlSOFhmUFEwT2x0ZVlMWXhfV0lhWi1Ta2ozcw?oc=5\" target=\"_blank\">Structured Clinical Input–Guided Large Language Model Workflow for Acute Ischemic Stroke Discharge Education: A Multicenter Feasibility Study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Heart Association Journals</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-769-138fe0ab0c",
+   "source_id": "news",
+   "source_name": "blog.google",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber - blog.google",
+   "summary": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber &nbsp;&nbsp; blog.google",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5",
+   "published_at": "2026-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "demis-hassabis",
+   "builder_name": "Demis Hassabis",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5\" target=\"_blank\">Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+   "fetched_at": "2026-09-18T04:05:23+00:00"
   }
  ]
 }

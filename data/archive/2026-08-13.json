@@ -239,6 +239,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9wUWVmaXlPOXE0Q2gyNG5iRHhCRUNnVDFHaWFoNjZkNFRWOGJwc0JKaVF6ZDRucHhMUXhxQXZ1WkEyNm5kbVMxT3VyaGNyTGNJZkZ3VDdRQmdqWElmNGZZcGNXd3lYamkxY183Rk5sSU4?oc=5\" target=\"_blank\">OpenAI发布GPT 5.6 Sol超快模式：响应速度提升14倍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-15T04:06:01+00:00"
+  },
+  {
+   "id": "web-756-fd3ff321ae",
+   "source_id": "news",
+   "source_name": "blog.google",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Introducing Gemini 3.7 Flash - blog.google",
+   "summary": "Introducing Gemini 3.7 Flash &nbsp;&nbsp; blog.google",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5",
+   "published_at": "2026-08-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "demis-hassabis",
+   "builder_name": "Demis Hassabis",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5\" target=\"_blank\">Introducing Gemini 3.7 Flash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+   "fetched_at": "2026-09-18T04:05:23+00:00"
   }
  ]
 }

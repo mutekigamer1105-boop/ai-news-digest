@@ -262,6 +262,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0M3BMR0RsN3pSamc3NlJZMG5BaXMzWjFGN2J0VkRjdUdCU3I2RXZKdDBmQ3ZBQVZYd19DUjNRY3d5dnp5aTByelhKcw?oc=5\" target=\"_blank\">顾兵教授专访：AI智能体如何破解mNGS报告解读的“三大痛点”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgi.com</font>",
    "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-771-66895f7a88",
+   "source_id": "news",
+   "source_name": "The New Stack",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The AI model OpenAI won’t release yet — and what it found in testing - The New Stack",
+   "summary": "The AI model OpenAI won’t release yet — and what it found in testing &nbsp;&nbsp; The New Stack",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94VXpBWTNaVXlfcmZIZFV1WkM2RWs1VHl1bGNOVDdiRFpQZjBsb28yZ3V5UzQtSzh1RTRxUHhtTk5YZHJfbldVcXJyV1dEQW5VV3laSGNvVW5LZF95VndianNvVDFka1U?oc=5",
+   "published_at": "2026-08-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94VXpBWTNaVXlfcmZIZFV1WkM2RWs1VHl1bGNOVDdiRFpQZjBsb28yZ3V5UzQtSzh1RTRxUHhtTk5YZHJfbldVcXJyV1dEQW5VV3laSGNvVW5LZF95VndianNvVDFka1U?oc=5\" target=\"_blank\">The AI model OpenAI won’t release yet — and what it found in testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Stack</font>",
+   "fetched_at": "2026-09-18T04:05:23+00:00"
   }
  ]
 }

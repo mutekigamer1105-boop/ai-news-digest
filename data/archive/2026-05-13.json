@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpOTF1VDdnWkxsRnFMa09OZVlpLW5FNGt1SWFpZXFBZFpaTEs0M2RCdmp2NlVXYjFzREFCRmRRNVQweWxvUjF4TjREZ05oV1haMlo5eUxKNUE5T3JQc1Yw?oc=5\" target=\"_blank\">State media control influences large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-704-3abb8bbfea",
+   "source_id": "news",
+   "source_name": "Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exclusive: Martha Stewart’s new AI startup wants to manage your home before things break - Fortune",
+   "summary": "Exclusive: Martha Stewart’s new AI startup wants to manage your home before things break &nbsp;&nbsp; Fortune",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmJhc1FaR2ZuQXFLdE5RWU1PNVA0c3NuQXdVeXRERklZcFFQODFPMkNCY3R2ZTBOQmRFaUhtWE02VmtxWmE0NGNLRE91MGRmUjMybXpCNDZ3RmNxY19PMzYtdmZtRi02N19LX3d3aGdWUWUxeW8tOHhlY3FILWgxR2NQY0dwTHdtY3ZVclUwUjNWRlhpakdjZUcwNWRXUEc2?oc=5",
+   "published_at": "2026-05-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmJhc1FaR2ZuQXFLdE5RWU1PNVA0c3NuQXdVeXRERklZcFFQODFPMkNCY3R2ZTBOQmRFaUhtWE02VmtxWmE0NGNLRE91MGRmUjMybXpCNDZ3RmNxY19PMzYtdmZtRi02N19LX3d3aGdWUWUxeW8tOHhlY3FILWgxR2NQY0dwTHdtY3ZVclUwUjNWRlhpakdjZUcwNWRXUEc2?oc=5\" target=\"_blank\">Exclusive: Martha Stewart’s new AI startup wants to manage your home before things break</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "fetched_at": "2026-09-18T04:05:23+00:00"
   }
  ]
 }
