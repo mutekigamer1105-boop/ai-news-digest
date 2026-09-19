@@ -11896,6 +11896,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTNpWlBOWmtFeWMwYzJnR19KQjVfeDlDcHZXZUxfN2xTd2s1Q0FCX3NROFdCM01QTWNqYkNfLUdDbUZhWjRuOTZrbG1TWFc4anZNdkR1YlBsNTY0Q285Q0FCWXZYU0NSeFo5OFdBYzdacG9jZEdJTEQwU1d2ck9NYXhZX2pMWlJFeXBYUk0yUEtwdw?oc=5\" target=\"_blank\">OpenAI一批AI智能体“参加考试”，被发现偷偷在多个老旧网站互相交流\"留答案\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-1166-af7d419bd1",
+   "source_id": "news",
+   "source_name": "IndexBox",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "特朗普政府与OpenAI达成政府AI访问折扣协议 - 新闻和统计 - IndexBox",
+   "summary": "特朗普政府与OpenAI达成政府AI访问折扣协议 - 新闻和统计 &nbsp;&nbsp; IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdzNSQ2RsVXhCMkM1S2FFemxKeFVHdDVkY0RZTXhoN2pfMjZoUDNzUGlsNThUby1YYjhUdzJvNWdUNE5yZWNDRW54QlI4aWRBY1k0N3R5WTQ0VDN0MTdwMlV4YW02bFJQazNOTTNENHFaRktEU1ByblRuM3dubnFqVGtMUE5SZ3hkR1h0MmtvbWE5eGRMejdoWHdERUx3Y1VJT0xOcFI2OWJmZw?oc=5",
+   "published_at": "2026-09-10T17:01:04+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdzNSQ2RsVXhCMkM1S2FFemxKeFVHdDVkY0RZTXhoN2pfMjZoUDNzUGlsNThUby1YYjhUdzJvNWdUNE5yZWNDRW54QlI4aWRBY1k0N3R5WTQ0VDN0MTdwMlV4YW02bFJQazNOTTNENHFaRktEU1ByblRuM3dubnFqVGtMUE5SZ3hkR1h0MmtvbWE5eGRMejdoWHdERUx3Y1VJT0xOcFI2OWJmZw?oc=5\" target=\"_blank\">特朗普政府与OpenAI达成政府AI访问折扣协议 - 新闻和统计</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+   "fetched_at": "2026-09-19T04:05:23+00:00"
+  },
+  {
+   "id": "web-1074-54c145814a",
+   "source_id": "news",
+   "source_name": "中国科技网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "总编辑圈点丨AI智能体八十八小时解出千禧年难题之一，引起“抢发”数学家成果争议 - 中国科技网",
+   "summary": "总编辑圈点丨AI智能体八十八小时解出千禧年难题之一，引起“抢发”数学家成果争议 &nbsp;&nbsp; 中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mWnJ1eGV3UmU5cjJQWlpCSlVrMkJtNGxGWUFYMHNQZWo2TVdUOXZiQWdIRjhrZGxCcmtHSzVVVjRqVkVvd3ZwSUkzS0x6VUpmcE1aXzFQc3ZwQjlsTXA4Y3prUmJjSUxDZVNEWFJuZkw?oc=5",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1mWnJ1eGV3UmU5cjJQWlpCSlVrMkJtNGxGWUFYMHNQZWo2TVdUOXZiQWdIRjhrZGxCcmtHSzVVVjRqVkVvd3ZwSUkzS0x6VUpmcE1aXzFQc3ZwQjlsTXA4Y3prUmJjSUxDZVNEWFJuZkw?oc=5\" target=\"_blank\">总编辑圈点丨AI智能体八十八小时解出千禧年难题之一，引起“抢发”数学家成果争议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+   "fetched_at": "2026-09-19T04:05:23+00:00"
   }
  ]
 }

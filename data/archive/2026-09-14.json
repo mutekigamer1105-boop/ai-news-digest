@@ -12311,6 +12311,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGI5Zjc3ODcyR3M5b3hDSkRIdXY0RmRkS1ItdkIxM243UktNUUFnX1Nsb2lqdWtRY0ExLS1CNk0xc0U4ME1FNHlKZ0NINE9aVTF0ZHZwTGw1VXhZQkNmZkdWN1YxbnQtV2tRdFZTMDlVY0xKLTFfTXF4TmJXUEpGaWFzY1ZfNlpKNkU4eUhiLXNhZw?oc=5\" target=\"_blank\">Elon Musk Just Made a Huge Nvidia AI Prediction About Space</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
    "fetched_at": "2026-09-18T04:05:23+00:00"
+  },
+  {
+   "id": "web-129-9da62937e8",
+   "source_id": "news",
+   "source_name": "GSA (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Model Context Protocol Server and AI Agent Government Hackathon - GSA (.gov)",
+   "summary": "Model Context Protocol Server and AI Agent Government Hackathon &nbsp;&nbsp; GSA (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRHlZRzVtNlV4ZWl6ZUFodUoxNjdGbFFPSDJ4Q2szU1hEMXB1dHFPY1VkYU5kMlVhSEdzSThBT1NVeXN0bFRUVnlvRlBFVzE4eGIzZFpfT3NUcHBxOFJoejNhbC1MWjZVaXptT1RXQVY0ZGlQa29DZEl1YVlJZVlremZxMHVzQXhHXzExSm1vWGw1X3o4R1NIcGU4ckFKcXJqcTZYdEZxMW02ZjFEZEt4SERsRWdBTlM3ODhoN2pMS09GN3FTNTIzdG5HeHRIdw?oc=5",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRHlZRzVtNlV4ZWl6ZUFodUoxNjdGbFFPSDJ4Q2szU1hEMXB1dHFPY1VkYU5kMlVhSEdzSThBT1NVeXN0bFRUVnlvRlBFVzE4eGIzZFpfT3NUcHBxOFJoejNhbC1MWjZVaXptT1RXQVY0ZGlQa29DZEl1YVlJZVlremZxMHVzQXhHXzExSm1vWGw1X3o4R1NIcGU4ckFKcXJqcTZYdEZxMW02ZjFEZEt4SERsRWdBTlM3ODhoN2pMS09GN3FTNTIzdG5HeHRIdw?oc=5\" target=\"_blank\">Model Context Protocol Server and AI Agent Government Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GSA (.gov)</font>",
+   "fetched_at": "2026-09-19T04:05:23+00:00"
   }
  ]
 }

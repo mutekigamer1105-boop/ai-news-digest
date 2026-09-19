@@ -155,6 +155,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixgJBVV95cUxNbmFVcnpOOWd6WHI4dVBIVEx2Tk55ZlhTdzY5QUxJUHFNd1JYeHVGQzEzemhEaG8yNkJSVE41X3RSS3VEMU1US003d01uX1l3ZWotSmc2MmxkRDM5VE5ZN29ETTJtcFN6d3VXYnBFM0VIZmdJdlZtVHVaYnVUTFFySVhnQUk2RjJ4NWlEa0hUWVhxem8zVmtEUzFPT1U0eTg0OXpoZGtfUk1RWUJOZFNsZm1mRW9MVHNHMW0yZndmQnZYTDdYa2J4TGZRMXg4R0hDQWw0ckF1TXZhY2RvWVhGVUlkbGhZWkI3V0hyVUh5Y2FVT0l4QjlzSlUwUmRIZHItN2o0RUhudHl6ellBR2h0Vm1ScHhBc19uMFdkZWFKUzVHMHpkREFrNTZ4a2pGN3VQeC1paFM5MzAxalFiYmZ1dUZzMERrQQ?oc=5\" target=\"_blank\">Design ideation through large language model-driven design operation: a case study of architectural design using pattern language</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cambridge University Press & Assessment</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-704-bb8ca3169b",
+   "source_id": "news",
+   "source_name": "Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exclusive: Seltz, a startup rebuilding web search for AI agents, raises $12.5 million in seed funding - Fortune",
+   "summary": "Exclusive: Seltz, a startup rebuilding web search for AI agents, raises $12.5 million in seed funding &nbsp;&nbsp; Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFJMUVptQk9VejhvaDJxY3hoUEZ0YUJ1ZWY3X1N1b3g0Q3RGZk5DNjdadUd6TGE0NWh5WXQ0Q2hIVVo2QUVxNVlHdkFqb2VKdjNEVzJQMGJCOUh4ZWNraWhpcEpNU19LWjFwTldJQXF1a1Y4SHdZNHd6S2RYZGZXck1BU3lXMlZZSjY0UmVDcEJSLUxCVDdSTTBpYWlScDNXekhrUXhCQkZKQXkweTI0aGRHTnFwdUhnMnNJWGtzRHFfVDhHQmlmYQ?oc=5",
+   "published_at": "2026-06-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFJMUVptQk9VejhvaDJxY3hoUEZ0YUJ1ZWY3X1N1b3g0Q3RGZk5DNjdadUd6TGE0NWh5WXQ0Q2hIVVo2QUVxNVlHdkFqb2VKdjNEVzJQMGJCOUh4ZWNraWhpcEpNU19LWjFwTldJQXF1a1Y4SHdZNHd6S2RYZGZXck1BU3lXMlZZSjY0UmVDcEJSLUxCVDdSTTBpYWlScDNXekhrUXhCQkZKQXkweTI0aGRHTnFwdUhnMnNJWGtzRHFfVDhHQmlmYQ?oc=5\" target=\"_blank\">Exclusive: Seltz, a startup rebuilding web search for AI agents, raises $12.5 million in seed funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "fetched_at": "2026-09-19T04:05:23+00:00"
   }
  ]
 }

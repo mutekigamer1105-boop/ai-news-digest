@@ -151,6 +151,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTGluQ2NrN09NUXlwOFNlUzlXSGJpLU41VFh4ODYtd3FQeUctZFN5VnpGVzRBdzUwUVJOMmEtVlFBbWdVblhsS3UteGJsQnFTdmN6QVBmcmdrVDdYd2c5M2VZWVlITjhzTmotd0JuT3hBREJ0ZkpncGRpMkJhalphREVEanBadVhraXBwM25iRWxCRncyZHVaYllRNFBKeGFqNmxaS3VvamJnWHY1Qmo5QVRwcnAzeUVqYUt1WExoMzN5c0JqdDZObThXNEhHR09CWEpLemRVeFdISXAwYndjS0h1NU1XYzVlZlE?oc=5\" target=\"_blank\">Evaluating the Accuracy of Large Language Models in Selecting Appropriate Statistical Tests for Healthcare Research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cureus</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-971-879c9a2900",
+   "source_id": "news",
+   "source_name": "证券时报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续九周领跑，美国份额一年内从72%跌至33% - 证券时报",
+   "summary": "中国AI大模型调用量连续九周领跑，美国份额一年内从72%跌至33% &nbsp;&nbsp; 证券时报",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WQW9vazlLZFdMaFJhbVlBLWsydFkzWFZnQ1NFb292Uk5MN2owV3A0eENxc2RmbV9jVk1lRHR3WnhlbEJaalJIaXBpeVF0Z0Y4ZXozVkx6NA?oc=5",
+   "published_at": "2026-06-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WQW9vazlLZFdMaFJhbVlBLWsydFkzWFZnQ1NFb292Uk5MN2owV3A0eENxc2RmbV9jVk1lRHR3WnhlbEJaalJIaXBpeVF0Z0Y4ZXozVkx6NA?oc=5\" target=\"_blank\">中国AI大模型调用量连续九周领跑，美国份额一年内从72%跌至33%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+   "fetched_at": "2026-09-19T04:05:23+00:00"
   }
  ]
 }

@@ -370,6 +370,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5\" target=\"_blank\">Meta Launches New A.I. Model as Global Technology Race Heats Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
    "fetched_at": "2026-09-18T04:05:23+00:00"
+  },
+  {
+   "id": "web-1148-85f66d35b9",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 推出 ChatGPT Work，幫助企業自動化日常工作並提升效率| 乌克兰新闻- #Mezha - Межа. Новини України.",
+   "summary": "OpenAI 推出 ChatGPT Work，幫助企業自動化日常工作並提升效率| 乌克兰新闻- #Mezha &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LVDFHMTZMU2lLOUV5RjVyaU5FaDI4T2ozbFVrZlRGUVZTaGc3Q0VHX1dCTzFHZ3VRSERsa2JIek1BYTd5ZkhLakJSUklMejZ2RV9ldFo2TjFTSWc3aEc1aU1Sd1Zpc1RnTldv?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5LVDFHMTZMU2lLOUV5RjVyaU5FaDI4T2ozbFVrZlRGUVZTaGc3Q0VHX1dCTzFHZ3VRSERsa2JIek1BYTd5ZkhLakJSUklMejZ2RV9ldFo2TjFTSWc3aEc1aU1Sd1Zpc1RnTldv?oc=5\" target=\"_blank\">OpenAI 推出 ChatGPT Work，幫助企業自動化日常工作並提升效率| 乌克兰新闻- #Mezha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-19T04:05:23+00:00"
   }
  ]
 }

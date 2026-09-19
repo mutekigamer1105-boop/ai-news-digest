@@ -153,6 +153,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5\" target=\"_blank\">The Future of Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aimultiple.com</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-764-0c6d564d0f",
+   "source_id": "news",
+   "source_name": "Politico",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Trump administration steps in to limit OpenAI’s latest model launch - Politico",
+   "summary": "Trump administration steps in to limit OpenAI’s latest model launch &nbsp;&nbsp; Politico",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTU1a1dDUG9tLXMxaG43cUhjSEpwdDdTQlQ5RGdELUlYczZhR2hLSFJSWEw3VGxzWW93b0VuRVVDRXNqcEtBeG9OY1VDcEtTWUp4SEdzbVh3OG9TWUhDeGlhTVhQTW9kX292dUY3S19xdXRFaDFNUC1yR1JKMGVMNmdjNnUyT19CcG1tY1pB?oc=5",
+   "published_at": "2026-06-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTU1a1dDUG9tLXMxaG43cUhjSEpwdDdTQlQ5RGdELUlYczZhR2hLSFJSWEw3VGxzWW93b0VuRVVDRXNqcEtBeG9OY1VDcEtTWUp4SEdzbVh3OG9TWUhDeGlhTVhQTW9kX292dUY3S19xdXRFaDFNUC1yR1JKMGVMNmdjNnUyT19CcG1tY1pB?oc=5\" target=\"_blank\">Trump administration steps in to limit OpenAI’s latest model launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
+   "fetched_at": "2026-09-19T04:05:23+00:00"
   }
  ]
 }
