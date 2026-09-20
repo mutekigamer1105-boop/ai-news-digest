@@ -12334,6 +12334,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRHlZRzVtNlV4ZWl6ZUFodUoxNjdGbFFPSDJ4Q2szU1hEMXB1dHFPY1VkYU5kMlVhSEdzSThBT1NVeXN0bFRUVnlvRlBFVzE4eGIzZFpfT3NUcHBxOFJoejNhbC1MWjZVaXptT1RXQVY0ZGlQa29DZEl1YVlJZVlremZxMHVzQXhHXzExSm1vWGw1X3o4R1NIcGU4ckFKcXJqcTZYdEZxMW02ZjFEZEt4SERsRWdBTlM3ODhoN2pMS09GN3FTNTIzdG5HeHRIdw?oc=5\" target=\"_blank\">Model Context Protocol Server and AI Agent Government Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GSA (.gov)</font>",
    "fetched_at": "2026-09-19T04:05:23+00:00"
+  },
+  {
+   "id": "web-317-2470992da3",
+   "source_id": "news",
+   "source_name": "BBC",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI CEO Sam Altman says 'right to be afraid of AI' - but 'world should trust' tech firms - BBC",
+   "summary": "OpenAI CEO Sam Altman says 'right to be afraid of AI' - but 'world should trust' tech firms &nbsp;&nbsp; BBC",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aLW1RbW8xM1pIOUN4cHJQdDZ0Q3BCVGlxZUxRVTQyRzYwaWd4czdEME5vOTJZZ0I0cDFydmQxdXlxV3ZjQVdvc3hDNmFHd1NWSlJockRn?oc=5",
+   "published_at": "2026-09-14T10:44:54+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aLW1RbW8xM1pIOUN4cHJQdDZ0Q3BCVGlxZUxRVTQyRzYwaWd4czdEME5vOTJZZ0I0cDFydmQxdXlxV3ZjQVdvc3hDNmFHd1NWSlJockRn?oc=5\" target=\"_blank\">OpenAI CEO Sam Altman says 'right to be afraid of AI' - but 'world should trust' tech firms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "fetched_at": "2026-09-20T04:05:20+00:00"
   }
  ]
 }

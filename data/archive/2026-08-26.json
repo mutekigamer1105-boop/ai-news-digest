@@ -725,6 +725,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFR3QnVmLU5NNWtuQ0lITGFxTDREVWdJbE1wTFFNR0RVWExhV2lNR2sxMnF2Nmlud1FOSjVPaW82clVOcGtETW5oeDN0SDNPcmhKUDZHT043a1hzdnltSGVDSTZXamFYZE5uRWs0V3pNelVnRlBUVTZ1YlhaaF9KS0k2RVBJRkVGUklOYkZLZ29hMHd5aHRnMlA3cFRRNXhz?oc=5\" target=\"_blank\">Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techcrunch.com</font>",
    "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-602-3156678239",
+   "source_id": "news",
+   "source_name": "aboutamazon.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AWS and NVIDIA expand partnership for next-gen AI infrastructure - aboutamazon.com",
+   "summary": "AWS and NVIDIA expand partnership for next-gen AI infrastructure &nbsp;&nbsp; aboutamazon.com",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zZ2tmZ01kLUFpRnU5OEZRR0c4YnVjTmo0SU1pT0pGYzczaHc1THZvY2p3c0pYQzY3OFZSYUZYUkZPVVdYajZ2dXJLdnBlZkMxSzBwTHBfcm5JamRjTEliR1pjc3hQXzdFd2ZqcWVKaFcwNDQ?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zZ2tmZ01kLUFpRnU5OEZRR0c4YnVjTmo0SU1pT0pGYzczaHc1THZvY2p3c0pYQzY3OFZSYUZYUkZPVVdYajZ2dXJLdnBlZkMxSzBwTHBfcm5JamRjTEliR1pjc3hQXzdFd2ZqcWVKaFcwNDQ?oc=5\" target=\"_blank\">AWS and NVIDIA expand partnership for next-gen AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aboutamazon.com</font>",
+   "fetched_at": "2026-09-20T04:05:20+00:00"
   }
  ]
 }

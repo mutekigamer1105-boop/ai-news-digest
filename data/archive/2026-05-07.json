@@ -65,6 +65,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MQ0w0Mjh6VGJxay1rMDBySnFfWEtDaDUxOGZldEJVQWRuekFaM2QwYnQ5Slh5SnpFcG5xSzFxcGRNdWhQWmQ0N0d5YXYzd2tkTW9J?oc=5\" target=\"_blank\">图解国内外17家主流AI大模型（2026）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
    "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-684-c488364b53",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exclusive: Fazeshift Scores $17M As Investors Bet On AI-Powered Finance Ops, Starting With Accounts Receivable - Crunchbase News",
+   "summary": "Exclusive: Fazeshift Scores $17M As Investors Bet On AI-Powered Finance Ops, Starting With Accounts Receivable &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLThkRUJqLTZRNjFlNjRvZjg3Q3RCVzFtbHJSekxlbzhQdTVkakFCNWtPT2V5UWVaQjlHMWlETUV2QUE0Z3ZOVHhUZ21ERlQ5bU9NRWtTZ2RXaXpvRGlKNGJzTVd5M0ZWNktLR0JBSk12NE9oVmNxY2g3WklWeF9ETFJHNlZlODNYcXlYZU9WSG9oTDYtQjRuMEY4Z1FEUQ?oc=5",
+   "published_at": "2026-05-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQLThkRUJqLTZRNjFlNjRvZjg3Q3RCVzFtbHJSekxlbzhQdTVkakFCNWtPT2V5UWVaQjlHMWlETUV2QUE0Z3ZOVHhUZ21ERlQ5bU9NRWtTZ2RXaXpvRGlKNGJzTVd5M0ZWNktLR0JBSk12NE9oVmNxY2g3WklWeF9ETFJHNlZlODNYcXlYZU9WSG9oTDYtQjRuMEY4Z1FEUQ?oc=5\" target=\"_blank\">Exclusive: Fazeshift Scores $17M As Investors Bet On AI-Powered Finance Ops, Starting With Accounts Receivable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-09-20T04:05:20+00:00"
   }
  ]
 }

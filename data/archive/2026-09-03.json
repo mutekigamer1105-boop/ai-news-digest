@@ -18083,6 +18083,30 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDFSeFlJS2V4TnNKbHB5UXhOZEkzZkVOb1lsa2tKUDNDWlAwbUFCWFhIUnUwUFBwTkNqTFZNWjJmc2RaOFB0VU8xTVY5QjB2NUdNMF8zMVVIQWR5NFYzLWlMMlQyZFNhbjgtb081OTZycTh2eEdLdGo5UjhSOFFCdWd6Tk9GSHdmSUcxamFvc0NvRTJLZk9qY1dRZFk3Nkt1Z182elFlR3RuS2M?oc=5\" target=\"_blank\">软件行业冲击：人工智能颠覆下的逻辑混乱| 摩根大通私人银行亚洲</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">J.P. Morgan Private Bank</font>",
    "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-579-6f20f0b5a2",
+   "source_id": "news",
+   "source_name": "abc7ny.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia is buying AI startup that was hacked by OpenAI models for nearly $13 billion - abc7ny.com",
+   "summary": "Nvidia is buying AI startup that was hacked by OpenAI models for nearly $13 billion &nbsp;&nbsp; abc7ny.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjA4S21xOGtFdWdEN2FtZkR0UEpNUEwxTUxNNFpGbC1sZG1BVkgwX192dElzZXZMR19ESDlTRGJmRlVwSjRsODBHN0QteFpybG92RTRrVHpQdHF5akhmNzN3QTJXOFZRNF9NeXJNMVhVM2huZWE0VlJ2THZxMlJZUTZJZmNISVJEbmYtUjlhQTQyLURhay14WGx1dm1jR2RWTEZBOVk2emtkTll2bWtDcg?oc=5",
+   "published_at": "2026-09-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjA4S21xOGtFdWdEN2FtZkR0UEpNUEwxTUxNNFpGbC1sZG1BVkgwX192dElzZXZMR19ESDlTRGJmRlVwSjRsODBHN0QteFpybG92RTRrVHpQdHF5akhmNzN3QTJXOFZRNF9NeXJNMVhVM2huZWE0VlJ2THZxMlJZUTZJZmNISVJEbmYtUjlhQTQyLURhay14WGx1dm1jR2RWTEZBOVk2emtkTll2bWtDcg?oc=5\" target=\"_blank\">Nvidia is buying AI startup that was hacked by OpenAI models for nearly $13 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc7ny.com</font>",
+   "fetched_at": "2026-09-20T04:05:20+00:00"
   }
  ]
 }

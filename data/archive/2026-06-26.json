@@ -306,6 +306,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXc3S3VNWkFPMXVnZmZSRWhFYmpaQTV5X0NuMFJsUlZiRHZPY2lfNlJ0U0VNUTFlLUpNNFFCRC01akpSX3hET0IzM21IRVBaYmVYOHRlLWN0LXhmajhzZDQyd2pSSUVSUnFKek5oQ0xjUDhIRi05ZFZCcVIzUndQQjZGQUJ3V0piMGNjMF9WQ0NDYUdCb3V6a095emJpSlV5eFJYZEx2ck5sdw?oc=5\" target=\"_blank\">OpenAI limits new AI models to 'trusted partners' at request of U.S. government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-09-18T04:05:23+00:00"
+  },
+  {
+   "id": "web-772-b68503cfe8",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations - Reuters",
+   "summary": "US allows Anthropic to release Mythos AI to 'trusted' US organizations &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREhtVHBfT0Y3bnFFSm9mMmdvYlFhelN2SkZfWWdkb0lzSkpvazRVUFdoY0l6RVVUNEZqdUIxaWtuQWZ5TXpFRzRSTHlDMkhUOS1MZ1ozVHVHSUJpZVZmQ2pmSmRPVHZSRmxqRm11RzhtLTgxbkJRZkVYeXQ4WFd4bFJxb1Z5Yi0xa2poU3U5SUZDMjVyM3p0T2dUYkRIanlGSjlPOFcyekpnbU5wd3UzY1FYQWJBUQ?oc=5",
+   "published_at": "2026-06-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOREhtVHBfT0Y3bnFFSm9mMmdvYlFhelN2SkZfWWdkb0lzSkpvazRVUFdoY0l6RVVUNEZqdUIxaWtuQWZ5TXpFRzRSTHlDMkhUOS1MZ1ozVHVHSUJpZVZmQ2pmSmRPVHZSRmxqRm11RzhtLTgxbkJRZkVYeXQ4WFd4bFJxb1Z5Yi0xa2poU3U5SUZDMjVyM3p0T2dUYkRIanlGSjlPOFcyekpnbU5wd3UzY1FYQWJBUQ?oc=5\" target=\"_blank\">US allows Anthropic to release Mythos AI to 'trusted' US organizations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-09-20T04:05:20+00:00"
   }
  ]
 }

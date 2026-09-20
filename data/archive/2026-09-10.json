@@ -11940,6 +11940,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1mWnJ1eGV3UmU5cjJQWlpCSlVrMkJtNGxGWUFYMHNQZWo2TVdUOXZiQWdIRjhrZGxCcmtHSzVVVjRqVkVvd3ZwSUkzS0x6VUpmcE1aXzFQc3ZwQjlsTXA4Y3prUmJjSUxDZVNEWFJuZkw?oc=5\" target=\"_blank\">总编辑圈点丨AI智能体八十八小时解出千禧年难题之一，引起“抢发”数学家成果争议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
    "fetched_at": "2026-09-19T04:05:23+00:00"
+  },
+  {
+   "id": "web-496-a5aa308e3a",
+   "source_id": "news",
+   "source_name": "AP News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons - AP News",
+   "summary": "Anthropic says it blocked misuse of its AI that could have supported biological weapons &nbsp;&nbsp; AP News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5\" target=\"_blank\">Anthropic says it blocked misuse of its AI that could have supported biological weapons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+   "fetched_at": "2026-09-20T04:05:20+00:00"
   }
  ]
 }
