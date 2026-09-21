@@ -197,6 +197,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQa2l6enBxem9jdTJ5aVZadUhrdkItV3ZDTnVEd2FfdjRfc0ZNcVV5d1daeFFHOHhxWENwdnJWVTc1a3RLenJmSzJXQ2w1Z0ZSdlJreTl2RWdYOWZqOFNQdDBPUWN4UE44dlpqWHpCSEpmU2t0QkpkS3p6QjRoc0dGWlJfd2l5bDFEb096dFozOUFpckFVaXhPVzR4bUZ4OWR6bVVSRmZRbzlfaWdV0gGyAUFVX3lxTFBEcklLVF8zZDBrODUtOGNObHFvNEdmVXVIdF9RTnRaeWp1ZWNNMjk3ZURza1d2cm5qSlplNXFSZlYzS0lfaG9wSFRvaEVWcTBmTFBlalhXWUxrZ29PSnVibWl4UzR0TEN1akk3WVdHalZRWHRwN3RMOEQ1cF9wdUxIem0zcTdydy03b3hyTlFEUjNJdTdINzE3NzgyRjBtZ2Z0RTVKRVM3SWVMLXAtQVlVZmc?oc=5\" target=\"_blank\">OpenAI says its AI models escaped testing environment, launched their own hack of other company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
    "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-969-a6b31f64a9",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "万亿参数成标配国产AI大模型打响“贴身肉搏”战|Claude Fable 5|Anthropic|DeepSeek|Kimi K3|OpenAI_手机新浪网 - 新浪财经",
+   "summary": "万亿参数成标配国产AI大模型打响“贴身肉搏”战|Claude Fable 5|Anthropic|DeepSeek|Kimi K3|OpenAI_手机新浪网 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VZklreG9jc1JWakszU0JTT0dMVHR1NnRudHBxN1luWldLVW9YZEhaQU16N0l0d2dERjJxejNKSi1hSWJHcnpGd3hqVVRwd2dqS3YyUGNJd3QyNC1xTEw4SlE4aG00czFoaG9zbFVqR0RKTUp2WXFjdw?oc=5",
+   "published_at": "2026-07-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9VZklreG9jc1JWakszU0JTT0dMVHR1NnRudHBxN1luWldLVW9YZEhaQU16N0l0d2dERjJxejNKSi1hSWJHcnpGd3hqVVRwd2dqS3YyUGNJd3QyNC1xTEw4SlE4aG00czFoaG9zbFVqR0RKTUp2WXFjdw?oc=5\" target=\"_blank\">万亿参数成标配国产AI大模型打响“贴身肉搏”战|Claude Fable 5|Anthropic|DeepSeek|Kimi K3|OpenAI_手机新浪网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
   }
  ]
 }

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1145-5cd826620a",
+   "source_id": "news",
+   "source_name": "鞭牛士",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI的最新模型o3-mini推理过程竟是中文，疑似复制Deepseek源代码后仓促上线 - 鞭牛士",
+   "summary": "OpenAI的最新模型o3-mini推理过程竟是中文，疑似复制Deepseek源代码后仓促上线 &nbsp;&nbsp; 鞭牛士",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3b1UzVlVTR1YyVDdBRjN3aTNndlYyMlFLdGQwXzg0clh4V0hJeEtGb2tvWGlIcGZhQlhFR0pleFd3QlR2T28wR1BHWDFxUTYzWExGOFh3T3U?oc=5",
+   "published_at": "2025-02-03T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3b1UzVlVTR1YyVDdBRjN3aTNndlYyMlFLdGQwXzg0clh4V0hJeEtGb2tvWGlIcGZhQlhFR0pleFd3QlR2T28wR1BHWDFxUTYzWExGOFh3T3U?oc=5\" target=\"_blank\">OpenAI的最新模型o3-mini推理过程竟是中文，疑似复制Deepseek源代码后仓促上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鞭牛士</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
+  }
+ ]
+}

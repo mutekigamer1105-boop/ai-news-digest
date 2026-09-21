@@ -328,6 +328,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNRDJmQ0UzUnVZNzlhdzRudk5uWjVUc09za1h3Z21hc1U3cldmYjFTOVY0a29nMG43cHhBbUdQLWlzUjhGWlZZOG1NcFU0N3dCS2tQcktnYndHWGhxemltX0NtYzlDWkczeTRuRGpGVEEwc0FmVFJmWGFSUlc0NlBCLWZ1TEhyeDF6czItUjlnUnFNV09KT3JtUEYzbVFRZHJvTktSd0lkeVFwTnNXdWhVb0hB?oc=5\" target=\"_blank\">Large language models for small language communities are essential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Times</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-628-e0a4d8fffc",
+   "source_id": "news",
+   "source_name": "wsj.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "California Draws More Startup Investment Than All Other 49 States Combined - wsj.com",
+   "summary": "California Draws More Startup Investment Than All Other 49 States Combined &nbsp;&nbsp; wsj.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazRicDBFZS1GSWhpZTN0NjJWTVhmNWFhZUhmbFpZaWhKUm9SZ3BTdlFuUDkyTkYzeFhWd0ZRdkFEMUdjOEdRdFhaSjF6MVB5MVdTbHRLekVMWUpTTV80eDN4Qm9GcG1XcVROeGRQTEctQmpfVERZX0NRUWFibW9mRmw2SHltcHFPXzFQTVNya2Z6QzFSbGM2Q0h6dlpXdUZYdEVLYWxB?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQazRicDBFZS1GSWhpZTN0NjJWTVhmNWFhZUhmbFpZaWhKUm9SZ3BTdlFuUDkyTkYzeFhWd0ZRdkFEMUdjOEdRdFhaSjF6MVB5MVdTbHRLekVMWUpTTV80eDN4Qm9GcG1XcVROeGRQTEctQmpfVERZX0NRUWFibW9mRmw2SHltcHFPXzFQTVNya2Z6QzFSbGM2Q0h6dlpXdUZYdEVLYWxB?oc=5\" target=\"_blank\">California Draws More Startup Investment Than All Other 49 States Combined</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsj.com</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
   }
  ]
 }

@@ -11494,6 +11494,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHhya1hpYkVkazVJWVRHQ241UWhIc0lrUk9UQ20tem1rOWZQTHo0N2xGcGVYTVZsV2dWWmdhbWRXRk5GNTY4TldLVkcyeHRwLTZ0ZWk3S3JaVVNldnRGU1UwazFvRDMyZTBXUi1vUlZVa3lOZGhQLWU3Tkpkd21MZC1zekcweU0xa0RZeEhaeUw5WHE4ZlVQUjVKSkdrcFMwSXpTT05JT1NmSklwMFNrWldnUlp2T2RN?oc=5\" target=\"_blank\">African Startup Funding Holds Steady as Investors Back Fewer, More Established Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech In Africa</font>",
    "fetched_at": "2026-09-20T04:05:20+00:00"
+  },
+  {
+   "id": "web-187-3bdd0fb0cc",
+   "source_id": "news",
+   "source_name": "wsj.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meta Launches a Personal AI Agent Designed to Be Easy to Use - wsj.com",
+   "summary": "Meta Launches a Personal AI Agent Designed to Be Easy to Use &nbsp;&nbsp; wsj.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5\" target=\"_blank\">Meta Launches a Personal AI Agent Designed to Be Easy to Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsj.com</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
   }
  ]
 }

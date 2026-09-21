@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yOUxjLTdrdnVUT2ZiTVNZYjFoSVhadEx2SjV2eHE1VzFKbk5mT3NXaEFybXdJb0stanNSM0pHZnpFSGdOeWQtTQ?oc=5\" target=\"_blank\">AI大模型权威评测：豆包中文对话最强，OpenAI o1推理和数学占优</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">智东西</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-1142-bf89fada6b",
+   "source_id": "news",
+   "source_name": "i.ifeng.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型权威评测：豆包中文对话最强，OpenAI o1推理和数学占优 - i.ifeng.com",
+   "summary": "AI大模型权威评测：豆包中文对话最强，OpenAI o1推理和数学占优 &nbsp;&nbsp; i.ifeng.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6RUJrLXZ1MVBJd1FqR0YtY3NhVFlCcGhRUmpkY2tMeXdZYXB0TzlnS25mN2NIck00b1YzMDFXODBjWVFtTnBOQw?oc=5",
+   "published_at": "2024-12-25T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6RUJrLXZ1MVBJd1FqR0YtY3NhVFlCcGhRUmpkY2tMeXdZYXB0TzlnS25mN2NIck00b1YzMDFXODBjWVFtTnBOQw?oc=5\" target=\"_blank\">AI大模型权威评测：豆包中文对话最强，OpenAI o1推理和数学占优</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">i.ifeng.com</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
   }
  ]
 }

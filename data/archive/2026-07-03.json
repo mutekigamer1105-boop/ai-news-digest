@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE42dndFWmJRSEk5Tno1NWtUdkd0YjdOZGFBRmx1bVNlN1hleWhidlUzQnVjTG5XVzdLVTFGdlVDOEtoM05lcjZCQ0tzcW1VRGM5bGRFUHpCRFV2MmNlWVBLX0RiZGh1Z09fWnlpUHlab2drUjg?oc=5\" target=\"_blank\">湖北首个交通行业AI大模型发布 三大数智场景畅行荆楚高速路</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hubei.gov.cn</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1000-9f3aae4e27",
+   "source_id": "news",
+   "source_name": "nju.edu.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国发布全球首个地层学AI大模型 给地球建“共享数据库” - nju.edu.cn",
+   "summary": "中国发布全球首个地层学AI大模型 给地球建“共享数据库” &nbsp;&nbsp; nju.edu.cn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GLTZRV0s1Z3hKaEQ5d1dGdGVLMkRfWXMyem8xa21qdldRbEd0YkRaVHJVU3BWWmxHc3Y5UFdTMFNCRFFxYWpsVW5tRUxhV0E5QWI0aGl3?oc=5",
+   "published_at": "2026-07-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GLTZRV0s1Z3hKaEQ5d1dGdGVLMkRfWXMyem8xa21qdldRbEd0YkRaVHJVU3BWWmxHc3Y5UFdTMFNCRFFxYWpsVW5tRUxhV0E5QWI0aGl3?oc=5\" target=\"_blank\">中国发布全球首个地层学AI大模型 给地球建“共享数据库”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nju.edu.cn</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
   }
  ]
 }

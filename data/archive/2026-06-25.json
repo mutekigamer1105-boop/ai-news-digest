@@ -175,6 +175,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTU1a1dDUG9tLXMxaG43cUhjSEpwdDdTQlQ5RGdELUlYczZhR2hLSFJSWEw3VGxzWW93b0VuRVVDRXNqcEtBeG9OY1VDcEtTWUp4SEdzbVh3OG9TWUhDeGlhTVhQTW9kX292dUY3S19xdXRFaDFNUC1yR1JKMGVMNmdjNnUyT19CcG1tY1pB?oc=5\" target=\"_blank\">Trump administration steps in to limit OpenAI’s latest model launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
    "fetched_at": "2026-09-19T04:05:23+00:00"
+  },
+  {
+   "id": "web-728-38ba8976c5",
+   "source_id": "the-information",
+   "source_name": "The Information",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.93,
+   "title": "Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns - The Information",
+   "summary": "Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns &nbsp;&nbsp; The Information",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmFRRDNqUHdqamVDUnVYSFNpZWZ1aVYxWjBhaG9DX1ZBTHRSTGhqUzFiMDY1N0VTTTFLaG5OWGFoRmU2WHNaekVGUjRkeEFLcHBISzhvZldmcUx6MjhRNEZFWGNFU1dOdW1vcEVmS0RYamhQYWNLQ1R2TGNRSHpidFEweWV6azNpRnI1QXN0bjJnYTU0czh6Q1J6dTJVRzBvOU9LWFlhbTlSWHd2aWlNLU9yaFJ4d1k?oc=5",
+   "published_at": "2026-06-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmFRRDNqUHdqamVDUnVYSFNpZWZ1aVYxWjBhaG9DX1ZBTHRSTGhqUzFiMDY1N0VTTTFLaG5OWGFoRmU2WHNaekVGUjRkeEFLcHBISzhvZldmcUx6MjhRNEZFWGNFU1dOdW1vcEVmS0RYamhQYWNLQ1R2TGNRSHpidFEweWV6azNpRnI1QXN0bjJnYTU0czh6Q1J6dTJVRzBvOU9LWFlhbTlSWHd2aWlNLU9yaFJ4d1k?oc=5\" target=\"_blank\">Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
   }
  ]
 }

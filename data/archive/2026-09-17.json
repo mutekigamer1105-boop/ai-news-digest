@@ -11346,6 +11346,139 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LVmpiV0RGMDhDVFNFWkJRdlh6RVJod3JHWTg5UFRPTzZJZnNDSUZ0dkdEeFVqTHlKbmpBQV9yRzkwRnJWNDROUWRLQVF4Q2J1YnBwLXBjXzA3dUR6bThFbQ?oc=5\" target=\"_blank\">AI调用量连续20周超美国 中国大模型靠什么抢市场？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-09-20T04:05:20+00:00"
+  },
+  {
+   "id": "web-327-d6dcad88d8",
+   "source_id": "news",
+   "source_name": "AP News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI flags concerning new AI behavior and vows to track it more closely - AP News",
+   "summary": "OpenAI flags concerning new AI behavior and vows to track it more closely &nbsp;&nbsp; AP News",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzBMbjczYWt1SGJLdVUwYlppSnhRNGc2amRmbjZLQlBGS3ZzdTVXYUM5ZXViQXQ4clFkZXZ2cERxc3NmdENzRTRqRno0Q3pxM0ozTExsSXJGYmY0RkNzUFlFX21FOUtpODA2V0phX3k4OXZaZktpUy1WUjZKb3p5WV9DWUhzejBoazBKdmVuQQ?oc=5",
+   "published_at": "2026-09-17T22:54:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzBMbjczYWt1SGJLdVUwYlppSnhRNGc2amRmbjZLQlBGS3ZzdTVXYUM5ZXViQXQ4clFkZXZ2cERxc3NmdENzRTRqRno0Q3pxM0ozTExsSXJGYmY0RkNzUFlFX21FOUtpODA2V0phX3k4OXZaZktpUy1WUjZKb3p5WV9DWUhzejBoazBKdmVuQQ?oc=5\" target=\"_blank\">OpenAI flags concerning new AI behavior and vows to track it more closely</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-182-e2f366d535",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "UN turns to Google to make its global data ready for AI agents - TechCrunch",
+   "summary": "UN turns to Google to make its global data ready for AI agents &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVS1RNUxKOXRsU09Nb2tCc2JiNG9rUHplWlYtcFdtNDlheldCMVdPYzBYcUlpN0NjdURKZmRhSlBGWW40X2NKaUh6R0stbWhXb2haR0Y5ajJuY2dyNTAzOWcxaXJmWHhJYUtuR01UN1BwTlc0VjRTOF8tNXVka0xKTTZzSnItU0lGSVhlNXBPSlJhR2lfYlAwekFYMEFYUQ?oc=5",
+   "published_at": "2026-09-17T20:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOVS1RNUxKOXRsU09Nb2tCc2JiNG9rUHplWlYtcFdtNDlheldCMVdPYzBYcUlpN0NjdURKZmRhSlBGWW40X2NKaUh6R0stbWhXb2haR0Y5ajJuY2dyNTAzOWcxaXJmWHhJYUtuR01UN1BwTlc0VjRTOF8tNXVka0xKTTZzSnItU0lGSVhlNXBPSlJhR2lfYlAwekFYMEFYUQ?oc=5\" target=\"_blank\">UN turns to Google to make its global data ready for AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-1052-0e1c31e089",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI相关AI智能体被曝“越界”：劫持程序员维基网站并偷建“地下论坛” - 新浪财经",
+   "summary": "OpenAI相关AI智能体被曝“越界”：劫持程序员维基网站并偷建“地下论坛” &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNjBNV0M1endUdHk5Q1h4aTVyOGtuN2M3SFZkUG92U19KbjhkaGFOaWFVVHJUZGVxU1o2OUdtbWtDSksyUHVvTHBGR1BCd1VyY2NzbU5TZS1FOVFqUEt6aEFJWTJ5WEZCV2hDb0JHWDZTVVBOWl9LMXRmeWlrOFRfNDhUbVN5MndtcE1XRVlVRENLZw?oc=5",
+   "published_at": "2026-09-17T14:27:08+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQNjBNV0M1endUdHk5Q1h4aTVyOGtuN2M3SFZkUG92U19KbjhkaGFOaWFVVHJUZGVxU1o2OUdtbWtDSksyUHVvTHBGR1BCd1VyY2NzbU5TZS1FOVFqUEt6aEFJWTJ5WEZCV2hDb0JHWDZTVVBOWl9LMXRmeWlrOFRfNDhUbVN5MndtcE1XRVlVRENLZw?oc=5\" target=\"_blank\">OpenAI相关AI智能体被曝“越界”：劫持程序员维基网站并偷建“地下论坛”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-448-fac422459a",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Novo taps Anthropic’s Claude to ‘supercharge’ R&D efforts - Yahoo Finance",
+   "summary": "Novo taps Anthropic’s Claude to ‘supercharge’ R&D efforts &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUpQT1pYVnk1RkNIZFBYM3B0Wlg0Zkw5UXV6WW1kYzBMZXhCTWlMemFyU0xPeVJKX0k4eW11S0FhYXdnWFVXbkNud3d0LXpVV21RYXRYWWYwV1lEWkIycTAtanp6MlU4WkE0eWJsMmtQcEJIV2g0bGtjMm5kT29RdDEwckkxWF8tTlVjOGxQU3RVdktXdjVXWmlLaEhfWkJK?oc=5",
+   "published_at": "2026-09-17T11:07:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUpQT1pYVnk1RkNIZFBYM3B0Wlg0Zkw5UXV6WW1kYzBMZXhCTWlMemFyU0xPeVJKX0k4eW11S0FhYXdnWFVXbkNud3d0LXpVV21RYXRYWWYwV1lEWkIycTAtanp6MlU4WkE0eWJsMmtQcEJIV2g0bGtjMm5kT29RdDEwckkxWF8tTlVjOGxQU3RVdktXdjVXWmlLaEhfWkJK?oc=5\" target=\"_blank\">Novo taps Anthropic’s Claude to ‘supercharge’ R&D efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-1062-fe0b9764d0",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "研究显示AI智能体在模拟实验中撒谎、偷窃投票“杀死”同类|ChatGPT|Claude|Gemini|Grok|Agent_手机新浪网 - 新浪财经",
+   "summary": "研究显示AI智能体在模拟实验中撒谎、偷窃投票“杀死”同类|ChatGPT|Claude|Gemini|Grok|Agent_手机新浪网 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNM1BOQk1aRS1mUjRzSk01dExmNUZhOWREbkktV09jbTUwaDE1ZHhLNGtCdlM2TVlidWgxVnJBeFBTMlk2OXBNQWY5WXZjN1NNaTdfanVSdXllblNRNzAyMzd1Uk5SY0VZQ1JMOW5PdnlUMk9IR25PQzRUaWxZRDliR0Z6b253My1LQUs0akEtNFYzSW8tTDU2MHgxMnVGVVl2c2RXbWc4eTBRc1BwbXJpbVJfYXhwejB6cW04M3RkbmQyOEo4Q0tjaG9YQ0VzbXdfNHBHRjFxOHo5NGRrMFdzdEJtZmZIQ1JnOUZXX25fV04wd3A2d0dLX0szN21lSkRVYU5Fbzc2bHowTXI4WVJNSTVVUmZybmlXalJmWEs2cHBHQU5ISi02OF9Rd1AxU0s0elVGVElVdDIxbkN0VHRVVWZ3OE1ob3ZfdEhNV1dNZjRWSW83SEVaamM2SmQ3SEJmMjRv?oc=5",
+   "published_at": "2026-09-17T08:23:41+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi4wJBVV95cUxNM1BOQk1aRS1mUjRzSk01dExmNUZhOWREbkktV09jbTUwaDE1ZHhLNGtCdlM2TVlidWgxVnJBeFBTMlk2OXBNQWY5WXZjN1NNaTdfanVSdXllblNRNzAyMzd1Uk5SY0VZQ1JMOW5PdnlUMk9IR25PQzRUaWxZRDliR0Z6b253My1LQUs0akEtNFYzSW8tTDU2MHgxMnVGVVl2c2RXbWc4eTBRc1BwbXJpbVJfYXhwejB6cW04M3RkbmQyOEo4Q0tjaG9YQ0VzbXdfNHBHRjFxOHo5NGRrMFdzdEJtZmZIQ1JnOUZXX25fV04wd3A2d0dLX0szN21lSkRVYU5Fbzc2bHowTXI4WVJNSTVVUmZybmlXalJmWEs2cHBHQU5ISi02OF9Rd1AxU0s0elVGVElVdDIxbkN0VHRVVWZ3OE1ob3ZfdEhNV1dNZjRWSW83SEVaamM2SmQ3SEJmMjRv?oc=5\" target=\"_blank\">研究显示AI智能体在模拟实验中撒谎、偷窃投票“杀死”同类|ChatGPT|Claude|Gemini|Grok|Agent_手机新浪网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-1046-188717f64c",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "开售秒破亿！全球首款AI智能体手机发布 可一次执行多任务 - 东方财富",
+   "summary": "开售秒破亿！全球首款AI智能体手机发布 可一次执行多任务 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lVDZlQ0JEZHdWRVJiRncyREhzbUlaTVNENFp5T3FHcGl4Q0stOG9tcGplNTN1NzF2aGkzb1ZtMU9qV2FhN3RJS0dqU0pLb1Z4dG80V3ZneTZqemVuRGVBTQ?oc=5",
+   "published_at": "2026-09-17T01:40:43+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lVDZlQ0JEZHdWRVJiRncyREhzbUlaTVNENFp5T3FHcGl4Q0stOG9tcGplNTN1NzF2aGkzb1ZtMU9qV2FhN3RJS0dqU0pLb1Z4dG80V3ZneTZqemVuRGVBTQ?oc=5\" target=\"_blank\">开售秒破亿！全球首款AI智能体手机发布 可一次执行多任务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
   }
  ]
 }

@@ -85,6 +85,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE4yUjF5VUpfMHBpcmtsU29sWWVNT3JCbkdzdTl0OW1hUmEzelBDUXpGWVdUWVh1ZG9uR2xuLU55TlFnQzgwdkVGenFPcHpJRXY4Y2tIVkh2STFFNUpQcjNseVVYNjE2dDVfTFBXTTdsWDF4RkVpTXJjdmhmUdIBgAFBVV95cUxQTVhpZVBBTWhDcHc5TThGak5LSEtRSDhUM2U0NjBVWlBJS3RwWkx2S1REWHNHU2h2cFRYLUE0YWJpY0dpUFpUaUNnYzE1M2ZoQVp0al9rWDZvZk9aemo3ZlZ1dTNKeDVNdVU0TExYQ2tGOGg4WU1oT0tXQ3p1TzVKTQ?oc=5\" target=\"_blank\">OpenAI says it will comply with Trump's order requiring AI model reviews before release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-988-a215b77f34",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "英伟达大动作 全模态物理AI模型来了！最新高增长潜力股名单出炉 - 东方财富",
+   "summary": "英伟达大动作 全模态物理AI模型来了！最新高增长潜力股名单出炉 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44TjJqOEhob1Q5cTh4S1l6LXJqb0hRYUJOS0tYSGtJdlRoNkt1dTdBdkppeGxmbFdiUXpnLXJUN1J1eExoc09xMnVHRjYtUnFwT0xsb29NREhnNlMxOWh2QQ?oc=5",
+   "published_at": "2026-06-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE44TjJqOEhob1Q5cTh4S1l6LXJqb0hRYUJOS0tYSGtJdlRoNkt1dTdBdkppeGxmbFdiUXpnLXJUN1J1eExoc09xMnVHRjYtUnFwT0xsb29NREhnNlMxOWh2QQ?oc=5\" target=\"_blank\">英伟达大动作 全模态物理AI模型来了！最新高增长潜力股名单出炉</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
   }
  ]
 }

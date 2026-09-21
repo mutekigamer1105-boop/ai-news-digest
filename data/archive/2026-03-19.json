@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPckVMeEJPbmZQM2UydXZEWDB0dVJCZEpDZHFKMDRnb0lTU0xqRFc1MFZFVnNGRFk2MS05RGFXUy1hM1ZWRXJ2Z01wcEcwUDVaek13OW1TSjJkaWJNV08zQjZRb1Etd0FYYkpIYndHU0dMX1BwbTFoclF0R21NQU1VWTJuU3Z2empDTWRXQXV5R2ZxdlFRMkhZ?oc=5\" target=\"_blank\">A better method for identifying overconfident large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT News</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-993-f04cf27df3",
+   "source_id": "news",
+   "source_name": "中国雄安官网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型诞生记——打开雄安的九种方式（四） - 中国雄安官网",
+   "summary": "AI大模型诞生记——打开雄安的九种方式（四） &nbsp;&nbsp; 中国雄安官网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkhDMC1GV19RMlJfRFM3VldIWGJTRXdOeE5FVXhNU2VCUkExMlJ1SHFta0h2VlI1TVQ0ekRXOVBrdWtqS2FKSWtWU1dGd1JENnYybjljNDlQMUZkWWU1MkxjY21fUkM1Y1ZnN3RyS2pRLWEybGpnSkFKNkFsajc1Ug?oc=5",
+   "published_at": "2026-03-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkhDMC1GV19RMlJfRFM3VldIWGJTRXdOeE5FVXhNU2VCUkExMlJ1SHFta0h2VlI1TVQ0ekRXOVBrdWtqS2FKSWtWU1dGd1JENnYybjljNDlQMUZkWWU1MkxjY21fUkM1Y1ZnN3RyS2pRLWEybGpnSkFKNkFsajc1Ug?oc=5\" target=\"_blank\">AI大模型诞生记——打开雄安的九种方式（四）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国雄安官网</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
   }
  ]
 }

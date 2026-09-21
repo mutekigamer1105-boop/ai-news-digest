@@ -285,6 +285,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5\" target=\"_blank\">Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
    "fetched_at": "2026-09-18T04:05:23+00:00"
+  },
+  {
+   "id": "web-996-d106ddd81f",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "国产AI大模型规模有望超700亿元 机构预测8只概念股高增长 - 东方财富",
+   "summary": "国产AI大模型规模有望超700亿元 机构预测8只概念股高增长 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IYk5GZjBxMklQRmVtMGVvS203ZTVCMGlMOUpnYWllQzVsS0VyU29IM3VlbGhqWklEVzI0LWgtWG9UdlZ1bm9wRkVxQ3E5UkY5bEExM1FrbHp1dDNkYmdBVW9GRHNBZw?oc=5",
+   "published_at": "2026-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IYk5GZjBxMklQRmVtMGVvS203ZTVCMGlMOUpnYWllQzVsS0VyU29IM3VlbGhqWklEVzI0LWgtWG9UdlZ1bm9wRkVxQ3E5UkY5bEExM1FrbHp1dDNkYmdBVW9GRHNBZw?oc=5\" target=\"_blank\">国产AI大模型规模有望超700亿元 机构预测8只概念股高增长</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
   }
  ]
 }

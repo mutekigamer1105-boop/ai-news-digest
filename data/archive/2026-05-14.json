@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tSU1NdEJPY2ZHX2JYNjhBa01YeXFybGc1Q1F3VmxySlZueVduREMxZ2FkTU1PYy1BWlJFX2h1VWRTcXZBSWdMQXdUQmtLekk3QWd5Ynl2bV81dXB1b3BZekNEREFuQQ?oc=5\" target=\"_blank\">PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-698-495cac3ef4",
+   "source_id": "news",
+   "source_name": "Business Insider",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "This couple (literally) married AI and filmmaking. Read the pitch deck they used to raise $6 million for their startup. - Business Insider",
+   "summary": "This couple (literally) married AI and filmmaking. Read the pitch deck they used to raise $6 million for their startup. &nbsp;&nbsp; Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDZUQUt5SkFkYjJjT0s3Sk9keFJGemhRRF9RajNoRjk0bmZwa0FpN2o4UWNpczNhTzQwZmtNOFZSLTlCZ3pXMnpBTnhlc210MUwzRVhGOVlVQWNzdlNtQlU1Mm5kRTdSQ1F1N2dWY1daNlVpREliN3BUWlVkVkhuQWpFbW8za3hUZk9VNmd4Ylc1TjdhNlJkLUk5Yk53UkRh?oc=5",
+   "published_at": "2026-05-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDZUQUt5SkFkYjJjT0s3Sk9keFJGemhRRF9RajNoRjk0bmZwa0FpN2o4UWNpczNhTzQwZmtNOFZSLTlCZ3pXMnpBTnhlc210MUwzRVhGOVlVQWNzdlNtQlU1Mm5kRTdSQ1F1N2dWY1daNlVpREliN3BUWlVkVkhuQWpFbW8za3hUZk9VNmd4Ylc1TjdhNlJkLUk5Yk53UkRh?oc=5\" target=\"_blank\">This couple (literally) married AI and filmmaking. Read the pitch deck they used to raise $6 million for their startup.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+   "fetched_at": "2026-09-21T04:05:02+00:00"
   }
  ]
 }
