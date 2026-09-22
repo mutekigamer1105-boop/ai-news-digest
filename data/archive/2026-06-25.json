@@ -197,6 +197,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmFRRDNqUHdqamVDUnVYSFNpZWZ1aVYxWjBhaG9DX1ZBTHRSTGhqUzFiMDY1N0VTTTFLaG5OWGFoRmU2WHNaekVGUjRkeEFLcHBISzhvZldmcUx6MjhRNEZFWGNFU1dOdW1vcEVmS0RYamhQYWNLQ1R2TGNRSHpidFEweWV6azNpRnI1QXN0bjJnYTU0czh6Q1J6dTJVRzBvOU9LWFlhbTlSWHd2aWlNLU9yaFJ4d1k?oc=5\" target=\"_blank\">Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
    "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-764-8da1fc9e2e",
+   "source_id": "news",
+   "source_name": "CNN",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "White House asks OpenAI to limit its next model release - CNN",
+   "summary": "White House asks OpenAI to limit its next model release &nbsp;&nbsp; CNN",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRzJxQWZCR2hfaGZlanVOcUg0OTljWm1aSzlvc3htMHRfcVN5ZlQ2QzFGZ29wVTB1T3R2TUVOVFpteDJlSGh1NEUtT085blJJcHNfUnlSTlFPNE5iemFiVHVtclQxZ29RbHI4T2g2cHB3eW1VbV80?oc=5",
+   "published_at": "2026-06-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRzJxQWZCR2hfaGZlanVOcUg0OTljWm1aSzlvc3htMHRfcVN5ZlQ2QzFGZ29wVTB1T3R2TUVOVFpteDJlSGh1NEUtT085blJJcHNfUnlSTlFPNE5iemFiVHVtclQxZ29RbHI4T2g2cHB3eW1VbV80?oc=5\" target=\"_blank\">White House asks OpenAI to limit its next model release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+   "fetched_at": "2026-09-22T04:04:57+00:00"
   }
  ]
 }

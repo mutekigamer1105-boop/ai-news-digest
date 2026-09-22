@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHdMVGQ2QlQ1MVg3MzJRRy0tOGZsYzFEUVVfb05RQmZmLTdzQTQ1bndoMDRnYUVqUVc3YTVYZU1wUXJydXdORmt0cWhJYkpGR3NCQkF1cVRULUlvSFR2cHZoMjhrdjBmdTZGa1JzR2R4Y0hRSzFXZVBpOGhyRGg0QjJWN1NUaUJJLVZOU1ppV0ROM2htSTI0eXRldXhJNWhTYnRCSmJPRENTSDlVWjRrRUhPS1dsQ3hQdGduTVpFUF9pWTg?oc=5\" target=\"_blank\">AI智能体赋能广告行业：创意素材生成解决方案实践</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-241-0f5f1c953a",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models reflect the ideology of their creators - npj Artificial Intelligence - Nature",
+   "summary": "Large language models reflect the ideology of their creators - npj Artificial Intelligence &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0OEpobDhiSlBIX2xVUkhla1NoaDFTMjdCbEdMRlZfYWtxMndqd29fWDRueTBXYzlQQkVjWjZXa083dFl6WnlBNmZGaXRqbVpINUg0cHA4aGpvZW1hdWE4?oc=5",
+   "published_at": "2026-01-07T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0OEpobDhiSlBIX2xVUkhla1NoaDFTMjdCbEdMRlZfYWtxMndqd29fWDRueTBXYzlQQkVjWjZXa083dFl6WnlBNmZGaXRqbVpINUg0cHA4aGpvZW1hdWE4?oc=5\" target=\"_blank\">Large language models reflect the ideology of their creators - npj Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-22T04:04:57+00:00"
   }
  ]
 }

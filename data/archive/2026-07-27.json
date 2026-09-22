@@ -220,6 +220,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmJEZExrMFZNa00xalJFUlJqWEJRMFMtbnd4b1RBS1ZvT1pBb2w2Q2xwZTU2Z1VNNW1uNFBBV0xaaGRoUXE2MkdGSmVDVTdwTGJncXRsLUJaWWdPeURsUnpTS3FBSGVfal9UOXdsSEprRzQ0M3FNbVByQkhTektNQTRzVm9nOUowTjlTYzJ4bUJpVDhrZFI4MlhUdGlkNy1LTVE?oc=5\" target=\"_blank\">EduFairBench: reproducible evaluation of large language models for educational assessment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-971-525446b3ea",
+   "source_id": "news",
+   "source_name": "证券时报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "14.1倍领先！中国AI大模型周调用量领跑全球：小米MiMo-V2.5登顶，Claude近一年首次全线落榜，美国仅1款模型上榜 - 证券时报",
+   "summary": "14.1倍领先！中国AI大模型周调用量领跑全球：小米MiMo-V2.5登顶，Claude近一年首次全线落榜，美国仅1款模型上榜 &nbsp;&nbsp; 证券时报",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04YjdJQzRTd21ueV84bVFiSTBUbTFyNzlYQVF0aEZtN3hOZVZjRGdUTGdRQnNzNElRNEFTMWs1dEJGTFRsSTdDMkZYR2p2WlM3X1VhYlQ0cHBBM0dE?oc=5",
+   "published_at": "2026-07-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE04YjdJQzRTd21ueV84bVFiSTBUbTFyNzlYQVF0aEZtN3hOZVZjRGdUTGdRQnNzNElRNEFTMWs1dEJGTFRsSTdDMkZYR2p2WlM3X1VhYlQ0cHBBM0dE?oc=5\" target=\"_blank\">14.1倍领先！中国AI大模型周调用量领跑全球：小米MiMo-V2.5登顶，Claude近一年首次全线落榜，美国仅1款模型上榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+   "fetched_at": "2026-09-22T04:04:57+00:00"
   }
  ]
 }

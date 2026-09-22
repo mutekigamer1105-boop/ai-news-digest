@@ -5865,6 +5865,160 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5\" target=\"_blank\">Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
    "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-1012-e49f0d0472",
+   "source_id": "news",
+   "source_name": "36kr.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "阿宝、小微和豆包：不同AI智能体的“同意”保险与尺度 - 36kr.com",
+   "summary": "阿宝、小微和豆包：不同AI智能体的“同意”保险与尺度 &nbsp;&nbsp; 36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZRWtGckFXNWdJYVcwa284c2QyczdEekM0Ujc1QlBsVXNYcTVGQjlDX0pTanlGdTZYdGNGc0pJQjFFcThCc1ZqYXRwTndZUQ?oc=5",
+   "published_at": "2026-09-20T21:56:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZRWtGckFXNWdJYVcwa284c2QyczdEekM0Ujc1QlBsVXNYcTVGQjlDX0pTanlGdTZYdGNGc0pJQjFFcThCc1ZqYXRwTndZUQ?oc=5\" target=\"_blank\">阿宝、小微和豆包：不同AI智能体的“同意”保险与尺度</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36kr.com</font>",
+   "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-163-da74e930f8",
+   "source_id": "news",
+   "source_name": "Business Insider",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meta’s Muse TV ad is the latest sign that AI agents are going mainstream - Business Insider",
+   "summary": "Meta’s Muse TV ad is the latest sign that AI agents are going mainstream &nbsp;&nbsp; Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMC1jOEZZUFZpN2ZjdDJ0YVFyV0hhMGI4Vk5aNXFKMEpzWVFkSjVKWi1oN05DZkZrY1JZN1dJSDhXaGhVWW5SNTh4WlJQeXZRajdwODFWSXRobzczS292eWFLR2dldzZ5X2FkUWdFbHNNdzdBVUVyVjRHVlo0NVJHOC1YRC1ucGFpZWViekh6OA?oc=5",
+   "published_at": "2026-09-20T17:11:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPMC1jOEZZUFZpN2ZjdDJ0YVFyV0hhMGI4Vk5aNXFKMEpzWVFkSjVKWi1oN05DZkZrY1JZN1dJSDhXaGhVWW5SNTh4WlJQeXZRajdwODFWSXRobzczS292eWFLR2dldzZ5X2FkUWdFbHNNdzdBVUVyVjRHVlo0NVJHOC1YRC1ucGFpZWViekh6OA?oc=5\" target=\"_blank\">Meta’s Muse TV ad is the latest sign that AI agents are going mainstream</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+   "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-187-7ca3f31fab",
+   "source_id": "news",
+   "source_name": "24/7 Wall St.",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse - 24/7 Wall St.",
+   "summary": "The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse &nbsp;&nbsp; 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0ttVDY0dFZiM09pVDJ1UXBQV05EU2M2NlhLaWN3ZW51TWloVy1ybG1JaUQ3ajh3N0xQRUhJZjJ1ckZYaGFabFhKeXhVaGRJOERjVUFqN2NRNFltUHJZQnQwWUxOclBYcE10OEtxZFd3bGx1bG5kWFk4OG1JZ1JBZnRJSmV3N3pOZ2hMZE85ZkFVMExTdVJpN3dJc2JyTWpsVWtJR3NDcw?oc=5",
+   "published_at": "2026-09-20T16:14:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0ttVDY0dFZiM09pVDJ1UXBQV05EU2M2NlhLaWN3ZW51TWloVy1ybG1JaUQ3ajh3N0xQRUhJZjJ1ckZYaGFabFhKeXhVaGRJOERjVUFqN2NRNFltUHJZQnQwWUxOclBYcE10OEtxZFd3bGx1bG5kWFk4OG1JZ1JBZnRJSmV3N3pOZ2hMZE85ZkFVMExTdVJpN3dJc2JyTWpsVWtJR3NDcw?oc=5\" target=\"_blank\">The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+   "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-516-42e583ae11",
+   "source_id": "news",
+   "source_name": "CBS News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\" - CBS News",
+   "summary": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\" &nbsp;&nbsp; CBS News",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5zMHVGQTA0bXB5dlhtcXVlY0JMRmstbzNobVItUWZxS1FlSnhDSkZVa0JpVFYtQld5VHZtSnhGUGVJb0RtUEFxcWd3YUxKU09PRXJkNXNuN0pobHIyN1VBdjNtcEM4Qm5RYWplWE9uMDd1TElZSjJmazhuS29zVWlCdEg2RnM?oc=5",
+   "published_at": "2026-09-20T13:37:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5zMHVGQTA0bXB5dlhtcXVlY0JMRmstbzNobVItUWZxS1FlSnhDSkZVa0JpVFYtQld5VHZtSnhGUGVJb0RtUEFxcWd3YUxKU09PRXJkNXNuN0pobHIyN1VBdjNtcEM4Qm5RYWplWE9uMDd1TElZSjJmazhuS29zVWlCdEg2RnM?oc=5\" target=\"_blank\">Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+   "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-107-418ad68aed",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meta’s New AI Agent Could Be the Missing Piece for META Stock - Yahoo Finance",
+   "summary": "Meta’s New AI Agent Could Be the Missing Piece for META Stock &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOamlsdVRyMnFnak1iWjZhZnA2X0p4M0NnUmdPaXNWQ0duS1ljOU5VbVNnSmVacll3NVdMX2lwYVhvYWNBY3Fxb2FhM1lHemVMR1RVcXV6V184MjFPY0lxSVhTMENCYkV6blNoR1hqeUx6VUNpOGEyTHFRakNJWURGMUhSUGJUejJ5YXVRVENiTXJ6V3pES3c?oc=5",
+   "published_at": "2026-09-20T13:00:02+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOamlsdVRyMnFnak1iWjZhZnA2X0p4M0NnUmdPaXNWQ0duS1ljOU5VbVNnSmVacll3NVdMX2lwYVhvYWNBY3Fxb2FhM1lHemVMR1RVcXV6V184MjFPY0lxSVhTMENCYkV6blNoR1hqeUx6VUNpOGEyTHFRakNJWURGMUhSUGJUejJ5YXVRVENiTXJ6V3pES3c?oc=5\" target=\"_blank\">Meta’s New AI Agent Could Be the Missing Piece for META Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-1054-2e2f28f2f5",
+   "source_id": "news",
+   "source_name": "紫牛新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "37个AI智能体同台比拼！这场智能体开发大赛决赛在南京举行 - 紫牛新闻",
+   "summary": "37个AI智能体同台比拼！这场智能体开发大赛决赛在南京举行 &nbsp;&nbsp; 紫牛新闻",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92SjFtWHhsWTlFOWY2OEJNVTVkbEJJNUE4NWthREJvT1lndEw2YmJNMnFpNmhhZHpaTU1oWXpCMnBXMWtWUFhOMVY5eXdTVmR6bm4tUHVzTHdoSDhvV2RXeTdPcHJ2UzVu?oc=5",
+   "published_at": "2026-09-20T12:43:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE92SjFtWHhsWTlFOWY2OEJNVTVkbEJJNUE4NWthREJvT1lndEw2YmJNMnFpNmhhZHpaTU1oWXpCMnBXMWtWUFhOMVY5eXdTVmR6bm4tUHVzTHdoSDhvV2RXeTdPcHJ2UzVu?oc=5\" target=\"_blank\">37个AI智能体同台比拼！这场智能体开发大赛决赛在南京举行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">紫牛新闻</font>",
+   "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-1093-a55ab5cfb5",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "沙利文：腾讯WorkBuddy位列中国个人端桌面智能体与企业级桌面智能体第一 - 东方财富",
+   "summary": "沙利文：腾讯WorkBuddy位列中国个人端桌面智能体与企业级桌面智能体第一 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUOTU5ekctLVlDcHJmZDhqWWVYcHd4SlI3UHJoUHZ1VG5xbF9mX3dhWXhmRGQ3aTFDWDhqRUlzc3BpSVZFNDJQTlNNNGg0RjA3ZzFIYmI5YTdlNWJ3SkFqSQ?oc=5",
+   "published_at": "2026-09-20T04:42:32+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUOTU5ekctLVlDcHJmZDhqWWVYcHd4SlI3UHJoUHZ1VG5xbF9mX3dhWXhmRGQ3aTFDWDhqRUlzc3BpSVZFNDJQTlNNNGg0RjA3ZzFIYmI5YTdlNWJ3SkFqSQ?oc=5\" target=\"_blank\">沙利文：腾讯WorkBuddy位列中国个人端桌面智能体与企业级桌面智能体第一</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-22T04:04:57+00:00"
   }
  ]
 }
