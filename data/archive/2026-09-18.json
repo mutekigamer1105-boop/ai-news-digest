@@ -11421,6 +11421,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0lvVUh3SWw2U2ZqdWJXT0xqZnFWcHhZTzVVUEtCYmNrbTlGZDh1WXFtXzFVaEVRWUZPM2FFbUFjZXFFc0stUlJSaXZ5U2J3eWhsdS1Pci1fQW5oSEQ5NDM0ckdFWjdVc3pmOXZLTnQ3NjktY29wSk8xYl9LdWZ6UFlsNGV5aEhmMW0tMW01V3ptdnpvbldoeGhHajZUU1E?oc=5\" target=\"_blank\">Anthropic's Claude Helped Researchers Hack OpenAI — They Reached Private Software, Then Walked Away With $6,500 Bounty: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
    "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-606-def7c8d4ac",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI startup Mantic raises $25 million for superhuman forecasting - Yahoo Finance",
+   "summary": "AI startup Mantic raises $25 million for superhuman forecasting &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcnFOUDRRT1hDaVlVS01SaFNtN2tDcU5iNDV3T0hKS2xlYS1ZOWdheXc4Q3FWYlFYXzVtYXNEQkZ1dTdTWFdvU3pRVlA3NXJqdy1mUXM3SjlLUkd0eWwweVJlb0ZOVnA0TlYtNVpuZmNaQTdSdU81WHZFdUdZSm5vMElnV0NXQ2ZzUGlSbW5FdTc2WkdXNlE?oc=5",
+   "published_at": "2026-09-18T10:10:10+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcnFOUDRRT1hDaVlVS01SaFNtN2tDcU5iNDV3T0hKS2xlYS1ZOWdheXc4Q3FWYlFYXzVtYXNEQkZ1dTdTWFdvU3pRVlA3NXJqdy1mUXM3SjlLUkd0eWwweVJlb0ZOVnA0TlYtNVpuZmNaQTdSdU81WHZFdUdZSm5vMElnV0NXQ2ZzUGlSbW5FdTc2WkdXNlE?oc=5\" target=\"_blank\">AI startup Mantic raises $25 million for superhuman forecasting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
+  },
+  {
+   "id": "web-946-1ed2dd4414",
+   "source_id": "news",
+   "source_name": "finance.sina.com.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "自称“欧洲最优秀”AI大模型再升级，网友嘲讽：真来自欧洲？ - finance.sina.com.cn",
+   "summary": "自称“欧洲最优秀”AI大模型再升级，网友嘲讽：真来自欧洲？ &nbsp;&nbsp; finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2d4Sm00SlNWMFk3QXJwNFRvak5rRWp5QlV1S0VjVkEtZGppaF9qY041dXAyM0VPNjZ6VENsREFnbWR4cXUzRHlYaS1RSnlHOC16aGJ4aW1ybzE5QTlhaTJERlZkb0hyN0gtdFJ0WWEwRXZ2S1JPaXREM0Y2bDFBNmhuc0lyWFlqaWY0UDA4UEJubHZTbXo0czdPZkZRWmRzYm5TcnREakZMTWNWSDFPcElMb2VHR0U0ckJlWFdjN2EwdTA?oc=5",
+   "published_at": "2026-09-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2d4Sm00SlNWMFk3QXJwNFRvak5rRWp5QlV1S0VjVkEtZGppaF9qY041dXAyM0VPNjZ6VENsREFnbWR4cXUzRHlYaS1RSnlHOC16aGJ4aW1ybzE5QTlhaTJERlZkb0hyN0gtdFJ0WWEwRXZ2S1JPaXREM0Y2bDFBNmhuc0lyWFlqaWY0UDA4UEJubHZTbXo0czdPZkZRWmRzYm5TcnREakZMTWNWSDFPcElMb2VHR0U0ckJlWFdjN2EwdTA?oc=5\" target=\"_blank\">自称“欧洲最优秀”AI大模型再升级，网友嘲讽：真来自欧洲？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
   }
  ]
 }

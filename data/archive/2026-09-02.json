@@ -5041,6 +5041,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzNlYllqeFBUdjhDNkJyaHBRVDZ0dzI0ZlNCTHVLT0VCcXdaZHBxemJaZkNqSURGbEtPWDRvdGNZek5vLWdzNEN1RmVVcXBQN0R6YnhqaFY3V0pGUldjXzF0UHhkMDg1YUFKMXZVaWhTQ2NuTE40ZlAxSFM5SlBmbU5wbllrZTMteU8xLWRVUVFZMnU5bEpBSFV1X1lET1pIcjMta3NWeFDSAa4BQVVfeXFMTl9sa0F2VHNvdVJoVVBKNnlaTFFaMVZzUXRYNWdZaUR0NjlWQ2tLNEhJWGZaN1ZqbkduNDBCZUZ6aVZkSzFnZElmSE51cDRBN2hYRVZuOENUbzhaN0xjdFpMU280cGFFSm0zZkJDMUJNbTViZ2k0ZzBxMWNwZHBOcG9hb2tiVUYxVXNUVVFnNkl2dFZ0a2VxUW1qN1hWS3kwR09jaEZpblNpMzNlRWx3?oc=5\" target=\"_blank\">AI sales startup Clay raises funding at a $7 billion valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WION</font>",
    "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-742-9ce186da02",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability - WSJ",
+   "summary": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA?oc=5",
+   "published_at": "2026-09-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA?oc=5\" target=\"_blank\">Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
   }
  ]
 }

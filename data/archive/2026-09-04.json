@@ -10801,6 +10801,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5\" target=\"_blank\">OpenAI hails ‘new era of artificial general intelligence’ with Astra model release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theguardian.com</font>",
    "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-892-b8a65d6960",
+   "source_id": "news",
+   "source_name": "Supermicro",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "什么是人工智能基础设施？ - Supermicro",
+   "summary": "什么是人工智能基础设施？ &nbsp;&nbsp; Supermicro",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JVF9MWXRtaEs3aUQ1dHczSjljS1JSbVZPWWJwLUtoOU9CT3l5SEhoZWx0cE9QbUE1eThITDY5U0NxZ1hXb3dOakVoajJyLVQxcnI0amoyekJHV3hsbFhvLVFlbnhmX0ZzOFdv?oc=5",
+   "published_at": "2026-09-04T11:27:22+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1JVF9MWXRtaEs3aUQ1dHczSjljS1JSbVZPWWJwLUtoOU9CT3l5SEhoZWx0cE9QbUE1eThITDY5U0NxZ1hXb3dOakVoajJyLVQxcnI0amoyekJHV3hsbFhvLVFlbnhmX0ZzOFdv?oc=5\" target=\"_blank\">什么是人工智能基础设施？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supermicro</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
+  },
+  {
+   "id": "web-762-c038465745",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety - Reuters",
+   "summary": "OpenAI launches new Astra model amid growing scrutiny over agents' safety &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5",
+   "published_at": "2026-09-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5\" target=\"_blank\">OpenAI launches new Astra model amid growing scrutiny over agents' safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
   }
  ]
 }

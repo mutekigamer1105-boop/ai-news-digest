@@ -5228,6 +5228,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5\" target=\"_blank\">Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
    "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-1081-f472efff0e",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "一人拍剧、一句话办公 河南移动解锁AI智能体全新场景 - 东方财富",
+   "summary": "一人拍剧、一句话办公 河南移动解锁AI智能体全新场景 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xTHc5eVExR0NzM1NsRm5UZE5Ua0FtSUs0Tmt5dzRwWW14ckswRWxkckZiVkszOW1zeVJyd3NQZWo0ZGdJTEFPUlVWWURkSE5yT0FtSXlUaE1OX0EtRkprVDJ1MWY?oc=5",
+   "published_at": "2026-09-19T17:39:38+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xTHc5eVExR0NzM1NsRm5UZE5Ua0FtSUs0Tmt5dzRwWW14ckswRWxkckZiVkszOW1zeVJyd3NQZWo0ZGdJTEFPUlVWWURkSE5yT0FtSXlUaE1OX0EtRkprVDJ1MWY?oc=5\" target=\"_blank\">一人拍剧、一句话办公 河南移动解锁AI智能体全新场景</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
+  },
+  {
+   "id": "web-355-c29e11cee9",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI - WSJ",
+   "summary": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
+   "published_at": "2026-09-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5\" target=\"_blank\">Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
   }
  ]
 }

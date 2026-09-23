@@ -152,6 +152,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQmNqenZ2ZDAyMExhRGNodzhNY25BVU9OSlJUYkl6YjNMVUloNGxmaHNxV1c1anJ6YjlfRnBUbnJzQ01hWUVJVTJuVDVGeUFPUDRwRDJUa0ljWGFwS1Z1eHhaYlNndGZTcmgySXZjUi1fM2pwUFZ0a0RGcm9iOUs3RQ?oc=5\" target=\"_blank\">免费 AI 为啥能赚钱？Token 才是大模型变现的密码</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cn</font>",
    "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-1158-067a41c651",
+   "source_id": "news",
+   "source_name": "CoinDesk",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Hyperliquid 因创始人关闭项目而失去 Anthropic 和 OpenAI 市场 - CoinDesk",
+   "summary": "Hyperliquid 因创始人关闭项目而失去 Anthropic 和 OpenAI 市场 &nbsp;&nbsp; CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZU9xQXVkTWpaeVM0LVVJYUZ4eU5aczFkc0MyaWJDT3ZrY2VOd3FZTDhMMjRyd0hlanpGamw0TmY2X3lrWjR3RFlQejI2cEc4aFVmMGFoV0xjenZicFFac2xwUklKczNGcjYtNE1KaVhvdWg1MzRyQUp6Q0g5aU82VnpFWnNTU2pZLVlSZDNzSTN3WTJTQXlKOWtralVOQTU1SzdXZkRVR2VibHpRdlNXb0VtQXhxOHUxM2NMTQ?oc=5",
+   "published_at": "2026-06-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZU9xQXVkTWpaeVM0LVVJYUZ4eU5aczFkc0MyaWJDT3ZrY2VOd3FZTDhMMjRyd0hlanpGamw0TmY2X3lrWjR3RFlQejI2cEc4aFVmMGFoV0xjenZicFFac2xwUklKczNGcjYtNE1KaVhvdWg1MzRyQUp6Q0g5aU82VnpFWnNTU2pZLVlSZDNzSTN3WTJTQXlKOWtralVOQTU1SzdXZkRVR2VibHpRdlNXb0VtQXhxOHUxM2NMTQ?oc=5\" target=\"_blank\">Hyperliquid 因创始人关闭项目而失去 Anthropic 和 OpenAI 市场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
   }
  ]
 }

@@ -6019,6 +6019,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUOTU5ekctLVlDcHJmZDhqWWVYcHd4SlI3UHJoUHZ1VG5xbF9mX3dhWXhmRGQ3aTFDWDhqRUlzc3BpSVZFNDJQTlNNNGg0RjA3ZzFIYmI5YTdlNWJ3SkFqSQ?oc=5\" target=\"_blank\">沙利文：腾讯WorkBuddy位列中国个人端桌面智能体与企业级桌面智能体第一</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-1142-3f55a25340",
+   "source_id": "news",
+   "source_name": "纽约时报中文网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "白宫内部关于人工智能威胁的复杂辩论 - 纽约时报中文网",
+   "summary": "白宫内部关于人工智能威胁的复杂辩论 &nbsp;&nbsp; 纽约时报中文网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPangyRXMzM19uakFMcG9sSTlOckl5OU4yWEZaYjlLQTIxV2pFWVpwU2dNVmM3WTRzZzhDeGptZGxjamtQSy1MWW40cVBycGlIN2t1TW5qOHVwYWhyZ091YkdEMnlOVUJrUVN5ZFlpbGlGbE1xa1Z1VEMyTUc5TndlWQ?oc=5",
+   "published_at": "2026-09-20T19:30:36+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPangyRXMzM19uakFMcG9sSTlOckl5OU4yWEZaYjlLQTIxV2pFWVpwU2dNVmM3WTRzZzhDeGptZGxjamtQSy1MWW40cVBycGlIN2t1TW5qOHVwYWhyZ091YkdEMnlOVUJrUVN5ZFlpbGlGbE1xa1Z1VEMyTUc5TndlWQ?oc=5\" target=\"_blank\">白宫内部关于人工智能威胁的复杂辩论</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
+  },
+  {
+   "id": "web-919-38a95a779a",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "从整车终端到AI大模型 江淮汽车闪耀2026世界制造业大会 - 新华网",
+   "summary": "从整车终端到AI大模型 江淮汽车闪耀2026世界制造业大会 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDBJRjlHelVSM2pKWVFpSVlUdEZQSTFLNWszYjZhLVRYaTh6ektzRDdSMkZ1SHFsYjNZbHRySTRjNEViQ3JOUklCSkdMSWVuLXB0V2l0VEF0U0lpa1J4akp3MEVITVUtVmQyenVxRmdRczA3SlRJcFdkeThUUWdya2xn?oc=5",
+   "published_at": "2026-09-20T09:54:28+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDBJRjlHelVSM2pKWVFpSVlUdEZQSTFLNWszYjZhLVRYaTh6ektzRDdSMkZ1SHFsYjNZbHRySTRjNEViQ3JOUklCSkdMSWVuLXB0V2l0VEF0U0lpa1J4akp3MEVITVUtVmQyenVxRmdRczA3SlRJcFdkeThUUWdya2xn?oc=5\" target=\"_blank\">从整车终端到AI大模型 江淮汽车闪耀2026世界制造业大会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
   }
  ]
 }

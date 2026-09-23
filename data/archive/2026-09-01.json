@@ -3151,6 +3151,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFZXlYNEVpSmtTeVBfRDQzWjRDcjZXcXBRTmFJdUVCYk1lQWZYVmVReFl5TmtXRVVMMThmS19mWG80ZVJfVUdtZ2FDcjBTTElLRFFpeG1KWXZvRnYyN201dGVB?oc=5\" target=\"_blank\">小鹏第二代VLA大模型迎来首次重大升级，AI开始理解“时间”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">小鹏</font>",
    "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-980-3e89c75618",
+   "source_id": "news",
+   "source_name": "Moomoo",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的 - Moomoo",
+   "summary": "罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的 &nbsp;&nbsp; Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QWnlzQ3FOTmdjZThNWW4yb0h6QkpWNWFmckQyR1VQZ0ZMZTkxUWJMOXBvc1ZPWDNydnZQeUxDSnhGaHV0RW8zTGp6T1JjZDNkR0UyWXZzajRtUQ?oc=5",
+   "published_at": "2026-09-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QWnlzQ3FOTmdjZThNWW4yb0h6QkpWNWFmckQyR1VQZ0ZMZTkxUWJMOXBvc1ZPWDNydnZQeUxDSnhGaHV0RW8zTGp6T1JjZDNkR0UyWXZzajRtUQ?oc=5\" target=\"_blank\">罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
+  },
+  {
+   "id": "web-1155-4927fdbb79",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "苹果称前工程师加入OpenAI后仍查看机密电路图，要求法院加速取证| 乌克兰新闻- #Mezha - Межа. Новини України.",
+   "summary": "苹果称前工程师加入OpenAI后仍查看机密电路图，要求法院加速取证| 乌克兰新闻- #Mezha &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1faG5QeUlHTTlBNlE5Z0thNkl6ZUc2NTEzNjNfWlhxbGViWjJpX1FlbU5NdGNzWC0wVmtDRWlyckNFWU13OGVib2Qxa0VjRWd4ck9zSWNDMTRDTEg4cjNPeExrTQ?oc=5",
+   "published_at": "2026-09-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1faG5QeUlHTTlBNlE5Z0thNkl6ZUc2NTEzNjNfWlhxbGViWjJpX1FlbU5NdGNzWC0wVmtDRWlyckNFWU13OGVib2Qxa0VjRWd4ck9zSWNDMTRDTEg4cjNPeExrTQ?oc=5\" target=\"_blank\">苹果称前工程师加入OpenAI后仍查看机密电路图，要求法院加速取证| 乌克兰新闻- #Mezha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
   }
  ]
 }

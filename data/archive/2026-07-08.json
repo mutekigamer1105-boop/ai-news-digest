@@ -329,6 +329,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5\" target=\"_blank\">OpenAI set to launch most capable GPT model after delayed rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
    "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-293-d92e0e5b7f",
+   "source_id": "news",
+   "source_name": "Newsroom",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Why large language models are an economic dead end - Newsroom",
+   "summary": "Why large language models are an economic dead end &nbsp;&nbsp; Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUtPa1k1dTF1ZVhSMUFIZ0xoelVmN0ZqT1BGWGIxMFFSNkFENUdLV2tvMzZFMF9rMGZlUFFXOWRwdVFiV1RRRTE0RmlnN0cxYXhicWxVeHdrNTBWTm9wVU9mZUNfc3dsa21OSWlEVy1tTzNPWnVmWHpHc3BsUTJRcU1UQ1NVQ1VQNk5uSHBB?oc=5",
+   "published_at": "2026-07-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUtPa1k1dTF1ZVhSMUFIZ0xoelVmN0ZqT1BGWGIxMFFSNkFENUdLV2tvMzZFMF9rMGZlUFFXOWRwdVFiV1RRRTE0RmlnN0cxYXhicWxVeHdrNTBWTm9wVU9mZUNfc3dsa21OSWlEVy1tTzNPWnVmWHpHc3BsUTJRcU1UQ1NVQ1VQNk5uSHBB?oc=5\" target=\"_blank\">Why large language models are an economic dead end</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsroom</font>",
+   "fetched_at": "2026-09-23T04:05:26+00:00"
   }
  ]
 }
