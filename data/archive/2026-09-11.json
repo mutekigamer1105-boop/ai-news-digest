@@ -11337,6 +11337,94 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tRm5pVTd6bTM1MVRVQkNDODFfZzhVcFo3djVjUndXRzEwV040UUpEU3g0bk05S0xMd1ZtdTcwdGZITmNSZGNqS2xBSGdzSjRHYWcyQ3ZXM0QwdTFGZFNlNWFWZE1Wdw?oc=5\" target=\"_blank\">让人工智能走向物理世界，浦东具身智能加速落地激活AI 新经济2026-09-11 来源：</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pudong.gov.cn</font>",
    "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-680-ccc687cd9c",
+   "source_id": "news",
+   "source_name": "finance.biggo.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Google-affiliated AI startup Discovery Loop reportedly launches new funding round, targeting $50 billion valuation - finance.biggo.com",
+   "summary": "Google-affiliated AI startup Discovery Loop reportedly launches new funding round, targeting $50 billion valuation &nbsp;&nbsp; finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UQl9FMzE4UkgwdGJNWHI0ZFZzNVhNNlMxTGxuNy04MFNZR2hRMXg4aXN2RlpBd1ZFcGZxbmV4b2d4MkRkZzlrUWpjMjl6d052R1Q3VFQyLTloZ0xxb3dvY045bGNSTlRrUXVGN2RFV3NqbEpyaUE?oc=5",
+   "published_at": "2026-09-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9UQl9FMzE4UkgwdGJNWHI0ZFZzNVhNNlMxTGxuNy04MFNZR2hRMXg4aXN2RlpBd1ZFcGZxbmV4b2d4MkRkZzlrUWpjMjl6d052R1Q3VFQyLTloZ0xxb3dvY045bGNSTlRrUXVGN2RFV3NqbEpyaUE?oc=5\" target=\"_blank\">Google-affiliated AI startup Discovery Loop reportedly launches new funding round, targeting $50 billion valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+   "fetched_at": "2026-09-24T04:05:11+00:00"
+  },
+  {
+   "id": "web-734-e72dc4ee9d",
+   "source_id": "news",
+   "source_name": "phys.org",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Release of open AI model trained on 17 years of lunar data maps ice, craters and volcanoes - phys.org",
+   "summary": "Release of open AI model trained on 17 years of lunar data maps ice, craters and volcanoes &nbsp;&nbsp; phys.org",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FcU5jZmNlclFMaEJ0ZURRa1JYdUtFUjB1OXJieksyakhqVEN4SUIzbFFZdk1MOXpiU2V4QWoxbTZpV3ctOHZaQm1kTHdHQks3TVktZDlYR0V2NjVSTl82WVNhSy15a2lielJvWl9n?oc=5",
+   "published_at": "2026-09-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1FcU5jZmNlclFMaEJ0ZURRa1JYdUtFUjB1OXJieksyakhqVEN4SUIzbFFZdk1MOXpiU2V4QWoxbTZpV3ctOHZaQm1kTHdHQks3TVktZDlYR0V2NjVSTl82WVNhSy15a2lielJvWl9n?oc=5\" target=\"_blank\">Release of open AI model trained on 17 years of lunar data maps ice, craters and volcanoes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">phys.org</font>",
+   "fetched_at": "2026-09-24T04:05:12+00:00"
+  },
+  {
+   "id": "web-766-6fed370309",
+   "source_id": "news",
+   "source_name": "South China Morning Post",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic claims Moonshot, DeepSeek secretly diverted user requests to Claude - South China Morning Post",
+   "summary": "Anthropic claims Moonshot, DeepSeek secretly diverted user requests to Claude &nbsp;&nbsp; South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcHBnY1JTVzF0bEM5d1pZVzBIaHJRSERic0lvMnhGZ3JJZXlRMmpWTUNmTGZ4MEJoeFhTWG82bHV3ZHFULTRXSlBKaHFXLTVaS2piYVhVdHFlUmNqMlhkQnNCeUxsbkdyVlJ3ZHo2QW45bDc2YXNoZlRlYXpPeUVXOFdQM1FYUkw3bWhoSHJCNng4ZUNQODVjWHg4S01YMnI4NDBXQ3BXd2Q0ano4dzRkMEdnNG1rZ1ZHOEdqaU5IbG9wQmlQ0gHEAUFVX3lxTE9MNFVycTNTSzIyVU41WXVuMnFDUFdkRW5CTkRtQXRudVVSUmpac1NKOHgzZWNlYXQ1dVJFUFhna2wxUlF0Z0hnTndUMUljTEVnc0NlRzQ2UFpzQTgySFhLT244aU5iOWJwaENQUVZPV1NxLUhnMkNGY0hDdDVIRlFFRFJPT2FVT3BFSlBJNktwZFNjNlZITHViQ2FXSFZLNkUzaHJOckk3anhiaHNJU3NEeEdtMk1hQXptd184eW1EUXo1SWM?oc=5",
+   "published_at": "2026-09-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcHBnY1JTVzF0bEM5d1pZVzBIaHJRSERic0lvMnhGZ3JJZXlRMmpWTUNmTGZ4MEJoeFhTWG82bHV3ZHFULTRXSlBKaHFXLTVaS2piYVhVdHFlUmNqMlhkQnNCeUxsbkdyVlJ3ZHo2QW45bDc2YXNoZlRlYXpPeUVXOFdQM1FYUkw3bWhoSHJCNng4ZUNQODVjWHg4S01YMnI4NDBXQ3BXd2Q0ano4dzRkMEdnNG1rZ1ZHOEdqaU5IbG9wQmlQ0gHEAUFVX3lxTE9MNFVycTNTSzIyVU41WXVuMnFDUFdkRW5CTkRtQXRudVVSUmpac1NKOHgzZWNlYXQ1dVJFUFhna2wxUlF0Z0hnTndUMUljTEVnc0NlRzQ2UFpzQTgySFhLT244aU5iOWJwaENQUVZPV1NxLUhnMkNGY0hDdDVIRlFFRFJPT2FVT3BFSlBJNktwZFNjNlZITHViQ2FXSFZLNkUzaHJOckk3anhiaHNJU3NEeEdtMk1hQXptd184eW1EUXo1SWM?oc=5\" target=\"_blank\">Anthropic claims Moonshot, DeepSeek secretly diverted user requests to Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+   "fetched_at": "2026-09-24T04:05:12+00:00"
+  },
+  {
+   "id": "web-1099-9335587a90",
+   "source_id": "news",
+   "source_name": "封面新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "金融领域首个智能体安全标准发布 AI未经授权不得自动化操作金融App - 封面新闻",
+   "summary": "金融领域首个智能体安全标准发布 AI未经授权不得自动化操作金融App &nbsp;&nbsp; 封面新闻",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0UjQ5MU92N2ZLUGtQMEpjMWs4YkNvbVJNdENMangtaFE4Z2psbjdlV0dBRGJUSkJ5NUE2VGVPTHI4azFQMGlBWkt3MW43MHRjNWlGRkFsU3lYc3FZa05xZGY4cmRya3VxWW0yRUticUI3ay1aeVo0?oc=5",
+   "published_at": "2026-09-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB0UjQ5MU92N2ZLUGtQMEpjMWs4YkNvbVJNdENMangtaFE4Z2psbjdlV0dBRGJUSkJ5NUE2VGVPTHI4azFQMGlBWkt3MW43MHRjNWlGRkFsU3lYc3FZa05xZGY4cmRya3VxWW0yRUticUI3ay1aeVo0?oc=5\" target=\"_blank\">金融领域首个智能体安全标准发布 AI未经授权不得自动化操作金融App</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">封面新闻</font>",
+   "fetched_at": "2026-09-24T04:05:12+00:00"
   }
  ]
 }

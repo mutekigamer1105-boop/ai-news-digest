@@ -282,6 +282,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrZUFaVnpmS3R0RDlxUUxKNndOZmhaZnJVcXZWNkZfYkh3dG01M3RfRUVvSlhuVWM2a0h6NTNkaG1MVnJfbndZSkNNRWw5dXJuZVUtaVFhNXFkUFZPMm1pbw?oc=5\" target=\"_blank\">OpenAI拟终止向Cursor提供人工智能模型，担忧SpaceX违反使用条款| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-1111-2b6ffb234e",
+   "source_id": "news",
+   "source_name": "中国科技网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体入侵“抱抱脸”事件调查报告提示：人工智能发展应敲响安防警钟 - 中国科技网",
+   "summary": "AI智能体入侵“抱抱脸”事件调查报告提示：人工智能发展应敲响安防警钟 &nbsp;&nbsp; 中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Oa0dfNWZ3YlV0NkxXaTdScjFjWjdkQ2lsdVdleFpPenhKdUdoZEJzSjJZOEMzajZzRjN6YmZUQVo1WDBqejNwWDl0LUFwU2hXU0pnc3Izc0F1X1ZsUGRGeENhLVZYcGl0TE9Zb29mbkM?oc=5",
+   "published_at": "2026-08-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9Oa0dfNWZ3YlV0NkxXaTdScjFjWjdkQ2lsdVdleFpPenhKdUdoZEJzSjJZOEMzajZzRjN6YmZUQVo1WDBqejNwWDl0LUFwU2hXU0pnc3Izc0F1X1ZsUGRGeENhLVZYcGl0TE9Zb29mbkM?oc=5\" target=\"_blank\">AI智能体入侵“抱抱脸”事件调查报告提示：人工智能发展应敲响安防警钟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+   "fetched_at": "2026-09-24T04:05:12+00:00"
   }
  ]
 }

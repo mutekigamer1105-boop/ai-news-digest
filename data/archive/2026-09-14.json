@@ -12356,6 +12356,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aLW1RbW8xM1pIOUN4cHJQdDZ0Q3BCVGlxZUxRVTQyRzYwaWd4czdEME5vOTJZZ0I0cDFydmQxdXlxV3ZjQVdvc3hDNmFHd1NWSlJockRn?oc=5\" target=\"_blank\">OpenAI CEO Sam Altman says 'right to be afraid of AI' - but 'world should trust' tech firms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
    "fetched_at": "2026-09-20T04:05:20+00:00"
+  },
+  {
+   "id": "web-1114-f69be97d20",
+   "source_id": "news",
+   "source_name": "sh.chinanews.com.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "告别被动语音 车载AI智能体重构人车交互范式 - sh.chinanews.com.cn",
+   "summary": "告别被动语音 车载AI智能体重构人车交互范式 &nbsp;&nbsp; sh.chinanews.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZ2ZFWDFZYjNDZ0NoczR6OFViTE1EVEJEaGZHZHlFQUlHZHVMLXJxVjlEUzVPNmE2TDlNZVpyYmhtZzA0UWNnRXdXamtOSGFSSVhESWNyTWd3cFZ0U3VFRjAwMGFKYjdVbFA1eQ?oc=5",
+   "published_at": "2026-09-14T14:16:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZ2ZFWDFZYjNDZ0NoczR6OFViTE1EVEJEaGZHZHlFQUlHZHVMLXJxVjlEUzVPNmE2TDlNZVpyYmhtZzA0UWNnRXdXamtOSGFSSVhESWNyTWd3cFZ0U3VFRjAwMGFKYjdVbFA1eQ?oc=5\" target=\"_blank\">告别被动语音 车载AI智能体重构人车交互范式</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sh.chinanews.com.cn</font>",
+   "fetched_at": "2026-09-24T04:05:12+00:00"
   }
  ]
 }

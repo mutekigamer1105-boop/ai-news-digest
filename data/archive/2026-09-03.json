@@ -18129,6 +18129,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LNTBHWGwxREw2Z0pPNFRwM3NpUUEya1dTRzlDSXhvNlFJV1FuZm1WLWF2R05rS29DNEJkUEdiWDlUMXZQbTNyeUhobG1sY0RBQkRmeEtPcV91aTMxeXI1cHNLRlJXNVE?oc=5\" target=\"_blank\">青春华章丨“开齐开足开好”人工智能新课程 广育数智时代英才</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中央网络安全和信息化委员会办公室</font>",
    "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-905-899c529fb5",
+   "source_id": "news",
+   "source_name": "Welcome to the United Nations",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "统计有赖于土著人民：人工智能时代的数据主权| 联合国 - Welcome to the United Nations",
+   "summary": "统计有赖于土著人民：人工智能时代的数据主权| 联合国 &nbsp;&nbsp; Welcome to the United Nations",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uZzhERTZibmR6SlRrenNpcGhhRE1sUzJ4T09jU0w0OHg4NEdIQXR5V3Q2UTdPeVg1Tjl4aWtoSXNLdw?oc=5",
+   "published_at": "2026-09-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uZzhERTZibmR6SlRrenNpcGhhRE1sUzJ4T09jU0w0OHg4NEdIQXR5V3Q2UTdPeVg1Tjl4aWtoSXNLdw?oc=5\" target=\"_blank\">统计有赖于土著人民：人工智能时代的数据主权| 联合国</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Welcome to the United Nations</font>",
+   "fetched_at": "2026-09-24T04:05:12+00:00"
+  },
+  {
+   "id": "web-1112-0d186a35b1",
+   "source_id": "news",
+   "source_name": "InfoQ-CN",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力 - InfoQ-CN",
+   "summary": "Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力 &nbsp;&nbsp; InfoQ-CN",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSm5ZSVAzVkxaN3lmd011NU83OHhMb3ZyemtNRU9RR0oyOUl0S1ZpSXpEQWNOVE5nY3RlQW1HWktwZUtUbkdVUUd2Y1JacVktdzNMTy1STEhpNE1JbEVtS1ZPTmhvTldWQ1BDVW1udFY0ME9nQWEtYUxvWjlJVG9KcHBiQ3RUMUtJNkI0?oc=5",
+   "published_at": "2026-09-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSm5ZSVAzVkxaN3lmd011NU83OHhMb3ZyemtNRU9RR0oyOUl0S1ZpSXpEQWNOVE5nY3RlQW1HWktwZUtUbkdVUUd2Y1JacVktdzNMTy1STEhpNE1JbEVtS1ZPTmhvTldWQ1BDVW1udFY0ME9nQWEtYUxvWjlJVG9KcHBiQ3RUMUtJNkI0?oc=5\" target=\"_blank\">Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ-CN</font>",
+   "fetched_at": "2026-09-24T04:05:12+00:00"
   }
  ]
 }

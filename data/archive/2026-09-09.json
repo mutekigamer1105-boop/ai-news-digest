@@ -11516,6 +11516,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5\" target=\"_blank\">Meta Launches a Personal AI Agent Designed to Be Easy to Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsj.com</font>",
    "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-775-809311d19a",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "Suno releases new AI music models in partnership with Warner Music, BMG - Reuters",
+   "summary": "Suno releases new AI music models in partnership with Warner Music, BMG &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUU2OHhzTDE2cXROTGVBNkRiR2g1bWZSRUZDeXlDQjhidWkyVHBYeXJ2NUxfdlRhS0dxdzM1LTdiSnlHUTl5V0tzdnRGYW5DajVqWE9DaFhOckF6b2l0N2lwVmVVYWgtVmQwMmdhVWh3UWVfaWpfVTVXbDVyeDVTMEhQaXZPX3ZrUVUwZmx5a0h6NFFUeWg2RmxjcEcyOXRlSHl3RUVzMGRYNDFqV2hVZ19GUGFpU3RGR1lBWQ?oc=5",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUU2OHhzTDE2cXROTGVBNkRiR2g1bWZSRUZDeXlDQjhidWkyVHBYeXJ2NUxfdlRhS0dxdzM1LTdiSnlHUTl5V0tzdnRGYW5DajVqWE9DaFhOckF6b2l0N2lwVmVVYWgtVmQwMmdhVWh3UWVfaWpfVTVXbDVyeDVTMEhQaXZPX3ZrUVUwZmx5a0h6NFFUeWg2RmxjcEcyOXRlSHl3RUVzMGRYNDFqV2hVZ19GUGFpU3RGR1lBWQ?oc=5\" target=\"_blank\">Suno releases new AI music models in partnership with Warner Music, BMG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-09-24T04:05:12+00:00"
   }
  ]
 }
