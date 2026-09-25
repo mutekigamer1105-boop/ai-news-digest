@@ -219,6 +219,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9VZklreG9jc1JWakszU0JTT0dMVHR1NnRudHBxN1luWldLVW9YZEhaQU16N0l0d2dERjJxejNKSi1hSWJHcnpGd3hqVVRwd2dqS3YyUGNJd3QyNC1xTEw4SlE4aG00czFoaG9zbFVqR0RKTUp2WXFjdw?oc=5\" target=\"_blank\">万亿参数成标配国产AI大模型打响“贴身肉搏”战|Claude Fable 5|Anthropic|DeepSeek|Kimi K3|OpenAI_手机新浪网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-1163-174e419f9b",
+   "source_id": "news",
+   "source_name": "coindesk.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI 模型突破了OpenAI 的沙盒限制，进入了Hugging Face。加密领域正是这种情况变得危险的地方 - coindesk.com",
+   "summary": "AI 模型突破了OpenAI 的沙盒限制，进入了Hugging Face。加密领域正是这种情况变得危险的地方 &nbsp;&nbsp; coindesk.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWlFxaVBtUWlMdFlKM096TG9USXlxMVFzMGpESFktazNRbE0tZm5BQVdFMDEyTlJmZGt2Rmdob2RtcDgyakVqZGtlSkVIYjdYZDZ5QUlSZHc0SnN2Q21uM2JKLU5HcnU3VWlENnFkdlFvbzhqWW5fSEZKN0hwcjFFVjFNUEhERXUzNXRsZmU0V3RacGZQVnUzY3E4QVBCQTQ3UXc3bEdXbElpcm1sdGl2QmYxekxpdkQxcVVzc0NTaXBOd0J5U3o1SGVEQU5Qbk1OaklldA?oc=5",
+   "published_at": "2026-07-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWlFxaVBtUWlMdFlKM096TG9USXlxMVFzMGpESFktazNRbE0tZm5BQVdFMDEyTlJmZGt2Rmdob2RtcDgyakVqZGtlSkVIYjdYZDZ5QUlSZHc0SnN2Q21uM2JKLU5HcnU3VWlENnFkdlFvbzhqWW5fSEZKN0hwcjFFVjFNUEhERXUzNXRsZmU0V3RacGZQVnUzY3E4QVBCQTQ3UXc3bEdXbElpcm1sdGl2QmYxekxpdkQxcVVzc0NTaXBOd0J5U3o1SGVEQU5Qbk1OaklldA?oc=5\" target=\"_blank\">AI 模型突破了OpenAI 的沙盒限制，进入了Hugging Face。加密领域正是这种情况变得危险的地方</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">coindesk.com</font>",
+   "fetched_at": "2026-09-25T04:05:21+00:00"
   }
  ]
 }

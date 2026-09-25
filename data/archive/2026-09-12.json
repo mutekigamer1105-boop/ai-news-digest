@@ -6246,6 +6246,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBmYlRiNEZ5cHRINjNmbmpUOU81eDdGYVJQN0dqX0N1TzI1SS1rM19EZVItWFI2SGNUVkdEb0FKOGUwNW9QQTQzY2Q5M2RjeUtwbm1LWlZWRUhoQmdPcldtRVBGcm9VOUNWcmxyNlhnd2JvQQ?oc=5\" target=\"_blank\">Why It’s Difficult for Tech Companies to Rein In A.I.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
    "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-874-8d6175450c",
+   "source_id": "news",
+   "source_name": "DW.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国军方敏感信息疑外泄 美AI巨头揭内情 - DW.com",
+   "summary": "中国军方敏感信息疑外泄 美AI巨头揭内情 &nbsp;&nbsp; DW.com",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRDZWbHV6a0FheWxzMGlwd0hoVTNtRHZBWUNaLWcwR2l0VzEyY05kX1lyOXNIUXpUaDFuUmdZTHg5cS1pNTl2eGxzSkNVWGdkNzJiYV9WcU9VSXpKT1RXdzVTN3UyM3dvcjczTHV6ZF85RzVUd1lvWkhhNTUxS0tYZWlPN0pmeHNUTDFEZmpOOVcyWUV1ZWFGeHZUcW5jSHNaaTNmVy12SXJ2RW9MY0NXckhycS0tbXhYTnJnZ1ZrQjVUZ3lDa3F1S3A0ZzR2dTZrb0l1YTNkQVV5NzJ5bUhuZUdSaTJ4RkFwcmVZaGllV1ZMdWEwSzZUSkpVbjJEYnRtTlZyRUwzMnlPcDZMQnZ2Z2RnRlFoMHYtZU9aX2tBeVk4bFdr?oc=5",
+   "published_at": "2026-09-12T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxQRDZWbHV6a0FheWxzMGlwd0hoVTNtRHZBWUNaLWcwR2l0VzEyY05kX1lyOXNIUXpUaDFuUmdZTHg5cS1pNTl2eGxzSkNVWGdkNzJiYV9WcU9VSXpKT1RXdzVTN3UyM3dvcjczTHV6ZF85RzVUd1lvWkhhNTUxS0tYZWlPN0pmeHNUTDFEZmpOOVcyWUV1ZWFGeHZUcW5jSHNaaTNmVy12SXJ2RW9MY0NXckhycS0tbXhYTnJnZ1ZrQjVUZ3lDa3F1S3A0ZzR2dTZrb0l1YTNkQVV5NzJ5bUhuZUdSaTJ4RkFwcmVZaGllV1ZMdWEwSzZUSkpVbjJEYnRtTlZyRUwzMnlPcDZMQnZ2Z2RnRlFoMHYtZU9aX2tBeVk4bFdr?oc=5\" target=\"_blank\">中国军方敏感信息疑外泄 美AI巨头揭内情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font>",
+   "fetched_at": "2026-09-25T04:05:21+00:00"
   }
  ]
 }

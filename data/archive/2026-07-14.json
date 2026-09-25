@@ -262,6 +262,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2FCbGtPRjM4V3JaWHpLeGc2Q0Q0M0pmQzNXdnFnQVFCVVVjMTZvMkxlcTgtNkh6Y3llZEcydDRvSWVsaHB1bEtuLUlzWWxMLTV5TVc4bGpvcENSUDNHZmdyRTlDdWdOeFY1THM3RXNFZ3RUVl9LMWozSzVoNjRSdWZkM2pZcmhFdEpxVVZSWlpZS3VoVnpjWjR6bTFkQzQ?oc=5\" target=\"_blank\">Anthropic bets bigger on healthcare with Optum tie-up, UST integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Healthcare</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-218-c7bec5bad0",
+   "source_id": "news",
+   "source_name": "Harvard Business School Online",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What Are Large Language Models (LLMs) & How Do They Work? - Harvard Business School Online",
+   "summary": "What Are Large Language Models (LLMs) & How Do They Work? &nbsp;&nbsp; Harvard Business School Online",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16c2l0MHpIQmNWcGNIcEU3T0RBVlNGaWhBR3ppMkxvbThULXZUbWpNcmpNQVFTUHh6Z0JoeU0yV19LdjRnY3hvNmk0cHZSQU1wbWFDeXRGbWw4QQ?oc=5",
+   "published_at": "2026-07-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE16c2l0MHpIQmNWcGNIcEU3T0RBVlNGaWhBR3ppMkxvbThULXZUbWpNcmpNQVFTUHh6Z0JoeU0yV19LdjRnY3hvNmk0cHZSQU1wbWFDeXRGbWw4QQ?oc=5\" target=\"_blank\">What Are Large Language Models (LLMs) & How Do They Work?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Harvard Business School Online</font>",
+   "fetched_at": "2026-09-25T04:05:21+00:00"
   }
  ]
 }

@@ -5272,6 +5272,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5\" target=\"_blank\">Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-09-23T04:05:26+00:00"
+  },
+  {
+   "id": "web-1043-a8bee89d39",
+   "source_id": "news",
+   "source_name": "Huawei",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "咪咕音乐携手华为软件打造软件运维智能体，实现运维效率与能力双提升- 华为 - Huawei",
+   "summary": "咪咕音乐携手华为软件打造软件运维智能体，实现运维效率与能力双提升- 华为 &nbsp;&nbsp; Huawei",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42V1ZDaldZOUxya0Q1elpIT0k5QjdCQkdMQnU1ajZPUVdsRVVzT2RiOEcycmxJLVMxUXJuY0MzUWV0dExrM2dLNHNPTnZrWkt4RjU3eThnUE93eVJiYmNycFZ1MFY1WHRS?oc=5",
+   "published_at": "2026-09-19T06:45:42+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE42V1ZDaldZOUxya0Q1elpIT0k5QjdCQkdMQnU1ajZPUVdsRVVzT2RiOEcycmxJLVMxUXJuY0MzUWV0dExrM2dLNHNPTnZrWkt4RjU3eThnUE93eVJiYmNycFZ1MFY1WHRS?oc=5\" target=\"_blank\">咪咕音乐携手华为软件打造软件运维智能体，实现运维效率与能力双提升- 华为</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huawei</font>",
+   "fetched_at": "2026-09-25T04:05:21+00:00"
   }
  ]
 }

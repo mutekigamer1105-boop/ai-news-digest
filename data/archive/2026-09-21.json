@@ -11025,6 +11025,72 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0yMTZaMVl6T096UElkdzNYOWZReWt0ZDkxVEZHT2thaHJKb1dmYVJybV90bzFxNG5lb2VEblQxZWhyeGhhVmRCWWFFVjhrYmhOUjVQaHRFajkyazU5dkxLQmlWb245aElOWmFTTm1nVWpiY0dDUmlYMEVlclg?oc=5\" target=\"_blank\">告别浅层应用！各大银行AI大模型规模化落地，核心业务迎来智能化改造</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央视网</font>",
    "fetched_at": "2026-09-24T04:05:12+00:00"
+  },
+  {
+   "id": "web-725-6dbd638cc3",
+   "source_id": "news",
+   "source_name": "CSIS | Center for Strategic and International Studies",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The State of AI Global Governance and Its Implications for the U.S.-China Summit - CSIS | Center for Strategic and International Studies",
+   "summary": "The State of AI Global Governance and Its Implications for the U.S.-China Summit &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFFBMHFLWG9laklSXzVCN1QwN2NSbTVpQjNNcFE2NVJ4c3FxeFJLMWxZaVNNcmEwV0pwN1U5bEJvSnVCa3hPM0Y3Y3ltbTJ5RDgtT01FVThFWkpCT3RpUlQtT3dCZjZxcVFONUxsVmlzVzlSVFJXTEttX2FPbENrRVp1cHlPMXZOWllLT1ZXcjRwNDJxQ2pZUw?oc=5",
+   "published_at": "2026-09-21T17:10:08+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFFBMHFLWG9laklSXzVCN1QwN2NSbTVpQjNNcFE2NVJ4c3FxeFJLMWxZaVNNcmEwV0pwN1U5bEJvSnVCa3hPM0Y3Y3ltbTJ5RDgtT01FVThFWkpCT3RpUlQtT3dCZjZxcVFONUxsVmlzVzlSVFJXTEttX2FPbENrRVp1cHlPMXZOWllLT1ZXcjRwNDJxQ2pZUw?oc=5\" target=\"_blank\">The State of AI Global Governance and Its Implications for the U.S.-China Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSIS | Center for Strategic and International Studies</font>",
+   "fetched_at": "2026-09-25T04:05:21+00:00"
+  },
+  {
+   "id": "web-243-214f5f8083",
+   "source_id": "news",
+   "source_name": "Interconnects AI",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The current balance of power in open models - Interconnects AI",
+   "summary": "The current balance of power in open models &nbsp;&nbsp; Interconnects AI",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YaDVFaDVWY3NsNlBmRTY5QnhHZnExdTJkZVNLN2lta2k1U3ZsOWo4MG02OHJTd3B2LWU5SE9LSmlGZUJCRmR2SzF0cUhEdE9XRk05Wmpudi1ZU2VpbzdwcG9ESUd6TUJoeEFVVUJlZjhmZzFZc2c?oc=5",
+   "published_at": "2026-09-21T11:56:56+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5YaDVFaDVWY3NsNlBmRTY5QnhHZnExdTJkZVNLN2lta2k1U3ZsOWo4MG02OHJTd3B2LWU5SE9LSmlGZUJCRmR2SzF0cUhEdE9XRk05Wmpudi1ZU2VpbzdwcG9ESUd6TUJoeEFVVUJlZjhmZzFZc2c?oc=5\" target=\"_blank\">The current balance of power in open models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interconnects AI</font>",
+   "fetched_at": "2026-09-25T04:05:21+00:00"
+  },
+  {
+   "id": "web-1018-fddc624a1b",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "V7 如何赋予 AI 智能体机构记忆 - OpenAI",
+   "summary": "V7 如何赋予 AI 智能体机构记忆 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94T1RhdGIzcmc1QVVZOXB0Wmo1OTRWTUwzTjJOYm9ackV5WmxHUEtyZUxxaGlWN0hXZ2dzczljV1Z4T3RRT3lEZFVaNVBjeW9J?oc=5",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE94T1RhdGIzcmc1QVVZOXB0Wmo1OTRWTUwzTjJOYm9ackV5WmxHUEtyZUxxaGlWN0hXZ2dzczljV1Z4T3RRT3lEZFVaNVBjeW9J?oc=5\" target=\"_blank\">V7 如何赋予 AI 智能体机构记忆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-25T04:05:21+00:00"
   }
  ]
 }

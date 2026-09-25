@@ -21,6 +21,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uWmpHODI5X3JhbzJma0FtWVlCOVZTek9nRjhqU1lBb09QSEd6UmZVYk1saEZMaUx1S096VGdlOUNLNlBKVElaSlJEWmhULVQ3WlFIaW1ueFRRMVhiWl9j?oc=5\" target=\"_blank\">A domain-adapted large language model to support clinicians in psychiatric clinical practice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nature.com</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1171-cddbdc18ed",
+   "source_id": "news",
+   "source_name": "香港01",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "ChatGPT Images 2.0实测登场！首加思考模式 生成繁体中文不乱码 - 香港01",
+   "summary": "ChatGPT Images 2.0实测登场！首加思考模式 生成繁体中文不乱码 &nbsp;&nbsp; 香港01",
+   "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQUmFDYjhGYVRfelBCUzZNOWdjNVBrWFAyOU00YmIyOWZRTVVEa3RBRHZwSmZCUUZPbGNQemtLSzVYZy1KUkF4bllfUC1CcnhQQ0N3TEkyNjNuMzQydklQZ3pydlhVVTVySHExMkplM2w1WE9QdThldTdOZEFuLXZKNVp0UnpSM24zblQ5VTlPZHN1aGFnLVliVEFXcDljVDhIZHNLbDFybENyaUpGWmVBaFZlQVdDQ0txdlQ5X3BfdU1UeFNNOG5tb21TN1d6Ni1wOWJQY0dqdmVBaVlPRlgxZWRJTDFETms4RlBEX1pjSFJVSWpBN1pPaG1tMHM1UmliM0tUY3YyalJGZjBUaF9sOWpPdnZkSmozS3l4ZVdxbEJLZkxoNWM3bU9zZDhvRXIteFNkbHNRWHI3Q25UTWVQTmVleFpzQ0JMZjFFUEFDS3d0VVpJWGlJSWhqUTNtNE44SV9tZnR4cTczQWtVNzllSFlBLVk0cjkt?oc=5",
+   "published_at": "2026-04-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi-AJBVV95cUxQUmFDYjhGYVRfelBCUzZNOWdjNVBrWFAyOU00YmIyOWZRTVVEa3RBRHZwSmZCUUZPbGNQemtLSzVYZy1KUkF4bllfUC1CcnhQQ0N3TEkyNjNuMzQydklQZ3pydlhVVTVySHExMkplM2w1WE9QdThldTdOZEFuLXZKNVp0UnpSM24zblQ5VTlPZHN1aGFnLVliVEFXcDljVDhIZHNLbDFybENyaUpGWmVBaFZlQVdDQ0txdlQ5X3BfdU1UeFNNOG5tb21TN1d6Ni1wOWJQY0dqdmVBaVlPRlgxZWRJTDFETms4RlBEX1pjSFJVSWpBN1pPaG1tMHM1UmliM0tUY3YyalJGZjBUaF9sOWpPdnZkSmozS3l4ZVdxbEJLZkxoNWM3bU9zZDhvRXIteFNkbHNRWHI3Q25UTWVQTmVleFpzQ0JMZjFFUEFDS3d0VVpJWGlJSWhqUTNtNE44SV9tZnR4cTczQWtVNzllSFlBLVk0cjkt?oc=5\" target=\"_blank\">ChatGPT Images 2.0实测登场！首加思考模式 生成繁体中文不乱码</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">香港01</font>",
+   "fetched_at": "2026-09-25T04:05:21+00:00"
   }
  ]
 }

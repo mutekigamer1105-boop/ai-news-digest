@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9RbFZZNGx6eWpZRnFXeE0wNzIySmVkLTBDdm5pQkFKRE1oQ3lSSGd2UnRfcG9mUGU4UGdCeWszUmFGM21hNEIzNmxDU01IbTA2LXRvZ24xTzdoQUoxSVF6UGhDa0lvZEc1U2pxNVJWTldIa1E?oc=5\" target=\"_blank\">视频生成模型Sora将被关停</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新西兰中文先驱网</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-1142-394dda3d3e",
+   "source_id": "news",
+   "source_name": "雷峰网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "突发！OpenAI关停Sora，精简产品线为IPO 铺路；Momenta 港股秘密递表，预计年内上市；别吵了！Token中文名定了 - 雷峰网",
+   "summary": "突发！OpenAI关停Sora，精简产品线为IPO 铺路；Momenta 港股秘密递表，预计年内上市；别吵了！Token中文名定了 &nbsp;&nbsp; 雷峰网",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yUThyNkhXa1BIZzQtZV92T0RIQW9kbEQ3YjY2TUJiSTNCS0hQdGtWVHJsbmhRNElhQzNFR0ZBWlp0OFFaWTRWVEdqLVB1QVdhMDBfQzQ3cDM2X3Vfc25iVF85bjdjQ2FoNENOXw?oc=5",
+   "published_at": "2026-03-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1yUThyNkhXa1BIZzQtZV92T0RIQW9kbEQ3YjY2TUJiSTNCS0hQdGtWVHJsbmhRNElhQzNFR0ZBWlp0OFFaWTRWVEdqLVB1QVdhMDBfQzQ3cDM2X3Vfc25iVF85bjdjQ2FoNENOXw?oc=5\" target=\"_blank\">突发！OpenAI关停Sora，精简产品线为IPO 铺路；Momenta 港股秘密递表，预计年内上市；别吵了！Token中文名定了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雷峰网</font>",
+   "fetched_at": "2026-09-25T04:05:21+00:00"
   }
  ]
 }

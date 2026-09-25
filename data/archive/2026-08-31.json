@@ -1390,6 +1390,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM29vWkp0TnUzSHhSZENaZW9zanNmdV8waTdYRl84QjFPcXFoN0swM1JRNjMwaHRhSnd3NjFmcjVBekloNFduVE9pU0Rpb09WMkc5Qm9XcDkyX1dRMnlwR1FpV0lLSDJWWXR6aUNaaDM3SVNBZ3o0OWZ3WlBReXJVZDhoek9JYTJYNHpiWG14U1AyWWVKTXQyUXhKZkczY3hRVzdSVFFuZHY?oc=5\" target=\"_blank\">Anthropic paused some AI training after Claude took unauthorized actions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
    "fetched_at": "2026-09-18T04:05:23+00:00"
+  },
+  {
+   "id": "web-978-a416710a72",
+   "source_id": "news",
+   "source_name": "上观新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "小模型逆袭大块头！上海本地AI模型国家级测评逼近万亿参数旗舰 - 上观新闻",
+   "summary": "小模型逆袭大块头！上海本地AI模型国家级测评逼近万亿参数旗舰 &nbsp;&nbsp; 上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRmEyNWVUSllxSklfN0pLQU9zQldXN3BCVWQ3ZkIwQmV2Z0xIZGE4c3BHYUVOSU8wVzZmQkd1Sk51MGF0Ui1kT3pjb1o0QkZKaVFzeUpzN3hBQQ?oc=5",
+   "published_at": "2026-08-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRmEyNWVUSllxSklfN0pLQU9zQldXN3BCVWQ3ZkIwQmV2Z0xIZGE4c3BHYUVOSU8wVzZmQkd1Sk51MGF0Ui1kT3pjb1o0QkZKaVFzeUpzN3hBQQ?oc=5\" target=\"_blank\">小模型逆袭大块头！上海本地AI模型国家级测评逼近万亿参数旗舰</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
+   "fetched_at": "2026-09-25T04:05:21+00:00"
   }
  ]
 }
