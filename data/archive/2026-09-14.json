@@ -12399,6 +12399,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzA0Vm5reXliNWxqUFNqWFJlRlI4NzhlOGQ3LW95QmNySVhLR05fV3NPbTJNS3M2Y2lyYjM5azBfRnUwZ1k1b0FSSFBZN0hxWThnQkJoY1Q2Y042Q192bFpXX2NFOGhoaGJsNHowWVBKamFpTW1KdS1NSTJ2TWVLRFNiQ0JBdw?oc=5\" target=\"_blank\">Artificial Intelligence in Competition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSET | Center for Security and Emerging Technology</font>",
    "fetched_at": "2026-09-25T04:05:21+00:00"
+  },
+  {
+   "id": "web-487-a4d822e31f",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
+   "summary": "How Anthropic says Claude was used for weapons, spying and cyber operations &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5\" target=\"_blank\">How Anthropic says Claude was used for weapons, spying and cyber operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-09-26T04:05:14+00:00"
   }
  ]
 }

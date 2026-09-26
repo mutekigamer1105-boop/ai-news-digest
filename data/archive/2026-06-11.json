@@ -174,6 +174,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9Yd3VnMjJhVHdRUXFQaklvNlRpVUp2MWVuemVEOXNiSHg4Wlg2V2h1TDd4Ni1oZ3BScHZjSG44VHFBQ0dGVlFqeV9MT080bnczczJES19OMXRDaFRFMWdOY3dKWmt4dkJtOTlHNjlZclphT21lako0?oc=5\" target=\"_blank\">市工业和信息化局关于征集“人工智能+”场景联合攻关项目的通知</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sz.gov.cn</font>",
    "fetched_at": "2026-09-13T04:05:55+00:00"
+  },
+  {
+   "id": "web-1165-e996ade21f",
+   "source_id": "news",
+   "source_name": "Межа. Новини України.",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI、Anthropic與SpaceX宣布上市計劃，華爾街將每季審視AI業務 - Межа. Новини України.",
+   "summary": "OpenAI、Anthropic與SpaceX宣布上市計劃，華爾街將每季審視AI業務 &nbsp;&nbsp; Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kbGtrRGlqU1B4OExnR096YjFudjl2Q3NKWXY3R3VYT0Rsb3RjSDUwLUFjTHVzaWhHZEdLZVRGNzlQcFFGQXphWUt2bmVKNm9KZHZmVkhvcmxGNEFmc1NvU0hzaktvcEFU?oc=5",
+   "published_at": "2026-06-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kbGtrRGlqU1B4OExnR096YjFudjl2Q3NKWXY3R3VYT0Rsb3RjSDUwLUFjTHVzaWhHZEdLZVRGNzlQcFFGQXphWUt2bmVKNm9KZHZmVkhvcmxGNEFmc1NvU0hzaktvcEFU?oc=5\" target=\"_blank\">OpenAI、Anthropic與SpaceX宣布上市計劃，華爾街將每季審視AI業務</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
+   "fetched_at": "2026-09-26T04:05:14+00:00"
   }
  ]
 }

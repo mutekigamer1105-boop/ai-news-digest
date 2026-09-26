@@ -11590,6 +11590,72 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZaF83cGFxdmlZdENMTEpyMEkycG5zbm1vN2RfSUloYmJicW45cG1CNjJ5eHZESVpuZDRKUUlUTXpWZjZBYklBRnVOQ2tWcXpfdndjaDBCRElEZE5XQnhUT1NIYU9fUQ?oc=5\" target=\"_blank\">AI调用量连续20周超美国，中国大模型靠什么抢市场？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-450-f048968155",
+   "source_id": "news",
+   "source_name": "AP News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic says its model Claude is helping to build the next version of itself - AP News",
+   "summary": "Anthropic says its model Claude is helping to build the next version of itself &nbsp;&nbsp; AP News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGVRMWttSER2aTljc2w3RjQ4WVNSQno4Z3FmaUVGSmllOXFKRzkzUmJXT2R6MHhZSzhaTVp2RTBXSzNJNzQ3YThfNmdWNUdEN0dNUXhwRWdxa0p0V2FFaGtlRHVHLUpmdDctWDg1N2ZnM2FWeVFZXzJOS2g5T05yYnZPYmJOMzdqeDAwUlNvMFV1TDc0MDhoVjVvVXhyRmRwQUVGdg?oc=5",
+   "published_at": "2026-09-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGVRMWttSER2aTljc2w3RjQ4WVNSQno4Z3FmaUVGSmllOXFKRzkzUmJXT2R6MHhZSzhaTVp2RTBXSzNJNzQ3YThfNmdWNUdEN0dNUXhwRWdxa0p0V2FFaGtlRHVHLUpmdDctWDg1N2ZnM2FWeVFZXzJOS2g5T05yYnZPYmJOMzdqeDAwUlNvMFV1TDc0MDhoVjVvVXhyRmRwQUVGdg?oc=5\" target=\"_blank\">Anthropic says its model Claude is helping to build the next version of itself</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+   "fetched_at": "2026-09-26T04:05:14+00:00"
+  },
+  {
+   "id": "web-453-c29e11cee9",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI - WSJ",
+   "summary": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
+   "published_at": "2026-09-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5\" target=\"_blank\">Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-26T04:05:14+00:00"
+  },
+  {
+   "id": "web-1100-71c33823fa",
+   "source_id": "news",
+   "source_name": "Huawei Enterprise",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "华为联合伙伴发布电力行业AI智能体- 华为企业业务 - Huawei Enterprise",
+   "summary": "华为联合伙伴发布电力行业AI智能体- 华为企业业务 &nbsp;&nbsp; Huawei Enterprise",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42b3hjNXNjTVJqcnlMV3Fkd0RpakZKR0l1S01SdmMwWEJnc3ZPaGQ4VTg0UmJBSDUwelVKYkp5ejY2MmxQa1hJRUJ2dkJUSU5ObGlVUVVIUm51cVlXUHMzSHhQS214TldCOTg1bmhjdFg2SE5zQXJ2NVdKdkM4QQ?oc=5",
+   "published_at": "2026-09-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE42b3hjNXNjTVJqcnlMV3Fkd0RpakZKR0l1S01SdmMwWEJnc3ZPaGQ4VTg0UmJBSDUwelVKYkp5ejY2MmxQa1hJRUJ2dkJUSU5ObGlVUVVIUm51cVlXUHMzSHhQS214TldCOTg1bmhjdFg2SE5zQXJ2NVdKdkM4QQ?oc=5\" target=\"_blank\">华为联合伙伴发布电力行业AI智能体- 华为企业业务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huawei Enterprise</font>",
+   "fetched_at": "2026-09-26T04:05:14+00:00"
   }
  ]
 }

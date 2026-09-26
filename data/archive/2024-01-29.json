@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "id": "web-1179-ca1a86bedf",
+   "source_id": "news",
+   "source_name": "搜狐网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "ChatGPT新增多语言功能 Alpha 版 界面可转化为简体中文 - 搜狐网",
+   "summary": "ChatGPT新增多语言功能 Alpha 版 界面可转化为简体中文 &nbsp;&nbsp; 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EXy01UXgwTlBmX01NVXNScUhSWUEza2hSM1ZKUUJRVURwU05wYUl4NWdvN3VRcnFaQVdfcno5NjB2VHJhWmRwa05GYXo1c3gt?oc=5",
+   "published_at": "2024-01-29T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EXy01UXgwTlBmX01NVXNScUhSWUEza2hSM1ZKUUJRVURwU05wYUl4NWdvN3VRcnFaQVdfcno5NjB2VHJhWmRwa05GYXo1c3gt?oc=5\" target=\"_blank\">ChatGPT新增多语言功能 Alpha 版 界面可转化为简体中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+   "fetched_at": "2026-09-26T04:05:14+00:00"
+  }
+ ]
+}

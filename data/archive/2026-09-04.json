@@ -10845,6 +10845,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5\" target=\"_blank\">OpenAI launches new Astra model amid growing scrutiny over agents' safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
    "fetched_at": "2026-09-23T04:05:26+00:00"
+  },
+  {
+   "id": "web-1162-48dbe633e1",
+   "source_id": "news",
+   "source_name": "CoinDesk",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 承诺向网络防御者提供 10 亿美元资金，但比特币和以太坊未被列入名单 - CoinDesk",
+   "summary": "OpenAI 承诺向网络防御者提供 10 亿美元资金，但比特币和以太坊未被列入名单 &nbsp;&nbsp; CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdG9ralRrU09TNllZRTJ0YXB0dUlEWlI0NVBSNkJjcURud1psb0EtRkNFWTR4eUJGM2l1blR0YmtZVHg1WUhJZzhnUFM4S1lLdF9hQ1dldmZ4d28yRjgwaFk2Nk9NVW1fa2ZmZUQwTURxdE91Wm9FR3lDQWF1WHRwd0ZDQkpIWWFPVGZuLXBOTnlJbE5tNlZsYzVjcVVKSmpMTmtRaFEzU3NwWDNYU2VweFVPMEpkcEV3TTVINHRkU3kwRldvUTF1ckttWi0?oc=5",
+   "published_at": "2026-09-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOdG9ralRrU09TNllZRTJ0YXB0dUlEWlI0NVBSNkJjcURud1psb0EtRkNFWTR4eUJGM2l1blR0YmtZVHg1WUhJZzhnUFM4S1lLdF9hQ1dldmZ4d28yRjgwaFk2Nk9NVW1fa2ZmZUQwTURxdE91Wm9FR3lDQWF1WHRwd0ZDQkpIWWFPVGZuLXBOTnlJbE5tNlZsYzVjcVVKSmpMTmtRaFEzU3NwWDNYU2VweFVPMEpkcEV3TTVINHRkU3kwRldvUTF1ckttWi0?oc=5\" target=\"_blank\">OpenAI 承诺向网络防御者提供 10 亿美元资金，但比特币和以太坊未被列入名单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+   "fetched_at": "2026-09-26T04:05:14+00:00"
   }
  ]
 }

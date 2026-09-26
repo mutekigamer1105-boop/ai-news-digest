@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1182-f81b2676e3",
+   "source_id": "news",
+   "source_name": "abc.net.au",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI高层地震：深入奥特曼和研究员之间的裂痕 - abc.net.au",
+   "summary": "OpenAI高层地震：深入奥特曼和研究员之间的裂痕 &nbsp;&nbsp; abc.net.au",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVRQVFZvOGo2dnExZFdWOGhvbUNudzgtelkxQ0tVWVBER1pKVzVJWGwxV3A0UmZYNER4SE8zRUtwNWJEZVoyTUZhdTJSYVNIQzE2cFQ0ZUlLaEpiekNMVl9DLThhTk9oWlNyZ0NaMWNySVhXbzlNYVBqN3RlWEd4OWdleFlKcm12RXVVSjFHN2drNFNEaHV1Q1Q1UlNHNG5N?oc=5",
+   "published_at": "2023-11-27T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxONVRQVFZvOGo2dnExZFdWOGhvbUNudzgtelkxQ0tVWVBER1pKVzVJWGwxV3A0UmZYNER4SE8zRUtwNWJEZVoyTUZhdTJSYVNIQzE2cFQ0ZUlLaEpiekNMVl9DLThhTk9oWlNyZ0NaMWNySVhXbzlNYVBqN3RlWEd4OWdleFlKcm12RXVVSjFHN2drNFNEaHV1Q1Q1UlNHNG5N?oc=5\" target=\"_blank\">OpenAI高层地震：深入奥特曼和研究员之间的裂痕</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc.net.au</font>",
+   "fetched_at": "2026-09-26T04:05:14+00:00"
+  }
+ ]
+}

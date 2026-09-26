@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1148-e81974447a",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "“Spamouflage”行动：与中国有关联的影响力活动 - OpenAI",
+   "summary": "“Spamouflage”行动：与中国有关联的影响力活动 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVl0VWRZN0pBWm5nOE1LMGVRWlV1UlRiZXNvX29nQjJxR0YzalZFaEtRNFlZbFRIcjFVVE9tSTVrQ0M0X0lLdWRKZTM0ZXpiVnJNYnVFUnk2WkI0SDUtakw0bC1qMU1sazA3OFRFTS1XRFZKZGQ5VlpwY1l6N1diaGZibEVKRW8?oc=5",
+   "published_at": "2024-05-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVl0VWRZN0pBWm5nOE1LMGVRWlV1UlRiZXNvX29nQjJxR0YzalZFaEtRNFlZbFRIcjFVVE9tSTVrQ0M0X0lLdWRKZTM0ZXpiVnJNYnVFUnk2WkI0SDUtakw0bC1qMU1sazA3OFRFTS1XRFZKZGQ5VlpwY1l6N1diaGZibEVKRW8?oc=5\" target=\"_blank\">“Spamouflage”行动：与中国有关联的影响力活动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-26T04:05:14+00:00"
+  }
+ ]
+}

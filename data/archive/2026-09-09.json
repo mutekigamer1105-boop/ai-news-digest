@@ -11561,6 +11561,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT05jSXI1VFhoTUhPcmYyMW83NFV2Rkg5azNZU2V6VzJsNC00aEZhcDkyd3B5THUxajBTeG9mTW9GSU9jRE5HNHNpV0pFQWVSQTczbDlvSXVrTjZybm1ncXJrMkgwRzVXc0tJQVRHVHljeWNNT3JFcXVNRFp1dnZnQnVlbl9CNFUzbmFXMGhwdHNKX1pTV1ptVTdnUml0TWJ4OTZfeTRWQ3NGbWt5Rmg0X21yVkZUc3lKUF9YeWxBT1Z3MVE?oc=5\" target=\"_blank\">Clay valued at $7.1 billion in latest funding round as AI agent startups run hot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
    "fetched_at": "2026-09-25T04:05:21+00:00"
+  },
+  {
+   "id": "web-497-9a203e209d",
+   "source_id": "news",
+   "source_name": "cbsnews.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Another Anthropic model gained access to the open internet during testing, company says - cbsnews.com",
+   "summary": "Another Anthropic model gained access to the open internet during testing, company says &nbsp;&nbsp; cbsnews.com",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xN3ZFU1pIWHZIVXZwWnpBRlI5b05aZXlOQ2hIX3B3UnBLRTNrRWJPRDROdEZTYjQtbVNrNnV1cGZ4TkZ4UTM2bEc0MFZPbmxlNDRMeHlDWE1zUTR0S0tUOU12S0tjRC1zeGgxblp4RlVWUGdTVkM1RFg0QXZsdVU?oc=5",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5xN3ZFU1pIWHZIVXZwWnpBRlI5b05aZXlOQ2hIX3B3UnBLRTNrRWJPRDROdEZTYjQtbVNrNnV1cGZ4TkZ4UTM2bEc0MFZPbmxlNDRMeHlDWE1zUTR0S0tUOU12S0tjRC1zeGgxblp4RlVWUGdTVkM1RFg0QXZsdVU?oc=5\" target=\"_blank\">Another Anthropic model gained access to the open internet during testing, company says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbsnews.com</font>",
+   "fetched_at": "2026-09-26T04:05:14+00:00"
   }
  ]
 }
