@@ -12420,6 +12420,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5\" target=\"_blank\">How Anthropic says Claude was used for weapons, spying and cyber operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
    "fetched_at": "2026-09-26T04:05:14+00:00"
+  },
+  {
+   "id": "web-943-ff14c24c78",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "小米首款搭载AI大模型门锁开启预售 - 东方财富",
+   "summary": "小米首款搭载AI大模型门锁开启预售 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMk0ya0Q5YlRUb2N2TUhFdmh1d29SMnJLN3ZwV2FQZHpWb2xrbDFVaXJudnpNbDhidlBBVEdOMnhaTWhXdmF1a1F5bFBkcWpYN0M5aGNQdGRKSkhTUmV2Qw?oc=5",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMk0ya0Q5YlRUb2N2TUhFdmh1d29SMnJLN3ZwV2FQZHpWb2xrbDFVaXJudnpNbDhidlBBVEdOMnhaTWhXdmF1a1F5bFBkcWpYN0M5aGNQdGRKSkhTUmV2Qw?oc=5\" target=\"_blank\">小米首款搭载AI大模型门锁开启预售</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
   }
  ]
 }

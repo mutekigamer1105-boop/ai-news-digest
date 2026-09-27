@@ -1,0 +1,48 @@
+{
+ "items": [
+  {
+   "id": "web-1125-1ed581418a",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "“VAGue Focus”行动：社会工程与影响力活动 - OpenAI",
+   "summary": "“VAGue Focus”行动：社会工程与影响力活动 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdlUyTllHU2ZBUFZOZFhzUENQTFc0bE81d1R3Ty1oNFFCU0c0emk1QS1YU2tHWmRNS3pyazlsMDM2UXBXZTB5Sy16bFNMS0VEN3gxY1FxcVNXWjNNRzVIeEItZDZabGV6aDRpSndXM0VVUjJ6cV8tVDQzZjRBNUtuVWhYLWNCWlU?oc=5",
+   "published_at": "2025-06-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPdlUyTllHU2ZBUFZOZFhzUENQTFc0bE81d1R3Ty1oNFFCU0c0emk1QS1YU2tHWmRNS3pyazlsMDM2UXBXZTB5Sy16bFNMS0VEN3gxY1FxcVNXWjNNRzVIeEItZDZabGV6aDRpSndXM0VVUjJ6cV8tVDQzZjRBNUtuVWhYLWNCWlU?oc=5\" target=\"_blank\">“VAGue Focus”行动：社会工程与影响力活动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
+  },
+  {
+   "id": "web-1127-ce7ea563cd",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "“打错号码”行动：AI 辅助型任务诈骗 - OpenAI",
+   "summary": "“打错号码”行动：AI 辅助型任务诈骗 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFAzSTVkVEZScF9TNlFMV2dGV29tOFJGOE45VEYwUFVGd0VHT2ZCVWt1SWxIbjItamM1U2o3SHRfUTZyRFpMNHMycTNObE8zcVNCVFE2TTBYN2xQQkRwSEViNWtSR1d0ek1XbmNXVmpVMGJSY2U5ajg2b2dONHA4dzMxaG9aSjE2?oc=5",
+   "published_at": "2025-06-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFAzSTVkVEZScF9TNlFMV2dGV29tOFJGOE45VEYwUFVGd0VHT2ZCVWt1SWxIbjItamM1U2o3SHRfUTZyRFpMNHMycTNObE8zcVNCVFE2TTBYN2xQQkRwSEViNWtSR1d0ek1XbmNXVmpVMGJSY2U5ajg2b2dONHA4dzMxaG9aSjE2?oc=5\" target=\"_blank\">“打错号码”行动：AI 辅助型任务诈骗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
+  }
+ ]
+}

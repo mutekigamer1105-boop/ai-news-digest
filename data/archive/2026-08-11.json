@@ -468,6 +468,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1kdTJ1ZTNlUS1hQ1BCX0ZNWXRMQkg3aFh1QVlhdjBHRml5UGVPLUc4TjhXV0J1OUpsNGVsUzhadzdpY2YxSU1qYW96bmsydUNreUgyMGU3OGpTTEhFN2VsVmdiazVuVHVFUFltRERB?oc=5\" target=\"_blank\">为什么中国大模型便宜又好用？（外国网友趣问中国⑩） --经济·科技</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民网财经</font>",
    "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-279-ae9a34ce67",
+   "source_id": "news",
+   "source_name": "RAND",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Testing Large Language Model Agents on the Use of Biological Tools for Nucleic Acid Synthesis Screening Evasion - RAND",
+   "summary": "Testing Large Language Model Agents on the Use of Biological Tools for Nucleic Acid Synthesis Screening Evasion &nbsp;&nbsp; RAND",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VOFRmeWpNQ3l4aHhRbHZDZXR0WkZ0c05Iak41MVE3OVJTbGtyZ25uUjB2UzZyc1hlNV9tSHRxTHkyajJGUmllOS02OXJvcVRpeDZfWTVfYTd1U05EdjZpX19MRE95bmVl?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VOFRmeWpNQ3l4aHhRbHZDZXR0WkZ0c05Iak41MVE3OVJTbGtyZ25uUjB2UzZyc1hlNV9tSHRxTHkyajJGUmllOS02OXJvcVRpeDZfWTVfYTd1U05EdjZpX19MRE95bmVl?oc=5\" target=\"_blank\">Testing Large Language Model Agents on the Use of Biological Tools for Nucleic Acid Synthesis Screening Evasion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RAND</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
   }
  ]
 }

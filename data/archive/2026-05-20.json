@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE12dlNzYTJWS0dzcGFzbzVFNERmUWZQRFhxRXhSMjFyWmxXQjlqa2twdmtWSUlUUG9yQkdkUVQ5ajdUcDJBZTQ1emtFRzQxX2puYW1sOVlOYWROY19ackQ4?oc=5\" target=\"_blank\">Training-free active learning framework in materials science with large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-212-45850555b8",
+   "source_id": "news",
+   "source_name": "PNAS",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Persuading large language models to comply with objectionable requests - PNAS",
+   "summary": "Persuading large language models to comply with objectionable requests &nbsp;&nbsp; PNAS",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kcmM0YjBwR2RVNkNHSmpsVm5yXzFYVmQyNzBmOXFwT21fV2U1WnZTZ3BpSlE2T09fN2JKLVJ3QUZEcWM0X01TMURjTTY3N004Y29QQzVWZ3J4LVRU?oc=5",
+   "published_at": "2026-05-20T02:04:17+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kcmM0YjBwR2RVNkNHSmpsVm5yXzFYVmQyNzBmOXFwT21fV2U1WnZTZ3BpSlE2T09fN2JKLVJ3QUZEcWM0X01TMURjTTY3N004Y29QQzVWZ3J4LVRU?oc=5\" target=\"_blank\">Persuading large language models to comply with objectionable requests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PNAS</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
   }
  ]
 }

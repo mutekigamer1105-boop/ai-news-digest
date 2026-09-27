@@ -151,6 +151,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5\" target=\"_blank\">Introducing GPT-5.5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-1151-f161b716b9",
+   "source_id": "news",
+   "source_name": "CoinDesk",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 似乎正在挖角 Coinbase 的市场营销团队 - CoinDesk",
+   "summary": "OpenAI 似乎正在挖角 Coinbase 的市场营销团队 &nbsp;&nbsp; CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLU5pNUh0cTVtMVNlempZdm12RnY0VkZ3TFdnbTA5TGo1dThSMUd1LVJEa2xITEJKVDRacWtaRWdCcHh3aHBKMUZrei1VbWg3bWp3NGwyWEUzSXFycHd4MU5XSlJ3MUx6RVhqWmc5YTFHNzhEWFd6SmNXa2dRcml6YkJMWG5lT29LbVZoREY5RnV2TGJNSjNGdHB6alFmT3o1dk95bm9R?oc=5",
+   "published_at": "2026-04-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOLU5pNUh0cTVtMVNlempZdm12RnY0VkZ3TFdnbTA5TGo1dThSMUd1LVJEa2xITEJKVDRacWtaRWdCcHh3aHBKMUZrei1VbWg3bWp3NGwyWEUzSXFycHd4MU5XSlJ3MUx6RVhqWmc5YTFHNzhEWFd6SmNXa2dRcml6YkJMWG5lT29LbVZoREY5RnV2TGJNSjNGdHB6alFmT3o1dk95bm9R?oc=5\" target=\"_blank\">OpenAI 似乎正在挖角 Coinbase 的市场营销团队</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
   }
  ]
 }

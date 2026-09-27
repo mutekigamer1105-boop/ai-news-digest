@@ -242,6 +242,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE04YjdJQzRTd21ueV84bVFiSTBUbTFyNzlYQVF0aEZtN3hOZVZjRGdUTGdRQnNzNElRNEFTMWs1dEJGTFRsSTdDMkZYR2p2WlM3X1VhYlQ0cHBBM0dE?oc=5\" target=\"_blank\">14.1倍领先！中国AI大模型周调用量领跑全球：小米MiMo-V2.5登顶，Claude近一年首次全线落榜，美国仅1款模型上榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
    "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-897-83026b6430",
+   "source_id": "news",
+   "source_name": "sasac.gov.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "国务院国资委发布2026央企人工智能战略性高价值场景等系列成果 - sasac.gov.cn",
+   "summary": "国务院国资委发布2026央企人工智能战略性高价值场景等系列成果 &nbsp;&nbsp; sasac.gov.cn",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVVXMHQxeUZNNzdfaXRaSjlQQ0ZIOWkzaEFLNVhHNWZnb1c3Zkc3U21EVjF0OVNFaW9kNjZ6eGctUlRQWEJRZGZ3Smd3dVFnOTVtc3g5NmVBVHBfQzY1eV9IclM0Z1d2VE5NdDFkQU9GSDNXTHlpbXk0Z3c2eWxqb29VQ3BRNzVoUXc?oc=5",
+   "published_at": "2026-07-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVVXMHQxeUZNNzdfaXRaSjlQQ0ZIOWkzaEFLNVhHNWZnb1c3Zkc3U21EVjF0OVNFaW9kNjZ6eGctUlRQWEJRZGZ3Smd3dVFnOTVtc3g5NmVBVHBfQzY1eV9IclM0Z1d2VE5NdDFkQU9GSDNXTHlpbXk0Z3c2eWxqb29VQ3BRNzVoUXc?oc=5\" target=\"_blank\">国务院国资委发布2026央企人工智能战略性高价值场景等系列成果</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sasac.gov.cn</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
   }
  ]
 }

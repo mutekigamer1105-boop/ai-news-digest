@@ -3195,6 +3195,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1faG5QeUlHTTlBNlE5Z0thNkl6ZUc2NTEzNjNfWlhxbGViWjJpX1FlbU5NdGNzWC0wVmtDRWlyckNFWU13OGVib2Qxa0VjRWd4ck9zSWNDMTRDTEg4cjNPeExrTQ?oc=5\" target=\"_blank\">苹果称前工程师加入OpenAI后仍查看机密电路图，要求法院加速取证| 乌克兰新闻- #Mezha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-23T04:05:26+00:00"
+  },
+  {
+   "id": "web-219-dabeaf9ffb",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models outperform humans at estimating society’s everyday norms - Nature",
+   "summary": "Large language models outperform humans at estimating society’s everyday norms &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaMk9mb1VPakQzMG5CYnBFNkk0SE8xX1RSU0ZLTU1SNEh6MUt6VGVtOFBBaFZoN1JJSVhmWUFsSHpEWG9KdGU4R2Rtdm14aXlxQWY2bU4zVWFXNEVLUHdJ?oc=5",
+   "published_at": "2026-09-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaMk9mb1VPakQzMG5CYnBFNkk0SE8xX1RSU0ZLTU1SNEh6MUt6VGVtOFBBaFZoN1JJSVhmWUFsSHpEWG9KdGU4R2Rtdm14aXlxQWY2bU4zVWFXNEVLUHdJ?oc=5\" target=\"_blank\">Large language models outperform humans at estimating society’s everyday norms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
   }
  ]
 }

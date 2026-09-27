@@ -129,6 +129,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oYmE0VHY3S21VRExlc1ppSjNEa09ZSXhxV0VkREl1UjVsQzdvSktydFhZdFNTX1ZXQUxmR3MzWE9qMzVNbW9OR2M2MklwQ0NKVGl4UmxyM0Fnd0NJQzNoSElEVUpoMlU?oc=5\" target=\"_blank\">被中国AI大模型赶超，美国就要掀桌子？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jwview.com</font>",
    "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-685-623d001ffa",
+   "source_id": "news",
+   "source_name": "blog.google",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Google and KDDI are ready to back Japanese startups. - blog.google",
+   "summary": "Google and KDDI are ready to back Japanese startups. &nbsp;&nbsp; blog.google",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUkJ5OWRjVWZibHFYUEpIaGVrMXB1bFhHN01sSzhBY25wa1I2UWZYXzNEcFJxeFU4aEFXNVN3bkxMRmVaUi04X3h2YUFVYmhzOVJQdHhqQnZ0Y2dpeXh4RkhKOWk3VEtOMkdjaG9nalJGNXRzTTB3dTJRYXNscmNDSXF0bFplcjlmR0VqNk5VVlktNFZubW9kaTVZOUFTREYzTEVGWk1R?oc=5",
+   "published_at": "2026-07-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQUkJ5OWRjVWZibHFYUEpIaGVrMXB1bFhHN01sSzhBY25wa1I2UWZYXzNEcFJxeFU4aEFXNVN3bkxMRmVaUi04X3h2YUFVYmhzOVJQdHhqQnZ0Y2dpeXh4RkhKOWk3VEtOMkdjaG9nalJGNXRzTTB3dTJRYXNscmNDSXF0bFplcjlmR0VqNk5VVlktNFZubW9kaTVZOUFTREYzTEVGWk1R?oc=5\" target=\"_blank\">Google and KDDI are ready to back Japanese startups.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
   }
  ]
 }

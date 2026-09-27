@@ -11656,6 +11656,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE42b3hjNXNjTVJqcnlMV3Fkd0RpakZKR0l1S01SdmMwWEJnc3ZPaGQ4VTg0UmJBSDUwelVKYkp5ejY2MmxQa1hJRUJ2dkJUSU5ObGlVUVVIUm51cVlXUHMzSHhQS214TldCOTg1bmhjdFg2SE5zQXJ2NVdKdkM4QQ?oc=5\" target=\"_blank\">华为联合伙伴发布电力行业AI智能体- 华为企业业务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huawei Enterprise</font>",
    "fetched_at": "2026-09-26T04:05:14+00:00"
+  },
+  {
+   "id": "web-360-54412721da",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Astra for Law - OpenAI",
+   "summary": "Introducing Astra for Law &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02Q2I5Zkx2QXlObXZrY2g3Q0Fxa1c1SXJVT0VfZXdhc1JuOTBOeUJEeWpsdWxocHlUakhpeDRoWFdOejV6TWEzeDZINW5XcUpw?oc=5",
+   "published_at": "2026-09-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE02Q2I5Zkx2QXlObXZrY2g3Q0Fxa1c1SXJVT0VfZXdhc1JuOTBOeUJEeWpsdWxocHlUakhpeDRoWFdOejV6TWEzeDZINW5XcUpw?oc=5\" target=\"_blank\">Introducing Astra for Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
   }
  ]
 }

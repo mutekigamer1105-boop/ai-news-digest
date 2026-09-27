@@ -5294,6 +5294,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE42V1ZDaldZOUxya0Q1elpIT0k5QjdCQkdMQnU1ajZPUVdsRVVzT2RiOEcycmxJLVMxUXJuY0MzUWV0dExrM2dLNHNPTnZrWkt4RjU3eThnUE93eVJiYmNycFZ1MFY1WHRS?oc=5\" target=\"_blank\">咪咕音乐携手华为软件打造软件运维智能体，实现运维效率与能力双提升- 华为</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Huawei</font>",
    "fetched_at": "2026-09-25T04:05:21+00:00"
+  },
+  {
+   "id": "web-1061-bc75d5c059",
+   "source_id": "news",
+   "source_name": "infoq.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署 - infoq.cn",
+   "summary": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署 &nbsp;&nbsp; infoq.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WSXAxd0xWbndCZy1KRGdPc0VLelg5RWc5ZEhZQ1QwTFBIc3RGbTA4QjlBd0hVWDJ6WElJZU14bmhvRi1pakpTVjBKaEVBR3VKcnNmWndoRzIxdUlhSWc?oc=5",
+   "published_at": "2026-09-19T09:27:29+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WSXAxd0xWbndCZy1KRGdPc0VLelg5RWc5ZEhZQ1QwTFBIc3RGbTA4QjlBd0hVWDJ6WElJZU14bmhvRi1pakpTVjBKaEVBR3VKcnNmWndoRzIxdUlhSWc?oc=5\" target=\"_blank\">Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">infoq.cn</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
   }
  ]
 }

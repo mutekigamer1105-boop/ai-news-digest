@@ -12818,6 +12818,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE90MzczM1BqcEl2YmxyVDI0b25ERHN5V09rbnhUSWJ4d3U2M2dsdjdZVE5GUW5RSnlicy15MmYxTEd5Zm8yRjhZY3dXdldKZ3F5TjV1SkxQbmx2V3ZZOEwtNWRxYU1Cb2M0bEpOOEhHVEVxY0llWWZzTVRSelY?oc=5\" target=\"_blank\">中国人工智能产业：从并跑向领跑的跨越</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">求是</font>",
    "fetched_at": "2026-09-26T04:05:14+00:00"
+  },
+  {
+   "id": "web-1066-e728928e22",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta为AI智能体Muse测试人工代办电话服务 - 东方财富",
+   "summary": "Meta为AI智能体Muse测试人工代办电话服务 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwQUJGWFktd0ZMMVFCVHM4LU9scU94WVZxX0Q4QTR3UTdRX2gtMVUxWUs4dm9YQ1RwS0k1ZVAtWjFXN3QzZVRqTlJ5ZnZFdjd1OTl6RE5jeXpTR0VsQzVleA?oc=5",
+   "published_at": "2026-09-22T21:53:05+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwQUJGWFktd0ZMMVFCVHM4LU9scU94WVZxX0Q4QTR3UTdRX2gtMVUxWUs4dm9YQ1RwS0k1ZVAtWjFXN3QzZVRqTlJ5ZnZFdjd1OTl6RE5jeXpTR0VsQzVleA?oc=5\" target=\"_blank\">Meta为AI智能体Muse测试人工代办电话服务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
+  },
+  {
+   "id": "web-550-a1ac814cc0",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Apple Takes Aim at Nvidia’s AI Economics: New Macs Have ‘No Cost per Token,’ Hardware Chief Says - Yahoo Finance",
+   "summary": "Apple Takes Aim at Nvidia’s AI Economics: New Macs Have ‘No Cost per Token,’ Hardware Chief Says &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmFiYnh5YW43VkhJbXgtSjREVEVrd1p3ZXY2MlAzODdycG00ZTFvVGd6ZFBHMDRCUGRKdkg5Mmo3aXRSZ0dlZHRBYWVIRDF4b2EzNW53WFRDanI1cGk0Y3JoeEg1Ylc2eE8tamg0Rkt3ZjhxcUVHMlltWERpUktHZTVETWEyZ0p1SnpXSGwzdldHajA?oc=5",
+   "published_at": "2026-09-22T19:32:50+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxONmFiYnh5YW43VkhJbXgtSjREVEVrd1p3ZXY2MlAzODdycG00ZTFvVGd6ZFBHMDRCUGRKdkg5Mmo3aXRSZ0dlZHRBYWVIRDF4b2EzNW53WFRDanI1cGk0Y3JoeEg1Ylc2eE8tamg0Rkt3ZjhxcUVHMlltWERpUktHZTVETWEyZ0p1SnpXSGwzdldHajA?oc=5\" target=\"_blank\">Apple Takes Aim at Nvidia’s AI Economics: New Macs Have ‘No Cost per Token,’ Hardware Chief Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-27T04:05:04+00:00"
   }
  ]
 }
