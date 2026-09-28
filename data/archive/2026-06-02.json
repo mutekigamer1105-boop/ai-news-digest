@@ -88,6 +88,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9lWU50Z21ldm5GeE1acTc2RzFIX1Vob2JwTU1FRWtUWVpiTFVKa2ZicHQ2V3BvWVd1MnpkNTJSaFd0M0pHSnY1Q0VDcUt0Rk43RkdrbjFnXzduTXdHaXVUeXBjRnpaazJSWVpJYzNyNUVwTEF3dGpj?oc=5\" target=\"_blank\">AI赋能 | “一站式AI智能体服务门户”中国农业大学智能体广场正式上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国农业大学新闻网</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1101-c6ac00400a",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "什么是 AI 智能体蔓延？ - IBM",
+   "summary": "什么是 AI 智能体蔓延？ &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QeWJiRU5kYnRubk1VTDZJRWl0RUNXUG0zRjZpWFFkdDVCZS00VFBjc3MyVVRKcC1oMG9pYi1FZ0NrYVRQVVhIT3JrYVZRNFFzVWdqaTFMZ19FQnJzVDVmVmdpOFA?oc=5",
+   "published_at": "2026-06-02T14:32:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QeWJiRU5kYnRubk1VTDZJRWl0RUNXUG0zRjZpWFFkdDVCZS00VFBjc3MyVVRKcC1oMG9pYi1FZ0NrYVRQVVhIT3JrYVZRNFFzVWdqaTFMZ19FQnJzVDVmVmdpOFA?oc=5\" target=\"_blank\">什么是 AI 智能体蔓延？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
   }
  ]
 }

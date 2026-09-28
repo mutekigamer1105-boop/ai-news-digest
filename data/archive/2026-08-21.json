@@ -350,6 +350,48 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQazRicDBFZS1GSWhpZTN0NjJWTVhmNWFhZUhmbFpZaWhKUm9SZ3BTdlFuUDkyTkYzeFhWd0ZRdkFEMUdjOEdRdFhaSjF6MVB5MVdTbHRLekVMWUpTTV80eDN4Qm9GcG1XcVROeGRQTEctQmpfVERZX0NRUWFibW9mRmw2SHltcHFPXzFQTVNya2Z6QzFSbGM2Q0h6dlpXdUZYdEVLYWxB?oc=5\" target=\"_blank\">California Draws More Startup Investment Than All Other 49 States Combined</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsj.com</font>",
    "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-413-53e620fa7a",
+   "source_id": "news",
+   "source_name": "Business Insider",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Why Anthropic’s AI watermark is going further than its rivals — for now - Business Insider",
+   "summary": "Why Anthropic’s AI watermark is going further than its rivals — for now &nbsp;&nbsp; Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEJ6TTlIZ0pHOUhVV0pKcHJpR2pTYTY0c0swNmlzR2k0LThTaVQzSWROVHJKX1NveEJpOWtEYXZlSkRvLVVDcFROZDA2SURkQXFlaGMtVDY1dllLQUZJb1RzUHZqdUkxVXVGc2gyUDF1NHA4VzBRbmVvd3p2YTNzY0gwSm5aalZXZW10NWpvOVBoMXdYRmc?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEJ6TTlIZ0pHOUhVV0pKcHJpR2pTYTY0c0swNmlzR2k0LThTaVQzSWROVHJKX1NveEJpOWtEYXZlSkRvLVVDcFROZDA2SURkQXFlaGMtVDY1dllLQUZJb1RzUHZqdUkxVXVGc2gyUDF1NHA4VzBRbmVvd3p2YTNzY0gwSm5aalZXZW10NWpvOVBoMXdYRmc?oc=5\" target=\"_blank\">Why Anthropic’s AI watermark is going further than its rivals — for now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-414-d2b07553aa",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Anthropic’s Opus 4.6 is a smut-machine - TechCrunch",
+   "summary": "Anthropic’s Opus 4.6 is a smut-machine &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2VGRS1PaUtNUFFpYURJLU9GaWFYa3VHS2xMNGhHUWcwTUN5RXl2LTE4bldBaVRyT1VwRFR4T0Zqb290U1pQbmkyelctZk5JeGIxVEFsbnliQy12bGMxUW1nNXhpMFd4d0x3cEJza09iMGJXMUx0Y1BYTXA?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2VGRS1PaUtNUFFpYURJLU9GaWFYa3VHS2xMNGhHUWcwTUN5RXl2LTE4bldBaVRyT1VwRFR4T0Zqb290U1pQbmkyelctZk5JeGIxVEFsbnliQy12bGMxUW1nNXhpMFd4d0x3cEJza09iMGJXMUx0Y1BYTXA?oc=5\" target=\"_blank\">Anthropic’s Opus 4.6 is a smut-machine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
   }
  ]
 }

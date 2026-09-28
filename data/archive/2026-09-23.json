@@ -12204,6 +12204,157 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONzRCV2RZVzZnNERZVzlEUGhsbWlieXU1b3JGT3dxZVdCQ1RENGNrWjh2N2Y0cFhlUVhLd185cHpTanFtd00wNjBMLW9pbl9qVDJoTmViMjd4TlIzM3ZVNnB3Z0pkY3NNMlA1YjB6UzVWMVF3RmRxUXBIcHZ4bzB3WjFWY3pmNFB2QkJ0NzJmNTI4TDFPTzhRUUxIRQ?oc=5\" target=\"_blank\">Ruth AI tool seeks to eliminate gender wage gap, built-in bias in large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
    "fetched_at": "2026-09-27T04:05:04+00:00"
+  },
+  {
+   "id": "web-934-66a11f44cf",
+   "source_id": "news",
+   "source_name": "证券时报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "基石资本合伙人陶涛： 中国AI大模型正走向“准公共产品” - 证券时报网",
+   "summary": "基石资本合伙人陶涛： 中国AI大模型正走向“准公共产品” &nbsp;&nbsp; 证券时报网",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yQkZZZV9KVHg0Uk10QmFlZjRrNjJPTFQtUnlHQnhoRDh3VTdzc2YyVGlPRjkwc0JxblhORVE1REtHd19Yc2o2czVhWkw1R2pHVURuMC1MTmVaMXlN?oc=5",
+   "published_at": "2026-09-23T22:41:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yQkZZZV9KVHg0Uk10QmFlZjRrNjJPTFQtUnlHQnhoRDh3VTdzc2YyVGlPRjkwc0JxblhORVE1REtHd19Yc2o2czVhWkw1R2pHVURuMC1MTmVaMXlN?oc=5\" target=\"_blank\">基石资本合伙人陶涛： 中国AI大模型正走向“准公共产品”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报网</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-611-e5ce291c48",
+   "source_id": "news",
+   "source_name": "Bloomberg",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Startups Modal, Baseten in Funding Talks to Help Businesses Run AI - Bloomberg",
+   "summary": "Startups Modal, Baseten in Funding Talks to Help Businesses Run AI &nbsp;&nbsp; Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcE1haUR1NEpCaERxNzRhSFkxVTJ3TmQyODg3M3lTX2NWZm9XUGx6V19BZTM2amU0LVJIT1VyV09yaVp0ZFgwU0FNbUlUWS11LWVwUmV6WFFHUDBOOS00N191Z1ZaU2E4Nm81N2Q3MEp4LThwV0RLSm9NeHVkWTBSRGpzS1lpMFE1U1NGV1lkZm9yc3RUUmx6R29hc3Z0b0dZREZmUmh5dFBqY0JGNGkydWVocnpmMUE?oc=5",
+   "published_at": "2026-09-23T22:28:24+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQcE1haUR1NEpCaERxNzRhSFkxVTJ3TmQyODg3M3lTX2NWZm9XUGx6V19BZTM2amU0LVJIT1VyV09yaVp0ZFgwU0FNbUlUWS11LWVwUmV6WFFHUDBOOS00N191Z1ZaU2E4Nm81N2Q3MEp4LThwV0RLSm9NeHVkWTBSRGpzS1lpMFE1U1NGV1lkZm9yc3RUUmx6R29hc3Z0b0dZREZmUmh5dFBqY0JGNGkydWVocnpmMUE?oc=5\" target=\"_blank\">Startups Modal, Baseten in Funding Talks to Help Businesses Run AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-459-7cc5d49436",
+   "source_id": "news",
+   "source_name": "Decrypt",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude - Decrypt",
+   "summary": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude &nbsp;&nbsp; Decrypt",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUzVMdEdTckVuMUl2UEJYdWpxOHVreWFtU1ZDcXdXT1U2Tkt0Vlc1TU5FUEdYVFVkY0tmRHVqMHo5djdfRFFTNVdxRjAzeTBBclFnZkFDRTVWN1hXWmt1MGJXLVFLbS1GbWRYMXVuakIxOThRZW5hcDRGOHNpV2JkM0xWVDBQSk8wWmhtY9IBlAFBVV95cUxPdzZBSXg3MEFHeWUweGdieDV0d0NvbmFaQVUwUTBCRzViZ2NydWZyUlltSHRSQ3cycXR2MkxlSk9CS3JJRUdrYjNQMkdiNTJ0Nkg1UzdPZFV5S2xtX2NQaVZqQzJMUXlSdmFMUGtGVWlmWDk1ZEpkcGFrLVJCSUplalFRZm1qbWw4LVNnTHp4c1pkdkJr?oc=5",
+   "published_at": "2026-09-23T21:31:03+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOUzVMdEdTckVuMUl2UEJYdWpxOHVreWFtU1ZDcXdXT1U2Tkt0Vlc1TU5FUEdYVFVkY0tmRHVqMHo5djdfRFFTNVdxRjAzeTBBclFnZkFDRTVWN1hXWmt1MGJXLVFLbS1GbWRYMXVuakIxOThRZW5hcDRGOHNpV2JkM0xWVDBQSk8wWmhtY9IBlAFBVV95cUxPdzZBSXg3MEFHeWUweGdieDV0d0NvbmFaQVUwUTBCRzViZ2NydWZyUlltSHRSQ3cycXR2MkxlSk9CS3JJRUdrYjNQMkdiNTJ0Nkg1UzdPZFV5S2xtX2NQaVZqQzJMUXlSdmFMUGtGVWlmWDk1ZEpkcGFrLVJCSUplalFRZm1qbWw4LVNnTHp4c1pkdkJr?oc=5\" target=\"_blank\">China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-1110-17f7da5cd6",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta AI智能体Muse爆红后，遭亚马逊“封杀”！美国银行等六家银行预警：AI可能发生诈骗或错误交易 - 新浪财经",
+   "summary": "Meta AI智能体Muse爆红后，遭亚马逊“封杀”！美国银行等六家银行预警：AI可能发生诈骗或错误交易 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DdC1UN3VLMW1uV21MUXphNXJKSmE2UXZiQzdHUWQzcndocVMxNEFzSVdQRGJJVF9lMnFoVzhzTmN4Q1ZEY1djdkhrWmRQMHZ5SlVublZJNE44OW5uN1pNb1MzQ2NfdTBDYjlDNUpuTFZLcUFhQ3FhWA?oc=5",
+   "published_at": "2026-09-23T17:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1DdC1UN3VLMW1uV21MUXphNXJKSmE2UXZiQzdHUWQzcndocVMxNEFzSVdQRGJJVF9lMnFoVzhzTmN4Q1ZEY1djdkhrWmRQMHZ5SlVublZJNE44OW5uN1pNb1MzQ2NfdTBDYjlDNUpuTFZLcUFhQ3FhWA?oc=5\" target=\"_blank\">Meta AI智能体Muse爆红后，遭亚马逊“封杀”！美国银行等六家银行预警：AI可能发生诈骗或错误交易</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-740-9fb78ebdb2",
+   "source_id": "news",
+   "source_name": "blog.google",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Gemini 3.8 text-to-speech says hello - blog.google",
+   "summary": "Gemini 3.8 text-to-speech says hello &nbsp;&nbsp; blog.google",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpTWDNZcWVYandkVlNIa1E5TWFsSG81NU5ST3Q1cGt1Z2xmUXdWRnEzb19zMjVfakoxdDNEVTlzdEJhUzFLanV2dlFaVTZ4a2RjRFMxTXlqUVpNaFFONVZzeGlHcnBwRTlWNlpMektVMlZ4RlJhVlN3X0k1NG0xSklibWpqLUVBUEJjSFVWOTZMWE1ZYllGMUVxbWlSV3c?oc=5",
+   "published_at": "2026-09-23T15:27:40+00:00",
+   "author_handle": null,
+   "builder_id": "demis-hassabis",
+   "builder_name": "Demis Hassabis",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpTWDNZcWVYandkVlNIa1E5TWFsSG81NU5ST3Q1cGt1Z2xmUXdWRnEzb19zMjVfakoxdDNEVTlzdEJhUzFLanV2dlFaVTZ4a2RjRFMxTXlqUVpNaFFONVZzeGlHcnBwRTlWNlpMektVMlZ4RlJhVlN3X0k1NG0xSklibWpqLUVBUEJjSFVWOTZMWE1ZYllGMUVxbWlSV3c?oc=5\" target=\"_blank\">Gemini 3.8 text-to-speech says hello</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-521-10f1f9655a",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Opinion | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far - The New York Times",
+   "summary": "Opinion | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ1BMckphRmdCWnl1cWFtMDZuR0hoVEZXMkdDZ2pHVEpqWF9uOGg3Qmc2QWFEZG1zNFRaaTBScXA3TU5EdGwxTW1NVGJWZXJ6dzA4d3MxN0Vra1pTYWV5LUVpUzd2ZmJZdUptZjZvVlJhczhsU3lLWFVMdWJSWmZYbHRWSTZfQQ?oc=5",
+   "published_at": "2026-09-23T09:02:02+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ1BMckphRmdCWnl1cWFtMDZuR0hoVEZXMkdDZ2pHVEpqWF9uOGg3Qmc2QWFEZG1zNFRaaTBScXA3TU5EdGwxTW1NVGJWZXJ6dzA4d3MxN0Vra1pTYWV5LUVpUzd2ZmJZdUptZjZvVlJhczhsU3lLWFVMdWJSWmZYbHRWSTZfQQ?oc=5\" target=\"_blank\">Opinion | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-917-fe45980417",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "价格战愈演愈烈！AI大模型概念景气升温 这12股业绩倍增可期(名单) - 东方财富",
+   "summary": "价格战愈演愈烈！AI大模型概念景气升温 这12股业绩倍增可期(名单) &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ET1RMdUVISkpwSzM4R3ZqekVxYVJTY1ZNblBtYkQtZU5JZTluUS1UeUJzME1JMUF5aGlQQ01jVXJuMG1QaFJKT3Vsb0NIV2R5eGduVjJQTGpaQXNrZkNWak1UNmZfQQ?oc=5",
+   "published_at": "2026-09-23T01:11:38+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ET1RMdUVISkpwSzM4R3ZqekVxYVJTY1ZNblBtYkQtZU5JZTluUS1UeUJzME1JMUF5aGlQQ01jVXJuMG1QaFJKT3Vsb0NIV2R5eGduVjJQTGpaQXNrZkNWak1UNmZfQQ?oc=5\" target=\"_blank\">价格战愈演愈烈！AI大模型概念景气升温 这12股业绩倍增可期(名单)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
   }
  ]
 }

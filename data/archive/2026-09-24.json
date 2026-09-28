@@ -12099,6 +12099,205 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVkhMd0JVVmlwUjBpVGlJamNmYlloZ2hKUV9FNlRFc3MwOUlYSncyc3NPSGRLbGtJSU0zRjFuV1RJZUhndC1FUkpaRU56RzRuNU5tNFBFLTJ1d2NiemFn?oc=5\" target=\"_blank\">Optimizing the delivery of radiotherapy with artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-27T04:05:04+00:00"
+  },
+  {
+   "id": "web-339-385a8cc5a3",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex - OpenAI",
+   "summary": "Proaction boosts sales 60% and saves 75+ hours with Codex &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VVZhWFVHX1cxSHlKVk42c0NWak1EZkJZa2tYdGlFeUpDdFdBeHVUUmk3eVJaYjJmdkhPTTFiQVNNaHdtU3lLaXZzZw?oc=5",
+   "published_at": "2026-09-24T23:39:15+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VVZhWFVHX1cxSHlKVk42c0NWak1EZkJZa2tYdGlFeUpDdFdBeHVUUmk3eVJaYjJmdkhPTTFiQVNNaHdtU3lLaXZzZw?oc=5\" target=\"_blank\">Proaction boosts sales 60% and saves 75+ hours with Codex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-376-25197aa060",
+   "source_id": "news",
+   "source_name": "The Guardian",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI’s Altman and Anthropic’s Amodei address UN security council - The Guardian",
+   "summary": "OpenAI’s Altman and Anthropic’s Amodei address UN security council &nbsp;&nbsp; The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40TGtvSHVVUE1jRnZNbWU2TG1lNmllWWc5NDhDLWVSenItS0JyMGcxY2hwaEVjLVZZeWZxNTFTLUhWZmwxSG9LM0U0VVViWXNyaHN3WFhkYnZwVlk2OFhHcExhOUViMzRHWml0RW0xUXk5aXNFMkppenMzUE9QRFk?oc=5",
+   "published_at": "2026-09-24T21:12:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE40TGtvSHVVUE1jRnZNbWU2TG1lNmllWWc5NDhDLWVSenItS0JyMGcxY2hwaEVjLVZZeWZxNTFTLUhWZmwxSG9LM0U0VVViWXNyaHN3WFhkYnZwVlk2OFhHcExhOUViMzRHWml0RW0xUXk5aXNFMkppenMzUE9QRFk?oc=5\" target=\"_blank\">OpenAI’s Altman and Anthropic’s Amodei address UN security council</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-582-5ecf8862c0",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia CEO Sends Stark Warning to AI Industry - Yahoo Finance",
+   "summary": "Nvidia CEO Sends Stark Warning to AI Industry &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1p0YXNBQVF2bkhLN3pQSkdxTjlJcFNuR0djRjJwU3dWYWxFSFJMZ3lvM1NrcFBCVGVlVkxJZnJBVzBPMDV5OEJ4Zlc1cTRsYXU5OE5WZEo0dlpDUmp2bzk2Q05Fb1pQbEtCdVpxU0hSTUhSeWxZZWRERGp3UkhEeWpQUjVxWm9FQlJBMlR2WFBjRGNyZ21RTENR?oc=5",
+   "published_at": "2026-09-24T20:18:15+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1p0YXNBQVF2bkhLN3pQSkdxTjlJcFNuR0djRjJwU3dWYWxFSFJMZ3lvM1NrcFBCVGVlVkxJZnJBVzBPMDV5OEJ4Zlc1cTRsYXU5OE5WZEo0dlpDUmp2bzk2Q05Fb1pQbEtCdVpxU0hSTUhSeWxZZWRERGp3UkhEeWpQUjVxWm9FQlJBMlR2WFBjRGNyZ21RTENR?oc=5\" target=\"_blank\">Nvidia CEO Sends Stark Warning to AI Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-21-026ac352f8",
+   "source_id": "news",
+   "source_name": "Stanford Graduate School of Business",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "World Development Report 2026: The Promise of Artificial Intelligence - Stanford Graduate School of Business",
+   "summary": "World Development Report 2026: The Promise of Artificial Intelligence &nbsp;&nbsp; Stanford Graduate School of Business",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTndyOWNEYlB4dHI4TlhGQ2k1MUNkSVRtbUp1SlA1NG5ydEt4bWx1TVk0YWtsaDRqY08wYk1xVzBUNDlDQWlUX0ZqT2ZDbGV2V0tlQmxoSHVONGR1YnZ3ZG5IV1ZoYXl5TzJkd1Q5WGpoemIxY3luMG1UT0NOSDJTWXE0U0xUUGFheGJlVXRYZ1dfNmU3WEVLekF4cG5vQQ?oc=5",
+   "published_at": "2026-09-24T16:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTndyOWNEYlB4dHI4TlhGQ2k1MUNkSVRtbUp1SlA1NG5ydEt4bWx1TVk0YWtsaDRqY08wYk1xVzBUNDlDQWlUX0ZqT2ZDbGV2V0tlQmxoSHVONGR1YnZ3ZG5IV1ZoYXl5TzJkd1Q5WGpoemIxY3luMG1UT0NOSDJTWXE0U0xUUGFheGJlVXRYZ1dfNmU3WEVLekF4cG5vQQ?oc=5\" target=\"_blank\">World Development Report 2026: The Promise of Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stanford Graduate School of Business</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-641-f88ca2161f",
+   "source_id": "news",
+   "source_name": "The Economic Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI startup Island valued at $6.4 billion in latest funding round - The Economic Times",
+   "summary": "AI startup Island valued at $6.4 billion in latest funding round &nbsp;&nbsp; The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWMzZVV6UWwzaG5sMzJiVzJjQlNwRzBrUHRyaGJZVFBYQUJVSXM3VUQtSkUyWU9pSmpDUWZFSlZhT2JRNEZoX3pJVWtxeTJVY09RUEQ5R2U5Zl9UNDVVUExlWjFBaWcwX0VYMUxoellXa3JFbjBzUDNlZW5HMmVxVU5hOTRxNU1xLUtmcGU0SHBMUTRJeThTU0FUOGxXYWtNRWNnM3JVc0RUSDNfWmlhT1pSQTZsLV9OaVVsd2p5ZUtkZHVKQ1U1XzB5WTlwOHpQNko4QjY4ckVac3B2Q3ln0gHkAUFVX3lxTE9SS1I2RW9wMERrLUZGc3ljNVV3VGFBMDAzTWZ1VDJIblI4bUticUtwVU1rUVNmRUFqQlNNX0hxa0pRbFBYZFIyOVctSU9IN21fWHhDWmN5Nndmdmp2VDhOcHFMaHVWdnNsejJaY1BZQ1hJVThVaENYa1hzNFoxU3JjLV9uS0NPbnd4TFlSUzd6ckJFLTcybXg2THBJUFpzN0FlUEx2Uk96bFVIOHlXLUV4eE44djlTcnV4bFdwcWZXaXFrNy1nWHJkZjJnaHNaa2gyS21UUkxxb0NsZTZaRUZNVVk2eg?oc=5",
+   "published_at": "2026-09-24T11:54:40+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWMzZVV6UWwzaG5sMzJiVzJjQlNwRzBrUHRyaGJZVFBYQUJVSXM3VUQtSkUyWU9pSmpDUWZFSlZhT2JRNEZoX3pJVWtxeTJVY09RUEQ5R2U5Zl9UNDVVUExlWjFBaWcwX0VYMUxoellXa3JFbjBzUDNlZW5HMmVxVU5hOTRxNU1xLUtmcGU0SHBMUTRJeThTU0FUOGxXYWtNRWNnM3JVc0RUSDNfWmlhT1pSQTZsLV9OaVVsd2p5ZUtkZHVKQ1U1XzB5WTlwOHpQNko4QjY4ckVac3B2Q3ln0gHkAUFVX3lxTE9SS1I2RW9wMERrLUZGc3ljNVV3VGFBMDAzTWZ1VDJIblI4bUticUtwVU1rUVNmRUFqQlNNX0hxa0pRbFBYZFIyOVctSU9IN21fWHhDWmN5Nndmdmp2VDhOcHFMaHVWdnNsejJaY1BZQ1hJVThVaENYa1hzNFoxU3JjLV9uS0NPbnd4TFlSUzd6ckJFLTcybXg2THBJUFpzN0FlUEx2Uk96bFVIOHlXLUV4eE44djlTcnV4bFdwcWZXaXFrNy1nWHJkZjJnaHNaa2gyS21UUkxxb0NsZTZaRUZNVVk2eg?oc=5\" target=\"_blank\">AI startup Island valued at $6.4 billion in latest funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-1053-f4da0c47f2",
+   "source_id": "news",
+   "source_name": "eastmoney.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta Connect 2026启幕 AI智能眼镜与智能体亮相丨盘前线索 - eastmoney.com",
+   "summary": "Meta Connect 2026启幕 AI智能眼镜与智能体亮相丨盘前线索 &nbsp;&nbsp; eastmoney.com",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Lbk9UNGkyWVNfWTZXaE5Sbzg1TkplN0RCR1ppS1lob3ptNEF4WHEtTkZnajI4V1hKeFFKQ2huWFdXYU82WURvLVVNald1ZFY3VWR4c0RTZ3JCZG5SSkVVRw?oc=5",
+   "published_at": "2026-09-24T07:37:35+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Lbk9UNGkyWVNfWTZXaE5Sbzg1TkplN0RCR1ppS1lob3ptNEF4WHEtTkZnajI4V1hKeFFKQ2huWFdXYU82WURvLVVNald1ZFY3VWR4c0RTZ3JCZG5SSkVVRw?oc=5\" target=\"_blank\">Meta Connect 2026启幕 AI智能眼镜与智能体亮相丨盘前线索</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eastmoney.com</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-138-008563894f",
+   "source_id": "news",
+   "source_name": "reuters.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What we know about the rogue AI-agent security breaches - reuters.com",
+   "summary": "What we know about the rogue AI-agent security breaches &nbsp;&nbsp; reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnRGd0w4WEhBT3ZTQ1lnOVRQYVpGTTAzMFVmMmE2Zi1vaFlCWWZNS0pXcDFOVWdwYjd2RktjMlV5ZjRGdzdVTWxQRHN4UXJJRThqYU9ZUmFua054eEowWHEzNV92SDhNQkdRQ2pwdl9YcWlId3NweWFRN0M3cEdwNGtyZ0JMNzJ5NWpuU0M4ZkVLZXJLYUNwbktZSTVBYnltRDkwMW12cw?oc=5",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnRGd0w4WEhBT3ZTQ1lnOVRQYVpGTTAzMFVmMmE2Zi1vaFlCWWZNS0pXcDFOVWdwYjd2RktjMlV5ZjRGdzdVTWxQRHN4UXJJRThqYU9ZUmFua054eEowWHEzNV92SDhNQkdRQ2pwdl9YcWlId3NweWFRN0M3cEdwNGtyZ0JMNzJ5NWpuU0M4ZkVLZXJLYUNwbktZSTVBYnltRDkwMW12cw?oc=5\" target=\"_blank\">What we know about the rogue AI-agent security breaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-699-faeb5ea796",
+   "source_id": "news",
+   "source_name": "Singapore Economic Development Board (EDB)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "More support for AI startups to scale faster under new Singapore-Microsoft partnership - Singapore Economic Development Board (EDB)",
+   "summary": "More support for AI startups to scale faster under new Singapore-Microsoft partnership &nbsp;&nbsp; Singapore Economic Development Board (EDB)",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNnZ2ZW01WXhrcXFxVFpRTUhTWHJXTU1JT2Zib3R1bi1vajZPNjhpekxwYnVudVBRUVktYzhKMmFKZjJrR3VzYXB0RHYwNlZNVndqMVNpUTNSb295dkp4ZHk1cHhVV1BqRjNVcnFGd0dpYW1oUXVYNGlEVGNuM05ObEVBSHVURGdUaWFpdGc0TzJoZWRnNUpuaGVVUVVPdXZqVFNDbm9HRGxZZWh4Q2s4WTVsaDV6LWU2NmozeHhaNXQwMVJzTFRjb2Y4aDgyTERoZ0E?oc=5",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "satya-nadella",
+   "builder_name": "Satya Nadella",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNnZ2ZW01WXhrcXFxVFpRTUhTWHJXTU1JT2Zib3R1bi1vajZPNjhpekxwYnVudVBRUVktYzhKMmFKZjJrR3VzYXB0RHYwNlZNVndqMVNpUTNSb295dkp4ZHk1cHhVV1BqRjNVcnFGd0dpYW1oUXVYNGlEVGNuM05ObEVBSHVURGdUaWFpdGc0TzJoZWRnNUpuaGVVUVVPdXZqVFNDbm9HRGxZZWh4Q2s4WTVsaDV6LWU2NmozeHhaNXQwMVJzTFRjb2Y4aDgyTERoZ0E?oc=5\" target=\"_blank\">More support for AI startups to scale faster under new Singapore-Microsoft partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Singapore Economic Development Board (EDB)</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-929-8be0b08952",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型重构安全攻防：人还没反应过来 智能体已经出手了 - 东方财富",
+   "summary": "AI大模型重构安全攻防：人还没反应过来 智能体已经出手了 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jRm9UWDBpdWpEeHhVQTYtbHQ4Z3plRV9kd0NJVFZncHkyQ3lCRkMxeVpBMm94WUtzUTJ1N21JUVkweF9tNXVvOFA2WmtERG9ROVd4NFBfc2MwZk1IWXlrb0lxSEtjZw?oc=5",
+   "published_at": "2026-09-24T04:53:58+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jRm9UWDBpdWpEeHhVQTYtbHQ4Z3plRV9kd0NJVFZncHkyQ3lCRkMxeVpBMm94WUtzUTJ1N21JUVkweF9tNXVvOFA2WmtERG9ROVd4NFBfc2MwZk1IWXlrb0lxSEtjZw?oc=5\" target=\"_blank\">AI大模型重构安全攻防：人还没反应过来 智能体已经出手了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
   }
  ]
 }

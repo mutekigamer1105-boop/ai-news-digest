@@ -12862,6 +12862,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxONmFiYnh5YW43VkhJbXgtSjREVEVrd1p3ZXY2MlAzODdycG00ZTFvVGd6ZFBHMDRCUGRKdkg5Mmo3aXRSZ0dlZHRBYWVIRDF4b2EzNW53WFRDanI1cGk0Y3JoeEg1Ylc2eE8tamg0Rkt3ZjhxcUVHMlltWERpUktHZTVETWEyZ0p1SnpXSGwzdldHajA?oc=5\" target=\"_blank\">Apple Takes Aim at Nvidia’s AI Economics: New Macs Have ‘No Cost per Token,’ Hardware Chief Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
    "fetched_at": "2026-09-27T04:05:04+00:00"
+  },
+  {
+   "id": "web-215-ab7e6fb1fd",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Disentangling interaction and bias effects in opinion dynamics of large language models - Nature",
+   "summary": "Disentangling interaction and bias effects in opinion dynamics of large language models &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hU0RzTUZQSFl3OTJjZWtRTTJKQ1dTQnBIUS1na2dOb1BTM1I0UzJQT3QxMDE1RGtkM0pJa0Z6VHh6V0Jhd2M5TEZ1YlFCQzFfeUIwS1hYbmh5QVJGU2dZ?oc=5",
+   "published_at": "2026-09-22T12:24:51+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hU0RzTUZQSFl3OTJjZWtRTTJKQ1dTQnBIUS1na2dOb1BTM1I0UzJQT3QxMDE1RGtkM0pJa0Z6VHh6V0Jhd2M5TEZ1YlFCQzFfeUIwS1hYbmh5QVJGU2dZ?oc=5\" target=\"_blank\">Disentangling interaction and bias effects in opinion dynamics of large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
   }
  ]
 }

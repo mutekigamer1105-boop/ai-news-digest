@@ -11583,6 +11583,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5xN3ZFU1pIWHZIVXZwWnpBRlI5b05aZXlOQ2hIX3B3UnBLRTNrRWJPRDROdEZTYjQtbVNrNnV1cGZ4TkZ4UTM2bEc0MFZPbmxlNDRMeHlDWE1zUTR0S0tUOU12S0tjRC1zeGgxblp4RlVWUGdTVkM1RFg0QXZsdVU?oc=5\" target=\"_blank\">Another Anthropic model gained access to the open internet during testing, company says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbsnews.com</font>",
    "fetched_at": "2026-09-26T04:05:14+00:00"
+  },
+  {
+   "id": "web-603-605ef8daa0",
+   "source_id": "news",
+   "source_name": "reuters.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Ooredoo-backed Zankore secures $3.1 billion financing for Nvidia AI cloud platform - reuters.com",
+   "summary": "Ooredoo-backed Zankore secures $3.1 billion financing for Nvidia AI cloud platform &nbsp;&nbsp; reuters.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGRWOGlmVzZad0ZOUVZNb0NBZjMyTEgtWFJwaVFWWm5tM3B4eC1DSmhlc3JBWU15NHdUVks3Yzk0a2M5VlhueWQxbnR3NERkRFNEZmhGMWVKOVg2WlU4Zkx4WmlvSmUtcHhkNVhjN0VHMU5RNllIbjNiVFdycUhvZEFzeTNjVi1OOXZoODBoc1BacC1KS2FkUlJJMlhfWDhKR19XdHI2TjJTelpGV3NCMTM0TllROHo3cVRFSGZnZ2xWTUhuVGNGNkkwMjNueGRa?oc=5",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGRWOGlmVzZad0ZOUVZNb0NBZjMyTEgtWFJwaVFWWm5tM3B4eC1DSmhlc3JBWU15NHdUVks3Yzk0a2M5VlhueWQxbnR3NERkRFNEZmhGMWVKOVg2WlU4Zkx4WmlvSmUtcHhkNVhjN0VHMU5RNllIbjNiVFdycUhvZEFzeTNjVi1OOXZoODBoc1BacC1KS2FkUlJJMlhfWDhKR19XdHI2TjJTelpGV3NCMTM0TllROHo3cVRFSGZnZ2xWTUhuVGNGNkkwMjNueGRa?oc=5\" target=\"_blank\">Ooredoo-backed Zankore secures $3.1 billion financing for Nvidia AI cloud platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-1100-d160d5beba",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "上海精智魏杰：“工厂原生”开启工业AI智能体新时代 - 东方财富",
+   "summary": "上海精智魏杰：“工厂原生”开启工业AI智能体新时代 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TSkhtdTJIemNGM1R0MFVGZ1VYdXgyS3JUSzhIYklyU0E3alFucW1YRm1Kc1B5QzI0aFptNW1sN0FvNlFPV0x6SC1mTnRXdnhrYUZnTndEQjhZMDVpaGhDQ3I5TUJPZw?oc=5",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TSkhtdTJIemNGM1R0MFVGZ1VYdXgyS3JUSzhIYklyU0E3alFucW1YRm1Kc1B5QzI0aFptNW1sN0FvNlFPV0x6SC1mTnRXdnhrYUZnTndEQjhZMDVpaGhDQ3I5TUJPZw?oc=5\" target=\"_blank\">上海精智魏杰：“工厂原生”开启工业AI智能体新时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
   }
  ]
 }

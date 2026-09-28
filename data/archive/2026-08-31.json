@@ -1412,6 +1412,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRmEyNWVUSllxSklfN0pLQU9zQldXN3BCVWQ3ZkIwQmV2Z0xIZGE4c3BHYUVOSU8wVzZmQkd1Sk51MGF0Ui1kT3pjb1o0QkZKaVFzeUpzN3hBQQ?oc=5\" target=\"_blank\">小模型逆袭大块头！上海本地AI模型国家级测评逼近万亿参数旗舰</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
    "fetched_at": "2026-09-25T04:05:21+00:00"
+  },
+  {
+   "id": "web-970-755a5f3ee6",
+   "source_id": "news",
+   "source_name": "国际在线",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "视频｜美知名媒体人：十年深耕 中国AI大模型超预期发展 - 国际在线",
+   "summary": "视频｜美知名媒体人：十年深耕 中国AI大模型超预期发展 &nbsp;&nbsp; 国际在线",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VLVpHZDloaVYtZ3AyMExfUmY2aVRHMHpJclZ5aFhwM1ZjVkRHVzZtc2JEZ1E2bmtCdloyZWRtWjZlbUhfLXIxSDJsVWFKNVJqcmJzdG5HbzBiclgzbGQzQkZENTh5ZzBQei1rcXI0SlJZWE45eWRmWHNB?oc=5",
+   "published_at": "2026-08-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5VLVpHZDloaVYtZ3AyMExfUmY2aVRHMHpJclZ5aFhwM1ZjVkRHVzZtc2JEZ1E2bmtCdloyZWRtWjZlbUhfLXIxSDJsVWFKNVJqcmJzdG5HbzBiclgzbGQzQkZENTh5ZzBQei1rcXI0SlJZWE45eWRmWHNB?oc=5\" target=\"_blank\">视频｜美知名媒体人：十年深耕 中国AI大模型超预期发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">国际在线</font>",
+   "fetched_at": "2026-09-28T04:06:10+00:00"
   }
  ]
 }
