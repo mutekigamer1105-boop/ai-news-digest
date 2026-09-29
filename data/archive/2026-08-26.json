@@ -747,6 +747,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zZ2tmZ01kLUFpRnU5OEZRR0c4YnVjTmo0SU1pT0pGYzczaHc1THZvY2p3c0pYQzY3OFZSYUZYUkZPVVdYajZ2dXJLdnBlZkMxSzBwTHBfcm5JamRjTEliR1pjc3hQXzdFd2ZqcWVKaFcwNDQ?oc=5\" target=\"_blank\">AWS and NVIDIA expand partnership for next-gen AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aboutamazon.com</font>",
    "fetched_at": "2026-09-20T04:05:20+00:00"
+  },
+  {
+   "id": "web-85-e05bf30d74",
+   "source_id": "news",
+   "source_name": "Gates Notes",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
+   "summary": "The turbulent AI era is here. The choices we make now are critical. &nbsp;&nbsp; Gates Notes",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5\" target=\"_blank\">The turbulent AI era is here. The choices we make now are critical.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gates Notes</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
   }
  ]
 }

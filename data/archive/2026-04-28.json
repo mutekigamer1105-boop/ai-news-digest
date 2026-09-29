@@ -64,6 +64,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUROb3RWUk05bDBVU0k3UEctOVRTcURodWJ5ajZ4eThIV3RVUDJzMWZXYnJEUFpiQnZZVWVtYU94Y2pWZnpOTDBkQ29aZ29Jbi0xZldNQXk0LWdob2xSekwxSTlMeC0taVlOenl3UVBjRi1UVmVLdks3SDd6WW1pdExwWmxhRW4yNEY3Wmp6YmNMenM?oc=5\" target=\"_blank\">Ask Don't Tell: Reducing Sycophancy in Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Security Institute (AISI)</font>",
    "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-96-ee2714f670",
+   "source_id": "news",
+   "source_name": "NCUA (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Artificial Intelligence (AI) - NCUA (.gov)",
+   "summary": "Artificial Intelligence (AI) &nbsp;&nbsp; NCUA (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWduQjI5SHFzZ1I4SV9vb1ZwUWxnSlZ5NDM2b2IxLTRBOFMyQVJ1YUkyV2RrZ2FhTjlHY1RYTGdDNDdwcHJzWVhFcGZmWkxSS2kxcWJRUlozeWEzaXhvdHVadkdzRlRUc1RWOFdVbDJRbFQ0R195VFZXMnpsMWlVMUNoUTM3U0o5WXpCTWFqd0xXLXBwRGdKQTJxNmxHWlk?oc=5",
+   "published_at": "2026-04-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWduQjI5SHFzZ1I4SV9vb1ZwUWxnSlZ5NDM2b2IxLTRBOFMyQVJ1YUkyV2RrZ2FhTjlHY1RYTGdDNDdwcHJzWVhFcGZmWkxSS2kxcWJRUlozeWEzaXhvdHVadkdzRlRUc1RWOFdVbDJRbFQ0R195VFZXMnpsMWlVMUNoUTM3U0o5WXpCTWFqd0xXLXBwRGdKQTJxNmxHWlk?oc=5\" target=\"_blank\">Artificial Intelligence (AI)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NCUA (.gov)</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
   }
  ]
 }

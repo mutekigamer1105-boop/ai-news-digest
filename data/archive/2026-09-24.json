@@ -12298,6 +12298,72 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jRm9UWDBpdWpEeHhVQTYtbHQ4Z3plRV9kd0NJVFZncHkyQ3lCRkMxeVpBMm94WUtzUTJ1N21JUVkweF9tNXVvOFA2WmtERG9ROVd4NFBfc2MwZk1IWXlrb0lxSEtjZw?oc=5\" target=\"_blank\">AI大模型重构安全攻防：人还没反应过来 智能体已经出手了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-659-6bbbff06e5",
+   "source_id": "news",
+   "source_name": "The Star",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI startup Island valued at $6.4 billion in latest funding round - The Star",
+   "summary": "AI startup Island valued at $6.4 billion in latest funding round &nbsp;&nbsp; The Star",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ21EbHNOZkNfOXM1bWowUW5QbHUxNjZTUzl6aVo5aTl2MFJwRGxSZzJ2ZWk3bEN4VXhPdDhpci1qOWVPTXRVb1dZS3pkQkphMGp6M0pySUNMRnFjcW5XV1BRNmQzaTdRQ25YVUxIVHhEUWM2RjNySjlqYmp6Z1FnbzdDRENRc3B4TDZMSk5oY3V0ek1KSVB5Q0pERlVSaEd4dW9Db1dzVmVXbTJnbmhVYVhkVEhmdw?oc=5",
+   "published_at": "2026-09-24T10:59:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ21EbHNOZkNfOXM1bWowUW5QbHUxNjZTUzl6aVo5aTl2MFJwRGxSZzJ2ZWk3bEN4VXhPdDhpci1qOWVPTXRVb1dZS3pkQkphMGp6M0pySUNMRnFjcW5XV1BRNmQzaTdRQ25YVUxIVHhEUWM2RjNySjlqYmp6Z1FnbzdDRENRc3B4TDZMSk5oY3V0ek1KSVB5Q0pERlVSaEd4dW9Db1dzVmVXbTJnbmhVYVhkVEhmdw?oc=5\" target=\"_blank\">AI startup Island valued at $6.4 billion in latest funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Star</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-187-1aaa1580a7",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun - WSJ",
+   "summary": "Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00Ri03WHN1eHFSTkktU0lYVzNPZlB3R0VhSDNEN25KTDNYa0RPVmlzcXBscGlNUjBNYmRLd2dHNFZhaGpLblNPZHJEdDNmTHd2RUFiVkhLZ2k2d3lsZU1KeU5SZndZelNqRnFTbHhSdWZOVG8?oc=5",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE00Ri03WHN1eHFSTkktU0lYVzNPZlB3R0VhSDNEN25KTDNYa0RPVmlzcXBscGlNUjBNYmRLd2dHNFZhaGpLblNPZHJEdDNmTHd2RUFiVkhLZ2k2d3lsZU1KeU5SZndZelNqRnFTbHhSdWZOVG8?oc=5\" target=\"_blank\">Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-1073-ef4348cded",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta Connect 2026启幕 AI智能眼镜与智能体亮相丨盘前线索 - 东方财富",
+   "summary": "Meta Connect 2026启幕 AI智能眼镜与智能体亮相丨盘前线索 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84cU9zeENBV2t4RnpqT2RqcTBxU0R6OTFFV0lpUzFKNFNNWVpfaml4RnFOQWQ3SnZOSWNtUGljTndkQTkzZ2FaSjJ5MTlueWZ3WDZIUEliUkktWUpQcHRCcHMzdmExUQ?oc=5",
+   "published_at": "2026-09-24T01:47:02+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE84cU9zeENBV2t4RnpqT2RqcTBxU0R6OTFFV0lpUzFKNFNNWVpfaml4RnFOQWQ3SnZOSWNtUGljTndkQTkzZ2FaSjJ5MTlueWZ3WDZIUEliUkktWUpQcHRCcHMzdmExUQ?oc=5\" target=\"_blank\">Meta Connect 2026启幕 AI智能眼镜与智能体亮相丨盘前线索</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
   }
  ]
 }

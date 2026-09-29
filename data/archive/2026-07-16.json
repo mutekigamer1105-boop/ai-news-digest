@@ -285,6 +285,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmpxdXVqWlU3TWhraGVLa290R191VEZ3UmVwRXA0QzhhQzVUcGJNUm5oR3hUNnNxUThjVmk2c1k5VmVzeXExT1hOMFhtMHpTQ25USUJiZzBaRkI4MFRiZmJLTGhIdE5UZGg5cnJ3Z1RiX2hfcnlKOXhadmJtZkRiSU8xU2cxV2tiNVVBakFsUWhFX3h2ZnNBeWVR?oc=5\" target=\"_blank\">Moonshot’s Kimi K3 pushes Chinese AI into Fable-level territory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-98-e2cd6c6505",
+   "source_id": "news",
+   "source_name": "American Library Association",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "ALA Council adopts Guidance on the Use of Artificial Intelligence in Libraries - American Library Association",
+   "summary": "ALA Council adopts Guidance on the Use of Artificial Intelligence in Libraries &nbsp;&nbsp; American Library Association",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnVXa1V5V3BGSC1XbWVlcHNJUDdldmJwWjRFczhNYk1BajJpYW53ZXJZeHdkYmplZXp5UGtFXzFCNGRYWWtPalpiek1ZUENYLXBDWHdIZzFzY0FCOXJaVnZENTJfNTBjYTdTZ3FVVlY1OC1Wc0F4TlcwOWw1SnlFRDRlUE1GcVZZaEJIZGxSVFRnSjhvalNOdjdTVWktY3M?oc=5",
+   "published_at": "2026-07-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnVXa1V5V3BGSC1XbWVlcHNJUDdldmJwWjRFczhNYk1BajJpYW53ZXJZeHdkYmplZXp5UGtFXzFCNGRYWWtPalpiek1ZUENYLXBDWHdIZzFzY0FCOXJaVnZENTJfNTBjYTdTZ3FVVlY1OC1Wc0F4TlcwOWw1SnlFRDRlUE1GcVZZaEJIZGxSVFRnSjhvalNOdjdTVWktY3M?oc=5\" target=\"_blank\">ALA Council adopts Guidance on the Use of Artificial Intelligence in Libraries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Library Association</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
   }
  ]
 }

@@ -5061,6 +5061,94 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQaE5CT3ZqUUJWZy1zUV9hMFhmcUJYMWl5NlpMYkxTTHVDVmZSSjJMdmgxY3lFWldhbGNSbU5FODZ6SjQyV1NkNFhkRG92a3NuTThQenlzMnR1a1I5TnFFZXJScVI3TDNRSERNNEE5cnFIcHVsOXZWQXlDcTNLOGhGWFpONTExaTBMRUdpQ1RONFB4bmRpVzZR?oc=5\" target=\"_blank\">OpenAI tries to allay mathematicians’ concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
    "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-808-059ccf5e7a",
+   "source_id": "news",
+   "source_name": "华尔街日报中文版",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中美同意削减关税并启动AI对话 - 华尔街日报中文版",
+   "summary": "中美同意削减关税并启动AI对话 &nbsp;&nbsp; 华尔街日报中文版",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT2NXVFczX1hySGs0c2JUbU1INXNOb3lsbFN0QXR2LWxTdl9WV3pqcE5qLXhNSXpzc29CZ1VpWm0zLTlFM3FLaDUtQkU5UnlYOHl4cjVWQUVnNkFSUGJ6dWNlNktpSDNJUGVTVW11emxuZlp2OExCMVh2UndTT1NPdFF6WDRqaVJaNTVuTnUxZVFWS0ZWcVVjejBUZmRMRFVldWdWR0RoeHk2RmpzWFpYSDN0QnJxZGloUUd4bnZEYk5Ta3hET0k0b1NaVXNPeVotTkFqd25VeXIwSWNySDhXUmk2NS1rZ0pIOUd0QQ?oc=5",
+   "published_at": "2026-09-27T23:43:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT2NXVFczX1hySGs0c2JUbU1INXNOb3lsbFN0QXR2LWxTdl9WV3pqcE5qLXhNSXpzc29CZ1VpWm0zLTlFM3FLaDUtQkU5UnlYOHl4cjVWQUVnNkFSUGJ6dWNlNktpSDNJUGVTVW11emxuZlp2OExCMVh2UndTT1NPdFF6WDRqaVJaNTVuTnUxZVFWS0ZWcVVjejBUZmRMRFVldWdWR0RoeHk2RmpzWFpYSDN0QnJxZGloUUd4bnZEYk5Ta3hET0k0b1NaVXNPeVotTkFqd25VeXIwSWNySDhXUmk2NS1rZ0pIOUd0QQ?oc=5\" target=\"_blank\">中美同意削减关税并启动AI对话</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街日报中文版</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-594-b54b13cb2b",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "China May Reopen Nvidia's AI Market. How Will NVDA Stock React Monday? - Yahoo Finance",
+   "summary": "China May Reopen Nvidia's AI Market. How Will NVDA Stock React Monday? &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWFxY2xrRWMwRWhXUlQ0MDhsUlJlQjJraTJnUGpKaDN5QVF6TTltWDJTT2syQ0pRdFRNNjZDb3VvU1lma21vLThXR0dOX3JKTktUdjNITjB2M0RRUnlNVTlITDVqNzVjNW8xemZBcHA4WkhEZlVmOGJQa0kwY1ZwVnJqR2RUeXlfc2VtNmVQelBhcE5UZ0E0?oc=5",
+   "published_at": "2026-09-27T19:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWFxY2xrRWMwRWhXUlQ0MDhsUlJlQjJraTJnUGpKaDN5QVF6TTltWDJTT2syQ0pRdFRNNjZDb3VvU1lma21vLThXR0dOX3JKTktUdjNITjB2M0RRUnlNVTlITDVqNzVjNW8xemZBcHA4WkhEZlVmOGJQa0kwY1ZwVnJqR2RUeXlfc2VtNmVQelBhcE5UZ0E0?oc=5\" target=\"_blank\">China May Reopen Nvidia's AI Market. How Will NVDA Stock React Monday?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-168-60396d2c61",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots - CNBC",
+   "summary": "Meta's Muse agent is attacking one of the economy's most profitable weak spots &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ETGE2S1ZqMWk4djE5R3c5YnV6VGV0eUZqN0ZaNXZDaXlMY2RUcWNWdDI3V0stY2JrZXVMWjRzTUhGZ3dOTk8zSkUtY1ZmZlRiazkyYUVaYUZFdVlaT210WWdRYUlpa09yclZhb3JDWEVoQdIBd0FVX3lxTE12NGNnN0FJaVdSRWRVR0tQcklzNlRMTTBpSjFOcVB4OGhCeFBIWkUzUENxSXlpQThkY1FZX3F2NjRZSVhJaWVleHkxbDQtd3N4OVlkWVZuQ3FkYk02VjA4WTU4ZGdHUFdQWkxrYjlOVzNrRzZBQkhV?oc=5",
+   "published_at": "2026-09-27T14:33:22+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5ETGE2S1ZqMWk4djE5R3c5YnV6VGV0eUZqN0ZaNXZDaXlMY2RUcWNWdDI3V0stY2JrZXVMWjRzTUhGZ3dOTk8zSkUtY1ZmZlRiazkyYUVaYUZFdVlaT210WWdRYUlpa09yclZhb3JDWEVoQdIBd0FVX3lxTE12NGNnN0FJaVdSRWRVR0tQcklzNlRMTTBpSjFOcVB4OGhCeFBIWkUzUENxSXlpQThkY1FZX3F2NjRZSVhJaWVleHkxbDQtd3N4OVlkWVZuQ3FkYk02VjA4WTU4ZGdHUFdQWkxrYjlOVzNrRzZBQkhV?oc=5\" target=\"_blank\">Meta's Muse agent is attacking one of the economy's most profitable weak spots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-1013-45882d97aa",
+   "source_id": "news",
+   "source_name": "凤凰网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "入侵美澳政府网站！OpenAI暂停最先进模型训练 - 凤凰网",
+   "summary": "入侵美澳政府网站！OpenAI暂停最先进模型训练 &nbsp;&nbsp; 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzZEQ0cGJIbXlWNFZNYlNWcmZJUWFYZ0hxdTd0NjJVMmdOODNNdWpVd0QwbWFzbjgxbkQyYzA3bkNPeUJ2UFFZQkx6YWY?oc=5",
+   "published_at": "2026-09-27T05:17:39+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzZEQ0cGJIbXlWNFZNYlNWcmZJUWFYZ0hxdTd0NjJVMmdOODNNdWpVd0QwbWFzbjgxbkQyYzA3bkNPeUJ2UFFZQkx6YWY?oc=5\" target=\"_blank\">入侵美澳政府网站！OpenAI暂停最先进模型训练</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
   }
  ]
 }

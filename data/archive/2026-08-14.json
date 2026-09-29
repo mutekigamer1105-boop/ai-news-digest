@@ -368,6 +368,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHhwY0pIeWZ2ZExteHkxMVlrQjk1VjIwMkljT1NZcmlNbHJ1azR6OGFtOFhoOExWb1BrMW9hTjZINkhDWFVKVUYxRXNkczROcVhOV0dwdzZ1ZG5xd1VDQTI3MUpONFAxekhoMFRwZ3RWY2JiTl84bFRSQXJKY25lMVg2aldaTEdxbUktZkxzYWI5bkVUUERjYVV5YVlZSVk?oc=5\" target=\"_blank\">Ilya Sutskever's SSI First Model After $8 Billion Raised 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StartupHub.ai</font>",
    "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-94-b6b7956d43",
+   "source_id": "news",
+   "source_name": "U.S. National Science Foundation (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "NSF State and Regional Artificial Intelligence Infrastructure Hubs Webinar | NSF - U.S. National Science Foundation - U.S. National Science Foundation (.gov)",
+   "summary": "NSF State and Regional Artificial Intelligence Infrastructure Hubs Webinar | NSF - U.S. National Science Foundation &nbsp;&nbsp; U.S. National Science Foundation (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXkwZTN3VWxQc25XZEhKTml0SjU1SVFyZGJSOVdacFZURm5VMVdvMGIzVjdaaHNVbTlhd3RlZnVBQUc5S2hLLUM3N21zdmpLZFFCamtxaVdTNExKZnhYS29HdjFIWTZyYVU4RFh0WHd6WjhxUTdPTE9KX1BMWlg3X0swV3RSVExhQldXVw?oc=5",
+   "published_at": "2026-08-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXkwZTN3VWxQc25XZEhKTml0SjU1SVFyZGJSOVdacFZURm5VMVdvMGIzVjdaaHNVbTlhd3RlZnVBQUc5S2hLLUM3N21zdmpLZFFCamtxaVdTNExKZnhYS29HdjFIWTZyYVU4RFh0WHd6WjhxUTdPTE9KX1BMWlg3X0swV3RSVExhQldXVw?oc=5\" target=\"_blank\">NSF State and Regional Artificial Intelligence Infrastructure Hubs Webinar | NSF - U.S. National Science Foundation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. National Science Foundation (.gov)</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
   }
  ]
 }

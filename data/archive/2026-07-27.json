@@ -263,6 +263,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVVXMHQxeUZNNzdfaXRaSjlQQ0ZIOWkzaEFLNVhHNWZnb1c3Zkc3U21EVjF0OVNFaW9kNjZ6eGctUlRQWEJRZGZ3Smd3dVFnOTVtc3g5NmVBVHBfQzY1eV9IclM0Z1d2VE5NdDFkQU9GSDNXTHlpbXk0Z3c2eWxqb29VQ3BRNzVoUXc?oc=5\" target=\"_blank\">国务院国资委发布2026央企人工智能战略性高价值场景等系列成果</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sasac.gov.cn</font>",
    "fetched_at": "2026-09-27T04:05:04+00:00"
+  },
+  {
+   "id": "web-91-d1e84c15ea",
+   "source_id": "news",
+   "source_name": "National Institute of Standards and Technology (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Announcing NIST's Artificial Intelligence Technology Evaluation (AITE) - National Institute of Standards and Technology (.gov)",
+   "summary": "Announcing NIST's Artificial Intelligence Technology Evaluation (AITE) &nbsp;&nbsp; National Institute of Standards and Technology (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS0NneTFyOFk3R1AzMkdHY1c5dlZSZUlrVDFZNWlNR2ZDLW55R3Y0U1N3UmZGM0ZETUl2Rk1rNE54dTFFQ0RVNHl3aUZKeGlXYTU1cE9tN2RDZ2Z5NDR2ZTRUWUhidVpDejBVVHVsSnZ3eHpBT2FIQlpFN3k4R3phbENTUk1iQm9NWXhheWIwZE5oSUlROXBXSF9GeU1OZzFPOUh2MWpSdWt4NmFlblM0NlVLbw?oc=5",
+   "published_at": "2026-07-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQS0NneTFyOFk3R1AzMkdHY1c5dlZSZUlrVDFZNWlNR2ZDLW55R3Y0U1N3UmZGM0ZETUl2Rk1rNE54dTFFQ0RVNHl3aUZKeGlXYTU1cE9tN2RDZ2Z5NDR2ZTRUWUhidVpDejBVVHVsSnZ3eHpBT2FIQlpFN3k4R3phbENTUk1iQm9NWXhheWIwZE5oSUlROXBXSF9GeU1OZzFPOUh2MWpSdWt4NmFlblM0NlVLbw?oc=5\" target=\"_blank\">Announcing NIST's Artificial Intelligence Technology Evaluation (AITE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Institute of Standards and Technology (.gov)</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
   }
  ]
 }

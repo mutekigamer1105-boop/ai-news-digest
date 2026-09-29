@@ -43,6 +43,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE03NHpjamg5RDRwMUI3QXRadWxqOFpSNEF4M1k3cV9ycXRpbDFLdmJwX0VSeGMtMFdwRTgyN3hvUUQ2MEU1YkJZV1pSal9jcFdLUFRzdFRjM05HWURJX0l0Tk5PcU8wZw?oc=5\" target=\"_blank\">OpenAI暂停Astra部分开发，模型网络攻击能力引发安全担忧| 乌克兰新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-03T18:57:31+00:00"
+  },
+  {
+   "id": "web-93-974e1bb93c",
+   "source_id": "news",
+   "source_name": "Bowie State University",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Bowie State University Launches Bachelor of Science in Artificial Intelligence - Bowie State University",
+   "summary": "Bowie State University Launches Bachelor of Science in Artificial Intelligence &nbsp;&nbsp; Bowie State University",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUxPUFJ0N3ptUElIcWZtSkQ2T3FIRTFlQ00wUXdXSEdMWDgtTEE1SWZwUXAzeWNYVVAtYVdFbWdCbFE4MURvVkJSbGMwMEpKWEpJZ1Qyd2swRFdRblhTWkZJODFyUlVFQlg3ZDdhb1pqMzU4M0JXRlpaYlpKLXUtaEZmcTA0bjBIMUpkSlJOclFUb2RmeGtLVEdvdldhYTMtNHE1Rzk0NHpudlpBLXh4Ul9MVWhFR1Y5cXVfUjZR?oc=5",
+   "published_at": "2026-08-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUxPUFJ0N3ptUElIcWZtSkQ2T3FIRTFlQ00wUXdXSEdMWDgtTEE1SWZwUXAzeWNYVVAtYVdFbWdCbFE4MURvVkJSbGMwMEpKWEpJZ1Qyd2swRFdRblhTWkZJODFyUlVFQlg3ZDdhb1pqMzU4M0JXRlpaYlpKLXUtaEZmcTA0bjBIMUpkSlJOclFUb2RmeGtLVEdvdldhYTMtNHE1Rzk0NHpudlpBLXh4Ul9MVWhFR1Y5cXVfUjZR?oc=5\" target=\"_blank\">Bowie State University Launches Bachelor of Science in Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bowie State University</font>",
+   "fetched_at": "2026-09-29T04:05:44+00:00"
   }
  ]
 }
