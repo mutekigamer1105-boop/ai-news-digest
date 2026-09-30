@@ -12377,6 +12377,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LSEJvTWFHN3AwODlsTFpON2syOEVnRVJhT3BueFFGbkZsWl9ZbzJHS3ZELUxOdXZSSmNyZUFuM1ZUbHpZMjJCeFFrVnc?oc=5\" target=\"_blank\">Security Council, 10228th Meeting (PM) Artificial Intelligence and International Security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN Meetings Coverage and Press Releases</font>",
    "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-596-20ce685be3",
+   "source_id": "news",
+   "source_name": "NVIDIA Developer",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Validate GPU Cluster Readiness Before AI Workloads Land | NVIDIA Technical Blog - NVIDIA Developer",
+   "summary": "Validate GPU Cluster Readiness Before AI Workloads Land | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlNTSjdfTkRBYWxsUjVtRmtsZG9iejl1Q1E5Mkh3bURWelAyNUNzYVBCNC1GeHp6OTBKSnJIb1BJSDEyWWtWdXgzckFyYzN6bTJlclE2Qkd3UW1GOUlsWjlSX1F6REFOSC1jTTBldTFOQVNlcm5zbm1HQzdiVTBBOVpQTkNuZW0wTTVFaFY2Y1A4YW9i?oc=5",
+   "published_at": "2026-09-23T19:45:37+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlNTSjdfTkRBYWxsUjVtRmtsZG9iejl1Q1E5Mkh3bURWelAyNUNzYVBCNC1GeHp6OTBKSnJIb1BJSDEyWWtWdXgzckFyYzN6bTJlclE2Qkd3UW1GOUlsWjlSX1F6REFOSC1jTTBldTFOQVNlcm5zbm1HQzdiVTBBOVpQTkNuZW0wTTVFaFY2Y1A4YW9i?oc=5\" target=\"_blank\">Validate GPU Cluster Readiness Before AI Workloads Land | NVIDIA Technical Blog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Developer</font>",
+   "fetched_at": "2026-09-30T04:06:27+00:00"
+  },
+  {
+   "id": "web-947-d056abee8d",
+   "source_id": "news",
+   "source_name": "eastmoney.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "马斯克惊叹中国AI大模型 “单位算力产出性能几乎是全球顶尖水平” - eastmoney.com",
+   "summary": "马斯克惊叹中国AI大模型 “单位算力产出性能几乎是全球顶尖水平” &nbsp;&nbsp; eastmoney.com",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13VmJhckVhbnFHdXNlcHZlWlJhcE1PMFN3TlhiLVpuSlRTU2I3c2EzRDMybnhPSTRlYUFFNS1rVy02c0hhcWdudkpsaDg2eUl4eVFTQVJ4b3RxMXNLVW9SNA?oc=5",
+   "published_at": "2026-09-23T06:26:46+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE13VmJhckVhbnFHdXNlcHZlWlJhcE1PMFN3TlhiLVpuSlRTU2I3c2EzRDMybnhPSTRlYUFFNS1rVy02c0hhcWdudkpsaDg2eUl4eVFTQVJ4b3RxMXNLVW9SNA?oc=5\" target=\"_blank\">马斯克惊叹中国AI大模型 “单位算力产出性能几乎是全球顶尖水平”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eastmoney.com</font>",
+   "fetched_at": "2026-09-30T04:06:27+00:00"
   }
  ]
 }

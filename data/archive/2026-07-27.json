@@ -284,6 +284,30 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQS0NneTFyOFk3R1AzMkdHY1c5dlZSZUlrVDFZNWlNR2ZDLW55R3Y0U1N3UmZGM0ZETUl2Rk1rNE54dTFFQ0RVNHl3aUZKeGlXYTU1cE9tN2RDZ2Z5NDR2ZTRUWUhidVpDejBVVHVsSnZ3eHpBT2FIQlpFN3k4R3phbENTUk1iQm9NWXhheWIwZE5oSUlROXBXSF9GeU1OZzFPOUh2MWpSdWt4NmFlblM0NlVLbw?oc=5\" target=\"_blank\">Announcing NIST's Artificial Intelligence Technology Evaluation (AITE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Institute of Standards and Technology (.gov)</font>",
    "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-1154-6a9780bfa8",
+   "source_id": "news",
+   "source_name": "CoinDesk",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Nvidia成立37人AI安全联盟，未包括OpenAI、Anthropic或Google - CoinDesk",
+   "summary": "Nvidia成立37人AI安全联盟，未包括OpenAI、Anthropic或Google &nbsp;&nbsp; CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3RQYkU5Skx4WG5QcVNWSkEwcEpyTlpTUXliak1KNTRMckRodVFqWm9KWG9YU3JRaDdtVzczZThRanVKb2g3VENUeXpLS29aSTZrN18xRG5fRmdITlI3MFZFYXhPcDdZUmswQVE3TFgyOGJHRzR3QkdTOGgxVVY2SFg4ZjZaZklWT19zaE1VRlhwYlJ5TXI4XzVmWXNJUHVNamVSbnJNTXd0VkNnYmYtWElxV2VaZE9YTFhCUl9IOA?oc=5",
+   "published_at": "2026-07-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3RQYkU5Skx4WG5QcVNWSkEwcEpyTlpTUXliak1KNTRMckRodVFqWm9KWG9YU3JRaDdtVzczZThRanVKb2g3VENUeXpLS29aSTZrN18xRG5fRmdITlI3MFZFYXhPcDdZUmswQVE3TFgyOGJHRzR3QkdTOGgxVVY2SFg4ZjZaZklWT19zaE1VRlhwYlJ5TXI4XzVmWXNJUHVNamVSbnJNTXd0VkNnYmYtWElxV2VaZE9YTFhCUl9IOA?oc=5\" target=\"_blank\">Nvidia成立37人AI安全联盟，未包括OpenAI、Anthropic或Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+   "fetched_at": "2026-09-30T04:06:27+00:00"
   }
  ]
 }

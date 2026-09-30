@@ -12442,6 +12442,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMk0ya0Q5YlRUb2N2TUhFdmh1d29SMnJLN3ZwV2FQZHpWb2xrbDFVaXJudnpNbDhidlBBVEdOMnhaTWhXdmF1a1F5bFBkcWpYN0M5aGNQdGRKSkhTUmV2Qw?oc=5\" target=\"_blank\">小米首款搭载AI大模型门锁开启预售</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-09-27T04:05:04+00:00"
+  },
+  {
+   "id": "web-700-5b6ae98fa6",
+   "source_id": "news",
+   "source_name": "Tech In Africa",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "African AI Startups Grow as Early-Stage Funding Pipeline Shrinks - Tech In Africa",
+   "summary": "African AI Startups Grow as Early-Stage Funding Pipeline Shrinks &nbsp;&nbsp; Tech In Africa",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM194QXBqVUN1S3c3dElFTmZuVndPcnJmcXJFSTZqTjlGVFlIUS11ZS1LT2ZVM2pwaF9QSFRMRElOeVF2Q3Q2ZFNJN1loNXJiclRiSW9CS0FjZXRjZzVkNnYtY0s4WEwyYV9wbkEwRVpxRkNEcm1jNEJhN0NRMmtja21oM1YxOFd6cTlkU3BTUTNyRk5IQXFsZXRR?oc=5",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOM194QXBqVUN1S3c3dElFTmZuVndPcnJmcXJFSTZqTjlGVFlIUS11ZS1LT2ZVM2pwaF9QSFRMRElOeVF2Q3Q2ZFNJN1loNXJiclRiSW9CS0FjZXRjZzVkNnYtY0s4WEwyYV9wbkEwRVpxRkNEcm1jNEJhN0NRMmtja21oM1YxOFd6cTlkU3BTUTNyRk5IQXFsZXRR?oc=5\" target=\"_blank\">African AI Startups Grow as Early-Stage Funding Pipeline Shrinks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech In Africa</font>",
+   "fetched_at": "2026-09-30T04:06:27+00:00"
   }
  ]
 }

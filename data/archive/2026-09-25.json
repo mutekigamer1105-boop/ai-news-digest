@@ -8730,6 +8730,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wVGJ5aHlJYnBCSjQyR0o4QzdQZzFobG5nUjZNQlNKb2ZGSEItcGFCbDZIVlNQUkdzZzE1SHJHcnZXc0ZpQ25LNlNaWnYxdmlMQV9XT1B4dWZPOXZuNXpTVWxB?oc=5\" target=\"_blank\">Societal Consequences of Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">daily-sun.com</font>",
    "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-93-b15b48c6c2",
+   "source_id": "news",
+   "source_name": "University of Colorado Boulder",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Three new research initiatives for artificial intelligence and quantum - University of Colorado Boulder",
+   "summary": "Three new research initiatives for artificial intelligence and quantum &nbsp;&nbsp; University of Colorado Boulder",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFJET1RMaUFBd2t2NTJ1X3A5NFA3ME9fbzFmUS1tUjNzV3ZRZURqWFoyTmNrOE84NEd3U0ZFcEQwdUh3TUxYM2MzZlp4T3MwSnBMbWpZNVJWQjFWU0QzanBDdzk1bTFfSk5aRXA4aUZOOEs3eUFJSERhcWN4Z1ozUWRQZHpiZXRYclRrVFZlajlrY1VnUXlpRlZ3?oc=5",
+   "published_at": "2026-09-25T18:56:15+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFJET1RMaUFBd2t2NTJ1X3A5NFA3ME9fbzFmUS1tUjNzV3ZRZURqWFoyTmNrOE84NEd3U0ZFcEQwdUh3TUxYM2MzZlp4T3MwSnBMbWpZNVJWQjFWU0QzanBDdzk1bTFfSk5aRXA4aUZOOEs3eUFJSERhcWN4Z1ozUWRQZHpiZXRYclRrVFZlajlrY1VnUXlpRlZ3?oc=5\" target=\"_blank\">Three new research initiatives for artificial intelligence and quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Colorado Boulder</font>",
+   "fetched_at": "2026-09-30T04:06:27+00:00"
   }
  ]
 }

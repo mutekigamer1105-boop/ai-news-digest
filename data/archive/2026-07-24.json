@@ -241,6 +241,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQWWdmVzNHOG9UWDV2VnM0ek1kOTlMSDMydklMbjQzSDBSUWVYaGFJeFQwZk9tR09qNDVtMWlHS2pIUmVHVGxoOVFPSm1LYS1UUXdzNnNwa2U2MUVGaXFJLWVPb1NvNlN1OWhCX21OR3ROa1FjVFVsVVpuekRLMGVDYWw0SzBnMXRGMGY2ZlVXalpHVktOM2xhVlprcXpDLVV6WUVLdUFCOW43TkM2dW9lTnpBbS1TZ1hYd2pOMUMyc1lrVU1YaERxaWRR?oc=5\" target=\"_blank\">SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
    "fetched_at": "2026-09-20T04:05:20+00:00"
+  },
+  {
+   "id": "web-962-69c66de8ec",
+   "source_id": "news",
+   "source_name": "eastmoney.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国大模型手握成本王牌，但最大短板仍是算力供给 - eastmoney.com",
+   "summary": "中国大模型手握成本王牌，但最大短板仍是算力供给 &nbsp;&nbsp; eastmoney.com",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lM2ZScS15RnMwU3AtVEU0aWs4UEt2WVI4MnAxZndLaEsxbzV4dVVyejlSRC15OE9TcThkTlhhV2dnNS0tMno0azQ5RkR4ZGtmenVVc29VOHBidUxZQVVMbA?oc=5",
+   "published_at": "2026-07-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lM2ZScS15RnMwU3AtVEU0aWs4UEt2WVI4MnAxZndLaEsxbzV4dVVyejlSRC15OE9TcThkTlhhV2dnNS0tMno0azQ5RkR4ZGtmenVVc29VOHBidUxZQVVMbA?oc=5\" target=\"_blank\">中国大模型手握成本王牌，但最大短板仍是算力供给</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eastmoney.com</font>",
+   "fetched_at": "2026-09-30T04:06:27+00:00"
   }
  ]
 }

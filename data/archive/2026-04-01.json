@@ -87,6 +87,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxORTBNMEJaeUpqNXpYWnNEYjk1eXFpOU9aQVdfS2JvSXB0bElUN1VYMGM1UTZ6REo5VzZjcHBPODRFcmZqQkIwX1FpWXdsbVNaako0N1k2ZjBobzctanU4TWdpZW8tUURmMTBwMWM5VktrWVlHSk8zMW16RXh2anhRS282VVY?oc=5\" target=\"_blank\">Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1158-c2b7a1d9b7",
+   "source_id": "news",
+   "source_name": "CoinDesk",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 融资创纪录，筹集 1220 亿美元，月收入突破 20 亿美元 - CoinDesk",
+   "summary": "OpenAI 融资创纪录，筹集 1220 亿美元，月收入突破 20 亿美元 &nbsp;&nbsp; CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVnp2N09KdzNTMUctc1N1TlU1ZE5pYlNtbTNyZGI4MzBLNzNiZmxzUjNoRDZaMDU4SjhYNlZfNVg0R2d3QzNxY19Iam5rMkpPcjF2TDd2bDN3WDRjUFhiTWtzM0Q5Rm5HSUZKMVhwUUxzYm1Fc0U5QzNMelNORkYwOGJUdnR4VTJsOHp6am9ueWNEQVhoMlRXb3F2ejFoT0gxemhYSGVOczJReHg4M2UtcXcwMVVDS09xUWp4YjJjMFExeVBf?oc=5",
+   "published_at": "2026-04-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQVnp2N09KdzNTMUctc1N1TlU1ZE5pYlNtbTNyZGI4MzBLNzNiZmxzUjNoRDZaMDU4SjhYNlZfNVg0R2d3QzNxY19Iam5rMkpPcjF2TDd2bDN3WDRjUFhiTWtzM0Q5Rm5HSUZKMVhwUUxzYm1Fc0U5QzNMelNORkYwOGJUdnR4VTJsOHp6am9ueWNEQVhoMlRXb3F2ejFoT0gxemhYSGVOczJReHg4M2UtcXcwMVVDS09xUWp4YjJjMFExeVBf?oc=5\" target=\"_blank\">OpenAI 融资创纪录，筹集 1220 亿美元，月收入突破 20 亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+   "fetched_at": "2026-09-30T04:06:27+00:00"
   }
  ]
 }

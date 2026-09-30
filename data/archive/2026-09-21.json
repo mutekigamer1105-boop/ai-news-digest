@@ -11091,6 +11091,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE94T1RhdGIzcmc1QVVZOXB0Wmo1OTRWTUwzTjJOYm9ackV5WmxHUEtyZUxxaGlWN0hXZ2dzczljV1Z4T3RRT3lEZFVaNVBjeW9J?oc=5\" target=\"_blank\">V7 如何赋予 AI 智能体机构记忆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-09-25T04:05:21+00:00"
+  },
+  {
+   "id": "web-1110-3f55a25340",
+   "source_id": "news",
+   "source_name": "纽约时报中文网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "白宫内部关于人工智能威胁的复杂辩论 - 纽约时报中文网",
+   "summary": "白宫内部关于人工智能威胁的复杂辩论 &nbsp;&nbsp; 纽约时报中文网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPangyRXMzM19uakFMcG9sSTlOckl5OU4yWEZaYjlLQTIxV2pFWVpwU2dNVmM3WTRzZzhDeGptZGxjamtQSy1MWW40cVBycGlIN2t1TW5qOHVwYWhyZ091YkdEMnlOVUJrUVN5ZFlpbGlGbE1xa1Z1VEMyTUc5TndlWQ?oc=5",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPangyRXMzM19uakFMcG9sSTlOckl5OU4yWEZaYjlLQTIxV2pFWVpwU2dNVmM3WTRzZzhDeGptZGxjamtQSy1MWW40cVBycGlIN2t1TW5qOHVwYWhyZ091YkdEMnlOVUJrUVN5ZFlpbGlGbE1xa1Z1VEMyTUc5TndlWQ?oc=5\" target=\"_blank\">白宫内部关于人工智能威胁的复杂辩论</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
+   "fetched_at": "2026-09-30T04:06:27+00:00"
   }
  ]
 }

@@ -5149,6 +5149,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzZEQ0cGJIbXlWNFZNYlNWcmZJUWFYZ0hxdTd0NjJVMmdOODNNdWpVd0QwbWFzbjgxbkQyYzA3bkNPeUJ2UFFZQkx6YWY?oc=5\" target=\"_blank\">入侵美澳政府网站！OpenAI暂停最先进模型训练</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">凤凰网</font>",
    "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-411-c82a7cf0d7",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? - The New York Times",
+   "summary": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own? &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQREYyMjZVV2F2QllnOVpLTnc4WWR3OGphX3A5WlJRTjhUTEROU0FIb2h0Wkgzb0h1VWRqNnhaUFlkdHRQb0dpXzFVeFlrZVVBcjQ5RzRPVW00MXNmdEV2LVNnRE00TkVZSTdaenhyNE9BOE9GdjlyTUZfeVlMa1JhYlZmNkxIUQ?oc=5",
+   "published_at": "2026-09-27T20:57:44+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQREYyMjZVV2F2QllnOVpLTnc4WWR3OGphX3A5WlJRTjhUTEROU0FIb2h0Wkgzb0h1VWRqNnhaUFlkdHRQb0dpXzFVeFlrZVVBcjQ5RzRPVW00MXNmdEV2LVNnRE00TkVZSTdaenhyNE9BOE9GdjlyTUZfeVlMa1JhYlZmNkxIUQ?oc=5\" target=\"_blank\">Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-09-30T04:06:27+00:00"
+  },
+  {
+   "id": "web-208-37958b3fd1",
+   "source_id": "news",
+   "source_name": "PsyPost",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Popular AI models use arbitrary facial features to predict criminality and job performance - PsyPost",
+   "summary": "Popular AI models use arbitrary facial features to predict criminality and job performance &nbsp;&nbsp; PsyPost",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR29MZ1VSRTlabVFET3F2UU9pN2ZKSXJ6RW9IMm1ZLTdjVzF2NmJsNlFzeVpDaGVDQUJyMEsyVDlqYkFkSGo5SjNNZWRlS0RQaml2ZjlkOFdrN3NTaVR0aGdIRWFmZjJIQmZUaHpWNkMzVUVCVHMxSTFKVVdBaVBpbUpRdEVkdXVpMnNNdVFJaUpzcThpbmFjQW95dzU4YU1Dd29SVGdmQkE4ZnVYaGhvWHRoUTFEUQ?oc=5",
+   "published_at": "2026-09-27T10:14:50+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQR29MZ1VSRTlabVFET3F2UU9pN2ZKSXJ6RW9IMm1ZLTdjVzF2NmJsNlFzeVpDaGVDQUJyMEsyVDlqYkFkSGo5SjNNZWRlS0RQaml2ZjlkOFdrN3NTaVR0aGdIRWFmZjJIQmZUaHpWNkMzVUVCVHMxSTFKVVdBaVBpbUpRdEVkdXVpMnNNdVFJaUpzcThpbmFjQW95dzU4YU1Dd29SVGdmQkE4ZnVYaGhvWHRoUTFEUQ?oc=5\" target=\"_blank\">Popular AI models use arbitrary facial features to predict criminality and job performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PsyPost</font>",
+   "fetched_at": "2026-09-30T04:06:27+00:00"
   }
  ]
 }
