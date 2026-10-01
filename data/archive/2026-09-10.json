@@ -12070,6 +12070,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEN4ZG5XNDZRRkVDSFFmMGlTdGFJOW04OGtPajF0czBGbS1UbDlhVW1xOW5aYVRkeEZHYS1XbVRIVFZmZzh6b2dKQVdDVFFBTTV0M2xYcWJOOGpyTUQwUXVoMUd1czl6SlNUZmlpZVEwYThMZWtWelQzVDk4d3o3VmhKMmRwNWEzS0c5Sk5WSlJDWjROTlJ3?oc=5\" target=\"_blank\">Market Chatter: AMD-Backed AI Startup Upstage Weighs Pre-Listing Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
    "fetched_at": "2026-09-26T04:05:14+00:00"
+  },
+  {
+   "id": "web-1087-925f46e431",
+   "source_id": "news",
+   "source_name": "openai.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "推出 Agents API - openai.com",
+   "summary": "推出 Agents API &nbsp;&nbsp; openai.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wNWVFTTQ0YXVlaEJTQWJfWHBKNFVTNVlGZy05aEJzWjllcDhvUTM1TDJ3Wm04bURDWUhvcVFiNEpKOGZYZE83c2VZZ3pOUFNqZDZSOUxCd1RhT0t1R0hHb2FRaGhGTGVXeVM3TGFUXzg?oc=5",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5wNWVFTTQ0YXVlaEJTQWJfWHBKNFVTNVlGZy05aEJzWjllcDhvUTM1TDJ3Wm04bURDWUhvcVFiNEpKOGZYZE83c2VZZ3pOUFNqZDZSOUxCd1RhT0t1R0hHb2FRaGhGTGVXeVM3TGFUXzg?oc=5\" target=\"_blank\">推出 Agents API</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
+   "fetched_at": "2026-10-01T04:06:56+00:00"
   }
  ]
 }

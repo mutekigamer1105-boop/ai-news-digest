@@ -5192,6 +5192,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQR29MZ1VSRTlabVFET3F2UU9pN2ZKSXJ6RW9IMm1ZLTdjVzF2NmJsNlFzeVpDaGVDQUJyMEsyVDlqYkFkSGo5SjNNZWRlS0RQaml2ZjlkOFdrN3NTaVR0aGdIRWFmZjJIQmZUaHpWNkMzVUVCVHMxSTFKVVdBaVBpbUpRdEVkdXVpMnNNdVFJaUpzcThpbmFjQW95dzU4YU1Dd29SVGdmQkE4ZnVYaGhvWHRoUTFEUQ?oc=5\" target=\"_blank\">Popular AI models use arbitrary facial features to predict criminality and job performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PsyPost</font>",
    "fetched_at": "2026-09-30T04:06:27+00:00"
+  },
+  {
+   "id": "web-365-c7fac3feb9",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters",
+   "summary": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
+   "published_at": "2026-09-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5\" target=\"_blank\">EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-10-01T04:06:56+00:00"
   }
  ]
 }

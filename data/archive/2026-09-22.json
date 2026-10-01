@@ -12884,6 +12884,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hU0RzTUZQSFl3OTJjZWtRTTJKQ1dTQnBIUS1na2dOb1BTM1I0UzJQT3QxMDE1RGtkM0pJa0Z6VHh6V0Jhd2M5TEZ1YlFCQzFfeUIwS1hYbmh5QVJGU2dZ?oc=5\" target=\"_blank\">Disentangling interaction and bias effects in opinion dynamics of large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-574-e3856e5c8f",
+   "source_id": "news",
+   "source_name": "NVIDIA Blog",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia - NVIDIA Blog",
+   "summary": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia &nbsp;&nbsp; NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01T0lPVFJkXzc0QVBYODAyT2tQZWI0dEppWDh4ODJ2Ui1heHJqVmVmUnhRV2Nqc0RfUUFZb3lSVUJ2Q093MWRTVlN0cjR2RFFudktMemhKUHd2TDA?oc=5",
+   "published_at": "2026-09-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE01T0lPVFJkXzc0QVBYODAyT2tQZWI0dEppWDh4ODJ2Ui1heHJqVmVmUnhRV2Nqc0RfUUFZb3lSVUJ2Q093MWRTVlN0cjR2RFFudktMemhKUHd2TDA?oc=5\" target=\"_blank\">At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+   "fetched_at": "2026-10-01T04:06:56+00:00"
+  },
+  {
+   "id": "web-1079-5028e5004a",
+   "source_id": "news",
+   "source_name": "安全内参",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "美国DARPA旗舰AI智能体项目DICE战略解构 - 安全内参",
+   "summary": "美国DARPA旗舰AI智能体项目DICE战略解构 &nbsp;&nbsp; 安全内参",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01WDNIS2NEVG9rZDE1bGpybGlHNExBNkcyeXJCS3g4WGRtdmVOcjZmRURNRjJkWGJhRXBaRl83NXJ3WTNoMUJJOEZWd0Rwdw?oc=5",
+   "published_at": "2026-09-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE01WDNIS2NEVG9rZDE1bGpybGlHNExBNkcyeXJCS3g4WGRtdmVOcjZmRURNRjJkWGJhRXBaRl83NXJ3WTNoMUJJOEZWd0Rwdw?oc=5\" target=\"_blank\">美国DARPA旗舰AI智能体项目DICE战略解构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">安全内参</font>",
+   "fetched_at": "2026-10-01T04:06:56+00:00"
   }
  ]
 }

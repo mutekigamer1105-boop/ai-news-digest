@@ -11112,6 +11112,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPangyRXMzM19uakFMcG9sSTlOckl5OU4yWEZaYjlLQTIxV2pFWVpwU2dNVmM3WTRzZzhDeGptZGxjamtQSy1MWW40cVBycGlIN2t1TW5qOHVwYWhyZ091YkdEMnlOVUJrUVN5ZFlpbGlGbE1xa1Z1VEMyTUc5TndlWQ?oc=5\" target=\"_blank\">白宫内部关于人工智能威胁的复杂辩论</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
    "fetched_at": "2026-09-30T04:06:27+00:00"
+  },
+  {
+   "id": "web-970-2d45707afc",
+   "source_id": "news",
+   "source_name": "通信世界网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "2026年上海口碑绝佳的AI大模型应用场景定制开发服务商推荐 - 通信世界网",
+   "summary": "2026年上海口碑绝佳的AI大模型应用场景定制开发服务商推荐 &nbsp;&nbsp; 通信世界网",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NSHhLbFp3eFZ3ejFpMWE4R3VTa0c1bzNwYWlnUWYtX0hqZ0JwTTFUVElFa0RKbFZNUHh0NVVuZVA5Ulo4ZmxnZFBWRC03YnVY?oc=5",
+   "published_at": "2026-09-21T09:11:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NSHhLbFp3eFZ3ejFpMWE4R3VTa0c1bzNwYWlnUWYtX0hqZ0JwTTFUVElFa0RKbFZNUHh0NVVuZVA5Ulo4ZmxnZFBWRC03YnVY?oc=5\" target=\"_blank\">2026年上海口碑绝佳的AI大模型应用场景定制开发服务商推荐</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">通信世界网</font>",
+   "fetched_at": "2026-10-01T04:06:56+00:00"
+  },
+  {
+   "id": "web-633-1ebce1e738",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI Cloud Startup Verda Raises $189 Million in Funding Round - Bloomberg.com",
+   "summary": "AI Cloud Startup Verda Raises $189 Million in Funding Round &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFdiaVpkcmdRN0d2bHhiYkFTTThRSUhJZ1h5ODFrcnBzREJiLUZfLVlRUV84X1VYNEQzWmZmY2xvcm9FUGNPSDZwXzh3clFiVnctT0RraW5KTExDRlVGdHNEWVh5TXJMaXE5bHZEbFhHX2xBNkxoZ0R1YkRtZWkwUW9sNDR6VkVnT0UwU0g4YmEzcm9xMDFMS3pBSko2RDZiR3puUDRiaUx0UlVFRVE?oc=5",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFdiaVpkcmdRN0d2bHhiYkFTTThRSUhJZ1h5ODFrcnBzREJiLUZfLVlRUV84X1VYNEQzWmZmY2xvcm9FUGNPSDZwXzh3clFiVnctT0RraW5KTExDRlVGdHNEWVh5TXJMaXE5bHZEbFhHX2xBNkxoZ0R1YkRtZWkwUW9sNDR6VkVnT0UwU0g4YmEzcm9xMDFMS3pBSko2RDZiR3puUDRiaUx0UlVFRVE?oc=5\" target=\"_blank\">AI Cloud Startup Verda Raises $189 Million in Funding Round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-10-01T04:06:56+00:00"
   }
  ]
 }

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-207-a8ecff1908",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What Are Large Language Models (LLMs)? - IBM",
+   "summary": "What Are Large Language Models (LLMs)? &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV05uNHN6clQzaWJNTEZzUFNrN1A3Zk5KdS1WTGV5X0N2c0RWeVNOLTZLVVhoRHpKRjNmdDNEMU53Q21pSXJZZGhmci1sVndNc20zSF81ZlZVeWZNTno4VThGeS1aZ2lZRy1FYTd1VTU1bmFWdm0wYjduZTJEUlJJaVUyOUU?oc=5",
+   "published_at": "2021-10-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPV05uNHN6clQzaWJNTEZzUFNrN1A3Zk5KdS1WTGV5X0N2c0RWeVNOLTZLVVhoRHpKRjNmdDNEMU53Q21pSXJZZGhmci1sVndNc20zSF81ZlZVeWZNTno4VThGeS1aZ2lZRy1FYTd1VTU1bmFWdm0wYjduZTJEUlJJaVUyOUU?oc=5\" target=\"_blank\">What Are Large Language Models (LLMs)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-10-01T04:06:56+00:00"
+  }
+ ]
+}

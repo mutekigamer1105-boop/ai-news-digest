@@ -5339,6 +5339,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jcVFNMjJHdDRVdV80YklIOUJfRTFWV1N2S0UxLXl4TG5zc0ZVOTBDR1FRbERtSkdoRDEwSnRoVXhtUF91SE91a09pQjlId2UwT3B2MW1DQnZYWWtUd2tpRQ?oc=5\" target=\"_blank\">OpenAI智能体被曝“劫持”德国程序员网站 扎堆分享测试作弊技巧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-09-10T04:05:08+00:00"
+  },
+  {
+   "id": "web-290-902108cf07",
+   "source_id": "news",
+   "source_name": "Snowflake",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large Language Models: How to Choose and Specialize LLMs for Production - Snowflake",
+   "summary": "Large Language Models: How to Choose and Specialize LLMs for Production &nbsp;&nbsp; Snowflake",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUNGcnRPT1FDazQ0LS1mQlFOSk9zbWNDaFFMdnJuNUNYaXJpWEdqWWdlekNmUnJRcHBCOGZ3S1pwZmNRSnB3eDZ3dlNhX3Nkd1pIT045THE0T2dkOXJTdUNid3lOQXJ5bHZaN3BkRF9ieFM0XzRRYm9RdnhBeENkTGNGb0NNUkp3TGd2WUY0Q2pfbWJabndrZXVmTEdBV2xZZjFIeTRn?oc=5",
+   "published_at": "2026-09-05T12:01:54+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUNGcnRPT1FDazQ0LS1mQlFOSk9zbWNDaFFMdnJuNUNYaXJpWEdqWWdlekNmUnJRcHBCOGZ3S1pwZmNRSnB3eDZ3dlNhX3Nkd1pIT045THE0T2dkOXJTdUNid3lOQXJ5bHZaN3BkRF9ieFM0XzRRYm9RdnhBeENkTGNGb0NNUkp3TGd2WUY0Q2pfbWJabndrZXVmTEdBV2xZZjFIeTRn?oc=5\" target=\"_blank\">Large Language Models: How to Choose and Specialize LLMs for Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Snowflake</font>",
+   "fetched_at": "2026-10-01T04:06:56+00:00"
   }
  ]
 }

@@ -11295,6 +11295,73 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5VQ2NUVllXZW1zeGdOd2s0ODBTcElqaFcyNjFWWmFid0FsNWxfY0xRUkRWQ2UxOFJ4bUlnMDlmaDhybnNsT3Z0SWlvQkRtRkFmRGlma09la1JacE82TC1NNGV5ajNESVY1c3JLNVNndTlLblR6?oc=5\" target=\"_blank\">Am I too boring to need an AI agent?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">garbageday.email</font>",
    "fetched_at": "2026-09-30T04:06:27+00:00"
+  },
+  {
+   "id": "web-412-d9bdeedf8d",
+   "source_id": "news",
+   "source_name": "tech.yahoo.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Claude’s Claimed Breakthrough in Biology Faces a Major Question — Scientist Says He Had Already Studied the Enzymes for 4 Years - tech.yahoo.com",
+   "summary": "Anthropic Claude’s Claimed Breakthrough in Biology Faces a Major Question — Scientist Says He Had Already Studied the Enzymes for 4 Years &nbsp;&nbsp; tech.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlZ1aVQzdXNiMWpaV3laLXZ6cFE1WHBNQnZyU0NqZmxGa29MT1ZHcWpWUXA4T3hRNWEzQURGX1F3a1FFVGw4OHRxRFVIVHBSaVlLNWt4WGUwVlhpeWg2Wkx2SDJFRVc0YXh4UlVGMUNSU192UFpSc0tEUzZHRUtlaGtDTUV6eEVqS0p4Wkh3N29YVURKZTRvQmpOMnVBcHFsdEN6WA?oc=5",
+   "published_at": "2026-09-28T13:55:39+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlZ1aVQzdXNiMWpaV3laLXZ6cFE1WHBNQnZyU0NqZmxGa29MT1ZHcWpWUXA4T3hRNWEzQURGX1F3a1FFVGw4OHRxRFVIVHBSaVlLNWt4WGUwVlhpeWg2Wkx2SDJFRVc0YXh4UlVGMUNSU192UFpSc0tEUzZHRUtlaGtDTUV6eEVqS0p4Wkh3N29YVURKZTRvQmpOMnVBcHFsdEN6WA?oc=5\" target=\"_blank\">Anthropic Claude’s Claimed Breakthrough in Biology Faces a Major Question — Scientist Says He Had Already Studied the Enzymes for 4 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tech.yahoo.com</font>",
+   "fetched_at": "2026-10-01T04:06:56+00:00"
+  },
+  {
+   "id": "web-110-2c1727ec36",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
+   "summary": "Nvidia releases software platform to stop AI agents from misbehaving &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR?oc=5",
+   "published_at": "2026-09-28T09:00:02+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR?oc=5\" target=\"_blank\">Nvidia releases software platform to stop AI agents from misbehaving</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-10-01T04:06:56+00:00"
+  },
+  {
+   "id": "web-173-7f4a5ce708",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Mark Zuckerberg Showcases Muse AI Agent Fused With Smartglasses - WSJ",
+   "summary": "Mark Zuckerberg Showcases Muse AI Agent Fused With Smartglasses &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTRVQnhHbUtNYzNLUGxlVGxLOXVVM2ZZVlRncDZMcVoxUmNqOGNiWFIzb21pOFJuODY0LWNwZWJ4NkJYTmdTWU9SUkpBLUU3OXJQZmlGVlJMRzduZmR1bHBWc3FuV05ldm5SekozZnJsZ0NaSDNlTHNMRVY0TEVPUzdLeW0wdDVQZTd5LXhtSWh6Z1VTUnFhUXpvQUx4LWFPZ0xfaVpxYWdyNUhJeERF?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTRVQnhHbUtNYzNLUGxlVGxLOXVVM2ZZVlRncDZMcVoxUmNqOGNiWFIzb21pOFJuODY0LWNwZWJ4NkJYTmdTWU9SUkpBLUU3OXJQZmlGVlJMRzduZmR1bHBWc3FuV05ldm5SekozZnJsZ0NaSDNlTHNMRVY0TEVPUzdLeW0wdDVQZTd5LXhtSWh6Z1VTUnFhUXpvQUx4LWFPZ0xfaVpxYWdyNUhJeERF?oc=5\" target=\"_blank\">Mark Zuckerberg Showcases Muse AI Agent Fused With Smartglasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-10-01T04:06:56+00:00"
   }
  ]
 }
