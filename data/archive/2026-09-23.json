@@ -12422,6 +12422,73 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE13VmJhckVhbnFHdXNlcHZlWlJhcE1PMFN3TlhiLVpuSlRTU2I3c2EzRDMybnhPSTRlYUFFNS1rVy02c0hhcWdudkpsaDg2eUl4eVFTQVJ4b3RxMXNLVW9SNA?oc=5\" target=\"_blank\">马斯克惊叹中国AI大模型 “单位算力产出性能几乎是全球顶尖水平”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eastmoney.com</font>",
    "fetched_at": "2026-09-30T04:06:27+00:00"
+  },
+  {
+   "id": "web-768-598dea90df",
+   "source_id": "the-information",
+   "source_name": "The Information",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.93,
+   "title": "Google Nears Release of Flagship Gemini 4 AI Model - The Information",
+   "summary": "Google Nears Release of Flagship Gemini 4 AI Model &nbsp;&nbsp; The Information",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXh3OWdvQ3NBQ240aUxVR2NOd0hsMTZITHFpQjFuZlhQMU5ZeWpfaHdNd21lZVlyRzZzcUo5OUhJVEcwVnlFWjkwSENSdkdqb1NMMUFMaWE0a2lwbkw2Z25rMFBUYXZWOTk4VEU0dnRhTWk5YkQ5bkx3VmROWV9pYm5FRVZ0MnlKV0Rqell0LWU?oc=5",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "demis-hassabis",
+   "builder_name": "Demis Hassabis",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXh3OWdvQ3NBQ240aUxVR2NOd0hsMTZITHFpQjFuZlhQMU5ZeWpfaHdNd21lZVlyRzZzcUo5OUhJVEcwVnlFWjkwSENSdkdqb1NMMUFMaWE0a2lwbkw2Z25rMFBUYXZWOTk4VEU0dnRhTWk5YkQ5bkx3VmROWV9pYm5FRVZ0MnlKV0Rqell0LWU?oc=5\" target=\"_blank\">Google Nears Release of Flagship Gemini 4 AI Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+   "fetched_at": "2026-10-02T04:06:25+00:00"
+  },
+  {
+   "id": "web-894-d749d82157",
+   "source_id": "news",
+   "source_name": "UN News",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "【高级别周特别报道】安理会高级别会议聚焦人工智能与国际安全 - UN News",
+   "summary": "【高级别周特别报道】安理会高级别会议聚焦人工智能与国际安全 &nbsp;&nbsp; UN News",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94MnF3b3hnYmlLOExsR3E2Qk9lU1ZoTnBCX2lWQWF4ZGE4OHFQbWx5OFNBcHBUYnl4dkhOZ2VpRzVLVW5rSVRWUlB5ZUZITUl2YjRKQ09tbw?oc=5",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE94MnF3b3hnYmlLOExsR3E2Qk9lU1ZoTnBCX2lWQWF4ZGE4OHFQbWx5OFNBcHBUYnl4dkhOZ2VpRzVLVW5rSVRWUlB5ZUZITUl2YjRKQ09tbw?oc=5\" target=\"_blank\">【高级别周特别报道】安理会高级别会议聚焦人工智能与国际安全</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font>",
+   "fetched_at": "2026-10-02T04:06:25+00:00"
+  },
+  {
+   "id": "web-1047-715a27829b",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "Ringg 的 AI 智能体解决多达 65% 的客户来电 - OpenAI",
+   "summary": "Ringg 的 AI 智能体解决多达 65% 的客户来电 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yeFdrV05nM3N5ck9id3VSWTF0T2VOQWprNGFLVWNZYURFLUFrSFJKemNuZzhTZnM0OHRkZTRtZGd4TTdRalZ3dXRnc0NOeWRTUVcwdg?oc=5",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yeFdrV05nM3N5ck9id3VSWTF0T2VOQWprNGFLVWNZYURFLUFrSFJKemNuZzhTZnM0OHRkZTRtZGd4TTdRalZ3dXRnc0NOeWRTUVcwdg?oc=5\" target=\"_blank\">Ringg 的 AI 智能体解决多达 65% 的客户来电</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-02T04:06:25+00:00"
   }
  ]
 }

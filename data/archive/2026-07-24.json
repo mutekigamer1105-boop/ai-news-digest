@@ -264,6 +264,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lM2ZScS15RnMwU3AtVEU0aWs4UEt2WVI4MnAxZndLaEsxbzV4dVVyejlSRC15OE9TcThkTlhhV2dnNS0tMno0azQ5RkR4ZGtmenVVc29VOHBidUxZQVVMbA?oc=5\" target=\"_blank\">中国大模型手握成本王牌，但最大短板仍是算力供给</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eastmoney.com</font>",
    "fetched_at": "2026-09-30T04:06:27+00:00"
+  },
+  {
+   "id": "web-997-ae94d6b16a",
+   "source_id": "news",
+   "source_name": "财新",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "GPT周报｜中国自主研发AI大模型全球累计下载量突破100亿次；美财政部威胁制裁中国模型遭硅谷反对；因算力紧缺Kimi宣布暂停新增用户订阅 - 财新",
+   "summary": "GPT周报｜中国自主研发AI大模型全球累计下载量突破100亿次；美财政部威胁制裁中国模型遭硅谷反对；因算力紧缺Kimi宣布暂停新增用户订阅 &nbsp;&nbsp; 财新",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueEJ4N0hQc3lBQWhxZzlrZTJGWExwM041NnZMNU1pUEJHTGZFTkxlVlhkbTQ3Q3djVFVta2c3UGZBckpJZi1jOU5ZR2x4N3BCcExaN183MUw1azJ6?oc=5",
+   "published_at": "2026-07-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueEJ4N0hQc3lBQWhxZzlrZTJGWExwM041NnZMNU1pUEJHTGZFTkxlVlhkbTQ3Q3djVFVta2c3UGZBckpJZi1jOU5ZR2x4N3BCcExaN183MUw1azJ6?oc=5\" target=\"_blank\">GPT周报｜中国自主研发AI大模型全球累计下载量突破100亿次；美财政部威胁制裁中国模型遭硅谷反对；因算力紧缺Kimi宣布暂停新增用户订阅</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财新</font>",
+   "fetched_at": "2026-10-02T04:06:25+00:00"
   }
  ]
 }

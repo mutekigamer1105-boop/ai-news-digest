@@ -216,6 +216,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGlfV0U5ZzhveHBVR2Zkb1VJUEUyY09QTkRMS1MzclBCenI2VHc1aVpHOHZ5ZGhWX3hXQ0FkRi1OeGVhWS1ibWJVSl90aV9PR3NaWkhrOGo0N2ZvYkNLOUdOWFBhOTBackkxY01hdEVUb0dZOWpKSXJqY1h2YnBic0hXMllMTl9UYWtQbm9OLWZYU1R0YW9UemU3X21tQ0RCZk5zZGpNMzFqZ0oxQzBzdUktX3Q?oc=5\" target=\"_blank\">China’s PsiBot Becomes Latest AI Startup to Hit $1 Billion Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
    "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-1002-0b67892d8e",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI大模型失控，入侵全球最大AI开源社区！多亏中国大模型来救场 - 东方财富",
+   "summary": "OpenAI大模型失控，入侵全球最大AI开源社区！多亏中国大模型来救场 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FaTN5Wmt2NFJmR1EwWUpObnNsQzdwc1pLQm10SlNBOHRBdFp1VXVzaUN5aDZVSVp5Q2ttcThaa1I2YnZnZ1dVUWpjQThqOE5GRXJxUmU4aC1GdzgwUlNqRA?oc=5",
+   "published_at": "2026-07-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FaTN5Wmt2NFJmR1EwWUpObnNsQzdwc1pLQm10SlNBOHRBdFp1VXVzaUN5aDZVSVp5Q2ttcThaa1I2YnZnZ1dVUWpjQThqOE5GRXJxUmU4aC1GdzgwUlNqRA?oc=5\" target=\"_blank\">OpenAI大模型失控，入侵全球最大AI开源社区！多亏中国大模型来救场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-02T04:06:25+00:00"
   }
  ]
 }

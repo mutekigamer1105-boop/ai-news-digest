@@ -522,6 +522,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nQy1tRVFlX29SanpXQmR5bUdTNHdtTnVBd2JrQXRZNG5KN2NaRzhUdnFHWmc1bDRKeV95RGRPUkZVRC1WQkZ1bmd6YnBfelM0bkJaeGJLWWJIeHFi?oc=5\" target=\"_blank\">海外神秘大模型“牛来”，原来是智谱的！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报网</font>",
    "fetched_at": "2026-09-23T04:05:26+00:00"
+  },
+  {
+   "id": "web-986-271d8cc0cc",
+   "source_id": "news",
+   "source_name": "上观新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "多家美企旗下AI大模型近期密集降价 - 上观新闻",
+   "summary": "多家美企旗下AI大模型近期密集降价 &nbsp;&nbsp; 上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iY2cxLTJfNFdhejJFX002b1JaSGxfbGhHUmhXQ3paRGF0bEc1LVBoWW5nYVRCNDZtSDNGbG9PdUc1MXUtTVpOUlZNSnFpSVNLRk15UUJsaXJNTVU?oc=5",
+   "published_at": "2026-08-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iY2cxLTJfNFdhejJFX002b1JaSGxfbGhHUmhXQ3paRGF0bEc1LVBoWW5nYVRCNDZtSDNGbG9PdUc1MXUtTVpOUlZNSnFpSVNLRk15UUJsaXJNTVU?oc=5\" target=\"_blank\">多家美企旗下AI大模型近期密集降价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
+   "fetched_at": "2026-10-02T04:06:25+00:00"
   }
  ]
 }

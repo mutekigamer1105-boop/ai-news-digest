@@ -11362,6 +11362,76 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTRVQnhHbUtNYzNLUGxlVGxLOXVVM2ZZVlRncDZMcVoxUmNqOGNiWFIzb21pOFJuODY0LWNwZWJ4NkJYTmdTWU9SUkpBLUU3OXJQZmlGVlJMRzduZmR1bHBWc3FuV05ldm5SekozZnJsZ0NaSDNlTHNMRVY0TEVPUzdLeW0wdDVQZTd5LXhtSWh6Z1VTUnFhUXpvQUx4LWFPZ0xfaVpxYWdyNUhJeERF?oc=5\" target=\"_blank\">Mark Zuckerberg Showcases Muse AI Agent Fused With Smartglasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-10-01T04:06:56+00:00"
+  },
+  {
+   "id": "web-1083-87c58b58da",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "英伟达发布AI智能体安全平台，可实时隔离异常智能体|OpenShell|NVIDIA|开源软件|CPU|Agent_手机新浪网 - 新浪财经",
+   "summary": "英伟达发布AI智能体安全平台，可实时隔离异常智能体|OpenShell|NVIDIA|开源软件|CPU|Agent_手机新浪网 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2ZUUWtQei1YSElHNmF0OWdCZndQclFuVXZBUzBHcEtSN0lzUlpfWk93RVJjUFRHWlZwY2tlYzhKNzlZMUxiWFg4eFFiWnlKRVJ5M1JIU2N5RUVvTjFkbWdlWm9CZ0tERUczOFpEN21NTHdEckNjWGJPVVlzd0hwSTlGUGxBZkxnVk1QU0NDODhCUQ?oc=5",
+   "published_at": "2026-09-28T15:11:15+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2ZUUWtQei1YSElHNmF0OWdCZndQclFuVXZBUzBHcEtSN0lzUlpfWk93RVJjUFRHWlZwY2tlYzhKNzlZMUxiWFg4eFFiWnlKRVJ5M1JIU2N5RUVvTjFkbWdlWm9CZ0tERUczOFpEN21NTHdEckNjWGJPVVlzd0hwSTlGUGxBZkxnVk1QU0NDODhCUQ?oc=5\" target=\"_blank\">英伟达发布AI智能体安全平台，可实时隔离异常智能体|OpenShell|NVIDIA|开源软件|CPU|Agent_手机新浪网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-10-02T04:06:25+00:00"
+  },
+  {
+   "id": "web-1035-21ef118373",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "英伟达推出智能体安全平台 双重防线毫秒级阻断AI越界 - 财联社",
+   "summary": "英伟达推出智能体安全平台 双重防线毫秒级阻断AI越界 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wYWNGN0xLWF9QeHZ4dEEyWk54N1RRY1RDc1B5SVBiNzR5bmduS0VEU2Z0RkxwS1k3UC05VHY0SEJtV29DTHhsNA?oc=5",
+   "published_at": "2026-09-28T12:22:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wYWNGN0xLWF9QeHZ4dEEyWk54N1RRY1RDc1B5SVBiNzR5bmduS0VEU2Z0RkxwS1k3UC05VHY0SEJtV29DTHhsNA?oc=5\" target=\"_blank\">英伟达推出智能体安全平台 双重防线毫秒级阻断AI越界</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-10-02T04:06:25+00:00"
+  },
+  {
+   "id": "web-909-2eaa05fa18",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续二十二周领跑：匿名模型“太空兔”冲进前三测试显示其可能来自MiniMax - 东方财富",
+   "summary": "中国AI大模型调用量连续二十二周领跑：匿名模型“太空兔”冲进前三测试显示其可能来自MiniMax &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJUlhMMFVLbDdjcmxBNGltTnNaSU5OMUJEUHlOV1hfdkNqdFJIOVFkc1JGVnJMTVJEck5qb1IxeE9pUzl5SVRlMkMzYm1jT3RFbXpqN1R2cjU3cmpVTGNCZUx0ZDVzZw?oc=5",
+   "published_at": "2026-09-28T02:54:46+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJUlhMMFVLbDdjcmxBNGltTnNaSU5OMUJEUHlOV1hfdkNqdFJIOVFkc1JGVnJMTVJEck5qb1IxeE9pUzl5SVRlMkMzYm1jT3RFbXpqN1R2cjU3cmpVTGNCZUx0ZDVzZw?oc=5\" target=\"_blank\">中国AI大模型调用量连续二十二周领跑：匿名模型“太空兔”冲进前三测试显示其可能来自MiniMax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-02T04:06:25+00:00"
   }
  ]
 }

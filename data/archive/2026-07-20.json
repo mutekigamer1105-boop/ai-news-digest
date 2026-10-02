@@ -284,6 +284,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9fczBKZ1pHVHIyb09BMGUtQS1KMDk4NjJMTlh4R2NWUFVaeUVvR0RRSGhUME9Sa2tYZ2Eydk0zaEUwc3pDVE1jbmFJUmpNcDBUM21xc2lLbFhjZV9IdjktRTJBR0pBc1diOVE?oc=5\" target=\"_blank\">阴和俊主持召开人工智能全球治理高级别会议</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中华人民共和国科学技术部</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-289-d45d0b2296",
+   "source_id": "news",
+   "source_name": "Psychology Today",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Do Large Language Models Think Like Us? - Psychology Today",
+   "summary": "Do Large Language Models Think Like Us? &nbsp;&nbsp; Psychology Today",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0swc2pQaTV5M1EwYUpEaHRPN243dkJJb0xhZllfSl9oZmEwZVlMYmtBUnlfVFd4RGVJTlRER1BGdDBfSnlEeUlmSDhQUUNmTDNUSzVVUlh2YS0xMk5jOGJNRERQMEhwQnFPV2VVb0duWks0YjEzUDhZNV82YzBDcDVVWTd4T0I5aC1Ed2huclRwUUtmWkJzQ1JKOU15RFpkUzZTTC1zYmdSWlFJOFN2VUZfQ19aQTdJa3Q1R1lIYUVoUQ?oc=5",
+   "published_at": "2026-07-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0swc2pQaTV5M1EwYUpEaHRPN243dkJJb0xhZllfSl9oZmEwZVlMYmtBUnlfVFd4RGVJTlRER1BGdDBfSnlEeUlmSDhQUUNmTDNUSzVVUlh2YS0xMk5jOGJNRERQMEhwQnFPV2VVb0duWks0YjEzUDhZNV82YzBDcDVVWTd4T0I5aC1Ed2huclRwUUtmWkJzQ1JKOU15RFpkUzZTTC1zYmdSWlFJOFN2VUZfQ19aQTdJa3Q1R1lIYUVoUQ?oc=5\" target=\"_blank\">Do Large Language Models Think Like Us?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Psychology Today</font>",
+   "fetched_at": "2026-10-02T04:06:25+00:00"
   }
  ]
 }
