@@ -13959,6 +13959,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTZ1UjNVY2c5emJzWG1DWERwTHNmaWJUN3IxRTV2bWl0Rk1TM3UtbWNyRHZwalltSVptSUtTU0tlRldBUktJNnh3dl9iNHVWR2tjdjlwTEI3VElKTVV4SHhwZ2hwNW9qRDNkNTFwMi1RREtTSzh3SHFidnRwWWI4ZEhaQlJfTFlGX2M0?oc=5\" target=\"_blank\">Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-10-02T04:06:25+00:00"
+  },
+  {
+   "id": "web-716-b6a222fdf1",
+   "source_id": "news",
+   "source_name": "Yahoo Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI pulls new AI model release following widespread security worries - Yahoo Tech",
+   "summary": "OpenAI pulls new AI model release following widespread security worries &nbsp;&nbsp; Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnVMLXRlNi1MbnhjS3RaN1FjbDhWcHJtSm5ZUlNPUzBrLVU0OW9BTnBITmIzcHFzU3JXRFRvNDhneDhFNHpqazVVMjhvQU91anR2Z21jM2VDN2pWN1gtdEVlaFJFR1RDdm9uTjJVZ0tSUk92aVQtd2dweHc4WTZXTHExbjB3UGw4TnBCbkJuTks?oc=5",
+   "published_at": "2026-09-29T16:05:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnVMLXRlNi1MbnhjS3RaN1FjbDhWcHJtSm5ZUlNPUzBrLVU0OW9BTnBITmIzcHFzU3JXRFRvNDhneDhFNHpqazVVMjhvQU91anR2Z21jM2VDN2pWN1gtdEVlaFJFR1RDdm9uTjJVZ0tSUk92aVQtd2dweHc4WTZXTHExbjB3UGw4TnBCbkJuTks?oc=5\" target=\"_blank\">OpenAI pulls new AI model release following widespread security worries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
+   "fetched_at": "2026-10-03T04:09:59+00:00"
   }
  ]
 }

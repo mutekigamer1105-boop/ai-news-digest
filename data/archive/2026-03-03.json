@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPYWdDNEM2emRQbEZiYndISV9nbG5tRFVFZ0Q0aXJrU3BIMTl5S3d1eHFyOXV2dUZzWkVlZmZ2MWNSdXRPRGRLTk9pSS1SRVd5dG1MZ1NUYVE2YXlSOWZwYlJ6NmRpejZ3Q3ZHcW5idFJ6WW4yM0FnaXZHRkFqRlZxb21Da2lLaVo1SWh2djZ5dmJTS3ZJWld4LVFPRVFRQQ?oc=5\" target=\"_blank\">Massive AI Deals Drive $189B Startup Funding Record In February While Public Software Stocks Reel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-278-f4d10833a2",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Classroom AI: large language models as grade-specific teachers - npj Artificial Intelligence - Nature",
+   "summary": "Classroom AI: large language models as grade-specific teachers - npj Artificial Intelligence &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SUmo3eDN3N25Hc2dibFhqbFhBVzhZYUVvUnpqellQNm9qZmx1bThNNmtGdV9LVkxPVDJ3Y2Vxd0JSTXdmWl9rTUVMVU1Ec0VDR3BLbWVXTWRWWm11d09V?oc=5",
+   "published_at": "2026-03-03T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SUmo3eDN3N25Hc2dibFhqbFhBVzhZYUVvUnpqellQNm9qZmx1bThNNmtGdV9LVkxPVDJ3Y2Vxd0JSTXdmWl9rTUVMVU1Ec0VDR3BLbWVXTWRWWm11d09V?oc=5\" target=\"_blank\">Classroom AI: large language models as grade-specific teachers - npj Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-10-03T04:09:59+00:00"
   }
  ]
 }

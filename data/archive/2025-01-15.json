@@ -65,6 +65,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizwJBVV95cUxPWllVMmYyVGhvTkVRSDZEdTNYeEZsMWNNdmI3SlRXemdsSHdzV2FGWXZfRUZVQXlVRWh6aWNvZnpsengzaGtyak9vckcySFBvMzRNN1o0aHN6Rl9jZFhaZHNod2gwb21YdXRTMXNHSnhQX0wwTTh5MURPd1JWbzQ5MG93QXFIaTBnS0xBYUY0d0poWHpvQzRkOG1FWWp1ZktKcWl3blRBMmQzcElSa3FLejJzVFc0U2J1eVNEQXFiaE9YTExhOEExUTBrNi0yeC1mbU9QR2JVSmN0QVF5amQ5OFdUbEhxZndkSnhaNnI1T1NLbDEzR21JcGtpaHpRVjdZYl9PeGpYazhiN2ZDSzMtNmlJVmFkaXpPOFRQT0V0QXVMSUF5akZLTGdkb3o3ODE0ZFJ4amZwWFlQbkhQMjBKZlhUQnJfTFdGMF92ZUtMVQ?oc=5\" target=\"_blank\">OpenAI的推理模型有时会用中文“思考” 背后原因众说纷纭</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">t.cj.sina.cn</font>",
    "fetched_at": "2026-09-11T04:05:30+00:00"
+  },
+  {
+   "id": "web-1154-320994f27b",
+   "source_id": "news",
+   "source_name": "华尔街见闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI的o1模型推理时蹦出中文 专家猜：AI可能只想用最高效的语言来思考 - 华尔街见闻",
+   "summary": "OpenAI的o1模型推理时蹦出中文 专家猜：AI可能只想用最高效的语言来思考 &nbsp;&nbsp; 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6YzhkZmhhZ2VIT3VDMmxmR2VJb25uaDMwM3hhZDZxSWhoZldFRHhfRGJkVGNuUE9JVk9MY1Rrb05URm4taFhBaFY5U0cxSlZzUlg4?oc=5",
+   "published_at": "2025-01-15T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6YzhkZmhhZ2VIT3VDMmxmR2VJb25uaDMwM3hhZDZxSWhoZldFRHhfRGJkVGNuUE9JVk9MY1Rrb05URm4taFhBaFY5U0cxSlZzUlg4?oc=5\" target=\"_blank\">OpenAI的o1模型推理时蹦出中文 专家猜：AI可能只想用最高效的语言来思考</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+   "fetched_at": "2026-10-03T04:09:59+00:00"
+  },
+  {
+   "id": "web-1175-161c293a60",
+   "source_id": "news",
+   "source_name": "cnBeta.COM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI的A推理模型有时会用中文\"思考\" 但没人知道为什么 - cnBeta.COM",
+   "summary": "OpenAI的A推理模型有时会用中文\"思考\" 但没人知道为什么 &nbsp;&nbsp; cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rdUJkNldaVEVwX1ByVElkTW9YLXNSY0Nvb2lval85OExvZTNjNExSVWVCbnNJVjRWbVQtaWVMOF80VGxPdnZlNTZhZzBnUG5rY1ROQjVQVQ?oc=5",
+   "published_at": "2025-01-15T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rdUJkNldaVEVwX1ByVElkTW9YLXNSY0Nvb2lval85OExvZTNjNExSVWVCbnNJVjRWbVQtaWVMOF80VGxPdnZlNTZhZzBnUG5rY1ROQjVQVQ?oc=5\" target=\"_blank\">OpenAI的A推理模型有时会用中文\"思考\" 但没人知道为什么</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnBeta.COM</font>",
+   "fetched_at": "2026-10-03T04:09:59+00:00"
   }
  ]
 }

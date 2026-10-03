@@ -12951,6 +12951,30 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOY19KNEVqZ2FoWjlzek1zTE1ZVExrRHVFS0RVRV9jM0h4Tml6TUtMdF9ILUFKYjBCSWZZd254a1hVYVNROG1ibmxlVXV1RXpqaTZKb3hQNDI0Smp0ZjZ3SEFvZHkwQUVYWTFhbVJIVkc3cXFVRlZISmR2QlpPaDVncU41X0hEZlV6amlmSGZPelEycTNHU1JxQ09jNHFzMzluODVvZDVwbndSZ0t5M09jTlZJd0xFU2l3Q1RNTWtDUllVVHVhYlp1eUhtVHYzQ2JVNS1sbnJSQ0EyRVFUbml1MldqNDFsU0Iyc2FUWm1FTGJGOWFyb1pFNm1FQkYwWmVwZklkNTBoUDRWYVk?oc=5\" target=\"_blank\">Springdale City Council unanimously approves artificial intelligence policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">5newsonline.com</font>",
    "fetched_at": "2026-10-02T04:06:25+00:00"
+  },
+  {
+   "id": "web-1101-c161623a88",
+   "source_id": "news",
+   "source_name": "NVIDIA",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "NVIDIA Isaac ROS 5.0 推动智能体与开源机器人开发 - NVIDIA",
+   "summary": "NVIDIA Isaac ROS 5.0 推动智能体与开源机器人开发 &nbsp;&nbsp; NVIDIA",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VNko1VDNGSFN0NjJPVWZGMnZUZkNobEZ5WDRQS1JmaXdCQ1VxUmxDSThrWDBKcXRDd0h5R0hJZnIzZnlPLWpXN2pGc0VzZ2tCSURKRURZazlRcFNWSDhTMDJnb3EtMEsySjRqaVY3TzNWTXhkOG5qNF9XcW8?oc=5",
+   "published_at": "2026-09-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9VNko1VDNGSFN0NjJPVWZGMnZUZkNobEZ5WDRQS1JmaXdCQ1VxUmxDSThrWDBKcXRDd0h5R0hJZnIzZnlPLWpXN2pGc0VzZ2tCSURKRURZazlRcFNWSDhTMDJnb3EtMEsySjRqaVY3TzNWTXhkOG5qNF9XcW8?oc=5\" target=\"_blank\">NVIDIA Isaac ROS 5.0 推动智能体与开源机器人开发</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
+   "fetched_at": "2026-10-03T04:09:59+00:00"
   }
  ]
 }

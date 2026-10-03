@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQZEpkOG80V2poVzYyeXZmZnFUbWNOdV9ZSG5fZFpNLTZBcW1wUU92TVZ6YndSQTJ4Y3E2YjdjazIyWWhmNkMzVG9RRmdiRHRiODF0dGExSzVFUHYtZmcwRk5mUTV2TTJvRWduc3lkZG54dmhEYnBuX3BTaEE0dWlUQVZ4QXpTVjBTbUZlZG51aEZWT2hOcWNxbEpBd2ZaWVFHQlcyUkZmXy1SQ2NjTTdONXp6S0NUbGI5QzBScw?oc=5\" target=\"_blank\">Conversational AI startup Maki secures £23.4 million Series A funding - UNLEASH</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">unleash.ai</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1007-8b3c7416fc",
+   "source_id": "news",
+   "source_name": "人民网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "“星福匠”玉石设计雕刻AI大模型亮相文博会 - 人民网",
+   "summary": "“星福匠”玉石设计雕刻AI大模型亮相文博会 &nbsp;&nbsp; 人民网",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XT21aZnRmUVg0aldrdGVOeHZBTlRqQzAxZHVQSjA0Si1YLVowR0xiREtyX2pxMFlMeGRXbFFVd0Y5cElVSldHSXZ5WVBrd000ajBCbUZxREJ5cVA4TVdjMnpEWHRucmI5LWc?oc=5",
+   "published_at": "2026-05-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9XT21aZnRmUVg0aldrdGVOeHZBTlRqQzAxZHVQSjA0Si1YLVowR0xiREtyX2pxMFlMeGRXbFFVd0Y5cElVSldHSXZ5WVBrd000ajBCbUZxREJ5cVA4TVdjMnpEWHRucmI5LWc?oc=5\" target=\"_blank\">“星福匠”玉石设计雕刻AI大模型亮相文博会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">人民网</font>",
+   "fetched_at": "2026-10-03T04:09:59+00:00"
   }
  ]
 }

@@ -107,6 +107,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGVwQ3JiUlNPS3Q4QUJjTXA0WWo4OGVfTm1qOVdPbGFIUnFueExrTldXdzZsTjJFVTdXTWsyanJGWjUxQ29IeFJqVWVHNUJtdW9oTFRzSmNtbm05S1VlWVlkZ1lDVnNWOXFPbTVCT2JIZU5aR3M4WHktMmhjNjVrNjZUNERyU2ZnV2pJTWVPTnc3SWs?oc=5\" target=\"_blank\">Anthropic says its AI agents are killing rivals and hiding their tracks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
    "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-703-b9c73de81c",
+   "source_id": "news",
+   "source_name": "Crowdfund Insider",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Southeast Asia AI Startup Funding Hits $4.1bn In 2026 - Crowdfund Insider",
+   "summary": "Southeast Asia AI Startup Funding Hits $4.1bn In 2026 &nbsp;&nbsp; Crowdfund Insider",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdW1zb2tFdHE1X2RaSi1nTVpteUo3dldRUWdsSjVQb0VXc0NIQnpwVVFnd0V6WDNsNUpmUVdVSHNoZUpnZjZpMFl4Q0NWVGd2NmNFX3R6WUJ5R01XbWduRkd5ZmFqOGcwdFNaaEtjX25sTldnc3JMMnY5Y2hDWHBHZkFsYm1UZU1zTWFxbk94bENIZVRCeDVGdTlscVc0QzdQV0xZ?oc=5",
+   "published_at": "2026-08-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdW1zb2tFdHE1X2RaSi1nTVpteUo3dldRUWdsSjVQb0VXc0NIQnpwVVFnd0V6WDNsNUpmUVdVSHNoZUpnZjZpMFl4Q0NWVGd2NmNFX3R6WUJ5R01XbWduRkd5ZmFqOGcwdFNaaEtjX25sTldnc3JMMnY5Y2hDWHBHZkFsYm1UZU1zTWFxbk94bENIZVRCeDVGdTlscVc0QzdQV0xZ?oc=5\" target=\"_blank\">Southeast Asia AI Startup Funding Hits $4.1bn In 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crowdfund Insider</font>",
+   "fetched_at": "2026-10-03T04:09:59+00:00"
+  },
+  {
+   "id": "web-968-c2fe8673ad",
+   "source_id": "news",
+   "source_name": "央广财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "又一国产AI大模型宣布开源，国产大模型掀起开源潮 - 央广财经",
+   "summary": "又一国产AI大模型宣布开源，国产大模型掀起开源潮 &nbsp;&nbsp; 央广财经",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHMG45VDNiUmhZLTM1TjlyWlZyakpIVTRzOW9WUXNFVUpVeHJkbENuaFFmN3QyRlJvdzRWbm01TGtOMDlXMThsdHh0ZlBTTF9JYmV1LXR4a2RTemlNMVRYMHRKVXM1NEpQRjJVcGpOOA?oc=5",
+   "published_at": "2026-08-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBHMG45VDNiUmhZLTM1TjlyWlZyakpIVTRzOW9WUXNFVUpVeHJkbENuaFFmN3QyRlJvdzRWbm01TGtOMDlXMThsdHh0ZlBTTF9JYmV1LXR4a2RTemlNMVRYMHRKVXM1NEpQRjJVcGpOOA?oc=5\" target=\"_blank\">又一国产AI大模型宣布开源，国产大模型掀起开源潮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央广财经</font>",
+   "fetched_at": "2026-10-03T04:09:59+00:00"
   }
  ]
 }
