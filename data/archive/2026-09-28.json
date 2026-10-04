@@ -11454,6 +11454,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OZV9BVTBuR2ZzTjVUcUNBNEtUY3N2alp5RVJyaXlOeTFSQWthUHh6d0FaUHpRYTR5X0xKT2l6b19UZDlRSVNuSElOUjU2NG5zM2l4TUhSNA?oc=5\" target=\"_blank\">AI大模型赋能 宝丰能源重塑煤化工生产“新局”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报网</font>",
    "fetched_at": "2026-10-03T04:09:59+00:00"
+  },
+  {
+   "id": "web-802-34f55a3ef6",
+   "source_id": "news",
+   "source_name": "Financial News London",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI Scraps Release of New AI Model Over Safety Concerns - Financial News London",
+   "summary": "OpenAI Scraps Release of New AI Model Over Safety Concerns &nbsp;&nbsp; Financial News London",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1dyVld0VGszVExFRS1sdmZaNmhhRGNROEZTV3hRV1JXUzdWaGVZVUdCSVFKbUpsYnpITlpUQ3B5cC1selloeU95Sms1MDI0bHlSYkZFaU9XODNIQk10OFN0M1NfSlo3QWt4Y1VObk1CaktteXBrQ29OZ2lRRnVDZ3B1LWU3T2g5YVpCck9B?oc=5",
+   "published_at": "2026-09-28T23:07:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1dyVld0VGszVExFRS1sdmZaNmhhRGNROEZTV3hRV1JXUzdWaGVZVUdCSVFKbUpsYnpITlpUQ3B5cC1selloeU95Sms1MDI0bHlSYkZFaU9XODNIQk10OFN0M1NfSlo3QWt4Y1VObk1CaktteXBrQ29OZ2lRRnVDZ3B1LWU3T2g5YVpCck9B?oc=5\" target=\"_blank\">OpenAI Scraps Release of New AI Model Over Safety Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial News London</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-1066-bb81fa280b",
+   "source_id": "news",
+   "source_name": "京报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "智能体连续失控，Open AI按下暂停键 - 京报网",
+   "summary": "智能体连续失控，Open AI按下暂停键 &nbsp;&nbsp; 京报网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRUm5zMzZPdE9LSmZqS01uM0RHWDd6SnhsLWdYcy1VM0c3WmU3cUNwaE5PVW9IZkJkdGlWY2tlNlRENmhrYTRGcV9sVFFkZ1NEZFpJWEMxcjlURkVYTEVlR3J3QlJicWYwOFItN3BMVmttdw?oc=5",
+   "published_at": "2026-09-28T11:38:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBRUm5zMzZPdE9LSmZqS01uM0RHWDd6SnhsLWdYcy1VM0c3WmU3cUNwaE5PVW9IZkJkdGlWY2tlNlRENmhrYTRGcV9sVFFkZ1NEZFpJWEMxcjlURkVYTEVlR3J3QlJicWYwOFItN3BMVmttdw?oc=5\" target=\"_blank\">智能体连续失控，Open AI按下暂停键</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
   }
  ]
 }

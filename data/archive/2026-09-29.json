@@ -13981,6 +13981,115 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnVMLXRlNi1MbnhjS3RaN1FjbDhWcHJtSm5ZUlNPUzBrLVU0OW9BTnBITmIzcHFzU3JXRFRvNDhneDhFNHpqazVVMjhvQU91anR2Z21jM2VDN2pWN1gtdEVlaFJFR1RDdm9uTjJVZ0tSUk92aVQtd2dweHc4WTZXTHExbjB3UGw4TnBCbkJuTks?oc=5\" target=\"_blank\">OpenAI pulls new AI model release following widespread security worries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
    "fetched_at": "2026-10-03T04:09:59+00:00"
+  },
+  {
+   "id": "web-1054-ad6a842bac",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "荣耀Magic9全系列获“首批AI智能体手机”入网认证 - 东方财富",
+   "summary": "荣耀Magic9全系列获“首批AI智能体手机”入网认证 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGVE43bzltWm5zaTVZeE0tSjUzaVlyZGtrWDBEdnBEOEVsczJ0WFJSdndDVU15SGdJM2NJcWI2UVhURnBSSzJZd2dKSVBnMmlJb2hqaEwwQlFVSGIwNDNWV2wtTGE?oc=5",
+   "published_at": "2026-09-29T21:48:43+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGVE43bzltWm5zaTVZeE0tSjUzaVlyZGtrWDBEdnBEOEVsczJ0WFJSdndDVU15SGdJM2NJcWI2UVhURnBSSzJZd2dKSVBnMmlJb2hqaEwwQlFVSGIwNDNWV2wtTGE?oc=5\" target=\"_blank\">荣耀Magic9全系列获“首批AI智能体手机”入网认证</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-793-cb4cf474b7",
+   "source_id": "news",
+   "source_name": "The Daily Star",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Safety worry: OpenAI cancels new model release - The Daily Star",
+   "summary": "Safety worry: OpenAI cancels new model release &nbsp;&nbsp; The Daily Star",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUlBOXlOcF96SER6MUZzS0E4ZnFIa2oxNmxZSGM5Qk8ya18yN1V2ZDBDVVNzTC0yY1Q0MnpleUF6alFpOEtaaVVHRlQ4dzRmLS1mREozdkxySDluaEVoLW5qWFJpRjFISUo4LUdXakVWRDhYbUUyOGpPcGV5d2NlTlJNcC04SmZiOE5sOTdCdHVXelFTWWVLMHNSOElpZmM?oc=5",
+   "published_at": "2026-09-29T21:15:50+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUlBOXlOcF96SER6MUZzS0E4ZnFIa2oxNmxZSGM5Qk8ya18yN1V2ZDBDVVNzTC0yY1Q0MnpleUF6alFpOEtaaVVHRlQ4dzRmLS1mREozdkxySDluaEVoLW5qWFJpRjFISUo4LUdXakVWRDhYbUUyOGpPcGV5d2NlTlJNcC04SmZiOE5sOTdCdHVXelFTWWVLMHNSOElpZmM?oc=5\" target=\"_blank\">Safety worry: OpenAI cancels new model release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Star</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-325-b151791873",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "DevDay 2026 Recap - OpenAI",
+   "summary": "DevDay 2026 Recap &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5",
+   "published_at": "2026-09-29T17:10:11+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPODc0MlB3RGcyUzMtMUZsd2VJX2ZTcE5qbC1jZVVURi1FUGJrM1o0QVMtWnQyLVNhS0JuYjE2cFdmV3pvLTc3WDJPUi1NWmVJcGZNQnhn?oc=5\" target=\"_blank\">DevDay 2026 Recap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-27-f587da36ec",
+   "source_id": "news",
+   "source_name": "The Lancet",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The clinician–artificial intelligence scientist: a proposed career pathway in medicine - The Lancet",
+   "summary": "The clinician–artificial intelligence scientist: a proposed career pathway in medicine &nbsp;&nbsp; The Lancet",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSFhhTUhPeU5iSFlPS1otQlhjRFhpNE5vUlZVcnF2eHRoOGRzeGhiRU40d3g3Z00wVVpTTTlURlVhNHFfS2c5UllRSXRBYnlBZUZ4anlIX2dhZklFWDJ6T21BNTU5UEJ1R3VXR3VOWWlNWjU4emdWYmdHWkY4Z2xnV2NkeDI1bVZMQ1E0?oc=5",
+   "published_at": "2026-09-29T16:56:05+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSFhhTUhPeU5iSFlPS1otQlhjRFhpNE5vUlZVcnF2eHRoOGRzeGhiRU40d3g3Z00wVVpTTTlURlVhNHFfS2c5UllRSXRBYnlBZUZ4anlIX2dhZklFWDJ6T21BNTU5UEJ1R3VXR3VOWWlNWjU4emdWYmdHWkY4Z2xnV2NkeDI1bVZMQ1E0?oc=5\" target=\"_blank\">The clinician–artificial intelligence scientist: a proposed career pathway in medicine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Lancet</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-887-015be8b2b7",
+   "source_id": "news",
+   "source_name": "Swiss Re",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "在人工智能时代构建可持续发展的网络安全保险市场 - Swiss Re",
+   "summary": "在人工智能时代构建可持续发展的网络安全保险市场 &nbsp;&nbsp; Swiss Re",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTNCYjd1QkEyOGs0WWVxNHEtdnRseGgwckk4NHVReUYyTURKLTFZRXFNTXpMRkZfaldlVUZVRXJuY1BtSW5IZC1RblFlMjhkNndobEVhSlhXVW5JM2pPTEZ6NFVrRFlodnppb3JXcG1waEZyaVQyaGliczFWZkFReWYwZy1TYmFENnVoVzJkRzJiSTRvbkNGSjdGUXpjWVJpeThUa1k2dHcxdzZKS18tQkxDTDROUTg?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTNCYjd1QkEyOGs0WWVxNHEtdnRseGgwckk4NHVReUYyTURKLTFZRXFNTXpMRkZfaldlVUZVRXJuY1BtSW5IZC1RblFlMjhkNndobEVhSlhXVW5JM2pPTEZ6NFVrRFlodnppb3JXcG1waEZyaVQyaGliczFWZkFReWYwZy1TYmFENnVoVzJkRzJiSTRvbkNGSjdGUXpjWVJpeThUa1k2dHcxdzZKS18tQkxDTDROUTg?oc=5\" target=\"_blank\">在人工智能时代构建可持续发展的网络安全保险市场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swiss Re</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
   }
  ]
 }

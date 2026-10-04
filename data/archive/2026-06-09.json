@@ -109,6 +109,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPNURZWXlOV0J2Ql9GUXJfLXJtcW5RTnhieDVnX09RanhHY3ZRMUNWRkdlUVg0cTh2M2xZQjFQWU1uNjdNNTB0ODhJckFqd3NqQXN6eW5YUTR0eVVZdWFNeEJDa1VWWXM4ZE9fRS1JeC1FTk9zLUhITVZBZVdxOHhZd1dtcTFFUjlXMDVGNjlqRmNaWmY2NEx2ZF9OVVlnVkNfNzVneTZiZHhObDUzQzRZeA?oc=5\" target=\"_blank\">Anthropic releases a less-powerful version of its most advanced model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
    "fetched_at": "2026-09-20T04:05:20+00:00"
+  },
+  {
+   "id": "web-1112-3a35413490",
+   "source_id": "news",
+   "source_name": "ncsti.gov.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "宇信科技“星睿智调”入选“2026中国AI智能体领航者”榜单 - ncsti.gov.cn",
+   "summary": "宇信科技“星睿智调”入选“2026中国AI智能体领航者”榜单 &nbsp;&nbsp; ncsti.gov.cn",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NTndjUVdzQ3ZHSGtieTlyVFZlaTVzVHZNQ3E0TmlDdmhXQ0hpaVM0eEhEZWZXTFVKeEMySFJuYU5pMlVxTTlTd0ZLZEJLbmJKbHB3cUY2V1NhdnR6Z0I0TnZKejN3Z0tqeWhZUVluRnZaTGxneWNV?oc=5",
+   "published_at": "2026-06-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9NTndjUVdzQ3ZHSGtieTlyVFZlaTVzVHZNQ3E0TmlDdmhXQ0hpaVM0eEhEZWZXTFVKeEMySFJuYU5pMlVxTTlTd0ZLZEJLbmJKbHB3cUY2V1NhdnR6Z0I0TnZKejN3Z0tqeWhZUVluRnZaTGxneWNV?oc=5\" target=\"_blank\">宇信科技“星睿智调”入选“2026中国AI智能体领航者”榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ncsti.gov.cn</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
   }
  ]
 }

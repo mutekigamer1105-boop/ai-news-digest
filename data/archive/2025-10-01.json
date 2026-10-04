@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1141-dee6d60e27",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "网络行动：网络钓鱼和脚本支持 - OpenAI",
+   "summary": "网络行动：网络钓鱼和脚本支持 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObE9SblljT1MzdGVnNE5hSTdyXzN6dlk3Y19OcThGUExySnJhMmVlWEx4UWQ3SXhnZ2JkcFR3NkFhX2ZTcjE2MWcwNnZUb0dnZzRRVlRESi1LOHVjZ1BIUTVZQ1dhRURqRTdTcVhGNWhMNkl4WS1zRkdvQ0V5VlNZUjY0SGhycVNmcjlSYU1CNkhmcGl2a3luRV9rVTIyTFVw?oc=5",
+   "published_at": "2025-10-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObE9SblljT1MzdGVnNE5hSTdyXzN6dlk3Y19OcThGUExySnJhMmVlWEx4UWQ3SXhnZ2JkcFR3NkFhX2ZTcjE2MWcwNnZUb0dnZzRRVlRESi1LOHVjZ1BIUTVZQ1dhRURqRTdTcVhGNWhMNkl4WS1zRkdvQ0V5VlNZUjY0SGhycVNmcjlSYU1CNkhmcGl2a3luRV9rVTIyTFVw?oc=5\" target=\"_blank\">网络行动：网络钓鱼和脚本支持</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  }
+ ]
+}

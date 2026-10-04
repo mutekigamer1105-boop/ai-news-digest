@@ -11156,6 +11156,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFdiaVpkcmdRN0d2bHhiYkFTTThRSUhJZ1h5ODFrcnBzREJiLUZfLVlRUV84X1VYNEQzWmZmY2xvcm9FUGNPSDZwXzh3clFiVnctT0RraW5KTExDRlVGdHNEWVh5TXJMaXE5bHZEbFhHX2xBNkxoZ0R1YkRtZWkwUW9sNDR6VkVnT0UwU0g4YmEzcm9xMDFMS3pBSko2RDZiR3puUDRiaUx0UlVFRVE?oc=5\" target=\"_blank\">AI Cloud Startup Verda Raises $189 Million in Funding Round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
    "fetched_at": "2026-10-01T04:06:56+00:00"
+  },
+  {
+   "id": "web-666-0c0e99abd3",
+   "source_id": "news",
+   "source_name": "Asia Asset Management",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Singapore’s Temasek unit Xora leads US$53 million funding round in AI startup Hang Ten - Asia Asset Management",
+   "summary": "Singapore’s Temasek unit Xora leads US$53 million funding round in AI startup Hang Ten &nbsp;&nbsp; Asia Asset Management",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGc1UjVyU1I2U1ZYbVEza1VBSUNKeS1OR1h2a2dRMDE3bDNWSGVEdk14cEZHUDRSU0tsbkczeWRhM2xMaUwyeWNRSUh2OE1UaWZlZ2cyWERLR25pNHpqYXBvbm4zTVRXWVpoZzJYRms0ZWJBZHhIN0VmdlpYLTRoNmsxdDgtRE5PbG1rVFltS1NCQm4wQU5SdG1FS1NyUlppVXVwNEdxRG00QmIwTjNwRmVWZlA0NGhnMGhoVWhncw?oc=5",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGc1UjVyU1I2U1ZYbVEza1VBSUNKeS1OR1h2a2dRMDE3bDNWSGVEdk14cEZHUDRSU0tsbkczeWRhM2xMaUwyeWNRSUh2OE1UaWZlZ2cyWERLR25pNHpqYXBvbm4zTVRXWVpoZzJYRms0ZWJBZHhIN0VmdlpYLTRoNmsxdDgtRE5PbG1rVFltS1NCQm4wQU5SdG1FS1NyUlppVXVwNEdxRG00QmIwTjNwRmVWZlA0NGhnMGhoVWhncw?oc=5\" target=\"_blank\">Singapore’s Temasek unit Xora leads US$53 million funding round in AI startup Hang Ten</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asia Asset Management</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-1165-b8ceaced28",
+   "source_id": "news",
+   "source_name": "Sunset Browser",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "ChatGPT 5.5 Instant 中国能用吗？2026 科学上网完整指南 + API 访问实测 - Sunset Browser",
+   "summary": "ChatGPT 5.5 Instant 中国能用吗？2026 科学上网完整指南 + API 访问实测 &nbsp;&nbsp; Sunset Browser",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01NWhQVW1ObC1Jdlk5bkszMkoxbFc4MWxlemtnSDQzbXhnbEllemsxU2RlQ04tSE42akFPcFY3N0VMN2Zza3B5ZG5YT3ZidE9qcGp0bnY1dU1TaUc2bEFERU50Rm9wTFg3cEdjSzEtazFXSHp2bnY5OUwwaw?oc=5",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE01NWhQVW1ObC1Jdlk5bkszMkoxbFc4MWxlemtnSDQzbXhnbEllemsxU2RlQ04tSE42akFPcFY3N0VMN2Zza3B5ZG5YT3ZidE9qcGp0bnY1dU1TaUc2bEFERU50Rm9wTFg3cEdjSzEtazFXSHp2bnY5OUwwaw?oc=5\" target=\"_blank\">ChatGPT 5.5 Instant 中国能用吗？2026 科学上网完整指南 + API 访问实测</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sunset Browser</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
   }
  ]
 }

@@ -8842,6 +8842,285 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPenBHaHk5b3kwRlFJOUJTclFlaE1ndmV6VGx0MEtWMWxyLUY4UUJISVVvdjItLVlzZzNpYWdCZkVjbmpuWWpKODNkaXN0TXNVbkp5UWlWTURWZDJqSnNIT3V3SEVZRWdfTjZFR1Jmc09KOE9EckFZMDRna1hxWlE2SDFaRDRJVWVULUxzVDluT0JUdmFSNG50SkoydENTMHJva05QRHB6eG5BYnFQbzFQNzc1UXlJdw?oc=5\" target=\"_blank\">Industry Advocates Testify on Risks of Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C-SPAN</font>",
    "fetched_at": "2026-10-03T04:09:59+00:00"
+  },
+  {
+   "id": "web-443-9fd73e8239",
+   "source_id": "news",
+   "source_name": "Florida International University",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Will Claude's new AI \"watermark\" keep us all honest? - Florida International University",
+   "summary": "Will Claude's new AI \"watermark\" keep us all honest? &nbsp;&nbsp; Florida International University",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcjU3RTRaUEpTcDU1UDJkeGN0QWdOQTVMenFqUWRYQmJ4RVhLZ2V5QU5ySXJ5d2pYc0ZtcXhHbTZTMDhLOFpoOTYxUmJadHUyQ0tySkk0aDhlRjBRd213VE5ZNE8tbjVXRUxuNWxpb1V2VkZLN2NFSkFuM2NQOFg1WDNqUDlFbkJkWC1ZYWhEVHI1RVFR?oc=5",
+   "published_at": "2026-10-01T21:50:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcjU3RTRaUEpTcDU1UDJkeGN0QWdOQTVMenFqUWRYQmJ4RVhLZ2V5QU5ySXJ5d2pYc0ZtcXhHbTZTMDhLOFpoOTYxUmJadHUyQ0tySkk0aDhlRjBRd213VE5ZNE8tbjVXRUxuNWxpb1V2VkZLN2NFSkFuM2NQOFg1WDNqUDlFbkJkWC1ZYWhEVHI1RVFR?oc=5\" target=\"_blank\">Will Claude's new AI \"watermark\" keep us all honest?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida International University</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-313-6cb5db0918",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "ChatGPT can now virtually try on clothes for you - TechCrunch",
+   "summary": "ChatGPT can now virtually try on clothes for you &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWFoWGZaei1UNC1PVVU2NFl0bmRBQV91RDNZVWlXbHdNOGFmVGl0cEtzX2lVNVF3R3FTNlJ3MnRvLUZOWW5LUHh0Q01hUFV2dVJMakxGMG44UHQzLVdzd2xkSkJNTERXQzdjT0pMalZOdTRlUjdnTVpKSzdUY0hwbTQzR21HQzVIX0Q0?oc=5",
+   "published_at": "2026-10-01T19:21:53+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWFoWGZaei1UNC1PVVU2NFl0bmRBQV91RDNZVWlXbHdNOGFmVGl0cEtzX2lVNVF3R3FTNlJ3MnRvLUZOWW5LUHh0Q01hUFV2dVJMakxGMG44UHQzLVdzd2xkSkJNTERXQzdjT0pMalZOdTRlUjdnTVpKSzdUY0hwbTQzR21HQzVIX0Q0?oc=5\" target=\"_blank\">ChatGPT can now virtually try on clothes for you</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-0-229d74c815",
+   "source_id": "news",
+   "source_name": "Yahoo Finance UK",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Man builds AI torture chamber after discovering artificial intelligence ‘feels pain’ - Yahoo Finance UK",
+   "summary": "Man builds AI torture chamber after discovering artificial intelligence ‘feels pain’ &nbsp;&nbsp; Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWZadlcyTFBFcno3MXc5cVZJS2hNenB0dm9CbEZVY3VWVXRVSXFqRFlrdWRZaTBlVjcwZUZVcUQwUUFhNEY3elBVaWpqZVVwaWVEM3g5T3V1RGxKQW9JNjA5VE85eWZLX21hMDhDRzRsQUt5bGRqeTIzUFp1RHlDRE0yaG0?oc=5",
+   "published_at": "2026-10-01T18:05:57+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWZadlcyTFBFcno3MXc5cVZJS2hNenB0dm9CbEZVY3VWVXRVSXFqRFlrdWRZaTBlVjcwZUZVcUQwUUFhNEY3elBVaWpqZVVwaWVEM3g5T3V1RGxKQW9JNjA5VE85eWZLX21hMDhDRzRsQUt5bGRqeTIzUFp1RHlDRE0yaG0?oc=5\" target=\"_blank\">Man builds AI torture chamber after discovering artificial intelligence ‘feels pain’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-798-2d47a89370",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Amazon releases its own Jev clone as decision models flood the web - TechCrunch",
+   "summary": "Amazon releases its own Jev clone as decision models flood the web &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3V6ZlktaEhnS2pka2FwLWZBS29VXzFTRUU4ak1fb0hueDgxdVB4cW10QjgydTU0c0pJZ3NfZVhXX3BFaXJvX25fazd4VnRMRmVrN1NjWllET0dqdUQ1Mjl5SFpfQTBqU3BIX0hzTVFsZWdmVjdpMHJDOWM5MVVrVm1keUxaODF6UnlPYVpwZkxVZDhFQXB2Z0kzS3lzWEVCU01v?oc=5",
+   "published_at": "2026-10-01T16:49:22+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3V6ZlktaEhnS2pka2FwLWZBS29VXzFTRUU4ak1fb0hueDgxdVB4cW10QjgydTU0c0pJZ3NfZVhXX3BFaXJvX25fazd4VnRMRmVrN1NjWllET0dqdUQ1Mjl5SFpfQTBqU3BIX0hzTVFsZWdmVjdpMHJDOWM5MVVrVm1keUxaODF6UnlPYVpwZkxVZDhFQXB2Z0kzS3lzWEVCU01v?oc=5\" target=\"_blank\">Amazon releases its own Jev clone as decision models flood the web</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-552-df532126ec",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Will Jacobs' Digital Twin Strengthen NVIDIA's AI Infrastructure Reach? - Yahoo Finance",
+   "summary": "Will Jacobs' Digital Twin Strengthen NVIDIA's AI Infrastructure Reach? &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRDZ2UnYtaVF5MHlsSGVseWhnSmFRXzJpRXhOaVF6dmZ1QXp1MzJYSkRIaTVkWEdhV1ZNRGZacjU3Vmd0ODVuVXFSRE9UeEQxa1JmMkNFWTd6S29aN1Q1b0R5NmtfTDFwdlFLOE55Z2thUlJqclpzYVlvdjhOekgzOXJxMmxURHR4Y2NyNlJmM1RJYTA3QzQ0bXFhNUw4S2NGOWxUNw?oc=5",
+   "published_at": "2026-10-01T12:59:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRDZ2UnYtaVF5MHlsSGVseWhnSmFRXzJpRXhOaVF6dmZ1QXp1MzJYSkRIaTVkWEdhV1ZNRGZacjU3Vmd0ODVuVXFSRE9UeEQxa1JmMkNFWTd6S29aN1Q1b0R5NmtfTDFwdlFLOE55Z2thUlJqclpzYVlvdjhOekgzOXJxMmxURHR4Y2NyNlJmM1RJYTA3QzQ0bXFhNUw4S2NGOWxUNw?oc=5\" target=\"_blank\">Will Jacobs' Digital Twin Strengthen NVIDIA's AI Infrastructure Reach?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-198-cf9586bf2d",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "DigitalOcean Introduces Agent Droplets: Everything an AI Agent Needs, One Simple Monthly Price - Yahoo Finance",
+   "summary": "DigitalOcean Introduces Agent Droplets: Everything an AI Agent Needs, One Simple Monthly Price &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUExR3VUMk16Q3pndGZERkRkMXVrWTM4aG81SExYXzdrUUxGUXllWVJ2SzRJUk9hb3BLRzFhUC1HSnFLU3k5RzhpVS1WX0FfNWNnZmxsdnpEcTA4a0tYNjFEaHN0OUtfRVVNdmdDcmt4RktkQU5QWE5icU1EVHRndGJLMk1WWVpQaEh6SzdmN0NXTUZmSngtdk5MYXFvZ1Awc2lkS3JmSVpHRnJOR0pQM3d1TQ?oc=5",
+   "published_at": "2026-10-01T12:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUExR3VUMk16Q3pndGZERkRkMXVrWTM4aG81SExYXzdrUUxGUXllWVJ2SzRJUk9hb3BLRzFhUC1HSnFLU3k5RzhpVS1WX0FfNWNnZmxsdnpEcTA4a0tYNjFEaHN0OUtfRVVNdmdDcmt4RktkQU5QWE5icU1EVHRndGJLMk1WWVpQaEh6SzdmN0NXTUZmSngtdk5MYXFvZ1Awc2lkS3JmSVpHRnJOR0pQM3d1TQ?oc=5\" target=\"_blank\">DigitalOcean Introduces Agent Droplets: Everything an AI Agent Needs, One Simple Monthly Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-609-84d7a36c62",
+   "source_id": "news",
+   "source_name": "ascendants.in",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Israel Startup Funding Hits $2.77 Billion, Five Firms Raise $1.9 Billion - ascendants.in",
+   "summary": "Israel Startup Funding Hits $2.77 Billion, Five Firms Raise $1.9 Billion &nbsp;&nbsp; ascendants.in",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0pJZkl2dUlJUy1EUmpHeHNSZ2gxXzJBczRXbGprN1B2VjhMVGtTLUpfTlF6bm4zN3NZeWFoWDUxS05Jc1JiTUZiOUp4YllPVU9mVzZzbTdYaFBvdVgzUVpCNThnYmc2Y2lBT1ZTNUxWWXdOeExGd2RVM2MxS25UVzJ4TmFVaHZKblRhM0JHamxpNzJicktjRA?oc=5",
+   "published_at": "2026-10-01T08:51:40+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0pJZkl2dUlJUy1EUmpHeHNSZ2gxXzJBczRXbGprN1B2VjhMVGtTLUpfTlF6bm4zN3NZeWFoWDUxS05Jc1JiTUZiOUp4YllPVU9mVzZzbTdYaFBvdVgzUVpCNThnYmc2Y2lBT1ZTNUxWWXdOeExGd2RVM2MxS25UVzJ4TmFVaHZKblRhM0JHamxpNzJicktjRA?oc=5\" target=\"_blank\">Israel Startup Funding Hits $2.77 Billion, Five Firms Raise $1.9 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ascendants.in</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-409-2b7def1c51",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Barclays Expands Use of Anthropic’s Claude in Efficiency Push - Bloomberg.com",
+   "summary": "Barclays Expands Use of Anthropic’s Claude in Efficiency Push &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3haT0xoTE5SMVRSUm1IOUFZbl9qbzctbmdSTDItQUVDbzhhOHhsNGd5WlFHTlowYmhJc0Z2di1WZmFPdms3aEFQRU9HMGVreC1Ea2drTzJFLUpsaVo1MnFBS0dsTkdwRGZnUS1WRmJBdHhUV0hKNXU4WWVjN1ZLenFtZzJ2NnVUSGE2SmtpM3Jsd0wtUGdsM3VtUV9jWHY5OC1OMmZ0emd5TENRN2VqdEZR?oc=5",
+   "published_at": "2026-10-01T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3haT0xoTE5SMVRSUm1IOUFZbl9qbzctbmdSTDItQUVDbzhhOHhsNGd5WlFHTlowYmhJc0Z2di1WZmFPdms3aEFQRU9HMGVreC1Ea2drTzJFLUpsaVo1MnFBS0dsTkdwRGZnUS1WRmJBdHhUV0hKNXU4WWVjN1ZLenFtZzJ2NnVUSGE2SmtpM3Jsd0wtUGdsM3VtUV9jWHY5OC1OMmZ0emd5TENRN2VqdEZR?oc=5\" target=\"_blank\">Barclays Expands Use of Anthropic’s Claude in Efficiency Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-660-f107729078",
+   "source_id": "news",
+   "source_name": "Tech.eu",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "DIG Ventures closes $120M Fund III to back Europe’s AI infrastructure startups - Tech.eu",
+   "summary": "DIG Ventures closes $120M Fund III to back Europe’s AI infrastructure startups &nbsp;&nbsp; Tech.eu",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdzFQSkxLTm5YMFUwNThZOGp1Zjkya1FtTkUyLXJXdW9ESFZrUFY0bklTZkk5SF9MaFlEaTQxNlA4RzdZQ0xqRmljRk9sdmtfVDZ6TzhKT1VyaVJKMWpqY3JjekJvUWItQ3M3M2dhOTJUd1FpZVhjb2I5eXRmcmdjbTZDNldaZFpwSlFITnc5bDRrZUwxbVBVNGtRSGh4ZHY2d2JuODVrVQ?oc=5",
+   "published_at": "2026-10-01T07:16:14+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdzFQSkxLTm5YMFUwNThZOGp1Zjkya1FtTkUyLXJXdW9ESFZrUFY0bklTZkk5SF9MaFlEaTQxNlA4RzdZQ0xqRmljRk9sdmtfVDZ6TzhKT1VyaVJKMWpqY3JjekJvUWItQ3M3M2dhOTJUd1FpZVhjb2I5eXRmcmdjbTZDNldaZFpwSlFITnc5bDRrZUwxbVBVNGtRSGh4ZHY2d2JuODVrVQ?oc=5\" target=\"_blank\">DIG Ventures closes $120M Fund III to back Europe’s AI infrastructure startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech.eu</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-246-4ca9b38738",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Beyond the sycophantic vs. cold divide: towards flexible, emotionally intelligent agents to foster healthier human-AI interactions - Nature",
+   "summary": "Beyond the sycophantic vs. cold divide: towards flexible, emotionally intelligent agents to foster healthier human-AI interactions &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aUGFBcGRLVFZnUkJGZklmbG11RFIzRW95ZlRaMnJqbXg2OHhJNzdFczdLSEwxTDBDd2NCSkZYOUNUWUloT1hmVzRIUVZvZVB1MnRacmVPUk1aRGEzUHVJ?oc=5",
+   "published_at": "2026-10-01T07:01:14+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aUGFBcGRLVFZnUkJGZklmbG11RFIzRW95ZlRaMnJqbXg2OHhJNzdFczdLSEwxTDBDd2NCSkZYOUNUWUloT1hmVzRIUVZvZVB1MnRacmVPUk1aRGEzUHVJ?oc=5\" target=\"_blank\">Beyond the sycophantic vs. cold divide: towards flexible, emotionally intelligent agents to foster healthier human-AI interactions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-19-613e714cb8",
+   "source_id": "news",
+   "source_name": "Gartner",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Gartner AI Hype Cycle: Why Control Now Drives AI Value - Gartner",
+   "summary": "Gartner AI Hype Cycle: Why Control Now Drives AI Value &nbsp;&nbsp; Gartner",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wdWkzZ255a2lwQ2RRTkFlLTNJdFZnMXJnUS1CRWpYMFdLZ3JvZFhraFd4QktkWVVyLXgtT1E0NHZia0hOQWFfUGlLalJtVGIwZHBqRUthY1ZzQnBuclFkNUxrWExZQjJyck5qOWszcjNpTzVaSGRISGtvVWVNZDg?oc=5",
+   "published_at": "2026-10-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4wdWkzZ255a2lwQ2RRTkFlLTNJdFZnMXJnUS1CRWpYMFdLZ3JvZFhraFd4QktkWVVyLXgtT1E0NHZia0hOQWFfUGlLalJtVGIwZHBqRUthY1ZzQnBuclFkNUxrWExZQjJyck5qOWszcjNpTzVaSGRISGtvVWVNZDg?oc=5\" target=\"_blank\">Gartner AI Hype Cycle: Why Control Now Drives AI Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gartner</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-482-37b3057d6e",
+   "source_id": "news",
+   "source_name": "TechRepublic",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Claude for Government Is Now Generally Available to US Agencies - TechRepublic",
+   "summary": "Claude for Government Is Now Generally Available to US Agencies &nbsp;&nbsp; TechRepublic",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXZrcUdfNGNPV2Z0ZWhibTl1UmJKVEZ1YTNxU3luQmJOX0pQc3lsY21vcmxPejFRNkhNTWpkU0FBSEUzQ0M1WEhveWRvczZ0dmM4TkR6eVVMcHpveDE3T1JZcDVrTkFmN0hzY1JvajRXV1FoRHVQdjJPNGhvTW1sbEd1cmx0X0g3cEI5elROUk9pVHRtOEE?oc=5",
+   "published_at": "2026-10-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXZrcUdfNGNPV2Z0ZWhibTl1UmJKVEZ1YTNxU3luQmJOX0pQc3lsY21vcmxPejFRNkhNTWpkU0FBSEUzQ0M1WEhveWRvczZ0dmM4TkR6eVVMcHpveDE3T1JZcDVrTkFmN0hzY1JvajRXV1FoRHVQdjJPNGhvTW1sbEd1cmx0X0g3cEI5elROUk9pVHRtOEE?oc=5\" target=\"_blank\">Claude for Government Is Now Generally Available to US Agencies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRepublic</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-507-b18517083b",
+   "source_id": "news",
+   "source_name": "tech-insider.org",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "How to Use Claude Sonnet 5.5: Setup Guide [2026] - tech-insider.org",
+   "summary": "How to Use Claude Sonnet 5.5: Setup Guide [2026] &nbsp;&nbsp; tech-insider.org",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnMDl0TGNjRGRrWkRwZ3ZvS2FRY3o4bV9Ob2ZRZG5BdGQyQlRDNnBLT2hJdlBXN2YzU1BRbnM3S1NSb3VMcTJLVDVITlRQVkhDQ3lNd2pUZWdYZ1IxSzU0ZlVqY2lpUWNPOU5OZWw2aw?oc=5",
+   "published_at": "2026-10-01T01:12:59+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBnMDl0TGNjRGRrWkRwZ3ZvS2FRY3o4bV9Ob2ZRZG5BdGQyQlRDNnBLT2hJdlBXN2YzU1BRbnM3S1NSb3VMcTJLVDVITlRQVkhDQ3lNd2pUZWdYZ1IxSzU0ZlVqY2lpUWNPOU5OZWw2aw?oc=5\" target=\"_blank\">How to Use Claude Sonnet 5.5: Setup Guide [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tech-insider.org</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
   }
  ]
 }

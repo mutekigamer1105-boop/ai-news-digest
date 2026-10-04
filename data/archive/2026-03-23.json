@@ -21,6 +21,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXUwSGhFdVhsS1hPbXlPT2dzb1lISVZfOFpLLXUtYURGa0ZxLWlpV2FwYXgzcDB4V0tJOWlSaE1oZDBTVUVUZlJ5V2RydjYxWmtOd1hsay1HLTl5WTZXdDRXSk51UnEwU2lzUndoY19EOHJwX2pOLVRyM2RMdVhLdWtieW9QczdMMnhtM1JETkdwcWVKVnk1NnhCMlVqXzRrR0E?oc=5\" target=\"_blank\">Limitations of current copyright frameworks for large language models trained on scientific literature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-1001-fb5d8cea61",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量领跑全球 国产算力全链景气加速 - 财联社",
+   "summary": "中国AI大模型调用量领跑全球 国产算力全链景气加速 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aLXk1UDVmeHVoalA0cnotUkpXLWh6R2pYbVpXWndYeUJ0WHB3V1JFaFpGdW1aSzBoM05YakNJci13Nm9KMlJJSw?oc=5",
+   "published_at": "2026-03-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aLXk1UDVmeHVoalA0cnotUkpXLWh6R2pYbVpXWndYeUJ0WHB3V1JFaFpGdW1aSzBoM05YakNJci13Nm9KMlJJSw?oc=5\" target=\"_blank\">中国AI大模型调用量领跑全球 国产算力全链景气加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
   }
  ]
 }

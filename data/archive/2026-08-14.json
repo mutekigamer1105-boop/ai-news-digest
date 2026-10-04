@@ -389,6 +389,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXkwZTN3VWxQc25XZEhKTml0SjU1SVFyZGJSOVdacFZURm5VMVdvMGIzVjdaaHNVbTlhd3RlZnVBQUc5S2hLLUM3N21zdmpLZFFCamtxaVdTNExKZnhYS29HdjFIWTZyYVU4RFh0WHd6WjhxUTdPTE9KX1BMWlg3X0swV3RSVExhQldXVw?oc=5\" target=\"_blank\">NSF State and Regional Artificial Intelligence Infrastructure Hubs Webinar | NSF - U.S. National Science Foundation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. National Science Foundation (.gov)</font>",
    "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-1108-3b7c08ed8f",
+   "source_id": "news",
+   "source_name": "ZTE",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "记忆能力达4+级！中兴通讯Co-Claw智能体平台首批通过中国信通院可信AI认证 - ZTE",
+   "summary": "记忆能力达4+级！中兴通讯Co-Claw智能体平台首批通过中国信通院可信AI认证 &nbsp;&nbsp; ZTE",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUm8zSWJkT2swbE5JbWNmelJQcFNvNU0yV3BSWmgxTWN6dEpKbXdVUUJQZkZyd1BTajF4MHVkRjBkT2dabHM0MUxucDJxZW5mY1BBdFBTWklCdXcxX3p4dWM4QnNmemRUd0wxVzNCVE5BdXgyNHZIblQ5Um8zeVA2Tl8zOUQ1VzQyTWdEMnNiREM?oc=5",
+   "published_at": "2026-08-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPUm8zSWJkT2swbE5JbWNmelJQcFNvNU0yV3BSWmgxTWN6dEpKbXdVUUJQZkZyd1BTajF4MHVkRjBkT2dabHM0MUxucDJxZW5mY1BBdFBTWklCdXcxX3p4dWM4QnNmemRUd0wxVzNCVE5BdXgyNHZIblQ5Um8zeVA2Tl8zOUQ1VzQyTWdEMnNiREM?oc=5\" target=\"_blank\">记忆能力达4+级！中兴通讯Co-Claw智能体平台首批通过中国信通院可信AI认证</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZTE</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
   }
  ]
 }

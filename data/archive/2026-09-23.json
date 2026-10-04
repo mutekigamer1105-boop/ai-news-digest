@@ -12489,6 +12489,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yeFdrV05nM3N5ck9id3VSWTF0T2VOQWprNGFLVWNZYURFLUFrSFJKemNuZzhTZnM0OHRkZTRtZGd4TTdRalZ3dXRnc0NOeWRTUVcwdg?oc=5\" target=\"_blank\">Ringg 的 AI 智能体解决多达 65% 的客户来电</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-10-02T04:06:25+00:00"
+  },
+  {
+   "id": "web-1105-e728928e22",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta为AI智能体Muse测试人工代办电话服务 - 东方财富",
+   "summary": "Meta为AI智能体Muse测试人工代办电话服务 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwQUJGWFktd0ZMMVFCVHM4LU9scU94WVZxX0Q4QTR3UTdRX2gtMVUxWUs4dm9YQ1RwS0k1ZVAtWjFXN3QzZVRqTlJ5ZnZFdjd1OTl6RE5jeXpTR0VsQzVleA?oc=5",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwQUJGWFktd0ZMMVFCVHM4LU9scU94WVZxX0Q4QTR3UTdRX2gtMVUxWUs4dm9YQ1RwS0k1ZVAtWjFXN3QzZVRqTlJ5ZnZFdjd1OTl6RE5jeXpTR0VsQzVleA?oc=5\" target=\"_blank\">Meta为AI智能体Muse测试人工代办电话服务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-04T05:35:48+00:00"
   }
  ]
 }
