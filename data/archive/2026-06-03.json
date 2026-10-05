@@ -85,6 +85,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsYjMxQnZVWDVmZkdEVzd0MFZwVVF2cVdqNXhNMDB3dXJ5eU5mb0lIS3V2U1NWcUJQRGhEMnhpUU4xVlRLZHc4bzFQa21GNUsyUlE?oc=5\" target=\"_blank\">马斯克旗下xAI时薪超300元招中文AI导师</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
    "fetched_at": "2026-09-15T04:06:01+00:00"
+  },
+  {
+   "id": "web-1114-f6245e9b50",
+   "source_id": "news",
+   "source_name": "搜狐网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 展示无 App 手机；马斯克xAI 招中文 AI 导师，时薪超 300 元；传红杉资本将收购徕卡相机公司｜极客早知道 - 搜狐网",
+   "summary": "OpenAI 展示无 App 手机；马斯克xAI 招中文 AI 导师，时薪超 300 元；传红杉资本将收购徕卡相机公司｜极客早知道 &nbsp;&nbsp; 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TMkFMb0dxWTh2WEE0UGpoeDJobUdaTUxDTjVtSkp6ZFBiTFZVY1pVSTdXREpxTG5Lb2llTjZWYnZoTktsdTRfdi1iQzl5UWF5dXc?oc=5",
+   "published_at": "2026-06-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TMkFMb0dxWTh2WEE0UGpoeDJobUdaTUxDTjVtSkp6ZFBiTFZVY1pVSTdXREpxTG5Lb2llTjZWYnZoTktsdTRfdi1iQzl5UWF5dXc?oc=5\" target=\"_blank\">OpenAI 展示无 App 手机；马斯克xAI 招中文 AI 导师，时薪超 300 元；传红杉资本将收购徕卡相机公司｜极客早知道</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

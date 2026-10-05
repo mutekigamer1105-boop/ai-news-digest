@@ -11467,6 +11467,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9Dek50el9YQ2xpYUNLMjhTa3RXdHJRNFdHbHFNSEwwQ1I3MnpwMnFwdzZZOGNaVDFWdmUxczhMRS1DNkw5U0dEa01TMjJ2X1ZpV0hVc3JXcENfSktGZF9OakNTYUR3MTltaHU5OE1UUjE4dWhMeE44NENGSVU2QQ?oc=5\" target=\"_blank\">America’s Great AI Freakout Has Begun</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-633-0d4dbf4163",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exclusive | Wall Street’s Favorite AI Startup Sets Its Sights on Wealth Management - WSJ",
+   "summary": "Exclusive | Wall Street’s Favorite AI Startup Sets Its Sights on Wealth Management &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeG9GSFJtQUx6dnUtNUt3NFVsbnctaVE2N2tTa1lvYnJDc2Z5WHlTMHRieFlWR0E3NDd4SzFfby1WSVhZVVBlOE1RakR4dGh4cHhNeEtUODBMY2h6elA2cDdpdDhQZU5PcFFuN085YkVSeDQ0VVFwMjVpX2E4TW90SE1yNkpaV1lLb3VoSWVuQ0Jpdl9MQWQ0SFNXNWJiUXdIN2JCNG02bFdSUWhsYW5wSXRDQVM?oc=5",
+   "published_at": "2026-09-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQeG9GSFJtQUx6dnUtNUt3NFVsbnctaVE2N2tTa1lvYnJDc2Z5WHlTMHRieFlWR0E3NDd4SzFfby1WSVhZVVBlOE1RakR4dGh4cHhNeEtUODBMY2h6elA2cDdpdDhQZU5PcFFuN085YkVSeDQ0VVFwMjVpX2E4TW90SE1yNkpaV1lLb3VoSWVuQ0Jpdl9MQWQ0SFNXNWJiUXdIN2JCNG02bFdSUWhsYW5wSXRDQVM?oc=5\" target=\"_blank\">Exclusive | Wall Street’s Favorite AI Startup Sets Its Sights on Wealth Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

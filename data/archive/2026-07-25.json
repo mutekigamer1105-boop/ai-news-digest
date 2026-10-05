@@ -131,6 +131,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jV1ZUUUdTT29SR05YWmZ0Mmh3YjA2NklVOC0wZFlYV0hYa3BqMGpfVk9Ndmo4ZXhsMFpFdEhGWjl2SUI5Q2NOZA?oc=5\" target=\"_blank\">刚刚，Claude爆改语音！11种语言，就是没中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hub.baai.ac.cn</font>",
    "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-698-07a7adecde",
+   "source_id": "news",
+   "source_name": "Startup Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Two-thirds of all venture capital is now flowing to AI startups and non-AI founders are feeling it - Startup Fortune",
+   "summary": "Two-thirds of all venture capital is now flowing to AI startups and non-AI founders are feeling it &nbsp;&nbsp; Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3NGd1pqbDdUaDZJMF8zZHBVaThBLUotYWZtaXBneEdnT2FBRFVYN1ZRem9hYzMxcGtmMmNscTlyQTMtcUJjVm10SklnZFBtbEc3UTR0cXhCOG5SYnUzNnVqQWM5TzZZVEZhYjVpV2M2dmtaMzlMaTJIcjFuOW5zSUxMVlNkZ2M5WUhWUWhYWm90NnZ0UG9LN1dWTHNFa0lOaVpLaXg4STlkVnJKcGlMaHlfSnJPQ2kxMWJCUHR1d2I5a1p0?oc=5",
+   "published_at": "2026-07-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3NGd1pqbDdUaDZJMF8zZHBVaThBLUotYWZtaXBneEdnT2FBRFVYN1ZRem9hYzMxcGtmMmNscTlyQTMtcUJjVm10SklnZFBtbEc3UTR0cXhCOG5SYnUzNnVqQWM5TzZZVEZhYjVpV2M2dmtaMzlMaTJIcjFuOW5zSUxMVlNkZ2M5WUhWUWhYWm90NnZ0UG9LN1dWTHNFa0lOaVpLaXg4STlkVnJKcGlMaHlfSnJPQ2kxMWJCUHR1d2I5a1p0?oc=5\" target=\"_blank\">Two-thirds of all venture capital is now flowing to AI startups and non-AI founders are feeling it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1132-d63eab954b",
+   "source_id": "news",
+   "source_name": "openai.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "诱恋诈骗：AI 辅助的“杀猪盘”流程 - openai.com",
+   "summary": "诱恋诈骗：AI 辅助的“杀猪盘”流程 &nbsp;&nbsp; openai.com",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSS1yWXpXN05nbzV6c1hQQUxhNURXZy1PTGNTNy1IT2h4ZXYtUGdUSllJUHdOajRuM3l1QUJLRDVWc0xzNlM2QmRMWHA0aGN6a2FUaDlqbXBZUXFRQ3ljQVE1aDlnZ0ZXVFV0VTJ4cFJaUGJJTkdWY054US1kNDZvdzVhcHRGNkVISXdITVhVWVU4Rkk?oc=5",
+   "published_at": "2025-02-01T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSS1yWXpXN05nbzV6c1hQQUxhNURXZy1PTGNTNy1IT2h4ZXYtUGdUSllJUHdOajRuM3l1QUJLRDVWc0xzNlM2QmRMWHA0aGN6a2FUaDlqbXBZUXFRQ3ljQVE1aDlnZ0ZXVFV0VTJ4cFJaUGJJTkdWY054US1kNDZvdzVhcHRGNkVISXdITVhVWVU4Rkk?oc=5\" target=\"_blank\">诱恋诈骗：AI 辅助的“杀猪盘”流程</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
+  }
+ ]
+}

@@ -482,6 +482,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjdBMzBkZWNObjNqUzhDbXN5VTZtTkpOeXNyd2RmN1BaNHQ5S2ZCLXBhNGswZzBodUlFNTJVWW13VVFsdnE2bGxFQ3BUQW1ZTS1mYTlDU3RxbkJBbkhDRk9hbmhZSFNCaGM2eE9ULVRQTlR4QlBMRUI1S2J3cElDVWdiOU8?oc=5\" target=\"_blank\">By Opening a Model, a Chinese A.I. Lab May Test the World’s Cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
    "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-690-6035af38a2",
+   "source_id": "news",
+   "source_name": "Variety",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Stability AI Raises $76 Million from UMG, WMG, Sony Music, More - Variety",
+   "summary": "Stability AI Raises $76 Million from UMG, WMG, Sony Music, More &nbsp;&nbsp; Variety",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbU1wbDkzbFB3a1lyM0dwLUlYWTZSV3kzVTJUTGp5NXJxbTlCRUFoNnBack8tdWFUS1NWWjdlU3UwVk40OE9hbzd1RkR1YnpCTlFlSjhnM1JXdlJJUzFCXzlPQWxNTWh4NnVQUGFhRU1BMkR2LTl6WUJ4WVVOakRnRXkwV1I5cVNfX19WM1lEYV9aNThm?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbU1wbDkzbFB3a1lyM0dwLUlYWTZSV3kzVTJUTGp5NXJxbTlCRUFoNnBack8tdWFUS1NWWjdlU3UwVk40OE9hbzd1RkR1YnpCTlFlSjhnM1JXdlJJUzFCXzlPQWxNTWh4NnVQUGFhRU1BMkR2LTl6WUJ4WVVOakRnRXkwV1I5cVNfX19WM1lEYV9aNThm?oc=5\" target=\"_blank\">Stability AI Raises $76 Million from UMG, WMG, Sony Music, More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

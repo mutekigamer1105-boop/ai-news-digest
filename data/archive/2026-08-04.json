@@ -171,6 +171,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0xOHVpRkdET0l2VmZab1FYdzc1ZjZrWXcyMEU4SkxCOGRZaGFWUlU5TnVpSzBidEFMQXIteFFFSldpLXR5eElSbW13U1J3eEV6ZGhwX05yQ0d3ZUlaWVVhc1AxZGh4RGtOY0JjTV9Od1ZhQUdZcnM2TA?oc=5\" target=\"_blank\">人工智能泡沫未必是件坏事？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
    "fetched_at": "2026-09-25T04:05:21+00:00"
+  },
+  {
+   "id": "web-962-7e2118c34f",
+   "source_id": "news",
+   "source_name": "中国科技网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "正听 | 听说中国开源大模型或遭限制，美国企业为何急了？ - 中国科技网",
+   "summary": "正听 | 听说中国开源大模型或遭限制，美国企业为何急了？ &nbsp;&nbsp; 中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RLUxzUVVkdlFIZF9CNk81NDQwUV9RWG1QOS1NRGhiaGc2ZEZFVjdrWFZibHZxdFNYR1RCQ3N1cGwyOUxhOHFhZnU3QmRDVzBNbEdFcnhKdE5teVZhQ1JCTG1pdjFJX01jaXlWaEhsZVY?oc=5",
+   "published_at": "2026-08-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5RLUxzUVVkdlFIZF9CNk81NDQwUV9RWG1QOS1NRGhiaGc2ZEZFVjdrWFZibHZxdFNYR1RCQ3N1cGwyOUxhOHFhZnU3QmRDVzBNbEdFcnhKdE5teVZhQ1JCTG1pdjFJX01jaXlWaEhsZVY?oc=5\" target=\"_blank\">正听 | 听说中国开源大模型或遭限制，美国企业为何急了？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

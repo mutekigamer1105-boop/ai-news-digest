@@ -391,6 +391,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE13RnpibFJ3cXBHRHg3ZFZEZkx6d1BaZWlHUzBXRVdsR0hETl80aEk2a1VOX3d5YUdKRXlvQzlGMThvbkE5d0NRbU9BNlF5NEYyTU9RWTBfVVhrMm8tUEFkTVVaZFphaU1vTmc2RWVQVFJjcF9LOE5v?oc=5\" target=\"_blank\">WAIC：智能体站上C位 产业链布局提速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cn</font>",
    "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-1075-eeb80fae63",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "博涛科技携双AI智能体矩阵登陆 WAIC 2026 - 新华网",
+   "summary": "博涛科技携双AI智能体矩阵登陆 WAIC 2026 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04S2R4em8yMU91bTdhVEQ4Um9NTVZDOFhXa05LbkZOZ0FjWHlZZUN4UkZZaWNBSDJzSzBuc21JVXZrUnBuNnRyYVBTVGRrc0RsWHVCcVI2ZHFiWTRGZUEzeC10N3d1MkF0eU1oalFSeFlyaERvNEZzWlVBd1E?oc=5",
+   "published_at": "2026-07-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE04S2R4em8yMU91bTdhVEQ4Um9NTVZDOFhXa05LbkZOZ0FjWHlZZUN4UkZZaWNBSDJzSzBuc21JVXZrUnBuNnRyYVBTVGRrc0RsWHVCcVI2ZHFiWTRGZUEzeC10N3d1MkF0eU1oalFSeFlyaERvNEZzWlVBd1E?oc=5\" target=\"_blank\">博涛科技携双AI智能体矩阵登陆 WAIC 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

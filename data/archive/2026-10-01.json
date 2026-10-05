@@ -9121,6 +9121,94 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBnMDl0TGNjRGRrWkRwZ3ZvS2FRY3o4bV9Ob2ZRZG5BdGQyQlRDNnBLT2hJdlBXN2YzU1BRbnM3S1NSb3VMcTJLVDVITlRQVkhDQ3lNd2pUZWdYZ1IxSzU0ZlVqY2lpUWNPOU5OZWw2aw?oc=5\" target=\"_blank\">How to Use Claude Sonnet 5.5: Setup Guide [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tech-insider.org</font>",
    "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-456-4498fdf7ed",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Targets Mega-IPO Before Thanksgiving Holiday - Bloomberg.com",
+   "summary": "Anthropic Targets Mega-IPO Before Thanksgiving Holiday &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUlUbXBSYkVLUzFtY2ptTGZ6Nk5HSHBpdFJBZlF1QU1JbXU3VG1Nb2g3OW95elBUTHV1czlHRUNKUFRBV0Nsa3QtVndGNDh2U3dBWFdRenZhRlVEX3hGTm04bl9TcVpuMkxsRkJNQ2NJbzhmYTYzZ01uRTJIS3g1ek80QmRDdE9iaUxRNmhsbzBDci02bnVaS2dpNDJsZzVJb243b2ppUVk0OFpDTWVQLW5B?oc=5",
+   "published_at": "2026-10-01T21:04:14+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUlUbXBSYkVLUzFtY2ptTGZ6Nk5HSHBpdFJBZlF1QU1JbXU3VG1Nb2g3OW95elBUTHV1czlHRUNKUFRBV0Nsa3QtVndGNDh2U3dBWFdRenZhRlVEX3hGTm04bl9TcVpuMkxsRkJNQ2NJbzhmYTYzZ01uRTJIS3g1ek80QmRDdE9iaUxRNmhsbzBDci02bnVaS2dpNDJsZzVJb243b2ppUVk0OFpDTWVQLW5B?oc=5\" target=\"_blank\">Anthropic Targets Mega-IPO Before Thanksgiving Holiday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-192-c243001ed2",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Zuckerberg’s Free AI Agent Hit 5 Million Downloads And Google Still Has Its Own Locked Behind A Paywall - Yahoo Finance",
+   "summary": "Zuckerberg’s Free AI Agent Hit 5 Million Downloads And Google Still Has Its Own Locked Behind A Paywall &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaWpkNk5nR1E5UVhBSXNyUmxxMUpvYnJQNC03WVktZGR5dzBPMGItdGhQdmlRVXhUZ1JhTFFnSDNHS3M3bmt5aHFra3NCeW0tc0FhQjNwM0hNZzRBaHQwbWhoc0xmbmVGU0ZYQTVISm5aY3JEWEFKT2llZUNkcEpBLXJfMnBaZzgtRDNpYU1iWmxSSFdWUUE0?oc=5",
+   "published_at": "2026-10-01T21:03:43+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOaWpkNk5nR1E5UVhBSXNyUmxxMUpvYnJQNC03WVktZGR5dzBPMGItdGhQdmlRVXhUZ1JhTFFnSDNHS3M3bmt5aHFra3NCeW0tc0FhQjNwM0hNZzRBaHQwbWhoc0xmbmVGU0ZYQTVISm5aY3JEWEFKT2llZUNkcEpBLXJfMnBaZzgtRDNpYU1iWmxSSFdWUUE0?oc=5\" target=\"_blank\">Zuckerberg’s Free AI Agent Hit 5 Million Downloads And Google Still Has Its Own Locked Behind A Paywall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-724-1d06832fcd",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Google Rolls Out New AI Model Gradually Amid Safety Concerns | The Morning Download for Oct. 1 - WSJ",
+   "summary": "Google Rolls Out New AI Model Gradually Amid Safety Concerns | The Morning Download for Oct. 1 &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU1keF9rZ0tJY1VWOVdQNTJOLV9NbndpOGc0TENacTlSTWI2Vnh5empUTENqRlJDeTZjQk1VMFBNTFpqamhpdTgzYzI0c2JEc0d5WVRTLUR4RFpJX3F0dEtmWXJLdU1PMzdyOGluRFJPRzlaR1o3NWJjZ3JtQlMyeHIyMjcxeUpLa0pPbXBJZ0RndG40NklXS2VzeTJCdUxrWDVn?oc=5",
+   "published_at": "2026-10-01T13:15:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU1keF9rZ0tJY1VWOVdQNTJOLV9NbndpOGc0TENacTlSTWI2Vnh5empUTENqRlJDeTZjQk1VMFBNTFpqamhpdTgzYzI0c2JEc0d5WVRTLUR4RFpJX3F0dEtmWXJLdU1PMzdyOGluRFJPRzlaR1o3NWJjZ3JtQlMyeHIyMjcxeUpLa0pPbXBJZ0RndG40NklXS2VzeTJCdUxrWDVn?oc=5\" target=\"_blank\">Google Rolls Out New AI Model Gradually Amid Safety Concerns | The Morning Download for Oct. 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-118-9da62937e8",
+   "source_id": "news",
+   "source_name": "GSA (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Model Context Protocol Server and AI Agent Government Hackathon - GSA (.gov)",
+   "summary": "Model Context Protocol Server and AI Agent Government Hackathon &nbsp;&nbsp; GSA (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRHlZRzVtNlV4ZWl6ZUFodUoxNjdGbFFPSDJ4Q2szU1hEMXB1dHFPY1VkYU5kMlVhSEdzSThBT1NVeXN0bFRUVnlvRlBFVzE4eGIzZFpfT3NUcHBxOFJoejNhbC1MWjZVaXptT1RXQVY0ZGlQa29DZEl1YVlJZVlremZxMHVzQXhHXzExSm1vWGw1X3o4R1NIcGU4ckFKcXJqcTZYdEZxMW02ZjFEZEt4SERsRWdBTlM3ODhoN2pMS09GN3FTNTIzdG5HeHRIdw?oc=5",
+   "published_at": "2026-10-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRHlZRzVtNlV4ZWl6ZUFodUoxNjdGbFFPSDJ4Q2szU1hEMXB1dHFPY1VkYU5kMlVhSEdzSThBT1NVeXN0bFRUVnlvRlBFVzE4eGIzZFpfT3NUcHBxOFJoejNhbC1MWjZVaXptT1RXQVY0ZGlQa29DZEl1YVlJZVlremZxMHVzQXhHXzExSm1vWGw1X3o4R1NIcGU4ckFKcXJqcTZYdEZxMW02ZjFEZEt4SERsRWdBTlM3ODhoN2pMS09GN3FTNTIzdG5HeHRIdw?oc=5\" target=\"_blank\">Model Context Protocol Server and AI Agent Government Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GSA (.gov)</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

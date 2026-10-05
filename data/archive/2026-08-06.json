@@ -87,6 +87,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HX3p3c3NLTzhaUWxtNTJiVm9RTlBaMnA0ekc4WlpfblJFZEZQXzZuanUxR2lUa1pKS2xrYldmT2piRDNqX1diRVpNRUdDdnpNV1dranBTTHptVEo1Y2hPQ2Q5aW4?oc=5\" target=\"_blank\">字节CEO梁汝波：坚持自研AI大语言模型并非因外部压力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font>",
    "fetched_at": "2026-09-11T04:05:30+00:00"
+  },
+  {
+   "id": "web-976-b85a34e87a",
+   "source_id": "news",
+   "source_name": "peopleapp.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "萌萌答｜中国最新AI大模型惊艳开源，为何让大洋彼岸“破防”了？ - peopleapp.com",
+   "summary": "萌萌答｜中国最新AI大模型惊艳开源，为何让大洋彼岸“破防”了？ &nbsp;&nbsp; peopleapp.com",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54eVBLTXU5cGRGbHlYMnNDMV9vZVFlbXdleVhKX045YW9GRjRwMVVYVFlwTWszMElqQkg2SURuOVQxanNha0ZFSjMxcUZyX1FOMnh3RGU2ZlJTcF93ZU5hUWRQdEtqc1Vh?oc=5",
+   "published_at": "2026-08-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE54eVBLTXU5cGRGbHlYMnNDMV9vZVFlbXdleVhKX045YW9GRjRwMVVYVFlwTWszMElqQkg2SURuOVQxanNha0ZFSjMxcUZyX1FOMnh3RGU2ZlJTcF93ZU5hUWRQdEtqc1Vh?oc=5\" target=\"_blank\">萌萌答｜中国最新AI大模型惊艳开源，为何让大洋彼岸“破防”了？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">peopleapp.com</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-1102-329e104f16",
+   "source_id": "news",
+   "source_name": "bgi.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "顾兵教授专访：AI智能体如何破解mNGS报告解读的“三大痛点” - bgi.com",
+   "summary": "顾兵教授专访：AI智能体如何破解mNGS报告解读的“三大痛点” &nbsp;&nbsp; bgi.com",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0M3BMR0RsN3pSamc3NlJZMG5BaXMzWjFGN2J0VkRjdUdCU3I2RXZKdDBmQ3ZBQVZYd19DUjNRY3d5dnp5aTByelhKcw?oc=5",
+   "published_at": "2026-08-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0M3BMR0RsN3pSamc3NlJZMG5BaXMzWjFGN2J0VkRjdUdCU3I2RXZKdDBmQ3ZBQVZYd19DUjNRY3d5dnp5aTByelhKcw?oc=5\" target=\"_blank\">顾兵教授专访：AI智能体如何破解mNGS报告解读的“三大痛点”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgi.com</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

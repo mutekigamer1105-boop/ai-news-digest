@@ -12511,6 +12511,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwQUJGWFktd0ZMMVFCVHM4LU9scU94WVZxX0Q4QTR3UTdRX2gtMVUxWUs4dm9YQ1RwS0k1ZVAtWjFXN3QzZVRqTlJ5ZnZFdjd1OTl6RE5jeXpTR0VsQzVleA?oc=5\" target=\"_blank\">Meta为AI智能体Muse测试人工代办电话服务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-790-f828f92a59",
+   "source_id": "news",
+   "source_name": "developers.googleblog.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Introducing Support for Local AI Models in the Antigravity SDK - developers.googleblog.com",
+   "summary": "Introducing Support for Local AI Models in the Antigravity SDK &nbsp;&nbsp; developers.googleblog.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1F3eUcyRXRLZnFTTFhCd1Foa1NKUDJzZjlEd3lZejc0eU5oV0h6NnJOT011bWsxT1N3VFFEX0RMYlFhZVZHT1EyVWk5TjJnVVFZMGpLelQ1Y1hWTXdfOTRiYzhUdkFhZjFOWnJLNXg4M1owdmVfWk9IT0x0MWo2TGpELVQyZ3hDc29ncmVTTDR1RHMtSG5CYng4T1d6dw?oc=5",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOM1F3eUcyRXRLZnFTTFhCd1Foa1NKUDJzZjlEd3lZejc0eU5oV0h6NnJOT011bWsxT1N3VFFEX0RMYlFhZVZHT1EyVWk5TjJnVVFZMGpLelQ1Y1hWTXdfOTRiYzhUdkFhZjFOWnJLNXg4M1owdmVfWk9IT0x0MWo2TGpELVQyZ3hDc29ncmVTTDR1RHMtSG5CYng4T1d6dw?oc=5\" target=\"_blank\">Introducing Support for Local AI Models in the Antigravity SDK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">developers.googleblog.com</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-900-6d965d9478",
+   "source_id": "news",
+   "source_name": "J.P. Morgan Private Bank",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "机器人技术：人工智能的下一个重要前沿| 摩根大通私人银行亚洲 - J.P. Morgan Private Bank",
+   "summary": "机器人技术：人工智能的下一个重要前沿| 摩根大通私人银行亚洲 &nbsp;&nbsp; J.P. Morgan Private Bank",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmRNOHdoMXB3U2ZYaThTeFRGM1AyS3ZYSjhBcmQzNUhnZF92TjQxQWlVUlZNTTFBcHB4OGV1ajh0WmM0Y3QyWVVoWUg5V3lXeElqUS1qeDd4RGtSM2c0LWZSbWdIQnlwekQ0T2NPaUduSHg4ak9hU2s4TFQxZ2FfekRtNVNiZzN5c29GX3NtTlFaX0p4NGdMMjFPdXVWdHZmQkdJUnBnSTh3QWVobzdkNDFONlZGUVVybFlHX0g0T3hPdnhFcFE?oc=5",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmRNOHdoMXB3U2ZYaThTeFRGM1AyS3ZYSjhBcmQzNUhnZF92TjQxQWlVUlZNTTFBcHB4OGV1ajh0WmM0Y3QyWVVoWUg5V3lXeElqUS1qeDd4RGtSM2c0LWZSbWdIQnlwekQ0T2NPaUduSHg4ak9hU2s4TFQxZ2FfekRtNVNiZzN5c29GX3NtTlFaX0p4NGdMMjFPdXVWdHZmQkdJUnBnSTh3QWVobzdkNDFONlZGUVVybFlHX0g0T3hPdnhFcFE?oc=5\" target=\"_blank\">机器人技术：人工智能的下一个重要前沿| 摩根大通私人银行亚洲</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">J.P. Morgan Private Bank</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

@@ -178,6 +178,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFJMUVptQk9VejhvaDJxY3hoUEZ0YUJ1ZWY3X1N1b3g0Q3RGZk5DNjdadUd6TGE0NWh5WXQ0Q2hIVVo2QUVxNVlHdkFqb2VKdjNEVzJQMGJCOUh4ZWNraWhpcEpNU19LWjFwTldJQXF1a1Y4SHdZNHd6S2RYZGZXck1BU3lXMlZZSjY0UmVDcEJSLUxCVDdSTTBpYWlScDNXekhrUXhCQkZKQXkweTI0aGRHTnFwdUhnMnNJWGtzRHFfVDhHQmlmYQ?oc=5\" target=\"_blank\">Exclusive: Seltz, a startup rebuilding web search for AI agents, raises $12.5 million in seed funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
    "fetched_at": "2026-09-19T04:05:23+00:00"
+  },
+  {
+   "id": "web-1156-bdf186f604",
+   "source_id": "news",
+   "source_name": "igor´sLAB",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "IBM 和 OpenAI 合作推出前沿 AI 应用安全服务 - igor´sLAB",
+   "summary": "IBM 和 OpenAI 合作推出前沿 AI 应用安全服务 &nbsp;&nbsp; igor´sLAB",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX0lNd05LdHI4Z1Q5bHY0dzlGX2w0d2hIV1JMRW5EQVhNVUVhbG5RWnVNQjFCdFNfMFd0OHdEeFhjS2tNeUk3MHIwRTJleEU3TmtWOFlZQnZvdklDMXRjb20tLWZQY3lsbWdhUmNubE9BRURyd1NHS2VmR21NRUpRRHNabGRSWjFWM2NaWXRXTGFHVFE?oc=5",
+   "published_at": "2026-06-24T07:57:03+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPX0lNd05LdHI4Z1Q5bHY0dzlGX2w0d2hIV1JMRW5EQVhNVUVhbG5RWnVNQjFCdFNfMFd0OHdEeFhjS2tNeUk3MHIwRTJleEU3TmtWOFlZQnZvdklDMXRjb20tLWZQY3lsbWdhUmNubE9BRURyd1NHS2VmR21NRUpRRHNabGRSWjFWM2NaWXRXTGFHVFE?oc=5\" target=\"_blank\">IBM 和 OpenAI 合作推出前沿 AI 应用安全服务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">igor´sLAB</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

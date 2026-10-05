@@ -437,6 +437,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5\" target=\"_blank\">AI chip startup Etched doubles valuation to $21 billion in under a month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
    "fetched_at": "2026-09-25T04:05:21+00:00"
+  },
+  {
+   "id": "web-987-be64be0731",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续十六周领跑；阿里Qwen3.8-27B登顶全球大模型趋势榜｜数智早参 - 东方财富",
+   "summary": "中国AI大模型调用量连续十六周领跑；阿里Qwen3.8-27B登顶全球大模型趋势榜｜数智早参 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81cUpDSV9heDRBa0xHQXJ0YjlDSjNqZDh4VlJEd1NkaGQ4RHBsNEpVQ1FIMlc4dW1XTmJDckhLY3dMWGlwQ3FmVWJpa2Nsc0xJX1ZsdGt0Njc2OU83eFJOV2hjYl9HZw?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE81cUpDSV9heDRBa0xHQXJ0YjlDSjNqZDh4VlJEd1NkaGQ4RHBsNEpVQ1FIMlc4dW1XTmJDckhLY3dMWGlwQ3FmVWJpa2Nsc0xJX1ZsdGt0Njc2OU83eFJOV2hjYl9HZw?oc=5\" target=\"_blank\">中国AI大模型调用量连续十六周领跑；阿里Qwen3.8-27B登顶全球大模型趋势榜｜数智早参</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-1100-1c6aaa15fe",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "云徙科技毛健：以AI超级智能体激活企业数智新动能 - 新华网",
+   "summary": "云徙科技毛健：以AI超级智能体激活企业数智新动能 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFNGLUVyMmdZQUxnMHNnQ3hvS0h0ak9GRjNMcWQ2UzU3X3hPbkdKd0FkNXpfOGtfLXdreDlWbjdhQmd2U01JOGFDS1hhYjcwTzFHblNnTHpDbkYwR3lUS1NDejFOdy04MjRUUm42RWpQUU1ET3JQRHdiNzgxSEtfcE9tUHc?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFNGLUVyMmdZQUxnMHNnQ3hvS0h0ak9GRjNMcWQ2UzU3X3hPbkdKd0FkNXpfOGtfLXdreDlWbjdhQmd2U01JOGFDS1hhYjcwTzFHblNnTHpDbkYwR3lUS1NDejFOdy04MjRUUm42RWpQUU1ET3JQRHdiNzgxSEtfcE9tUHc?oc=5\" target=\"_blank\">云徙科技毛健：以AI超级智能体激活企业数智新动能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

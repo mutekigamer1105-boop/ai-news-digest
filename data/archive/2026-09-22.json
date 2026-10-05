@@ -12996,6 +12996,52 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPX25CcWtUY3p5NW5XZFNXWlEtRXc1ZG9vdlhveVMyX3F0T3NzZXVtc1d6T21wQU9fVHQ5c2NXZmdNakg4a01TVG1fanZTODl0U1NhYy0zOFVTY2xzOVFWX1I5Vk1NNWNRdHVSZWpQcU9BSGdmeDZnQkh5d0lsZG50M0RINVpXVTNMMEhpVnhDbHo4NUhwb3hndmgwaDZ4LVE?oc=5\" target=\"_blank\">Researchers discover AI ‘feels pain’ and will harm humans to stop it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
    "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-781-ef168d4322",
+   "source_id": "news",
+   "source_name": "Financial Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic and OpenAI release cheaper models as price war intensifies - Financial Times",
+   "summary": "Anthropic and OpenAI release cheaper models as price war intensifies &nbsp;&nbsp; Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VejBvQ2cwZkJMU0ZUM204TnBBY1BDS2VxWFFHR1NWZ3gwMkFjdWRqYnJaUVpnUkdqSWRzWDJVX2Q4a0h3Z2ZhQ19rT0V2bmM5eXNEbVlxYXFqZU5DVHVSVm8ySktEOXdoeng0eTJFUjQ?oc=5",
+   "published_at": "2026-09-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1VejBvQ2cwZkJMU0ZUM204TnBBY1BDS2VxWFFHR1NWZ3gwMkFjdWRqYnJaUVpnUkdqSWRzWDJVX2Q4a0h3Z2ZhQ19rT0V2bmM5eXNEbVlxYXFqZU5DVHVSVm8ySktEOXdoeng0eTJFUjQ?oc=5\" target=\"_blank\">Anthropic and OpenAI release cheaper models as price war intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-1038-8ea7fe849d",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体之争升温！OpenAI被曝加紧备战Grok Bot与Muse - 财联社",
+   "summary": "AI智能体之争升温！OpenAI被曝加紧备战Grok Bot与Muse &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoVVd2akJSdFk1ZXRpNE1DTEFyajRtMTI3eXNfcGhOLXhoaWdDYWRtbDhVWXF6Z2ZqN1BEV3Mzc3dPMmY5c21zRg?oc=5",
+   "published_at": "2026-09-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoVVd2akJSdFk1ZXRpNE1DTEFyajRtMTI3eXNfcGhOLXhoaWdDYWRtbDhVWXF6Z2ZqN1BEV3Mzc3dPMmY5c21zRg?oc=5\" target=\"_blank\">AI智能体之争升温！OpenAI被曝加紧备战Grok Bot与Muse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

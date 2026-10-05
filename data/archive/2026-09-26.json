@@ -5838,6 +5838,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1ZHZkVBal9EREw5c0lTSndMN1JkN1g4dWxfdzYtcDFSWUVBOXpJQzFieHNsYjcwUHZ1UU1oSWZXbFJCMWM4VkNGLUxSaF91Wl9Ic2xTakxuRlFHQ3pPWmd6aHRLbGR1TUlUcHo1MGtva3ZBLWx0SS1ZN00tSWp6c2dMb3k1NVJtUXZCOFpnNmw3M1ItUEkxUm4xeC02eGZia2ZWOG9vWTNWRW91N2JyYlF0TVFjejVKUGdaQkx3Vkt6dEZYSGV1YmtkRGdSMmVvcVE?oc=5\" target=\"_blank\">Better coffee, better journalism? Our editor explains the link</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cleveland.com</font>",
    "fetched_at": "2026-10-01T04:06:56+00:00"
+  },
+  {
+   "id": "web-1024-4f5c264a15",
+   "source_id": "news",
+   "source_name": "中国科技网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "人类仅给出高层检索方向，AI智能体自主发现未知酶系统 - 中国科技网",
+   "summary": "人类仅给出高层检索方向，AI智能体自主发现未知酶系统 &nbsp;&nbsp; 中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvSHk3WWZMZXB6TGN0WE1XNnpjSnpNZU5hSEVORTFDcFluRDJPckZ6MUR0WTdtQW1BVm5DSmw0NDJoMjc2VFVkYzJPcmVPNFVPWF9mTzhhXzRkWlB6V0tweWtvUGRGS28xb0tTYkNGWUM?oc=5",
+   "published_at": "2026-09-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBvSHk3WWZMZXB6TGN0WE1XNnpjSnpNZU5hSEVORTFDcFluRDJPckZ6MUR0WTdtQW1BVm5DSmw0NDJoMjc2VFVkYzJPcmVPNFVPWF9mTzhhXzRkWlB6V0tweWtvUGRGS28xb0tTYkNGWUM?oc=5\" target=\"_blank\">人类仅给出高层检索方向，AI智能体自主发现未知酶系统</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

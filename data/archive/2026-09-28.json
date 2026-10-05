@@ -11499,6 +11499,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBRUm5zMzZPdE9LSmZqS01uM0RHWDd6SnhsLWdYcy1VM0c3WmU3cUNwaE5PVW9IZkJkdGlWY2tlNlRENmhrYTRGcV9sVFFkZ1NEZFpJWEMxcjlURkVYTEVlR3J3QlJicWYwOFItN3BMVmttdw?oc=5\" target=\"_blank\">智能体连续失控，Open AI按下暂停键</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
    "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-1089-0172bb3f56",
+   "source_id": "news",
+   "source_name": "同花顺财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "英伟达发布 AI 智能体安全平台，可实时隔离异常智能体 - 同花顺财经",
+   "summary": "英伟达发布 AI 智能体安全平台，可实时隔离异常智能体 &nbsp;&nbsp; 同花顺财经",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuVVZYczZKQms0aDNXNEtDdjdFMmV1elNwMmU0VnFPak9KcDdpN2hfRVItUnlZYjEyNEtiZ1BsM0s3NmJnSnVVcEpCYUpTU1RidFhLUGoyU0Y2S3VRTUE?oc=5",
+   "published_at": "2026-09-28T13:16:34+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuVVZYczZKQms0aDNXNEtDdjdFMmV1elNwMmU0VnFPak9KcDdpN2hfRVItUnlZYjEyNEtiZ1BsM0s3NmJnSnVVcEpCYUpTU1RidFhLUGoyU0Y2S3VRTUE?oc=5\" target=\"_blank\">英伟达发布 AI 智能体安全平台，可实时隔离异常智能体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-965-efe12d29b9",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续二十二周领跑：匿名模型“太空兔”冲进前三，测试显示其可能来自MiniMax - 新浪财经",
+   "summary": "中国AI大模型调用量连续二十二周领跑：匿名模型“太空兔”冲进前三，测试显示其可能来自MiniMax &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDNwQmd2NjczQTE0VDhsNFZES29OMzF4dmRDenBvUnAtUTY5QjBIaEhXOTF2Y1Bna0dpbGRFMVBNSnJVZGRwZEVQSUxHV3lxWlJPajVpNC1SYVVySFhNVGZNazAyMlJKaW90SEtycnhYeThob0I1ektJUEZkVlJSbw?oc=5",
+   "published_at": "2026-09-28T02:33:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDNwQmd2NjczQTE0VDhsNFZES29OMzF4dmRDenBvUnAtUTY5QjBIaEhXOTF2Y1Bna0dpbGRFMVBNSnJVZGRwZEVQSUxHV3lxWlJPajVpNC1SYVVySFhNVGZNazAyMlJKaW90SEtycnhYeThob0I1ektJUEZkVlJSbw?oc=5\" target=\"_blank\">中国AI大模型调用量连续二十二周领跑：匿名模型“太空兔”冲进前三，测试显示其可能来自MiniMax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

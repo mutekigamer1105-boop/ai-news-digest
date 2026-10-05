@@ -596,6 +596,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTDA1Y3hGeFM2NWN2WXZMWGY1QzM2RU1OdFNKenpIZHU2TEVLSUVxQWVoaUx1TUpZaEgzRGZHYnQ5ekNMZHI2ZzJieEtKZWhkdkpVU1AwbzZURVpXZVBZb0cwRTdaX3VTcUItXw?oc=5\" target=\"_blank\">Scoop: Generalist raises another $200 million for AI robotics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
    "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-696-d631a26a30",
+   "source_id": "news",
+   "source_name": "SiliconANGLE",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Robotics AI startup Generalist reportedly raises $200M - SiliconANGLE",
+   "summary": "Robotics AI startup Generalist reportedly raises $200M &nbsp;&nbsp; SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGp4Y2JmNV9fMU4zcnp1WjBUR2h2MmRHNjA3S09jZzh4emdXUTd3dVlyY0ktamx0dFNsaF85Y3pUb3VLdzBKbXpUVlFVRDNsS2FNakN0aXU4Ykl6aWRkSldTOHNNNk1SREJMZWY0VERkYWZzMEgxUWh2c0ZFR2JzQktVWnppaWthY1FQUC1rbmt2Y2Yy?oc=5",
+   "published_at": "2026-08-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGp4Y2JmNV9fMU4zcnp1WjBUR2h2MmRHNjA3S09jZzh4emdXUTd3dVlyY0ktamx0dFNsaF85Y3pUb3VLdzBKbXpUVlFVRDNsS2FNakN0aXU4Ykl6aWRkSldTOHNNNk1SREJMZWY0VERkYWZzMEgxUWh2c0ZFR2JzQktVWnppaWthY1FQUC1rbmt2Y2Yy?oc=5\" target=\"_blank\">Robotics AI startup Generalist reportedly raises $200M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

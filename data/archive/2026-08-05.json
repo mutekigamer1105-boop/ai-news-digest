@@ -153,6 +153,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQekFpOGNXSmtzOU96NlZTYkVYLVVRY1VidjJKOEtJeXg0d1A5SlJXOEdxdExKWWJEWVVpSlpWT0VOOGF3Nks2SUZlczlRYVU4eWxudks4SFM5eTVKMTdFZGdXaUFGVlFLT0xaeDNRVElpVGZVeUlpS3paQXdhMkdZbXhJeGxuZ2JLVldpeFBmSkluS2tLM3lpTF80aGxDZmV3dlNHRWdFRktpaDVwNUhwSG9JV3NVZlBILUdTOURlNjBiV09kc0JUZVlJQWlCeF9MdDZfSUo1RFc?oc=5\" target=\"_blank\">All academic departments at Miami to integrate artificial intelligence into the curriculum by 2027-2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Miami University</font>",
    "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-699-3ec2c74870",
+   "source_id": "news",
+   "source_name": "The Business Journals",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI startup Shelfmark raises $3.5M seed round to expand computer vision offerings - The Business Journals",
+   "summary": "AI startup Shelfmark raises $3.5M seed round to expand computer vision offerings &nbsp;&nbsp; The Business Journals",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeTQ5eHp4Q2FCdS0wZGwyVFRCTGI5UzJ6RzM4aGxDSVpkRURNaEV2UW5oMGlhTXB1OHd2N2dTMnhzNkkzM3pxX0ViRlVGRVpNVXg3MVJJQ210cTBVUEo4c3NxdHRIUHhpSDhWLUN5ZVJUX1lZUDA1VmFvWHR6NTNneVNFYVpwLWd1YnlTTkNPQ2dnbkhjd0pab3F2TzRTcUE?oc=5",
+   "published_at": "2026-08-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNeTQ5eHp4Q2FCdS0wZGwyVFRCTGI5UzJ6RzM4aGxDSVpkRURNaEV2UW5oMGlhTXB1OHd2N2dTMnhzNkkzM3pxX0ViRlVGRVpNVXg3MVJJQ210cTBVUEo4c3NxdHRIUHhpSDhWLUN5ZVJUX1lZUDA1VmFvWHR6NTNneVNFYVpwLWd1YnlTTkNPQ2dnbkhjd0pab3F2TzRTcUE?oc=5\" target=\"_blank\">AI startup Shelfmark raises $3.5M seed round to expand computer vision offerings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }

@@ -284,6 +284,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE16c2l0MHpIQmNWcGNIcEU3T0RBVlNGaWhBR3ppMkxvbThULXZUbWpNcmpNQVFTUHh6Z0JoeU0yV19LdjRnY3hvNmk0cHZSQU1wbWFDeXRGbWw4QQ?oc=5\" target=\"_blank\">What Are Large Language Models (LLMs) & How Do They Work?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Harvard Business School Online</font>",
    "fetched_at": "2026-09-25T04:05:21+00:00"
+  },
+  {
+   "id": "web-1096-23feec5ede",
+   "source_id": "news",
+   "source_name": "shobserver.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "上海发布全球首个AI智能体原生系统，大模型手机也来了，美团、百度率先接入 - shobserver.com",
+   "summary": "上海发布全球首个AI智能体原生系统，大模型手机也来了，美团、百度率先接入 &nbsp;&nbsp; shobserver.com",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LVTZPTllmQUUwMy1uSFhhSDlpUmlzakpwdTM5Y05FREdHS1N1YjhmWG5yT051WmZ6M3pPdEJqU3JOMVRoSGNhdWg2Z0p0bl84bEc5TU1LdHlpVFlUM1E?oc=5",
+   "published_at": "2026-07-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LVTZPTllmQUUwMy1uSFhhSDlpUmlzakpwdTM5Y05FREdHS1N1YjhmWG5yT051WmZ6M3pPdEJqU3JOMVRoSGNhdWg2Z0p0bl84bEc5TU1LdHlpVFlUM1E?oc=5\" target=\"_blank\">上海发布全球首个AI智能体原生系统，大模型手机也来了，美团、百度率先接入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shobserver.com</font>",
+   "fetched_at": "2026-10-05T11:02:37+00:00"
   }
  ]
 }
