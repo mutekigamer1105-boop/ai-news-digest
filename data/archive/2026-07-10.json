@@ -197,6 +197,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmdwYklTbEZJODVWYTcxUnBiVWVKZkc2dGlzb2NCMnVubDJySDZlS0ppUXJJN0NqZVFVU0VkT3Y1NXZGRVlUSlY3bFFXLTZrNGxDUVF1RGlaWlRWMU5wVnZXTmIxWEZxS2VrMUFOS0pNMmZXbUNvamtZNUQyclM4RzVIUUFlQlpBdkt0OEZ5dlR6NlE?oc=5\" target=\"_blank\">5 Interesting Startup Deals You May Have Missed: AI That Dispatches The Plumber, Underground Warfare And Cutting Down Private-Market Paperwork</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.crunchbase.com</font>",
    "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-1108-4afbe63add",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "从“技术可用”到“商业可赚” AI智能体加速落地 - 新华网",
+   "summary": "从“技术可用”到“商业可赚” AI智能体加速落地 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NRHVIZE52MGdzeE1JSjFvN295cXB5RUtaYlNDMlZfdDAwNHFOWXdXZF9JQmRuQUQtS2hkV2hRQUs1N1hBam90aDZveVA3TDdPTm50djZPZjNUSmNQY2xOZmtmdjh1UndHOEFrZ1poRkZTOVFX?oc=5",
+   "published_at": "2026-07-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5NRHVIZE52MGdzeE1JSjFvN295cXB5RUtaYlNDMlZfdDAwNHFOWXdXZF9JQmRuQUQtS2hkV2hRQUs1N1hBam90aDZveVA3TDdPTm50djZPZjNUSmNQY2xOZmtmdjh1UndHOEFrZ1poRkZTOVFX?oc=5\" target=\"_blank\">从“技术可用”到“商业可赚” AI智能体加速落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
   }
  ]
 }

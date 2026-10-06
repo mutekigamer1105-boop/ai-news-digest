@@ -89,6 +89,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uNjBDaF8yY1pBY3JCTHlXQXZ0SmVrTmFGQkozLTlMajBtdGJpR3l2Sk52UDFwQ2tJbmZ3Q1dPN25laC0yM0x0aTJGMVJ3MXJoOEprUWdnV0JaWFJlb2kw?oc=5\" target=\"_blank\">Mapping AI startup investment and innovation in healthcare using a five-tier AI systems complexity framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-1168-fea7c643cf",
+   "source_id": "news",
+   "source_name": "美国中文网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "反AI情绪酿暴力 20岁男子被控试图谋杀OpenAI CEO - 美国中文网",
+   "summary": "反AI情绪酿暴力 20岁男子被控试图谋杀OpenAI CEO &nbsp;&nbsp; 美国中文网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SYzE2X3QyNGR2bUI5a1ZwX29wOURHYzJhTG9VMXRjT0Ezam5rMlVmeGg0bHhqalJaR2ZhNVpSeTJjSFhaR0o1dHpZcjRPSWtrX3FFcy1HbzlmTE1SRkluUnU4TFBwbEVmYW02aDN3MTQ?oc=5",
+   "published_at": "2026-04-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9SYzE2X3QyNGR2bUI5a1ZwX29wOURHYzJhTG9VMXRjT0Ezam5rMlVmeGg0bHhqalJaR2ZhNVpSeTJjSFhaR0o1dHpZcjRPSWtrX3FFcy1HbzlmTE1SRkluUnU4TFBwbEVmYW02aDN3MTQ?oc=5\" target=\"_blank\">反AI情绪酿暴力 20岁男子被控试图谋杀OpenAI CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">美国中文网</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
   }
  ]
 }

@@ -4877,6 +4877,71 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxQMFV6XzhQa2xsNXVkNVRBTkRDVEZrWkhlbF9zeTBmdzh2VUdhenRIaHNmZHVNcEhndlhFRzd5dGEyUGZwN2JWQXBQU1VvMGdSN3BZZXJxMy0xSDBHemFIckNIUkxsVDBCeGtzWlFEalg4VG5yOE1TcUtrbDlMSnVoNFFnaEtCWTl2ZlRCS1hlQ1lkaDF0ZkRYNmFkdnFKNkFhaUJncHpFQWtLckVzaHdTSHVxUmd0cmJuRk96OUEtd0dYdWpibVJncWViRGR0RVBTczhGSzhwZTNaUS1fLWlPMWhFQkZBd2t3U2l3b3F6TlZOZkl2Z0U2dHFVY0NRTlo4c2NEdnhfZjVIYUp1X29LdEFSMGYzU1BkQlN6NHhkelhocl9qeVMyWA?oc=5\" target=\"_blank\">Meta宣布旗下AI智能体Muse将登陆智能眼镜平台|Linux|Muse Spark|Agent|运行|虚拟机_手机新浪网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-353-a5ddd92527",
+   "source_id": "news",
+   "source_name": "The Guardian",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’ - The Guardian",
+   "summary": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’ &nbsp;&nbsp; The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcldEYVVROGhFOHl0UGVvVkEzTnZyWkRBRTVxWkZOeXphTkdqYkJ1dFFNOFFJNldDdVVRTE1KaGxaNUJmQWlBNVhocE9CSHNnMFE1WVZQb3lBRF9KSTZKNVFHMndMSGJOYVdHRzhIdEZXNGMtNml2clZCYUtKTk52TjlZTVRRWE1OVFdiMTBIOFdpeEp2RW5mT2RqaEp2UkFGLVZTLVZPSkdIMzE3blc5YzFMdTFsQQ?oc=5",
+   "published_at": "2026-10-03T19:41:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcldEYVVROGhFOHl0UGVvVkEzTnZyWkRBRTVxWkZOeXphTkdqYkJ1dFFNOFFJNldDdVVRTE1KaGxaNUJmQWlBNVhocE9CSHNnMFE1WVZQb3lBRF9KSTZKNVFHMndMSGJOYVdHRzhIdEZXNGMtNml2clZCYUtKTk52TjlZTVRRWE1OVFdiMTBIOFdpeEp2RW5mT2RqaEp2UkFGLVZTLVZPSkdIMzE3blc5YzFMdTFsQQ?oc=5\" target=\"_blank\">OpenAI safety leader quits, warning AI company’s culture is ‘broken’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-1022-59ae3c2d5e",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升 - 新浪财经",
+   "summary": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjBUWm5LRnNudnlZaV90amhVQ28yb3JoWGs2Q181OEVYUU5RX1VSdEE0VXRrbWZkNllROEZLT2FWLW1mYUZUME55dkY5aFdUN05RWkFoQ0g4VWRxOEhrYzJiT3ZFS0tNeUE2cXFGSEwzSnNJb3lfbmtZQTF1d0N1anBjeGVFX2VKaXFFS1Y2OXV3ZnlISFRRYy1PU0pQRE1WRmtvTkpUaklpakpYM0ZKLTkyZF9rbWRoWnVKbmtXQl9TY2V4UWc4ZVIzM0FsMmlU?oc=5",
+   "published_at": "2026-10-03T16:06:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjBUWm5LRnNudnlZaV90amhVQ28yb3JoWGs2Q181OEVYUU5RX1VSdEE0VXRrbWZkNllROEZLT2FWLW1mYUZUME55dkY5aFdUN05RWkFoQ0g4VWRxOEhrYzJiT3ZFS0tNeUE2cXFGSEwzSnNJb3lfbmtZQTF1d0N1anBjeGVFX2VKaXFFS1Y2OXV3ZnlISFRRYy1PU0pQRE1WRmtvTkpUaklpakpYM0ZKLTkyZF9rbWRoWnVKbmtXQl9TY2V4UWc4ZVIzM0FsMmlU?oc=5\" target=\"_blank\">苹果将加强Mac隐私控制 警告AI智能体带来的风险上升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-810-cff45ee69d",
+   "source_id": "news",
+   "source_name": "联合早报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI投资上天价却未见生产力 专家警示AI资本狂热隐忧 - 联合早报",
+   "summary": "AI投资上天价却未见生产力 专家警示AI资本狂热隐忧 &nbsp;&nbsp; 联合早报",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVRGZ2bzFua19ySFdycWlRdjF1MTFOT1pCekpzY0daNzVzUGVPTThYcThDVlJuZWVpek9HTE9LZHRoS3N6UVdHRlhDQkpJOVpjMHhXMmJBc2pTMVVpYVhzeU15LTZGUjY1TUE?oc=5",
+   "published_at": "2026-10-03T10:24:21+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBVRGZ2bzFua19ySFdycWlRdjF1MTFOT1pCekpzY0daNzVzUGVPTThYcThDVlJuZWVpek9HTE9LZHRoS3N6UVdHRlhDQkpJOVpjMHhXMmJBc2pTMVVpYVhzeU15LTZGUjY1TUE?oc=5\" target=\"_blank\">AI投资上天价却未见生产力 专家警示AI资本狂热隐忧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
   }
  ]
 }

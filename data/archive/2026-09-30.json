@@ -11728,6 +11728,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRVnJqeFlPa3dfMHdjY3phOEhRNUdjNFFKMV9mNndMOWZFTndrWkhnRGJRZmpkaXJRa1ZiSWhlcEU2VWp3SXpUZG1zUlNOdnFBWi0wbng5WXptRklLQXc?oc=5\" target=\"_blank\">月活超3亿的AI大模型，多了个权威新闻伙伴！上观快问正式入驻千问</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
    "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-1162-b025674a34",
+   "source_id": "news",
+   "source_name": "CoinDesk",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI在推迟首次公开募股后寻求300亿美元融资，估值高达1.4万亿美元 - CoinDesk",
+   "summary": "OpenAI在推迟首次公开募股后寻求300亿美元融资，估值高达1.4万亿美元 &nbsp;&nbsp; CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3MxUmM4MEtNX3BVX204WmFub2ZvbG5NWGhaSjNORDhxWHhxb3VTTXpBaVIyNGpPT0Y0VWgyd3duMDJhUllOdjViTHhDSy1uWm9vejU0VTJUcVhRUE5wY1ZmX3lFWG5SaVhjR0hkT3JwNFl3N3BUSzNYV2Z2WmtIUm5JdzRhUU4zMEZxeGJBYlYxSmZRNXBxa0lGUmdkTDNCQm5UQmxGT2lkU3JCaHVQRUNzOA?oc=5",
+   "published_at": "2026-09-30T08:50:22+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3MxUmM4MEtNX3BVX204WmFub2ZvbG5NWGhaSjNORDhxWHhxb3VTTXpBaVIyNGpPT0Y0VWgyd3duMDJhUllOdjViTHhDSy1uWm9vejU0VTJUcVhRUE5wY1ZmX3lFWG5SaVhjR0hkT3JwNFl3N3BUSzNYV2Z2WmtIUm5JdzRhUU4zMEZxeGJBYlYxSmZRNXBxa0lGUmdkTDNCQm5UQmxGT2lkU3JCaHVQRUNzOA?oc=5\" target=\"_blank\">OpenAI在推迟首次公开募股后寻求300亿美元融资，估值高达1.4万亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
   }
  ]
 }

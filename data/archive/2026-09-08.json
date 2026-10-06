@@ -11349,6 +11349,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUA?oc=5\" target=\"_blank\">Introducing Muse: The World’s First Personal AI Agent Built for Everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font>",
    "fetched_at": "2026-09-24T04:05:12+00:00"
+  },
+  {
+   "id": "web-1156-870f81bd4d",
+   "source_id": "news",
+   "source_name": "36 Kr",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "刚刚，GPT-Image-2.5发布 - 36 Kr",
+   "summary": "刚刚，GPT-Image-2.5发布 &nbsp;&nbsp; 36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iNV9XZVdiM1ZVaHZvbFRiT05wMFhId0ZwU2lMNGdXVzdxd0cwNHhVbHgtd0x2cS1TMHdycDZiTHRBRmtELUpaRHZoZXRVQQ?oc=5",
+   "published_at": "2026-09-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iNV9XZVdiM1ZVaHZvbFRiT05wMFhId0ZwU2lMNGdXVzdxd0cwNHhVbHgtd0x2cS1TMHdycDZiTHRBRmtELUpaRHZoZXRVQQ?oc=5\" target=\"_blank\">刚刚，GPT-Image-2.5发布</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
   }
  ]
 }

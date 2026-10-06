@@ -129,6 +129,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUl2cklIYkg0cjlxX3BOUlV3LVg4bzM2Y2pJM2hCak9OaTNoRi1DeFh2OWFsdzRZUlBiT0d6MHVnWGlxS3lFblZBdjk1Ty1vTE5MdEU2YW54YlgtS3l5aUJaVGVNVlI4Z0VGVDRSeHF3V0ZueTRDVnhxOUNQSHFVNVNDVEhYTW9BQ1d0TFQzbWhTSk5IU0otNFRONkxvZC1UUVJzSGdET21vNEhD?oc=5\" target=\"_blank\">Anthropic’s Claude AI Broke Into Three Companies During Security Tests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-984-cbafcbd690",
+   "source_id": "news",
+   "source_name": "12371.gov.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "“月之暗面”走到亮处，映照中国AI崛起 - 12371.gov.cn",
+   "summary": "“月之暗面”走到亮处，映照中国AI崛起 &nbsp;&nbsp; 12371.gov.cn",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmdDRvUFg5WW0tZ2x6Qk5MT3BwWXc5eGdubDEtV0dNT1hya0k0NFZpeUlIbXRYYnYteHU4QVJjUEZ4cnFUMUlCOGVqekhXeHVTX0ZDZW1JZUNnT29iNDJYZ2p3TVU2bUZOTTdmZ3Jn?oc=5",
+   "published_at": "2026-07-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBmdDRvUFg5WW0tZ2x6Qk5MT3BwWXc5eGdubDEtV0dNT1hya0k0NFZpeUlIbXRYYnYteHU4QVJjUEZ4cnFUMUlCOGVqekhXeHVTX0ZDZW1JZUNnT29iNDJYZ2p3TVU2bUZOTTdmZ3Jn?oc=5\" target=\"_blank\">“月之暗面”走到亮处，映照中国AI崛起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">12371.gov.cn</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
   }
  ]
 }

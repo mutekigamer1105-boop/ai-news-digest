@@ -308,6 +308,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3RQYkU5Skx4WG5QcVNWSkEwcEpyTlpTUXliak1KNTRMckRodVFqWm9KWG9YU3JRaDdtVzczZThRanVKb2g3VENUeXpLS29aSTZrN18xRG5fRmdITlI3MFZFYXhPcDdZUmswQVE3TFgyOGJHRzR3QkdTOGgxVVY2SFg4ZjZaZklWT19zaE1VRlhwYlJ5TXI4XzVmWXNJUHVNamVSbnJNTXd0VkNnYmYtWElxV2VaZE9YTFhCUl9IOA?oc=5\" target=\"_blank\">Nvidia成立37人AI安全联盟，未包括OpenAI、Anthropic或Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
    "fetched_at": "2026-09-30T04:06:27+00:00"
+  },
+  {
+   "id": "web-1157-0761999927",
+   "source_id": "news",
+   "source_name": "纽约时报中文网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国开源人工智能模型快速进步加剧硅谷分歧 - 纽约时报中文网",
+   "summary": "中国开源人工智能模型快速进步加剧硅谷分歧 &nbsp;&nbsp; 纽约时报中文网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUJyVHF3dkxUTEdRalQxdDBjTDZWbXdvb0lmQzREX3dvQ25iem05MTdoZ05lUjNFSjlqbk05Y25MeGxrZlY4X3lLVUNZTTNPWGFnTmlJdG1zaWhtMGt4UzczTTNKd2k0QVVxSGt4TnY4ODZpVjc0WXhlSjE4N1NiMll3?oc=5",
+   "published_at": "2026-07-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUJyVHF3dkxUTEdRalQxdDBjTDZWbXdvb0lmQzREX3dvQ25iem05MTdoZ05lUjNFSjlqbk05Y25MeGxrZlY4X3lLVUNZTTNPWGFnTmlJdG1zaWhtMGt4UzczTTNKd2k0QVVxSGt4TnY4ODZpVjc0WXhlSjE4N1NiMll3?oc=5\" target=\"_blank\">中国开源人工智能模型快速进步加剧硅谷分歧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
   }
  ]
 }

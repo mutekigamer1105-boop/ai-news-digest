@@ -11544,6 +11544,72 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDNwQmd2NjczQTE0VDhsNFZES29OMzF4dmRDenBvUnAtUTY5QjBIaEhXOTF2Y1Bna0dpbGRFMVBNSnJVZGRwZEVQSUxHV3lxWlJPajVpNC1SYVVySFhNVGZNazAyMlJKaW90SEtycnhYeThob0I1ektJUEZkVlJSbw?oc=5\" target=\"_blank\">中国AI大模型调用量连续二十二周领跑：匿名模型“太空兔”冲进前三，测试显示其可能来自MiniMax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-761-803348cdb6",
+   "source_id": "news",
+   "source_name": "93.3 The Drive",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI shelves new AI model release over safety concerns - 93.3 The Drive",
+   "summary": "OpenAI shelves new AI model release over safety concerns &nbsp;&nbsp; 93.3 The Drive",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZE8yeTh0NlJtd1dpY1V0eld4VG5vSjYxNnNwQXlzUTlvWmgwNWpQTXhZaTNWMV90X01FQV9LbV9hOGpudDI2MXE5ckFyVWtSaWVZZXhnTkNJek1ZbFdGNWdfWURKVDdOQWk2QUlvbEY3dHk5Qmc1MkxkT1pIU2tuV2FRc1hyUll3SFI1NjJIN0luUkg4dkRLTmRtdFpQTjEwdUNyQjMyTmVyQlE?oc=5",
+   "published_at": "2026-09-28T23:32:18+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZE8yeTh0NlJtd1dpY1V0eld4VG5vSjYxNnNwQXlzUTlvWmgwNWpQTXhZaTNWMV90X01FQV9LbV9hOGpudDI2MXE5ckFyVWtSaWVZZXhnTkNJek1ZbFdGNWdfWURKVDdOQWk2QUlvbEY3dHk5Qmc1MkxkT1pIU2tuV2FRc1hyUll3SFI1NjJIN0luUkg4dkRLTmRtdFpQTjEwdUNyQjMyTmVyQlE?oc=5\" target=\"_blank\">OpenAI shelves new AI model release over safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">93.3 The Drive</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-760-1a12c7bc2a",
+   "source_id": "news",
+   "source_name": "Classic Rock 103.5 WIMZ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI shelves new AI model release over safety concerns - Classic Rock 103.5 WIMZ",
+   "summary": "OpenAI shelves new AI model release over safety concerns &nbsp;&nbsp; Classic Rock 103.5 WIMZ",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2pxS28wdXd3anVFNVJfbVlWZWZjNTcyZGJOUkhxSy13ekh5enY4NHJsNlRiZzJOd0x6NEY1Rkh0TnVTT1lOT2RIVWxucUFtS3VKN0o4OXR2X0VmZ2w5ZmQzZUFxc213eWEtdy1YYTNKQmM5bksyd21JM3VUeWxpQktIazJoeXYtOEVoVE5IZG9RazBreU11c21CeEE?oc=5",
+   "published_at": "2026-09-28T23:11:57+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2pxS28wdXd3anVFNVJfbVlWZWZjNTcyZGJOUkhxSy13ekh5enY4NHJsNlRiZzJOd0x6NEY1Rkh0TnVTT1lOT2RIVWxucUFtS3VKN0o4OXR2X0VmZ2w5ZmQzZUFxc213eWEtdy1YYTNKQmM5bksyd21JM3VUeWxpQktIazJoeXYtOEVoVE5IZG9RazBreU11c21CeEE?oc=5\" target=\"_blank\">OpenAI shelves new AI model release over safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Classic Rock 103.5 WIMZ</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-105-6717bf780a",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "I Tried Meta’s Muse AI Agent. It’s Helpful and Scary at the Same Time. - WSJ",
+   "summary": "I Tried Meta’s Muse AI Agent. It’s Helpful and Scary at the Same Time. &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkdmUyTDhuUzEyRkRjSFljVkF6Q01GbXZGOFhqd0VxbnJ1WC1MVkR5enIxV0xJT1picEFpOGI1Nlp4b1VIYnlvb1E1VjRDZ3BiUElIMUxDVFdjbHZzVHV5SlR4TWtXZFhmSFp4WDMtVHZMNkxCQVpxaVFZNUFmUQ?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBkdmUyTDhuUzEyRkRjSFljVkF6Q01GbXZGOFhqd0VxbnJ1WC1MVkR5enIxV0xJT1picEFpOGI1Nlp4b1VIYnlvb1E1VjRDZ3BiUElIMUxDVFdjbHZzVHV5SlR4TWtXZFhmSFp4WDMtVHZMNkxCQVpxaVFZNUFmUQ?oc=5\" target=\"_blank\">I Tried Meta’s Muse AI Agent. It’s Helpful and Scary at the Same Time.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
   }
  ]
 }

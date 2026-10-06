@@ -151,6 +151,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQUkJ5OWRjVWZibHFYUEpIaGVrMXB1bFhHN01sSzhBY25wa1I2UWZYXzNEcFJxeFU4aEFXNVN3bkxMRmVaUi04X3h2YUFVYmhzOVJQdHhqQnZ0Y2dpeXh4RkhKOWk3VEtOMkdjaG9nalJGNXRzTTB3dTJRYXNscmNDSXF0bFplcjlmR0VqNk5VVlktNFZubW9kaTVZOUFTREYzTEVGWk1R?oc=5\" target=\"_blank\">Google and KDDI are ready to back Japanese startups.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
    "fetched_at": "2026-09-27T04:05:04+00:00"
+  },
+  {
+   "id": "web-1109-59e63c201b",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "智能体 AI 时代的科学计算 - OpenAI",
+   "summary": "智能体 AI 时代的科学计算 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15UXNtZEpBMDM2NGpsTERULTY4WWpVcW4wNi1hcWJaWEc5aURGVlVZdU1LQ0NfYlNmcWVzdXZsaG1sSnV3cklYeV9aMHlWVDltZWZ6NGtFclYzWFkxLU5CTW9QMXp6am9aX3JHUEhrTVJXRlVDb2kw?oc=5",
+   "published_at": "2026-07-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE15UXNtZEpBMDM2NGpsTERULTY4WWpVcW4wNi1hcWJaWEc5aURGVlVZdU1LQ0NfYlNmcWVzdXZsaG1sSnV3cklYeV9aMHlWVDltZWZ6NGtFclYzWFkxLU5CTW9QMXp6am9aX3JHUEhrTVJXRlVDb2kw?oc=5\" target=\"_blank\">智能体 AI 时代的科学计算</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
   }
  ]
 }

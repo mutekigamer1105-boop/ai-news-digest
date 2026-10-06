@@ -284,6 +284,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMEVNMnZGYXhTZUZwOUdOOEsxUGpaVnJNa1RGdkZ3SE9ldzRoaUF1cVFXcWJ5bzRvaXV1N2txOFAtTkt1andTTWdiZVY4UU92UTBqRHVQbXBYQzlaMVFCZ2dMamhoc05jckdPdnpycmE0SHQ4Snp2LTFMOTRqT3Q2cE5XNDUwREhzMEZBalpEaUhabzJzRFd3X20tQmlGLVlmYVJhb1k5cHpmbEd3dWNZQjhPTC03OVpMM0FhSDAxY1lLZkJMX0w4a3JMR0pBVDJySHVNMg?oc=5\" target=\"_blank\">Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-1090-4c1257b876",
+   "source_id": "news",
+   "source_name": "alphaXiv",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "开放智能体规范 (Agent Spec)：AI智能体的统一表示 - alphaXiv",
+   "summary": "开放智能体规范 (Agent Spec)：AI智能体的统一表示 &nbsp;&nbsp; alphaXiv",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNdGE5Rm0taGZ0NEd0NDBYTjhlbDZueFc4V3pER0hLNWdZOUdtX1JRYk5ZMDdMekk4Q1AyT0p6bTkzSnBSam5uSlYwRDFVT1dQZFMzaQ?oc=5",
+   "published_at": "2026-08-12T06:45:19+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNdGE5Rm0taGZ0NEd0NDBYTjhlbDZueFc4V3pER0hLNWdZOUdtX1JRYk5ZMDdMekk4Q1AyT0p6bTkzSnBSam5uSlYwRDFVT1dQZFMzaQ?oc=5\" target=\"_blank\">开放智能体规范 (Agent Spec)：AI智能体的统一表示</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alphaXiv</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
   }
  ]
 }

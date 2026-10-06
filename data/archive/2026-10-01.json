@@ -9209,6 +9209,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRHlZRzVtNlV4ZWl6ZUFodUoxNjdGbFFPSDJ4Q2szU1hEMXB1dHFPY1VkYU5kMlVhSEdzSThBT1NVeXN0bFRUVnlvRlBFVzE4eGIzZFpfT3NUcHBxOFJoejNhbC1MWjZVaXptT1RXQVY0ZGlQa29DZEl1YVlJZVlremZxMHVzQXhHXzExSm1vWGw1X3o4R1NIcGU4ckFKcXJqcTZYdEZxMW02ZjFEZEt4SERsRWdBTlM3ODhoN2pMS09GN3FTNTIzdG5HeHRIdw?oc=5\" target=\"_blank\">Model Context Protocol Server and AI Agent Government Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GSA (.gov)</font>",
    "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-744-4ca411dcba",
+   "source_id": "news",
+   "source_name": "Yahoo Finance Singapore",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Google restricts access to new AI model over safety concerns - Yahoo Finance Singapore",
+   "summary": "Google restricts access to new AI model over safety concerns &nbsp;&nbsp; Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHJJeXVRUFlkWWxNajhZMWNVT29sWDg2cjZCblg1NFdZcHZJWWc0ZVlSQjluWGJGYXVTajVWMEJ1V1k0dWJjVWFBeTZKbnhobVFBM2xYTjFrWlZQZ1pSNjBRSTFBUDVKVGhIeVlUVnBMWlBzNGczVHNXNnczWWpOYnZETHp4Z1Bl?oc=5",
+   "published_at": "2026-10-01T00:04:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHJJeXVRUFlkWWxNajhZMWNVT29sWDg2cjZCblg1NFdZcHZJWWc0ZVlSQjluWGJGYXVTajVWMEJ1V1k0dWJjVWFBeTZKbnhobVFBM2xYTjFrWlZQZ1pSNjBRSTFBUDVKVGhIeVlUVnBMWlBzNGczVHNXNnczWWpOYnZETHp4Z1Bl?oc=5\" target=\"_blank\">Google restricts access to new AI model over safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
   }
  ]
 }

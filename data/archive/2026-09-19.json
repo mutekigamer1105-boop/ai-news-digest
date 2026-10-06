@@ -5338,6 +5338,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3TG1CajFHR1VjaWVuaDhzbGNBZERzUDlHQXB1MkxsaGZ3V1NxVGh5a0g0SWpKZEMwMk9CUWs5c01kR29helZxX0pXM1hZZ0FYWnJZVm45QnVtU2lKRnc?oc=5\" target=\"_blank\">不止AI剧，连AI大模型也出海了，股价暴涨近19%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
    "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-777-4a7a51f9d8",
+   "source_id": "news",
+   "source_name": "Global Banking & Finance Review",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Weighs New AI Model Release Before IPO Amid OpenAI Rivalry - Global Banking & Finance Review",
+   "summary": "Anthropic Weighs New AI Model Release Before IPO Amid OpenAI Rivalry &nbsp;&nbsp; Global Banking & Finance Review",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcllSZzFxUVpILVdISDNPZlV3dGJGQi1BRFk5M2ozSUg2UGtCNHdmemM1bGwtZmplbWdmelhvbExHUWx2OFhPRFp3cWZrTlVmRHY1eS1wRTVpVW10b3MwdmhyUThPaHFLc2RPUFh2YXZ4bVBPclI2X2U3QkxobjcxLWUySi1zR1poUFkxVC00X1dlT25LUFhFTDBaS0c5QzZU?oc=5",
+   "published_at": "2026-09-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOcllSZzFxUVpILVdISDNPZlV3dGJGQi1BRFk5M2ozSUg2UGtCNHdmemM1bGwtZmplbWdmelhvbExHUWx2OFhPRFp3cWZrTlVmRHY1eS1wRTVpVW10b3MwdmhyUThPaHFLc2RPUFh2YXZ4bVBPclI2X2U3QkxobjcxLWUySi1zR1poUFkxVC00X1dlT25LUFhFTDBaS0c5QzZU?oc=5\" target=\"_blank\">Anthropic Weighs New AI Model Release Before IPO Amid OpenAI Rivalry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Banking & Finance Review</font>",
+   "fetched_at": "2026-10-06T10:56:31+00:00"
   }
  ]
 }
