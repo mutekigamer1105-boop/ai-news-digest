@@ -413,6 +413,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE04S2R4em8yMU91bTdhVEQ4Um9NTVZDOFhXa05LbkZOZ0FjWHlZZUN4UkZZaWNBSDJzSzBuc21JVXZrUnBuNnRyYVBTVGRrc0RsWHVCcVI2ZHFiWTRGZUEzeC10N3d1MkF0eU1oalFSeFlyaERvNEZzWlVBd1E?oc=5\" target=\"_blank\">博涛科技携双AI智能体矩阵登陆 WAIC 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-1174-014971a27a",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国 Moonshot AI Kimi K3 缩小了与 OpenAI 和 Anthropic 的差距 - Cryptopolitan",
+   "summary": "中国 Moonshot AI Kimi K3 缩小了与 OpenAI 和 Anthropic 的差距 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTks3NC0zUmVLY3lnRUJmLTZOeExkcENlUHZNV1ktM2p2WW9YTDNQaC1xWllHRUlNVmdqUkh3andHSWc2eHkxX0owYno5WGtfUlZsenplZHRTb1dyTHdWSEtMbEtZZm9LeldJSEtfay1oejlQbjBZcUhkay1ObDZvT2lfaw?oc=5",
+   "published_at": "2026-07-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQTks3NC0zUmVLY3lnRUJmLTZOeExkcENlUHZNV1ktM2p2WW9YTDNQaC1xWllHRUlNVmdqUkh3andHSWc2eHkxX0owYno5WGtfUlZsenplZHRTb1dyTHdWSEtMbEtZZm9LeldJSEtfay1oejlQbjBZcUhkay1ObDZvT2lfaw?oc=5\" target=\"_blank\">中国 Moonshot AI Kimi K3 缩小了与 OpenAI 和 Anthropic 的差距</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
   }
  ]
 }

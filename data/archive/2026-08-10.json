@@ -438,6 +438,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqYjdjN0NObi1vOEFzNlNHNnZIdWd4NTJtSlM4VTQ0QTI4UWw5N2MydjNsMHZ5dktaekhFN09wQ1ZDaF9qcy1iZkFuM3lGSHpUeFk4SkZMVGNDSms1YnRmeFFaanUzQQ?oc=5\" target=\"_blank\">中国AI大模型调用量连续十五周领跑：环比增长570% DeepSeek-V4-Flash正式版登顶！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-09-15T04:06:01+00:00"
+  },
+  {
+   "id": "web-1173-35370e2e5a",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 将 Daybreak 分为 Blue 和 Red 层级，推出 GPT-5.6-Cyber - Cryptopolitan",
+   "summary": "OpenAI 将 Daybreak 分为 Blue 和 Red 层级，推出 GPT-5.6-Cyber &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVRPM0ZLSm04X0xhTzJjVGR4d1QxVjFpQUF2RlVTcDVZRFJQQnFpWWtuREo4Tmg2cm9SQ2hYcXdBMHlqWjNIMjFTWUtIZk9WTWRXcnE5SUkxb3hseWR0blNXLWJyTVpDZGJpQUJQQmoxbXZuVEF1X1dJMXRXUmhDcA?oc=5",
+   "published_at": "2026-08-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVRPM0ZLSm04X0xhTzJjVGR4d1QxVjFpQUF2RlVTcDVZRFJQQnFpWWtuREo4Tmg2cm9SQ2hYcXdBMHlqWjNIMjFTWUtIZk9WTWRXcnE5SUkxb3hseWR0blNXLWJyTVpDZGJpQUJQQmoxbXZuVEF1X1dJMXRXUmhDcA?oc=5\" target=\"_blank\">OpenAI 将 Daybreak 分为 Blue 和 Red 层级，推出 GPT-5.6-Cyber</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
   }
  ]
 }

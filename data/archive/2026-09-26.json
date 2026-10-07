@@ -5860,6 +5860,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBvSHk3WWZMZXB6TGN0WE1XNnpjSnpNZU5hSEVORTFDcFluRDJPckZ6MUR0WTdtQW1BVm5DSmw0NDJoMjc2VFVkYzJPcmVPNFVPWF9mTzhhXzRkWlB6V0tweWtvUGRGS28xb0tTYkNGWUM?oc=5\" target=\"_blank\">人类仅给出高层检索方向，AI智能体自主发现未知酶系统</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
    "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-764-9b18b75cc2",
+   "source_id": "news",
+   "source_name": "Unite.AI",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Waters Demands OpenAI Investigations and AI Model Release Moratorium - Unite.AI",
+   "summary": "Waters Demands OpenAI Investigations and AI Model Release Moratorium &nbsp;&nbsp; Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORi1keFBjNnZnTS1wTW55dXlCMHo5ZFlwOWJ3LXA3VUxWY1FhbDZjbGlKTFJPRFB4SXczdHg1UkY1d0VlUjBBempVY2U1c2w1N1dVN055cjJ3a21QcklSNG5CZDZ6QXk2c3d1by1xVk02UWJWM0NuT0VGVmVOeWRyRmNmdmxDOFhibkl3UTY3djFodnNl?oc=5",
+   "published_at": "2026-09-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORi1keFBjNnZnTS1wTW55dXlCMHo5ZFlwOWJ3LXA3VUxWY1FhbDZjbGlKTFJPRFB4SXczdHg1UkY1d0VlUjBBempVY2U1c2w1N1dVN055cjJ3a21QcklSNG5CZDZ6QXk2c3d1by1xVk02UWJWM0NuT0VGVmVOeWRyRmNmdmxDOFhibkl3UTY3djFodnNl?oc=5\" target=\"_blank\">Waters Demands OpenAI Investigations and AI Model Release Moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-1171-4722388bb9",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 在 AI 代理访问美国证券交易委员会和人口普查局数据后向美国政府发出警告 - Cryptopolitan",
+   "summary": "OpenAI 在 AI 代理访问美国证券交易委员会和人口普查局数据后向美国政府发出警告 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iU3pkeXl4T01wVFhJU3d3dXFXZmhCT2hwTDdGcmZTOWQwUmk0UVRwRUVxX0xjbGVmanFSVTJpdnNvZGVoaGhVZmtqQi1ZdG0yQ0l6dDZiQ01reURuR0VvOWJfMUlXUGxwclc5dlJscEdhTnhyRnQwOVNlQkpPR0k?oc=5",
+   "published_at": "2026-09-26T05:30:20+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5iU3pkeXl4T01wVFhJU3d3dXFXZmhCT2hwTDdGcmZTOWQwUmk0UVRwRUVxX0xjbGVmanFSVTJpdnNvZGVoaGhVZmtqQi1ZdG0yQ0l6dDZiQ01reURuR0VvOWJfMUlXUGxwclc5dlJscEdhTnhyRnQwOVNlQkpPR0k?oc=5\" target=\"_blank\">OpenAI 在 AI 代理访问美国证券交易委员会和人口普查局数据后向美国政府发出警告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
   }
  ]
 }

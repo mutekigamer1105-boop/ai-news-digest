@@ -12115,6 +12115,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE03TElhWFR2VFlzcmhZdWJUOFJ6dV9zaWhjMUtZajFSR295ZzRtaGZXT0ttLUJnbEdVZmhHVlkwM2dBRXpDU1JfLXJoTWlMcXN0X2JRQQ?oc=5\" target=\"_blank\">智能体互联网：编织异构智能体之网以实现协同智能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alphaXiv</font>",
    "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-642-10d5cc7737",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Peter Thiel-Backed AI Startup Cognition Raises Funds at $48 Billion Valuation - WSJ",
+   "summary": "Peter Thiel-Backed AI Startup Cognition Raises Funds at $48 Billion Valuation &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkJBZ2o0YmZnOEpWVk9mT1dmRUFDZmkxbFZBNU9FQy1VWk5YeENDb0U3c080STBTdmFTWVh0aGNjRXZuNnhrU1RseEVPaWpBVkRSbGtJWExBenJwSlJYNkxHNzcwdk1oMzh4bUs0WGFsdGt3cGNRa29jdndoZXJVbkRJOEI5blRoVGN4NTFRLTNlU1J1VWVKOFRfLTRlb0hXMnFzVWlrTG45NVlSVkRSbVVEUFh1eklGWEVJWThpZ09ZUQ?oc=5",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkJBZ2o0YmZnOEpWVk9mT1dmRUFDZmkxbFZBNU9FQy1VWk5YeENDb0U3c080STBTdmFTWVh0aGNjRXZuNnhrU1RseEVPaWpBVkRSbGtJWExBenJwSlJYNkxHNzcwdk1oMzh4bUs0WGFsdGt3cGNRa29jdndoZXJVbkRJOEI5blRoVGN4NTFRLTNlU1J1VWVKOFRfLTRlb0hXMnFzVWlrTG45NVlSVkRSbVVEUFh1eklGWEVJWThpZ09ZUQ?oc=5\" target=\"_blank\">Peter Thiel-Backed AI Startup Cognition Raises Funds at $48 Billion Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
   }
  ]
 }

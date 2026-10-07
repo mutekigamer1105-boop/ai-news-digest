@@ -4942,6 +4942,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBVRGZ2bzFua19ySFdycWlRdjF1MTFOT1pCekpzY0daNzVzUGVPTThYcThDVlJuZWVpek9HTE9LZHRoS3N6UVdHRlhDQkpJOVpjMHhXMmJBc2pTMVVpYVhzeU15LTZGUjY1TUE?oc=5\" target=\"_blank\">AI投资上天价却未见生产力 专家警示AI资本狂热隐忧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
    "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-1028-c67b02633d",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升 - 新浪财经",
+   "summary": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHdhWHRqRVNLaFM4c3A1X21rQ2hkRVRSN0FnZ0hVUmVKN25EZHhmZUJmOS03V1pHOXpYVWpsa3ViN2xnV2FYaVdoWk9kTi1jVnZKQUFES1dTM1h4b1U4OGw2cVNnRU1Sekd6RXRCMldCN25HS0xhTnVXeFVBVUJ6dkNvbkI5aUhGNUx4MklMWQ?oc=5",
+   "published_at": "2026-10-03T16:06:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHdhWHRqRVNLaFM4c3A1X21rQ2hkRVRSN0FnZ0hVUmVKN25EZHhmZUJmOS03V1pHOXpYVWpsa3ViN2xnV2FYaVdoWk9kTi1jVnZKQUFES1dTM1h4b1U4OGw2cVNnRU1Sekd6RXRCMldCN25HS0xhTnVXeFVBVUJ6dkNvbkI5aUhGNUx4MklMWQ?oc=5\" target=\"_blank\">苹果将加强Mac隐私控制 警告AI智能体带来的风险上升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
   }
  ]
 }

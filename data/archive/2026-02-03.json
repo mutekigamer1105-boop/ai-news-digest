@@ -20,6 +20,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5iM2dqTUpHcjluWnpFODJJSE5hRWkyZmo2WmxFQktuYXE5Q1lJVXRzUkZNN25LNTFucjh4dzFzdkt5SkJoR1cyY3BRdXJBNVQ2Q3NBQjF1UG9jX2Mwem1FdG0zZjZrRVdieGVpNXdqYw?oc=5\" target=\"_blank\">既要发展又要“听话”：中国人工智能企业面临的两项重任</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1178-da52376b2a",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI首席执行官萨姆·奥特曼承认，随着Codex在编码方面超越他，他感到有些无用 - Cryptopolitan",
+   "summary": "OpenAI首席执行官萨姆·奥特曼承认，随着Codex在编码方面超越他，他感到有些无用 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGdVbjd6Q1F4Z0dwZ0IyMVZkMzdXRk9VYUlhQ3hTOXk4OHo3X1RhemVvNVZkWjV6QnV5cE5ZQU5PVWpUSnd6aDctQzcydXpCcG9YWGhjNjF1QU5ma1BYUWtzallBY2FiTU54VW5lQWNBSFVRXzVSS1RsY01IQ25aUF9MbEVGZw?oc=5",
+   "published_at": "2026-02-03T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGdVbjd6Q1F4Z0dwZ0IyMVZkMzdXRk9VYUlhQ3hTOXk4OHo3X1RhemVvNVZkWjV6QnV5cE5ZQU5PVWpUSnd6aDctQzcydXpCcG9YWGhjNjF1QU5ma1BYUWtzallBY2FiTU54VW5lQWNBSFVRXzVSS1RsY01IQ25aUF9MbEVGZw?oc=5\" target=\"_blank\">OpenAI首席执行官萨姆·奥特曼承认，随着Codex在编码方面超越他，他感到有些无用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
   }
  ]
 }

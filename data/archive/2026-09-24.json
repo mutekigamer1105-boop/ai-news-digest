@@ -12451,6 +12451,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE16Nnl6Z1FxTlZya243U2wxd1JHTzRIMkk5NWFGaklqR1VYNjJ1amxaeWJfWUlwckszT2QtSXVEWGdyMUxrcjk2WGNOa09xZkpSMDQwNl9QVkM4V2JFR2JJTUlyR0ZJQW5HaHVzem5CanRYQVAyeXhlXw?oc=5\" target=\"_blank\">Pharma.AI 2026 秋季发布前瞻：智能体 AI 开启制药“智驾”新纪元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insilico Medicine</font>",
    "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-958-da4e4ea175",
+   "source_id": "news",
+   "source_name": "电子工程专辑",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型百花齐放，连连智枢却要把它们管起来？ - 电子工程专辑",
+   "summary": "AI大模型百花齐放，连连智枢却要把它们管起来？ &nbsp;&nbsp; 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdGFSY0hpelpSSXFxMFZpYk44Vk9uZTVaUEc5NTBPbjc5ZzZTTzNGR05QMjZwNzNxWlNMenEzN2dYdjZsX2dTWEpFbi05XzRoUWow?oc=5",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdGFSY0hpelpSSXFxMFZpYk44Vk9uZTVaUEc5NTBPbjc5ZzZTTzNGR05QMjZwNzNxWlNMenEzN2dYdjZsX2dTWEpFbi05XzRoUWow?oc=5\" target=\"_blank\">AI大模型百花齐放，连连智枢却要把它们管起来？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
   }
  ]
 }

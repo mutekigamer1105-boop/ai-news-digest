@@ -4097,6 +4097,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1yQjgtOGZPdXE1N0o2Wmd2Nm5UNjBTd1YtTzE2NmhaQkxhX0M5ck5Nc2VNUWNuenVaUkQ3eDREd01vblF0VktFUE5YUDItakpSOU9aay1XZjZwSHlSXzVDenNjbkdtNjFpOURjd2JR?oc=5\" target=\"_blank\">零公里物流、AI智能体 看先进制造如何助力造车新势力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央广网</font>",
    "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-508-536bbcd787",
+   "source_id": "news",
+   "source_name": "Pasquale Pillitteri",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Claude Reports a Threat to Police and a Florida Woman Is Arrested - Pasquale Pillitteri",
+   "summary": "Claude Reports a Threat to Police and a Florida Woman Is Arrested &nbsp;&nbsp; Pasquale Pillitteri",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUJIYlE4SGhWY19KbG04S1BDRWc5b3Jic3RFMzM3cVBvN0MtNEI0R0s2V3hpZXVWd1RoTHJWMHM1RmFDRHhHQU1XaXVuaUhzQ3ZXazN0enBSbEtfM0dZT3BNRmVkbTJIVVRtLU9OM2VLamdWUU5BNGtTbnlJXzRjS0pFUVZNRlJSS3gySW1fZVMteHB1eUUyQ3pSUQ?oc=5",
+   "published_at": "2026-10-04T18:18:43+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUJIYlE4SGhWY19KbG04S1BDRWc5b3Jic3RFMzM3cVBvN0MtNEI0R0s2V3hpZXVWd1RoTHJWMHM1RmFDRHhHQU1XaXVuaUhzQ3ZXazN0enBSbEtfM0dZT3BNRmVkbTJIVVRtLU9OM2VLamdWUU5BNGtTbnlJXzRjS0pFUVZNRlJSS3gySW1fZVMteHB1eUUyQ3pSUQ?oc=5\" target=\"_blank\">Claude Reports a Threat to Police and a Florida Woman Is Arrested</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasquale Pillitteri</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-1019-e04bb63085",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里 - 新浪财经",
+   "summary": "木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjgweUdmeVFKelliZDFhUU84ejZpVzY3STNVcWlvSTJELU9rVHhsSi1LRC00S3JkcW4xQmY2amMwdDIycnVpNVVMN0ZBV3gtNTJJQ2dfRmNLd0xiLU04MlpXdnVGZHRtZFZMR0I1alk2aUhjVV9sZlFvN0xTX3lQSVBNTUVJcXZBTGxZcXdHUUUxd1hmTVNGeTZtSWZqTDNtOFRrT1lBOVpCYjFLWGp3bU90UGZvVmhnelJPMzJOTkNSQS1KNU1rcUhHd1Z1QkhKTzdkWGJYbnU1aXFBY2s0?oc=5",
+   "published_at": "2026-10-04T07:21:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjgweUdmeVFKelliZDFhUU84ejZpVzY3STNVcWlvSTJELU9rVHhsSi1LRC00S3JkcW4xQmY2amMwdDIycnVpNVVMN0ZBV3gtNTJJQ2dfRmNLd0xiLU04MlpXdnVGZHRtZFZMR0I1alk2aUhjVV9sZlFvN0xTX3lQSVBNTUVJcXZBTGxZcXdHUUUxd1hmTVNGeTZtSWZqTDNtOFRrT1lBOVpCYjFLWGp3bU90UGZvVmhnelJPMzJOTkNSQS1KNU1rcUhHd1Z1QkhKTzdkWGJYbnU1aXFBY2s0?oc=5\" target=\"_blank\">木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
   }
  ]
 }

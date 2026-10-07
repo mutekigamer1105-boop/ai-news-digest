@@ -11610,6 +11610,96 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBkdmUyTDhuUzEyRkRjSFljVkF6Q01GbXZGOFhqd0VxbnJ1WC1MVkR5enIxV0xJT1picEFpOGI1Nlp4b1VIYnlvb1E1VjRDZ3BiUElIMUxDVFdjbHZzVHV5SlR4TWtXZFhmSFp4WDMtVHZMNkxCQVpxaVFZNUFmUQ?oc=5\" target=\"_blank\">I Tried Meta’s Muse AI Agent. It’s Helpful and Scary at the Same Time.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-959-5bc646f079",
+   "source_id": "news",
+   "source_name": "证券时报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型赋能 宝丰能源重塑煤化工生产“新局” - 证券时报网",
+   "summary": "AI大模型赋能 宝丰能源重塑煤化工生产“新局” &nbsp;&nbsp; 证券时报网",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CYlVBTGJUMFU2SGhVN0dwRkdUTUVvQ3F1ZnE4ME95ejdrQzEtVllLZ1VIMFRsSFJwYkdNeWY1MGp6dlVab3NfQTRsUFFZZ0hpRkZCbTNLNFFUaW1S?oc=5",
+   "published_at": "2026-09-28T13:24:55+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CYlVBTGJUMFU2SGhVN0dwRkdUTUVvQ3F1ZnE4ME95ejdrQzEtVllLZ1VIMFRsSFJwYkdNeWY1MGp6dlVab3NfQTRsUFFZZ0hpRkZCbTNLNFFUaW1S?oc=5\" target=\"_blank\">AI大模型赋能 宝丰能源重塑煤化工生产“新局”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报网</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-717-6ba7417936",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns - The New York Times",
+   "summary": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5\" target=\"_blank\">OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-739-7037ec9d21",
+   "source_id": "news",
+   "source_name": "CBS News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI holds off on releasing new model over safety concerns, saying it \"didn't quite meet the bar\" - CBS News",
+   "summary": "OpenAI holds off on releasing new model over safety concerns, saying it \"didn't quite meet the bar\" &nbsp;&nbsp; CBS News",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnUDU1QlU3cmVCTU85Y29JYm9RRTZJWHBLWnQzQlR1UnIwZGhjOUhYRXRTQ0xRUWRjVF9iQ0pSekpiQV9tVzB1Mjl5d3RrVkRNYXB5LTJEeWRabl90U0diR0ItZWl0c1NjeFlhZTdzZVItcUQ0NmNZ?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBnUDU1QlU3cmVCTU85Y29JYm9RRTZJWHBLWnQzQlR1UnIwZGhjOUhYRXRTQ0xRUWRjVF9iQ0pSekpiQV9tVzB1Mjl5d3RrVkRNYXB5LTJEeWRabl90U0diR0ItZWl0c1NjeFlhZTdzZVItcUQ0NmNZ?oc=5\" target=\"_blank\">OpenAI holds off on releasing new model over safety concerns, saying it \"didn't quite meet the bar\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-1044-6bda5719f3",
+   "source_id": "news",
+   "source_name": "NVIDIA",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "NVIDIA 发布开放智能体安全平台，保障智能体从测试到部署全流程安全 - NVIDIA",
+   "summary": "NVIDIA 发布开放智能体安全平台，保障智能体从测试到部署全流程安全 &nbsp;&nbsp; NVIDIA",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwbUpuMmZnZXJraWIzNVJTbTJIZmJnNGZFY3Bnb1VsbG0ybXotN00wVzFCcDNfZ0pkcG81VlhhS2hkeVJXNGFLX21CQnVyckdaaGIzN01uYXdOcWp1d1pUaE9DeGJvbHc?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwbUpuMmZnZXJraWIzNVJTbTJIZmJnNGZFY3Bnb1VsbG0ybXotN00wVzFCcDNfZ0pkcG81VlhhS2hkeVJXNGFLX21CQnVyckdaaGIzN01uYXdOcWp1d1pUaE9DeGJvbHc?oc=5\" target=\"_blank\">NVIDIA 发布开放智能体安全平台，保障智能体从测试到部署全流程安全</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
+   "fetched_at": "2026-10-07T10:44:22+00:00"
   }
  ]
 }
