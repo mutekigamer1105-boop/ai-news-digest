@@ -9262,6 +9262,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE01TTJGU1U4U2xfRWJ4bGpuS1REOEdQSDl4Z2trOHlCTzFQc3F4U1oxSmFtUFBYcnpBZ2dmUzV5akJDelN6SGw4dEl5REtHajhZTUVJVWJqOVhHb0RCN3hQSkFB?oc=5\" target=\"_blank\">AI智能体点燃云计算第二增长曲线! 华尔街大行拆解IaaS扩容潮与PaaS价值重估，谁赚走Token狂潮的真金白银?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华盛通</font>",
    "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-419-0946eb0301",
+   "source_id": "news",
+   "source_name": "Britannica",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic | History, Controversies, & Claude AI - Britannica",
+   "summary": "Anthropic | History, Controversies, & Claude AI &nbsp;&nbsp; Britannica",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+   "published_at": "2026-10-05T21:09:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5\" target=\"_blank\">Anthropic | History, Controversies, & Claude AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
+   "fetched_at": "2026-10-08T11:03:50+00:00"
+  },
+  {
+   "id": "web-915-46c2f354c6",
+   "source_id": "news",
+   "source_name": "每日经济新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续二十三周领跑：匿名模型“太空兔”冲上榜首，环比增长179%！DeepSeek V4 Flash预览版跌出榜单 - 每日经济新闻",
+   "summary": "中国AI大模型调用量连续二十三周领跑：匿名模型“太空兔”冲上榜首，环比增长179%！DeepSeek V4 Flash预览版跌出榜单 &nbsp;&nbsp; 每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wU0IzX0NIRHhsUVZlelhYdWZvd1RWRXF1V0dvclNRQ3RKc0g0d2JLVmc2ZXNiUzZ0Z1hyVzVIYmM3NEJDZV9VUzBtMXVobnVjMGlvNHN2eUNNS1J4TWhVeExHRGg2UQ?oc=5",
+   "published_at": "2026-10-05T02:36:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wU0IzX0NIRHhsUVZlelhYdWZvd1RWRXF1V0dvclNRQ3RKc0g0d2JLVmc2ZXNiUzZ0Z1hyVzVIYmM3NEJDZV9VUzBtMXVobnVjMGlvNHN2eUNNS1J4TWhVeExHRGg2UQ?oc=5\" target=\"_blank\">中国AI大模型调用量连续二十三周领跑：匿名模型“太空兔”冲上榜首，环比增长179%！DeepSeek V4 Flash预览版跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">每日经济新闻</font>",
+   "fetched_at": "2026-10-08T11:03:50+00:00"
   }
  ]
 }

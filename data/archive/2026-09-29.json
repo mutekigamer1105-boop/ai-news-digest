@@ -14158,6 +14158,71 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OaDFJa044ME9mQ0pzT28zejd0aU9TbWV3cTl1VDBNbjg1VEhPZk1TRy1hWlJMWV9ESDNyUFIwbG1zMFdwQXpBakkwTlBOQQ?oc=5\" target=\"_blank\">科思科技签署1.6亿元AI大模型高算力服务器销售合同</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
    "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-67-bbb0438c12",
+   "source_id": "news",
+   "source_name": "Homeland Security (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure - Homeland Security (.gov)",
+   "summary": "Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure &nbsp;&nbsp; Homeland Security (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVlyZHB2VldMejhmZ243ay1ibUJSa19Ucm13d2l1cFVjNkdhbnhTTEZTOUQyck5kcGZIZVlxaFZOMnBxTlR2bnp0WFAxRjluX0ZQSnk1bEpka3lKbTFoLVR0OXVVWERxbmo3aDZ6VFZ3OFJPUVpWMkVTQmNPakwzVzVnN3djcjZwWXp4eHFLWGlJZjVaeVlRcFNHNjZWa1RsVGdEcFVLeWdIMjZURzE2VXpIME1UelU?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVlyZHB2VldMejhmZ243ay1ibUJSa19Ucm13d2l1cFVjNkdhbnhTTEZTOUQyck5kcGZIZVlxaFZOMnBxTlR2bnp0WFAxRjluX0ZQSnk1bEpka3lKbTFoLVR0OXVVWERxbmo3aDZ6VFZ3OFJPUVpWMkVTQmNPakwzVzVnN3djcjZwWXp4eHFLWGlJZjVaeVlRcFNHNjZWa1RsVGdEcFVLeWdIMjZURzE2VXpIME1UelU?oc=5\" target=\"_blank\">Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Homeland Security (.gov)</font>",
+   "fetched_at": "2026-10-08T11:03:50+00:00"
+  },
+  {
+   "id": "web-373-d038408b27",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing dots - OpenAI",
+   "summary": "Introducing dots &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5\" target=\"_blank\">Introducing dots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-08T11:03:50+00:00"
+  },
+  {
+   "id": "web-1169-35c6e9544c",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 推出 Dots，进军企业 AI 市场与 Meta 展开竞争 - Cryptopolitan",
+   "summary": "OpenAI 推出 Dots，进军企业 AI 市场与 Meta 展开竞争 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qUDE5dUR0TkV2UXJEeE1MYzBZMzA1TVAwN1ZMYWsxdnNPR3piQnRlRFozRG1fMEdSOTI2Y0M1UTA1elNXZmpnM2FUamY0RnkwWnhtVDdEV0lnMTlEcFEyZTlIZ2hZd05yTDZCU0U4NC15NEdmY0UwNjllYWVYajQ?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5qUDE5dUR0TkV2UXJEeE1MYzBZMzA1TVAwN1ZMYWsxdnNPR3piQnRlRFozRG1fMEdSOTI2Y0M1UTA1elNXZmpnM2FUamY0RnkwWnhtVDdEV0lnMTlEcFEyZTlIZ2hZd05yTDZCU0U4NC15NEdmY0UwNjllYWVYajQ?oc=5\" target=\"_blank\">OpenAI 推出 Dots，进军企业 AI 市场与 Meta 展开竞争</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-08T11:03:50+00:00"
   }
  ]
 }

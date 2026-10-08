@@ -306,6 +306,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnVXa1V5V3BGSC1XbWVlcHNJUDdldmJwWjRFczhNYk1BajJpYW53ZXJZeHdkYmplZXp5UGtFXzFCNGRYWWtPalpiek1ZUENYLXBDWHdIZzFzY0FCOXJaVnZENTJfNTBjYTdTZ3FVVlY1OC1Wc0F4TlcwOWw1SnlFRDRlUE1GcVZZaEJIZGxSVFRnSjhvalNOdjdTVWktY3M?oc=5\" target=\"_blank\">ALA Council adopts Guidance on the Use of Artificial Intelligence in Libraries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Library Association</font>",
    "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-1003-1e96ad715b",
+   "source_id": "news",
+   "source_name": "经济观察网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "7款手机端侧大模型备案通过 AI智能体手机热度激增 - 经济观察网",
+   "summary": "7款手机端侧大模型备案通过 AI智能体手机热度激增 &nbsp;&nbsp; 经济观察网",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DcWV4QW81cVVjQXZ2RWxDS19LOXNQYi1YY1VxeEpvRDVFVU9obUxkeFU1QUJ5Rm1ha0dEQVhESEtKZWpiWk9wRzdmNHRSX19TczQwWmJGMA?oc=5",
+   "published_at": "2026-07-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DcWV4QW81cVVjQXZ2RWxDS19LOXNQYi1YY1VxeEpvRDVFVU9obUxkeFU1QUJ5Rm1ha0dEQVhESEtKZWpiWk9wRzdmNHRSX19TczQwWmJGMA?oc=5\" target=\"_blank\">7款手机端侧大模型备案通过 AI智能体手机热度激增</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济观察网</font>",
+   "fetched_at": "2026-10-08T11:03:50+00:00"
   }
  ]
 }

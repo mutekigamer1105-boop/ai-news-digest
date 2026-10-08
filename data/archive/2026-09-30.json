@@ -11773,6 +11773,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BT1dHVDh3WHpUY0t0OWJDX0lOalk4S0FxVURxRldYLUtkWlNpekVMMHgxTHJsaHpmSkh6WHZ3eEEzZU9vX2x3TE5VRmhJVnozQWxkSWZB?oc=5\" target=\"_blank\">Performance of large language models in prescription review: a comparative study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
    "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-940-d1a2c6c566",
+   "source_id": "news",
+   "source_name": "上观新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "月活超3亿的AI大模型，多了个权威新闻伙伴！上观快问正式入驻千问 - 上观新闻",
+   "summary": "月活超3亿的AI大模型，多了个权威新闻伙伴！上观快问正式入驻千问 &nbsp;&nbsp; 上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQblFfeFJjNTk5MEw5UHhMOHM5Zk0wdWZ0Mml4X0todnJxcTA4MjdOM1hrdHZNS2pkU3EtUl90dUJ5OUZiRkFidktRQ2dTaGxfTEg2TmFfakpJdw?oc=5",
+   "published_at": "2026-09-30T05:31:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQblFfeFJjNTk5MEw5UHhMOHM5Zk0wdWZ0Mml4X0todnJxcTA4MjdOM1hrdHZNS2pkU3EtUl90dUJ5OUZiRkFidktRQ2dTaGxfTEg2TmFfakpJdw?oc=5\" target=\"_blank\">月活超3亿的AI大模型，多了个权威新闻伙伴！上观快问正式入驻千问</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
+   "fetched_at": "2026-10-08T11:03:50+00:00"
   }
  ]
 }

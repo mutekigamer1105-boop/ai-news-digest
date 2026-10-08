@@ -109,6 +109,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rdUJkNldaVEVwX1ByVElkTW9YLXNSY0Nvb2lval85OExvZTNjNExSVWVCbnNJVjRWbVQtaWVMOF80VGxPdnZlNTZhZzBnUG5rY1ROQjVQVQ?oc=5\" target=\"_blank\">OpenAI的A推理模型有时会用中文\"思考\" 但没人知道为什么</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnBeta.COM</font>",
    "fetched_at": "2026-10-03T04:09:59+00:00"
+  },
+  {
+   "id": "web-1148-2e7d8dbf71",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "藏不住了！OpenAI的推理模型有时用中文「思考」 - 新浪财经",
+   "summary": "藏不住了！OpenAI的推理模型有时用中文「思考」 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jUk81Ynd1T1VXbUM5blNkUXNkSnlva1M0d1F5bVBnUTN5UGFEVFFxOFJ5T3cxQlFNQjBmU1JWRmM2Q3dZQjdocDNwWExqWnU5dmp1TWlMUnNCVmZHWndVTUdUaklLRWpmQUdCcGhidHBKU1o5WkM3MHQ0ODlRcFk?oc=5",
+   "published_at": "2025-01-15T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1jUk81Ynd1T1VXbUM5blNkUXNkSnlva1M0d1F5bVBnUTN5UGFEVFFxOFJ5T3cxQlFNQjBmU1JWRmM2Q3dZQjdocDNwWExqWnU5dmp1TWlMUnNCVmZHWndVTUdUaklLRWpmQUdCcGhidHBKU1o5WkM3MHQ0ODlRcFk?oc=5\" target=\"_blank\">藏不住了！OpenAI的推理模型有时用中文「思考」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-10-08T11:03:50+00:00"
   }
  ]
 }

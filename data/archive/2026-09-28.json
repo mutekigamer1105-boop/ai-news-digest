@@ -11700,6 +11700,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwbUpuMmZnZXJraWIzNVJTbTJIZmJnNGZFY3Bnb1VsbG0ybXotN00wVzFCcDNfZ0pkcG81VlhhS2hkeVJXNGFLX21CQnVyckdaaGIzN01uYXdOcWp1d1pUaE9DeGJvbHc?oc=5\" target=\"_blank\">NVIDIA 发布开放智能体安全平台，保障智能体从测试到部署全流程安全</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
    "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-786-89b19965e2",
+   "source_id": "news",
+   "source_name": "Facebook",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Breaking News: OpenAI said it would not release its newest artificial intelligence model over safety concerns raised by its researchers. - Facebook",
+   "summary": "Breaking News: OpenAI said it would not release its newest artificial intelligence model over safety concerns raised by its researchers. &nbsp;&nbsp; Facebook",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMkQ3YkVCV3hDYmdVZmNka2ZZWHhPcmZtNVNIbmQ0THpHT1YtZFotRFd5Mmh5LXl0Z1A5WlhmTmotbkNLS2dUX1FKNWpSMFJkZzdFaU84djFtUGdjOUg0SVJNemVVMF9MWWxwLXI1R3R0d0xYYkhJN1hFbHowYU9OX1loSDhRbjI1b1J0V1hsQkFfcGZKVURRVXVrTzVUaDk5blVUUGo5WnBscmZFNlhCaVZtSXdWbHBCU25oZ0tzQjlHZVNra1UwOGlyejZMajZfdVl3?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMkQ3YkVCV3hDYmdVZmNka2ZZWHhPcmZtNVNIbmQ0THpHT1YtZFotRFd5Mmh5LXl0Z1A5WlhmTmotbkNLS2dUX1FKNWpSMFJkZzdFaU84djFtUGdjOUg0SVJNemVVMF9MWWxwLXI1R3R0d0xYYkhJN1hFbHowYU9OX1loSDhRbjI1b1J0V1hsQkFfcGZKVURRVXVrTzVUaDk5blVUUGo5WnBscmZFNlhCaVZtSXdWbHBCU25oZ0tzQjlHZVNra1UwOGlyejZMajZfdVl3?oc=5\" target=\"_blank\">Breaking News: OpenAI said it would not release its newest artificial intelligence model over safety concerns raised by its researchers.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facebook</font>",
+   "fetched_at": "2026-10-08T11:03:50+00:00"
+  },
+  {
+   "id": "web-886-6f75627ecb",
+   "source_id": "news",
+   "source_name": "中国科学院",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "《人工智能生物学与医学（英文）》（AI Biology & Medicine） - 中国科学院",
+   "summary": "《人工智能生物学与医学（英文）》（AI Biology & Medicine） &nbsp;&nbsp; 中国科学院",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RNms5MmpvdFc2dkZUNUpxT1M4T2RrM0ZudUVYclh6NXdiX09NcGluUGh3T2Y5d1diSDNvNVZvakU5VWdjT1NDcDBzQUZqUGZneVpfZURvN0tKZHFqWmNtNDBJeEp1bHUyNGk1Wg?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1RNms5MmpvdFc2dkZUNUpxT1M4T2RrM0ZudUVYclh6NXdiX09NcGluUGh3T2Y5d1diSDNvNVZvakU5VWdjT1NDcDBzQUZqUGZneVpfZURvN0tKZHFqWmNtNDBJeEp1bHUyNGk1Wg?oc=5\" target=\"_blank\">《人工智能生物学与医学（英文）》（AI Biology & Medicine）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科学院</font>",
+   "fetched_at": "2026-10-08T11:03:50+00:00"
   }
  ]
 }
