@@ -87,6 +87,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0s5RW5QbjB5VGlwSmFrNHpBR1ctcUlENE9DX2lKdmhPMjBoYjlLZUF6NkZQX09pSHRVUnFsUE5DemQzMGlmVkpScndlV1Y0VzRSOER2MnQ3M1V3YTdKei1xUlRBbFdmNXpUaERraTczSGNSVjhYSGsySUYyVWZDcEJjdVpDSm9K?oc=5\" target=\"_blank\">A Vindication of the Rights of L.L.M.s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newyorker.com</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-1172-e8b5d9c623",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "日本在人工智能主权辩论中独家获得OpenAI最新网络安全工具 - Cryptopolitan",
+   "summary": "日本在人工智能主权辩论中独家获得OpenAI最新网络安全工具 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPajQ3ZVJlU2hUWW8zQi11MXhOaHFMTUppX0Y3UVdna24xWFFFZFIwSFR5dGN5QWNkRG53SlJsUDdPRUI2Qmtvc1RFSFlSb1lfQW9HeTQyY21XNzNSTnhfdEt6Q2w1cERwNWd2RFFkSzlKOVJHakJ3QkhSV2twdWpJTXh6bw?oc=5",
+   "published_at": "2026-05-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPajQ3ZVJlU2hUWW8zQi11MXhOaHFMTUppX0Y3UVdna24xWFFFZFIwSFR5dGN5QWNkRG53SlJsUDdPRUI2Qmtvc1RFSFlSb1lfQW9HeTQyY21XNzNSTnhfdEt6Q2w1cERwNWd2RFFkSzlKOVJHakJ3QkhSV2twdWpJTXh6bw?oc=5\" target=\"_blank\">日本在人工智能主权辩论中独家获得OpenAI最新网络安全工具</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
   }
  ]
 }

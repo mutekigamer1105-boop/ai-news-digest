@@ -14223,6 +14223,71 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5qUDE5dUR0TkV2UXJEeE1MYzBZMzA1TVAwN1ZMYWsxdnNPR3piQnRlRFozRG1fMEdSOTI2Y0M1UTA1elNXZmpnM2FUamY0RnkwWnhtVDdEV0lnMTlEcFEyZTlIZ2hZd05yTDZCU0U4NC15NEdmY0UwNjllYWVYajQ?oc=5\" target=\"_blank\">OpenAI 推出 Dots，进军企业 AI 市场与 Meta 展开竞争</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-08T11:03:50+00:00"
+  },
+  {
+   "id": "web-950-ec8ae55893",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "科思科技：签订1.6亿元AI大模型高算力服务器销售合同 - 东方财富",
+   "summary": "科思科技：签订1.6亿元AI大模型高算力服务器销售合同 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WRkxoam9uUHI5X09IdUZvUFhsUUFvRUptRkdWZ3RDNFRzb2QxaG5sanVXWkRFRkc3Um94X2Z5VDRXQTZhbkh5NzBfc2pPZzMwa28tTWdENExlR2kxU0NBNU9ya0I?oc=5",
+   "published_at": "2026-09-29T13:45:06+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WRkxoam9uUHI5X09IdUZvUFhsUUFvRUptRkdWZ3RDNFRzb2QxaG5sanVXWkRFRkc3Um94X2Z5VDRXQTZhbkh5NzBfc2pPZzMwa28tTWdENExlR2kxU0NBNU9ya0I?oc=5\" target=\"_blank\">科思科技：签订1.6亿元AI大模型高算力服务器销售合同</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
+  },
+  {
+   "id": "web-898-96b2c42d02",
+   "source_id": "news",
+   "source_name": "中国科学院",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "《人工智能语料研究（英文）》（Data Express in AI Corpus） - 中国科学院",
+   "summary": "《人工智能语料研究（英文）》（Data Express in AI Corpus） &nbsp;&nbsp; 中国科学院",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Sm8xa0Y2X2dTbEFIYUpsUjRwcDJHTEZFUzB2YnA0MzFMWWdyQ1lMNFpGMnp4V3A2QzlQZXBjT3k2RE1RdEE0SzdEbHhwRXZuQTZZbEs4Z2ZybUlzMGZYaGJuZXE2TUJ5UkpNbg?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE41Sm8xa0Y2X2dTbEFIYUpsUjRwcDJHTEZFUzB2YnA0MzFMWWdyQ1lMNFpGMnp4V3A2QzlQZXBjT3k2RE1RdEE0SzdEbHhwRXZuQTZZbEs4Z2ZybUlzMGZYaGJuZXE2TUJ5UkpNbg?oc=5\" target=\"_blank\">《人工智能语料研究（英文）》（Data Express in AI Corpus）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科学院</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
+  },
+  {
+   "id": "web-940-cee11a8101",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "盘中宝 - 财联社",
+   "summary": "盘中宝 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SaHltbDdpNVhQNEQzWmQ4eEtKR0pPWUNvVGk0QXFTVnBFYkhtcVE5Z2d5QXdXUndFUVZ0XzJZRERUNVUxLTNMMg?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SaHltbDdpNVhQNEQzWmQ4eEtKR0pPWUNvVGk0QXFTVnBFYkhtcVE5Z2d5QXdXUndFUVZ0XzJZRERUNVUxLTNMMg?oc=5\" target=\"_blank\">盘中宝</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
   }
  ]
 }

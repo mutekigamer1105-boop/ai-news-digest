@@ -5904,6 +5904,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5iU3pkeXl4T01wVFhJU3d3dXFXZmhCT2hwTDdGcmZTOWQwUmk0UVRwRUVxX0xjbGVmanFSVTJpdnNvZGVoaGhVZmtqQi1ZdG0yQ0l6dDZiQ01reURuR0VvOWJfMUlXUGxwclc5dlJscEdhTnhyRnQwOVNlQkpPR0k?oc=5\" target=\"_blank\">OpenAI 在 AI 代理访问美国证券交易委员会和人口普查局数据后向美国政府发出警告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-902-8101c08a1e",
+   "source_id": "news",
+   "source_name": "中国科学院",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "《物理人工智能（英文）》（Physical Artificial Intelligence） - 中国科学院",
+   "summary": "《物理人工智能（英文）》（Physical Artificial Intelligence） &nbsp;&nbsp; 中国科学院",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaU3Jib2ZaVXgwTDBtczFKRjYyU0NNUlZGN0Z2Q09QSFZ3bzlLZHZDTVlwZ2hSSjVKOWk1ckpub2hHdjNkMk4xN0hhaExHNVpybHZ0NEx1cnV3ckw4VzhueXlOcVl6Z3VMOUFocg?oc=5",
+   "published_at": "2026-09-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBaU3Jib2ZaVXgwTDBtczFKRjYyU0NNUlZGN0Z2Q09QSFZ3bzlLZHZDTVlwZ2hSSjVKOWk1ckpub2hHdjNkMk4xN0hhaExHNVpybHZ0NEx1cnV3ckw4VzhueXlOcVl6Z3VMOUFocg?oc=5\" target=\"_blank\">《物理人工智能（英文）》（Physical Artificial Intelligence）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科学院</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
   }
  ]
 }

@@ -9305,6 +9305,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wU0IzX0NIRHhsUVZlelhYdWZvd1RWRXF1V0dvclNRQ3RKc0g0d2JLVmc2ZXNiUzZ0Z1hyVzVIYmM3NEJDZV9VUzBtMXVobnVjMGlvNHN2eUNNS1J4TWhVeExHRGg2UQ?oc=5\" target=\"_blank\">中国AI大模型调用量连续二十三周领跑：匿名模型“太空兔”冲上榜首，环比增长179%！DeepSeek V4 Flash预览版跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">每日经济新闻</font>",
    "fetched_at": "2026-10-08T11:03:50+00:00"
+  },
+  {
+   "id": "web-35-7c91fad9d5",
+   "source_id": "news",
+   "source_name": "Department of Energy (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting - Department of Energy (.gov)",
+   "summary": "National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting &nbsp;&nbsp; Department of Energy (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2czV1NLUmdGcEhNcTlhOGJHMzRGRVhFaVBfT2EtNU8tWE4yVzVrQ2ozMHRUSnhvSmVnT1F1aTdSYVJTLU1xeWVDc3Q5cWEtelE5QVN1YmhWeFNZUm04eEs3N3gzSzNGdFBNZWJGbUJDUTlNdXBRRDRlbV9PQU9zSHJ1U2FqcVVJZUtkU1ZUNXo5WDhBZ21WUG90dDczeDhaUmluS0hObWZoLWdKLThwWGlBdG5xZw?oc=5",
+   "published_at": "2026-10-05T15:48:55+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2czV1NLUmdGcEhNcTlhOGJHMzRGRVhFaVBfT2EtNU8tWE4yVzVrQ2ozMHRUSnhvSmVnT1F1aTdSYVJTLU1xeWVDc3Q5cWEtelE5QVN1YmhWeFNZUm04eEs3N3gzSzNGdFBNZWJGbUJDUTlNdXBRRDRlbV9PQU9zSHJ1U2FqcVVJZUtkU1ZUNXo5WDhBZ21WUG90dDczeDhaUmluS0hObWZoLWdKLThwWGlBdG5xZw?oc=5\" target=\"_blank\">National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
   }
  ]
 }

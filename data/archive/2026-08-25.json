@@ -503,6 +503,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbU1wbDkzbFB3a1lyM0dwLUlYWTZSV3kzVTJUTGp5NXJxbTlCRUFoNnBack8tdWFUS1NWWjdlU3UwVk40OE9hbzd1RkR1YnpCTlFlSjhnM1JXdlJJUzFCXzlPQWxNTWh4NnVQUGFhRU1BMkR2LTl6WUJ4WVVOakRnRXkwV1I5cVNfX19WM1lEYV9aNThm?oc=5\" target=\"_blank\">Stability AI Raises $76 Million from UMG, WMG, Sony Music, More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>",
    "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-1006-dfa8483a7c",
+   "source_id": "news",
+   "source_name": "观点网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenRouter：全球AI大模型周调用量93.4万亿Token 首破90万亿 - 观点网",
+   "summary": "OpenRouter：全球AI大模型周调用量93.4万亿Token 首破90万亿 &nbsp;&nbsp; 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WWExSa0pQYkFtejFHeFlfcG45UHk3ckUwb25fSUtoVFFKNU4zeUpxZU5DUjNYZG4tWngtVlJ0QndOYkx6dFk4YVR6MG9SS01nQzFXUzNkQmxKZ1lrQld3R2JR?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WWExSa0pQYkFtejFHeFlfcG45UHk3ckUwb25fSUtoVFFKNU4zeUpxZU5DUjNYZG4tWngtVlJ0QndOYkx6dFk4YVR6MG9SS01nQzFXUzNkQmxKZ1lrQld3R2JR?oc=5\" target=\"_blank\">OpenRouter：全球AI大模型周调用量93.4万亿Token 首破90万亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
   }
  ]
 }

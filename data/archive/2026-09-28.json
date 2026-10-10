@@ -11743,6 +11743,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1RNms5MmpvdFc2dkZUNUpxT1M4T2RrM0ZudUVYclh6NXdiX09NcGluUGh3T2Y5d1diSDNvNVZvakU5VWdjT1NDcDBzQUZqUGZneVpfZURvN0tKZHFqWmNtNDBJeEp1bHUyNGk1Wg?oc=5\" target=\"_blank\">《人工智能生物学与医学（英文）》（AI Biology & Medicine）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科学院</font>",
    "fetched_at": "2026-10-08T11:03:50+00:00"
+  },
+  {
+   "id": "web-795-46b39f2407",
+   "source_id": "news",
+   "source_name": "Yahoo Finance UK",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI halts release of latest model over safety concerns - Yahoo Finance UK",
+   "summary": "OpenAI halts release of latest model over safety concerns &nbsp;&nbsp; Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUlJb2Npc3lvaHhYTHpWTE5zZ3hhYWJpUzFGUTE4LWVkeHlLSXhlVmctbTVoRDNOZzhHREppUkdMUEg5Q01IY0NheDhJUEVEQjEyMzR1S25TdTNzaEpNQ3F4QzZyMGZabjd4MTRqX0Nzd3NzWVlibTlHQnkxbElZS2RSbWVfVW14ckE?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUlJb2Npc3lvaHhYTHpWTE5zZ3hhYWJpUzFGUTE4LWVkeHlLSXhlVmctbTVoRDNOZzhHREppUkdMUEg5Q01IY0NheDhJUEVEQjEyMzR1S25TdTNzaEpNQ3F4QzZyMGZabjd4MTRqX0Nzd3NzWVlibTlHQnkxbElZS2RSbWVfVW14ckE?oc=5\" target=\"_blank\">OpenAI halts release of latest model over safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
+  },
+  {
+   "id": "web-805-cd2dcb1492",
+   "source_id": "news",
+   "source_name": "AOL.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI halts model release over safety concerns: \"Didn't quite meet the bar\" - AOL.com",
+   "summary": "OpenAI halts model release over safety concerns: \"Didn't quite meet the bar\" &nbsp;&nbsp; AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTRSYW1XNlBjWm55bmdBMi1VaUlLWnc3UUVadVp4cVFjVEQzazNxZG4tZUJQRWFIUjdvX1Rwa1k3U3BqbTdRNWUtd1hINGd3Ti1WNlB4QUE4bWM3TGJsV0tMSzZfWi04cUlVekk3cWtYLTV3aE1QZmxOZ01lSUlaTw?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTRSYW1XNlBjWm55bmdBMi1VaUlLWnc3UUVadVp4cVFjVEQzazNxZG4tZUJQRWFIUjdvX1Rwa1k3U3BqbTdRNWUtd1hINGd3Ti1WNlB4QUE4bWM3TGJsV0tMSzZfWi04cUlVekk3cWtYLTV3aE1QZmxOZ01lSUlaTw?oc=5\" target=\"_blank\">OpenAI halts model release over safety concerns: \"Didn't quite meet the bar\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
   }
  ]
 }

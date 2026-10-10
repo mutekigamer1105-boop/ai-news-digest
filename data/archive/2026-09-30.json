@@ -11795,6 +11795,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQblFfeFJjNTk5MEw5UHhMOHM5Zk0wdWZ0Mml4X0todnJxcTA4MjdOM1hrdHZNS2pkU3EtUl90dUJ5OUZiRkFidktRQ2dTaGxfTEg2TmFfakpJdw?oc=5\" target=\"_blank\">月活超3亿的AI大模型，多了个权威新闻伙伴！上观快问正式入驻千问</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
    "fetched_at": "2026-10-08T11:03:50+00:00"
+  },
+  {
+   "id": "web-801-cb4cf474b7",
+   "source_id": "news",
+   "source_name": "The Daily Star",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Safety worry: OpenAI cancels new model release - The Daily Star",
+   "summary": "Safety worry: OpenAI cancels new model release &nbsp;&nbsp; The Daily Star",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUlBOXlOcF96SER6MUZzS0E4ZnFIa2oxNmxZSGM5Qk8ya18yN1V2ZDBDVVNzTC0yY1Q0MnpleUF6alFpOEtaaVVHRlQ4dzRmLS1mREozdkxySDluaEVoLW5qWFJpRjFISUo4LUdXakVWRDhYbUUyOGpPcGV5d2NlTlJNcC04SmZiOE5sOTdCdHVXelFTWWVLMHNSOElpZmM?oc=5",
+   "published_at": "2026-09-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUlBOXlOcF96SER6MUZzS0E4ZnFIa2oxNmxZSGM5Qk8ya18yN1V2ZDBDVVNzTC0yY1Q0MnpleUF6alFpOEtaaVVHRlQ4dzRmLS1mREozdkxySDluaEVoLW5qWFJpRjFISUo4LUdXakVWRDhYbUUyOGpPcGV5d2NlTlJNcC04SmZiOE5sOTdCdHVXelFTWWVLMHNSOElpZmM?oc=5\" target=\"_blank\">Safety worry: OpenAI cancels new model release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Star</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
   }
  ]
 }

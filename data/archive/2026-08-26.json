@@ -768,6 +768,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5\" target=\"_blank\">The turbulent AI era is here. The choices we make now are critical.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gates Notes</font>",
    "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-1114-6eeea66116",
+   "source_id": "news",
+   "source_name": "METR",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "对 OpenAI / Hugging Face 入侵事件中智能体行为、推理与协作的简要独立调查 - METR",
+   "summary": "对 OpenAI / Hugging Face 入侵事件中智能体行为、推理与协作的简要独立调查 &nbsp;&nbsp; METR",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjFseE9saHdrT05WLXNxSkxvcFd6cEZKS19EelUxTXgteDVtcmlocHRhX2haMFdrYXhWMElWQmNMOVAyaVVuVzdaSGV0dmhoVmgwVC03TzYtaVZhMDRPdFFXVnI1ZEhUZGhHd2Y5OW42bUllbEVaTWY2NTQtTXhCMjBWWmFPWmdZRnlSNg?oc=5",
+   "published_at": "2026-08-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONjFseE9saHdrT05WLXNxSkxvcFd6cEZKS19EelUxTXgteDVtcmlocHRhX2haMFdrYXhWMElWQmNMOVAyaVVuVzdaSGV0dmhoVmgwVC03TzYtaVZhMDRPdFFXVnI1ZEhUZGhHd2Y5OW42bUllbEVaTWY2NTQtTXhCMjBWWmFPWmdZRnlSNg?oc=5\" target=\"_blank\">对 OpenAI / Hugging Face 入侵事件中智能体行为、推理与协作的简要独立调查</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">METR</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
   }
  ]
 }

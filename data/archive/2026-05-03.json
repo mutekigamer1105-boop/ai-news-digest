@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1115-69182e2ce9",
+   "source_id": "news",
+   "source_name": "风闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "那个在OpenAI修中文的人 - 风闻",
+   "summary": "那个在OpenAI修中文的人 &nbsp;&nbsp; 风闻",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00dHpkMUpOQmRCVGp6RVpIZlFyVERONjcyZmI2aGliSUlVcXkyYlp6WDYzbkhwbmszTHNKRkNsS0tMUmVTUG5oUjhQb1kyMkZRVXFMLXFzTlpnZms?oc=5",
+   "published_at": "2026-05-03T03:06:42+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00dHpkMUpOQmRCVGp6RVpIZlFyVERONjcyZmI2aGliSUlVcXkyYlp6WDYzbkhwbmszTHNKRkNsS0tMUmVTUG5oUjhQb1kyMkZRVXFMLXFzTlpnZms?oc=5\" target=\"_blank\">那个在OpenAI修中文的人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">风闻</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
+  }
+ ]
+}

@@ -9231,6 +9231,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHJJeXVRUFlkWWxNajhZMWNVT29sWDg2cjZCblg1NFdZcHZJWWc0ZVlSQjluWGJGYXVTajVWMEJ1V1k0dWJjVWFBeTZKbnhobVFBM2xYTjFrWlZQZ1pSNjBRSTFBUDVKVGhIeVlUVnBMWlBzNGczVHNXNnczWWpOYnZETHp4Z1Bl?oc=5\" target=\"_blank\">Google restricts access to new AI model over safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
    "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-1170-a3875eb6b8",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 因涉嫌向外部组织泄露信息而解雇三名安全研究人员 - Cryptopolitan",
+   "summary": "OpenAI 因涉嫌向外部组织泄露信息而解雇三名安全研究人员 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVVJMEpURGVYWVJBWnFYMU5UMlEtQ3ZTcml1QWk5ckZzaGxUS3NsczN5ZGNUaGdtMDlTMkEtempuUkZJNVdqbUJOclhJWExHcndaaEZwVVU4OHdxVVJvNmdrNEljM19sOUVscjdjdW5lbHRLSUwwNUwtY2Q2NWJRV21mUmFyVVNTcHdqMmJiVlVUTExDRmtNdlFkd3BXQmI0eHc5QllURGJHZHgyeHc?oc=5",
+   "published_at": "2026-10-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVVJMEpURGVYWVJBWnFYMU5UMlEtQ3ZTcml1QWk5ckZzaGxUS3NsczN5ZGNUaGdtMDlTMkEtempuUkZJNVdqbUJOclhJWExHcndaaEZwVVU4OHdxVVJvNmdrNEljM19sOUVscjdjdW5lbHRLSUwwNUwtY2Q2NWJRV21mUmFyVVNTcHdqMmJiVlVUTExDRmtNdlFkd3BXQmI0eHc5QllURGJHZHgyeHc?oc=5\" target=\"_blank\">OpenAI 因涉嫌向外部组织泄露信息而解雇三名安全研究人员</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
   }
  ]
 }

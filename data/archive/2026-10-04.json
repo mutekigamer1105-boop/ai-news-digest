@@ -4140,6 +4140,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjgweUdmeVFKelliZDFhUU84ejZpVzY3STNVcWlvSTJELU9rVHhsSi1LRC00S3JkcW4xQmY2amMwdDIycnVpNVVMN0ZBV3gtNTJJQ2dfRmNLd0xiLU04MlpXdnVGZHRtZFZMR0I1alk2aUhjVV9sZlFvN0xTX3lQSVBNTUVJcXZBTGxZcXdHUUUxd1hmTVNGeTZtSWZqTDNtOFRrT1lBOVpCYjFLWGp3bU90UGZvVmhnelJPMzJOTkNSQS1KNU1rcUhHd1Z1QkhKTzdkWGJYbnU1aXFBY2s0?oc=5\" target=\"_blank\">木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-559-4e8c63793e",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia’s AI boom revives a Warren Buffett warning for investors - Yahoo Finance",
+   "summary": "Nvidia’s AI boom revives a Warren Buffett warning for investors &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZURUTWdpS01ZUFlsWnY0aVU3eGJISXBLMFZOUzlLYnk3bzIzdmdGYkpGdndISmVRVlE2UnB2bGJBdl9MSTR5OXVWUFJTOEI4LTBfSDJjSllXRjB4dncyai1nVXhQdDdtalZMY3V1MFlnTHJCTE9VZkNYYzZTbUh2dmRxYXI1QW5BYy1XZnB4c0M0M3ZHSmR1WEhB?oc=5",
+   "published_at": "2026-10-04T21:47:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZURUTWdpS01ZUFlsWnY0aVU3eGJISXBLMFZOUzlLYnk3bzIzdmdGYkpGdndISmVRVlE2UnB2bGJBdl9MSTR5OXVWUFJTOEI4LTBfSDJjSllXRjB4dncyai1nVXhQdDdtalZMY3V1MFlnTHJCTE9VZkNYYzZTbUh2dmRxYXI1QW5BYy1XZnB4c0M0M3ZHSmR1WEhB?oc=5\" target=\"_blank\">Nvidia’s AI boom revives a Warren Buffett warning for investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
+  },
+  {
+   "id": "web-458-0946eb0301",
+   "source_id": "news",
+   "source_name": "Britannica",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic | History, Controversies, & Claude AI - Britannica",
+   "summary": "Anthropic | History, Controversies, & Claude AI &nbsp;&nbsp; Britannica",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+   "published_at": "2026-10-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5\" target=\"_blank\">Anthropic | History, Controversies, & Claude AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
+   "fetched_at": "2026-10-10T10:19:17+00:00"
   }
  ]
 }
