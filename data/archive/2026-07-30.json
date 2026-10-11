@@ -216,6 +216,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBOSUpBdTdrSGxnV01VOWpVSkF3cVZtdVdsMk9rR21Eb0FhVHhFWHRPbk1nbmItUWVRWmljTV9qUDNwblBQdkozVmkxVTJIWjNnUjR1bzV5a3RnZDZ5ZXota2o4N05rZ0FHSEHSAW9BVV95cUxQaTRNRG5HMU15cTEtUlhWNnpfWFJRLTdQbVVhOXlXSzJ4aU5UUm9IUTBHR0dVS01ydG5qN3FjVjRVcVZWRTNBMUtSMkdweEEyNFprbHg3RmtJQ1RSV0k0NWVlcXZPajBBRmFoZUcxRzA?oc=5\" target=\"_blank\">OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-1173-83084f1130",
+   "source_id": "news",
+   "source_name": "blockchain.news",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 报告：AI 正在重塑各行业的工作任务 - blockchain.news",
+   "summary": "OpenAI 报告：AI 正在重塑各行业的工作任务 &nbsp;&nbsp; blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ya2hrbFNDcWV4VzdzUWRoUUQ1ZkpoUzk1YkVGTnpkSWl3bHVJUEVFWjVURnpZUzJNbzgydE1MYTZKaTU2NGVySEg3TjNidklfRmZiSmQ5MUg5SHhyOXY2T2RLYkl5NDNVMV85Mg?oc=5",
+   "published_at": "2026-07-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4ya2hrbFNDcWV4VzdzUWRoUUQ1ZkpoUzk1YkVGTnpkSWl3bHVJUEVFWjVURnpZUzJNbzgydE1MYTZKaTU2NGVySEg3TjNidklfRmZiSmQ5MUg5SHhyOXY2T2RLYkl5NDNVMV85Mg?oc=5\" target=\"_blank\">OpenAI 报告：AI 正在重塑各行业的工作任务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+   "fetched_at": "2026-10-11T10:28:09+00:00"
   }
  ]
 }

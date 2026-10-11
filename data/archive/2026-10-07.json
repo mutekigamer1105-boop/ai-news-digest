@@ -10176,6 +10176,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnIwLVptTGRqTVBYSlZGbExiYmpqem54a01rX2dCSTNNeHhpRXdQdFhzNGFiQlEyMW8xYzQwOFBYQkF3YlFPZHNxaVNMSDZBUUNhMWZyNDRVX2ZabHFXM2MxcHRyT1RuYWNCbE1kSGRzcDZOMHR1REQ0bXU4NDlXRS1qckhkRmZvTHY1Z1N5Tk0taHo2UC1wQkk2R1kzaTcyUmVrYm1PSHI4Qm9jVG5VUUxSNXZnTkVz?oc=5\" target=\"_blank\">A health insurance agency’s journey from pilot to full-time voice AI agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Healthcare Dive</font>",
    "fetched_at": "2026-10-10T10:19:17+00:00"
+  },
+  {
+   "id": "web-597-e8be0e91ee",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "SpaceX seeks $40 billion financing to buy Nvidia AI chips - Yahoo Finance",
+   "summary": "SpaceX seeks $40 billion financing to buy Nvidia AI chips &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeFVIM25XY0JZNHFuUjdWLUlzOVZhOEhtOGNqcmgzcUhNTmdjVmwwX09oX0pCUEZOX2N0cjZycmUwc3FHZzhod09GaFMyU3YwbE1mczBBdmxEQjc1YS1mcGlqT1VQV0wxYlZqRDZqbXlpVGxmM20tQi1LOHhuR1RPQU9FNkxTeUtoNGJYaUlhV19uRUp2aFRSMl9LR0IwQQ?oc=5",
+   "published_at": "2026-10-07T12:20:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQeFVIM25XY0JZNHFuUjdWLUlzOVZhOEhtOGNqcmgzcUhNTmdjVmwwX09oX0pCUEZOX2N0cjZycmUwc3FHZzhod09GaFMyU3YwbE1mczBBdmxEQjc1YS1mcGlqT1VQV0wxYlZqRDZqbXlpVGxmM20tQi1LOHhuR1RPQU9FNkxTeUtoNGJYaUlhV19uRUp2aFRSMl9LR0IwQQ?oc=5\" target=\"_blank\">SpaceX seeks $40 billion financing to buy Nvidia AI chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-10-11T10:28:09+00:00"
   }
  ]
 }

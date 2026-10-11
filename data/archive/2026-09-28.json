@@ -11787,6 +11787,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTRSYW1XNlBjWm55bmdBMi1VaUlLWnc3UUVadVp4cVFjVEQzazNxZG4tZUJQRWFIUjdvX1Rwa1k3U3BqbTdRNWUtd1hINGd3Ti1WNlB4QUE4bWM3TGJsV0tMSzZfWi04cUlVekk3cWtYLTV3aE1QZmxOZ01lSUlaTw?oc=5\" target=\"_blank\">OpenAI halts model release over safety concerns: \"Didn't quite meet the bar\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
    "fetched_at": "2026-10-10T10:19:17+00:00"
+  },
+  {
+   "id": "web-735-539fab7352",
+   "source_id": "news",
+   "source_name": "AP News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI delays latest model over security concerns, as industry faces new safety pressures - AP News",
+   "summary": "OpenAI delays latest model over security concerns, as industry faces new safety pressures &nbsp;&nbsp; AP News",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTlCOGpRYXJUakJJcG5xaWJyd2NFaFFkbkM4VjJIYWRpNUVpM2l5TEVXQVNaTm5IX1hEajgzVXBxME1ueElwMUFyMW1kQ1o4WE5PeV9rRDlzRXZyeDJ5VjJDLWd5Z1JJMW5lQTdrcy1sREp2cDhDaGxzUmRUa2EwYjV3MzUxbzgtSS1Xb052ZDBiM0xyUjh2LXpHY1gtZXpkVVV3WVBqVHRma0ktQkRN?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTlCOGpRYXJUakJJcG5xaWJyd2NFaFFkbkM4VjJIYWRpNUVpM2l5TEVXQVNaTm5IX1hEajgzVXBxME1ueElwMUFyMW1kQ1o4WE5PeV9rRDlzRXZyeDJ5VjJDLWd5Z1JJMW5lQTdrcy1sREp2cDhDaGxzUmRUa2EwYjV3MzUxbzgtSS1Xb052ZDBiM0xyUjh2LXpHY1gtZXpkVVV3WVBqVHRma0ktQkRN?oc=5\" target=\"_blank\">OpenAI delays latest model over security concerns, as industry faces new safety pressures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+   "fetched_at": "2026-10-11T10:28:09+00:00"
+  },
+  {
+   "id": "web-772-9a1a3f7ec1",
+   "source_id": "news",
+   "source_name": "Y100 WNCY",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI shelves new AI model release over safety concerns - Y100 WNCY",
+   "summary": "OpenAI shelves new AI model release over safety concerns &nbsp;&nbsp; Y100 WNCY",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTk9JSldkLWY4MG1KMXZxb0dsenN6RXEwNXphVWpPUUs1czF0LVNYMWVFY0U4bm50OE5ZN2ozTWVucVljcXZEeVZpYndYVzVfR0lBVVVtMzZnbWY4cVFhbnkyanh6MS05R1ZKc19ZOXpUQVJheUV0WTR0TV9YZDJ3TEFKNENoeW9mUl9ZNDlKSk52cXVWblQyQ21EMUI?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNTk9JSldkLWY4MG1KMXZxb0dsenN6RXEwNXphVWpPUUs1czF0LVNYMWVFY0U4bm50OE5ZN2ozTWVucVljcXZEeVZpYndYVzVfR0lBVVVtMzZnbWY4cVFhbnkyanh6MS05R1ZKc19ZOXpUQVJheUV0WTR0TV9YZDJ3TEFKNENoeW9mUl9ZNDlKSk52cXVWblQyQ21EMUI?oc=5\" target=\"_blank\">OpenAI shelves new AI model release over safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Y100 WNCY</font>",
+   "fetched_at": "2026-10-11T10:28:09+00:00"
   }
  ]
 }

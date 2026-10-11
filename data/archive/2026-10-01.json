@@ -9254,6 +9254,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVVJMEpURGVYWVJBWnFYMU5UMlEtQ3ZTcml1QWk5ckZzaGxUS3NsczN5ZGNUaGdtMDlTMkEtempuUkZJNVdqbUJOclhJWExHcndaaEZwVVU4OHdxVVJvNmdrNEljM19sOUVscjdjdW5lbHRLSUwwNUwtY2Q2NWJRV21mUmFyVVNTcHdqMmJiVlVUTExDRmtNdlFkd3BXQmI0eHc5QllURGJHZHgyeHc?oc=5\" target=\"_blank\">OpenAI 因涉嫌向外部组织泄露信息而解雇三名安全研究人员</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-10T10:19:17+00:00"
+  },
+  {
+   "id": "web-270-b198cc8fba",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Global X Launches New ETF Focusing on Large Language Models - Yahoo Finance",
+   "summary": "Global X Launches New ETF Focusing on Large Language Models &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWR3enNWWnR6UEdlWldVbU14LW1wTWZNODFBZmE0Z3hZS2V2ald5OVRUMERiRnhfN3d6NXRSYUFISDFwXzBpMUw4ZTlJWXJoTWNhRTVhYmR5Mlh4WVNkall4LVMwZVFrQkFFTGh5eGtuVVFZRUdHVzF3THFJQV9mNWhDUFFOTVRIazNDTF9WUWE2Q0RjWWtsQzJR?oc=5",
+   "published_at": "2026-10-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWR3enNWWnR6UEdlWldVbU14LW1wTWZNODFBZmE0Z3hZS2V2ald5OVRUMERiRnhfN3d6NXRSYUFISDFwXzBpMUw4ZTlJWXJoTWNhRTVhYmR5Mlh4WVNkall4LVMwZVFrQkFFTGh5eGtuVVFZRUdHVzF3THFJQV9mNWhDUFFOTVRIazNDTF9WUWE2Q0RjWWtsQzJR?oc=5\" target=\"_blank\">Global X Launches New ETF Focusing on Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-10-11T10:28:09+00:00"
   }
  ]
 }

@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1Ny1hQnVUbTNxYkpqLVM2ZjFwYzhKR1I2d1EwNVItWG1NRXdCcWRhZHdEYmYxbXpIV095aWhGd3BtTUkybGw5Rk1aQVdPdGNSdV83eGZrdjJvR0J3VGJ4M2ozTEx5Zw?oc=5\" target=\"_blank\">API账单“高过全员工资”，海外企业加速拥抱中国大模型：每经采访发现，迁移后推理成本下降30%~95%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">每日经济新闻</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1169-1f0e84c01b",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "埃隆·马斯克在OpenAI诉讼中站在苹果一边，在X上与山姆·奥特曼互相攻击 - Cryptopolitan",
+   "summary": "埃隆·马斯克在OpenAI诉讼中站在苹果一边，在X上与山姆·奥特曼互相攻击 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjVwb0drVlJUUWNZbVhJWko0MnFzeXlWek9wVWp5Y3JhcTdsZ1BoeW9nUVZoQmk1MTV1VGQ4aVhsX1JFaE5kVEZYRlMtMVpfaHBSNGFLb2VYb1ZtaDlKMy15TXNMTmxoWnNzeXhWeXVUQk5SS1VzQXZOZmN5bjR5Y01Lcnc?oc=5",
+   "published_at": "2026-07-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjVwb0drVlJUUWNZbVhJWko0MnFzeXlWek9wVWp5Y3JhcTdsZ1BoeW9nUVZoQmk1MTV1VGQ4aVhsX1JFaE5kVEZYRlMtMVpfaHBSNGFLb2VYb1ZtaDlKMy15TXNMTmxoWnNzeXhWeXVUQk5SS1VzQXZOZmN5bjR5Y01Lcnc?oc=5\" target=\"_blank\">埃隆·马斯克在OpenAI诉讼中站在苹果一边，在X上与山姆·奥特曼互相攻击</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-11T10:28:09+00:00"
   }
  ]
 }
