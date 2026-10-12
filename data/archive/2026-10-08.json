@@ -8700,6 +8700,138 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5SVUxYVUJlWm1tak1SdVpMb0lUTnF2UXFaZmZFUWk0Z19yUHpRTFUxb1laemRQNnpOdjJGaXhlR3pxbDZWUGdVY0V1UnlpdDQzQ2pxMm05WVdJM3p1QjF5WFY2UjEwcklkWGpEaUwxQkdIYXhQaXNEdGd3?oc=5\" target=\"_blank\">Australian Lawmakers Question OpenAI Officials on Breaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
    "fetched_at": "2026-10-11T10:28:09+00:00"
+  },
+  {
+   "id": "web-528-12f6125c2b",
+   "source_id": "news",
+   "source_name": "NVIDIA Blog",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents - NVIDIA Blog",
+   "summary": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents &nbsp;&nbsp; NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ScVotSFNubUFsUXphSFVPNWQ0UFNoaUlKOFpwejZ2UVh5LWRiUDB3emFhaGZKT0pPSWF3ejMxdnQwZ1JTbFktcGoycTdUNXluZnlpUENvYndkcktiS2xWcFFUVzdNZ0FXQjJHSGRlTDRWbE80ZEY3dFNRdw?oc=5",
+   "published_at": "2026-10-08T21:13:19+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9ScVotSFNubUFsUXphSFVPNWQ0UFNoaUlKOFpwejZ2UVh5LWRiUDB3emFhaGZKT0pPSWF3ejMxdnQwZ1JTbFktcGoycTdUNXluZnlpUENvYndkcktiS2xWcFFUVzdNZ0FXQjJHSGRlTDRWbE80ZEY3dFNRdw?oc=5\" target=\"_blank\">Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+   "fetched_at": "2026-10-12T11:30:04+00:00"
+  },
+  {
+   "id": "web-1016-118a697138",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "谷歌发布Gemini智能体：能写代码、创作内容 自主推进任务 - 东方财富",
+   "summary": "谷歌发布Gemini智能体：能写代码、创作内容 自主推进任务 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BQlA3TnNvTGRlMTBxTnFqc25NeXhCenFZMTRQT1F2S09nWU8tNWVOUWpQbHVBT3ZDcWRSTVo1VUZfVzZuQ0d1d3RFTWhrbmRZSllqQ0FpQVpvZDFpckFxbm0xeWRET3c?oc=5",
+   "published_at": "2026-10-08T18:09:48+00:00",
+   "author_handle": null,
+   "builder_id": "demis-hassabis",
+   "builder_name": "Demis Hassabis",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BQlA3TnNvTGRlMTBxTnFqc25NeXhCenFZMTRQT1F2S09nWU8tNWVOUWpQbHVBT3ZDcWRSTVo1VUZfVzZuQ0d1d3RFTWhrbmRZSllqQ0FpQVpvZDFpckFxbm0xeWRET3c?oc=5\" target=\"_blank\">谷歌发布Gemini智能体：能写代码、创作内容 自主推进任务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-12T11:30:04+00:00"
+  },
+  {
+   "id": "web-22-89a725446a",
+   "source_id": "news",
+   "source_name": "Department of Energy (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Artificial Intelligence for Nuclear Deterrence Strategy 2023 - Department of Energy (.gov)",
+   "summary": "Artificial Intelligence for Nuclear Deterrence Strategy 2023 &nbsp;&nbsp; Department of Energy (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjF4LVVxSzc2MWJEa212X3ZmZnBvbDJFcmFoTzQ1SnlZY0dGWmhQMllXbW5WYUUxLWx3MlhRTXZsSjBSbHFEbFlmZGtuaDF0YThoelh3UHl4d2JQQjBxWWthVEZUYnR5WEJ0dGFjdXZlVGd1T2tlQnVGUmdaeUpOcjlwR1k1dFBSM1pBODJmN2hUZw?oc=5",
+   "published_at": "2026-10-08T13:13:59+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjF4LVVxSzc2MWJEa212X3ZmZnBvbDJFcmFoTzQ1SnlZY0dGWmhQMllXbW5WYUUxLWx3MlhRTXZsSjBSbHFEbFlmZGtuaDF0YThoelh3UHl4d2JQQjBxWWthVEZUYnR5WEJ0dGFjdXZlVGd1T2tlQnVGUmdaeUpOcjlwR1k1dFBSM1pBODJmN2hUZw?oc=5\" target=\"_blank\">Artificial Intelligence for Nuclear Deterrence Strategy 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+   "fetched_at": "2026-10-12T11:30:04+00:00"
+  },
+  {
+   "id": "web-1057-d2139a06b6",
+   "source_id": "news",
+   "source_name": "证券时报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "301234，历史新高，年内最大涨幅超365%！AI智能体加速迭代，机构盯上这些概念股 - 证券时报网",
+   "summary": "301234，历史新高，年内最大涨幅超365%！AI智能体加速迭代，机构盯上这些概念股 &nbsp;&nbsp; 证券时报网",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxRVkwdWZRTmZOWHRsVEpONnNzLVNmNnVMOEluUHNoLVBLNjNKbzBjTFlrUzdWNFNUWjVFSTk4X2RSWnp6c3p1ZVc5X2Y5S2Z2aVFDUDVYa3NFS1hQ?oc=5",
+   "published_at": "2026-10-08T10:43:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxRVkwdWZRTmZOWHRsVEpONnNzLVNmNnVMOEluUHNoLVBLNjNKbzBjTFlrUzdWNFNUWjVFSTk4X2RSWnp6c3p1ZVc5X2Y5S2Z2aVFDUDVYa3NFS1hQ?oc=5\" target=\"_blank\">301234，历史新高，年内最大涨幅超365%！AI智能体加速迭代，机构盯上这些概念股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报网</font>",
+   "fetched_at": "2026-10-12T11:30:04+00:00"
+  },
+  {
+   "id": "web-1157-55095e51dc",
+   "source_id": "news",
+   "source_name": "blockchain.news",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI与Ironclad合作提升复杂合同工作流程中的AI能力 - blockchain.news",
+   "summary": "OpenAI与Ironclad合作提升复杂合同工作流程中的AI能力 &nbsp;&nbsp; blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84MnBZSDVzVG1tR0JpTDZUOVJZRU1YSmg1U1duWlZRai1CbF9RdTVMWXVHQ0laMGZ4ZnVVNzdPQnBWRnY3cTlFU0FJeTZhMDNTbUZySkk3Y0FVbUswWFUtTVQ0aXRDZ2VuRE1tX1dqTQ?oc=5",
+   "published_at": "2026-10-08T09:46:49+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE84MnBZSDVzVG1tR0JpTDZUOVJZRU1YSmg1U1duWlZRai1CbF9RdTVMWXVHQ0laMGZ4ZnVVNzdPQnBWRnY3cTlFU0FJeTZhMDNTbUZySkk3Y0FVbUswWFUtTVQ0aXRDZ2VuRE1tX1dqTQ?oc=5\" target=\"_blank\">OpenAI与Ironclad合作提升复杂合同工作流程中的AI能力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+   "fetched_at": "2026-10-12T11:30:04+00:00"
+  },
+  {
+   "id": "web-1170-fe6d7cb470",
+   "source_id": "news",
+   "source_name": "blockchain.news",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Atlassian和OpenAI加强AI集成以优化企业工作流程 - blockchain.news",
+   "summary": "Atlassian和OpenAI加强AI集成以优化企业工作流程 &nbsp;&nbsp; blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqYnMxQVNUTXlvSG03UVpRcThPSTBmRVU4eWIwci11QS1ueHlIV3IyZDNJYVRwcnQzaGdNODJIV3hJcDNXdDVROUU5UjVvaDJzalhKbnpWU1VpNXVBdU9vOXIybVkzY1lSM2FwczdmMHo0eXlQUTc4eWtn?oc=5",
+   "published_at": "2026-10-08T09:05:49+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBqYnMxQVNUTXlvSG03UVpRcThPSTBmRVU4eWIwci11QS1ueHlIV3IyZDNJYVRwcnQzaGdNODJIV3hJcDNXdDVROUU5UjVvaDJzalhKbnpWU1VpNXVBdU9vOXIybVkzY1lSM2FwczdmMHo0eXlQUTc4eWtn?oc=5\" target=\"_blank\">Atlassian和OpenAI加强AI集成以优化企业工作流程</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+   "fetched_at": "2026-10-12T11:30:04+00:00"
   }
  ]
 }

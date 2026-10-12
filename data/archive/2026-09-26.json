@@ -5925,6 +5925,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBaU3Jib2ZaVXgwTDBtczFKRjYyU0NNUlZGN0Z2Q09QSFZ3bzlLZHZDTVlwZ2hSSjVKOWk1ckpub2hHdjNkMk4xN0hhaExHNVpybHZ0NEx1cnV3ckw4VzhueXlOcVl6Z3VMOUFocg?oc=5\" target=\"_blank\">《物理人工智能（英文）》（Physical Artificial Intelligence）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科学院</font>",
    "fetched_at": "2026-10-10T10:19:17+00:00"
+  },
+  {
+   "id": "web-795-7196a69118",
+   "source_id": "news",
+   "source_name": "Futura, le média qui explore le monde",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "NASA and IBM release an open-source AI model for lunar mapping - Futura, le média qui explore le monde",
+   "summary": "NASA and IBM release an open-source AI model for lunar mapping &nbsp;&nbsp; Futura, le média qui explore le monde",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSERpelc3YktpQ0VOdDFkOFNBbFljU1l6V0N6NXExY19ONVNLTWVDZUM3RVpGR2ExU0xwVkpYQi1hQVd2YkExRXVpblJ6cmRUUGlJUGlKVnRDTU9pYjJ3SDJsU0dKaUozR0E1MFRqeUJ5cmJuVHVHWW9Wb3pUeHJQdVJ0UlRWQ2RrQzhldFp6cVlQdWZ0NnJVRjZoWDFtZ1dTeVMwTENlRjFaeWZULUN6QnBiZkpKZw?oc=5",
+   "published_at": "2026-09-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSERpelc3YktpQ0VOdDFkOFNBbFljU1l6V0N6NXExY19ONVNLTWVDZUM3RVpGR2ExU0xwVkpYQi1hQVd2YkExRXVpblJ6cmRUUGlJUGlKVnRDTU9pYjJ3SDJsU0dKaUozR0E1MFRqeUJ5cmJuVHVHWW9Wb3pUeHJQdVJ0UlRWQ2RrQzhldFp6cVlQdWZ0NnJVRjZoWDFtZ1dTeVMwTENlRjFaeWZULUN6QnBiZkpKZw?oc=5\" target=\"_blank\">NASA and IBM release an open-source AI model for lunar mapping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futura, le média qui explore le monde</font>",
+   "fetched_at": "2026-10-12T11:30:04+00:00"
   }
  ]
 }

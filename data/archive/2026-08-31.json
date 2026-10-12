@@ -1456,6 +1456,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEejNsbmRMVnJrMFZLdUlrVDNXcFZ1YXBIYzd1VDNkZXhDdWNzTnN3ZjFHUFFoYXBrUGlZaEZZbGpmLXpjQnl5VFRFVGM1MWVEd2VWSlhOOTJGcmpjTWRUMg?oc=5\" target=\"_blank\">中国AI大模型调用量连续十八周领跑：智谱“牛来”大模型冲上榜首，DeepSeek-V4-Pro跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-10-08T11:03:50+00:00"
+  },
+  {
+   "id": "web-1148-5418d36fde",
+   "source_id": "news",
+   "source_name": "美国中文网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "不到200天！OpenAI广告业务爆发式增长 年化收入达10亿美元 - 美国中文网",
+   "summary": "不到200天！OpenAI广告业务爆发式增长 年化收入达10亿美元 &nbsp;&nbsp; 美国中文网",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10Sjh4U1BRSDg4YllYMnpOVjkzZkRaVWh2eWg1a1dZQ242VFE4eGFJUlNIX3hxU0ZBVVpHcjd1UGJXS1otQnVzYmFiQi1iYml4V1BpLTZvWXNUVU9MZWJKWXJ6cVBzWnpIeUlLbEh4NEM2UVJteFNSSzN3?oc=5",
+   "published_at": "2026-08-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE10Sjh4U1BRSDg4YllYMnpOVjkzZkRaVWh2eWg1a1dZQ242VFE4eGFJUlNIX3hxU0ZBVVpHcjd1UGJXS1otQnVzYmFiQi1iYml4V1BpLTZvWXNUVU9MZWJKWXJ6cVBzWnpIeUlLbEh4NEM2UVJteFNSSzN3?oc=5\" target=\"_blank\">不到200天！OpenAI广告业务爆发式增长 年化收入达10亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">美国中文网</font>",
+   "fetched_at": "2026-10-12T11:30:04+00:00"
   }
  ]
 }
