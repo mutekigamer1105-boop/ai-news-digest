@@ -396,6 +396,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHVXOWg2cHFQbUhkYlpxcXFUaktQaGhjQUh5N1hfcDl4WUJnSjVEMUNrT1RJNy1pbm5jN2Uxd0p5YlpFUU5JZ2F4elVJUmo3R0x4T3pueWN2d3loSGN0Vi1sTmR5MHBuTmVrV3dtY00xcnVXQm94a2k0cXpnY3FaY0hrWQ?oc=5\" target=\"_blank\">OpenAI 的 GPT-5.6 在美国安全审查推迟发布后获准推出</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-1000-0955e77803",
+   "source_id": "news",
+   "source_name": "龙岗政府在线",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "龙岗依托城管AI大模型探索非标场景智慧管理-政务动态 - 龙岗政府在线",
+   "summary": "龙岗依托城管AI大模型探索非标场景智慧管理-政务动态 &nbsp;&nbsp; 龙岗政府在线",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRV0hJa0hYUXQtVDNjUmVxTGxETHlnT2xiSmhmRV9RUjRWd3FFM3ZjN2xERnBLR0t6ZGxGR1FfMFVyeERhb3J3Vnl3dVBZZHdaSG1hTW1wOFZRci1TRGg0S0s2Z2R5NnNPZGQxOFZaQlU?oc=5",
+   "published_at": "2026-07-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBRV0hJa0hYUXQtVDNjUmVxTGxETHlnT2xiSmhmRV9RUjRWd3FFM3ZjN2xERnBLR0t6ZGxGR1FfMFVyeERhb3J3Vnl3dVBZZHdaSG1hTW1wOFZRci1TRGg0S0s2Z2R5NnNPZGQxOFZaQlU?oc=5\" target=\"_blank\">龙岗依托城管AI大模型探索非标场景智慧管理-政务动态</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">龙岗政府在线</font>",
+   "fetched_at": "2026-10-13T11:18:48+00:00"
   }
  ]
 }

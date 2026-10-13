@@ -8832,6 +8832,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBqYnMxQVNUTXlvSG03UVpRcThPSTBmRVU4eWIwci11QS1ueHlIV3IyZDNJYVRwcnQzaGdNODJIV3hJcDNXdDVROUU5UjVvaDJzalhKbnpWU1VpNXVBdU9vOXIybVkzY1lSM2FwczdmMHo0eXlQUTc4eWtn?oc=5\" target=\"_blank\">Atlassian和OpenAI加强AI集成以优化企业工作流程</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
    "fetched_at": "2026-10-12T11:30:04+00:00"
+  },
+  {
+   "id": "web-1083-e15335f66a",
+   "source_id": "news",
+   "source_name": "同花顺",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "301234，历史新高，年内最大涨幅超365%！AI智能体加速迭代，机构盯上这些概念股 - 同花顺",
+   "summary": "301234，历史新高，年内最大涨幅超365%！AI智能体加速迭代，机构盯上这些概念股 &nbsp;&nbsp; 同花顺",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ESHd1SDRMME50cjNDUXNlLVBLVmNfaEZuS0s0dlFzWWxELXpfOVVOT3d1d3J4akJsQjZISlJTbWFnTTdyQndVQnZ6b0FQbEp1QndycERoNmxCVk5HSXc?oc=5",
+   "published_at": "2026-10-08T11:09:23+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ESHd1SDRMME50cjNDUXNlLVBLVmNfaEZuS0s0dlFzWWxELXpfOVVOT3d1d3J4akJsQjZISlJTbWFnTTdyQndVQnZ6b0FQbEp1QndycERoNmxCVk5HSXc?oc=5\" target=\"_blank\">301234，历史新高，年内最大涨幅超365%！AI智能体加速迭代，机构盯上这些概念股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+   "fetched_at": "2026-10-13T11:18:48+00:00"
+  },
+  {
+   "id": "web-205-81147719af",
+   "source_id": "news",
+   "source_name": "alphaXiv",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Thinking Inertia: LLMs Keep Thinking When Told Not To - alphaXiv",
+   "summary": "Thinking Inertia: LLMs Keep Thinking When Told Not To &nbsp;&nbsp; alphaXiv",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Vbkx6Nk1mMmlnVGExZVVUYlNVeEVlUHNuUEpCVlRLN2FUZ3ZkSVYtWHlLdnRCYVpMSGRxRHJ6ajBPbFNaMU5VU3NneENPSXlU?oc=5",
+   "published_at": "2026-10-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Vbkx6Nk1mMmlnVGExZVVUYlNVeEVlUHNuUEpCVlRLN2FUZ3ZkSVYtWHlLdnRCYVpMSGRxRHJ6ajBPbFNaMU5VU3NneENPSXlU?oc=5\" target=\"_blank\">Thinking Inertia: LLMs Keep Thinking When Told Not To</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alphaXiv</font>",
+   "fetched_at": "2026-10-13T11:18:48+00:00"
   }
  ]
 }

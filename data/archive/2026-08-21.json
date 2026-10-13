@@ -392,6 +392,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2VGRS1PaUtNUFFpYURJLU9GaWFYa3VHS2xMNGhHUWcwTUN5RXl2LTE4bldBaVRyT1VwRFR4T0Zqb290U1pQbmkyelctZk5JeGIxVEFsbnliQy12bGMxUW1nNXhpMFd4d0x3cEJza09iMGJXMUx0Y1BYTXA?oc=5\" target=\"_blank\">Anthropic’s Opus 4.6 is a smut-machine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-09-28T04:06:10+00:00"
+  },
+  {
+   "id": "web-687-fb1513729f",
+   "source_id": "news",
+   "source_name": "Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Our AI startup is growing 40% a month helping financial advisers do what they love: giving advice - Fortune",
+   "summary": "Our AI startup is growing 40% a month helping financial advisers do what they love: giving advice &nbsp;&nbsp; Fortune",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZnNsRm8tdU5IWmlxLTJ3QU9tRXM3dzdqNXV5Y1B2WE84R2Zld1l5WnJ6NXlFY3U1TlFkQ0lSR1NMWnZxVWFtZ2lzaVkwYjluYkhlaHZJQjA1aEJHM1pWcGx5VnUtMENHbXgtV0c1QzZiRDgxdVhuVmNDYzdZakpjSDVzNlFFZGlHdFQ0TEhKdElVeHM?oc=5",
+   "published_at": "2026-08-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNZnNsRm8tdU5IWmlxLTJ3QU9tRXM3dzdqNXV5Y1B2WE84R2Zld1l5WnJ6NXlFY3U1TlFkQ0lSR1NMWnZxVWFtZ2lzaVkwYjluYkhlaHZJQjA1aEJHM1pWcGx5VnUtMENHbXgtV0c1QzZiRDgxdVhuVmNDYzdZakpjSDVzNlFFZGlHdFQ0TEhKdElVeHM?oc=5\" target=\"_blank\">Our AI startup is growing 40% a month helping financial advisers do what they love: giving advice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "fetched_at": "2026-10-13T11:18:48+00:00"
   }
  ]
 }

@@ -86,6 +86,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lM0p2cGtZWWJ4aE9Ocy05NEU1SXFraWl1V1gwNmxwdGpMWkg3N2Z3WGF6eFFMZXlWMGZEeGZZVGxmcGJyVlBSLXlCUXhma0lWRm1SNllTSVlmNXlTMFEzLTZIMFIwSDA?oc=5\" target=\"_blank\">How Claude Code is used in practice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-1164-518580b822",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "GPT-5.6 传闻加剧，OpenAI瞄准6月下旬发布 - Cryptopolitan",
+   "summary": "GPT-5.6 传闻加剧，OpenAI瞄准6月下旬发布 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ha0ZlZXJhUENlOVdHcmQybGhYXzJBRjRNZlA4TDlqZUhBNW8zSjczQ296ZU5ZcUpWUDlnOHlFMThXY1ZiVHJOWGxPT19qV1N1bk9sSkkyb0xJRU12NkFlMDBRdlpLOVp1ZTdDMzQzaTlCU3dEYXJoRUVqTWFwQQ?oc=5",
+   "published_at": "2026-06-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ha0ZlZXJhUENlOVdHcmQybGhYXzJBRjRNZlA4TDlqZUhBNW8zSjczQ296ZU5ZcUpWUDlnOHlFMThXY1ZiVHJOWGxPT19qV1N1bk9sSkkyb0xJRU12NkFlMDBRdlpLOVp1ZTdDMzQzaTlCU3dEYXJoRUVqTWFwQQ?oc=5\" target=\"_blank\">GPT-5.6 传闻加剧，OpenAI瞄准6月下旬发布</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-13T11:18:48+00:00"
   }
  ]
 }

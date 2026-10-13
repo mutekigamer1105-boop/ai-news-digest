@@ -10198,6 +10198,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQeFVIM25XY0JZNHFuUjdWLUlzOVZhOEhtOGNqcmgzcUhNTmdjVmwwX09oX0pCUEZOX2N0cjZycmUwc3FHZzhod09GaFMyU3YwbE1mczBBdmxEQjc1YS1mcGlqT1VQV0wxYlZqRDZqbXlpVGxmM20tQi1LOHhuR1RPQU9FNkxTeUtoNGJYaUlhV19uRUp2aFRSMl9LR0IwQQ?oc=5\" target=\"_blank\">SpaceX seeks $40 billion financing to buy Nvidia AI chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
    "fetched_at": "2026-10-11T10:28:09+00:00"
+  },
+  {
+   "id": "web-924-98bc7bb4a7",
+   "source_id": "news",
+   "source_name": "财联社电报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "大模型推理成本加速下降 AI应用端渗透有望迎来提速 - 财联社电报",
+   "summary": "大模型推理成本加速下降 AI应用端渗透有望迎来提速 &nbsp;&nbsp; 财联社电报",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SeUtBNjhFUi12SUk2c0NqVWRQb2pHNHItdHc3ZDBCYTVVcU1fZDhlUnl6QU4wUW1rQkhwLXFyRG1wRzVzdkE?oc=5",
+   "published_at": "2026-10-07T08:51:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SeUtBNjhFUi12SUk2c0NqVWRQb2pHNHItdHc3ZDBCYTVVcU1fZDhlUnl6QU4wUW1rQkhwLXFyRG1wRzVzdkE?oc=5\" target=\"_blank\">大模型推理成本加速下降 AI应用端渗透有望迎来提速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社电报</font>",
+   "fetched_at": "2026-10-13T11:18:48+00:00"
   }
  ]
 }

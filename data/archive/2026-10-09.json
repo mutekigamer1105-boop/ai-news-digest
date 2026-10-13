@@ -6953,6 +6953,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFAzbk5XWV9yMUlXX0s1X2RQc3FKaVR2dUlBODBEdzcySGsyLVNqS0JycU83a0FtNTdUMTJCMkExblFMOEVyaHQwYlBvVFFtcDVzY2ZjSHI3bml0LWVBcTZPYnRNQUZ5Uk9BdWhfWi1nNnZfMl9VVGJV?oc=5\" target=\"_blank\">AI 生成的数学成果让人类面临难题</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
    "fetched_at": "2026-10-12T11:30:04+00:00"
+  },
+  {
+   "id": "web-108-e8fa81f099",
+   "source_id": "news",
+   "source_name": "IEEE Spectrum",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy - IEEE Spectrum",
+   "summary": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy &nbsp;&nbsp; IEEE Spectrum",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ERE94eTNCSUxZT01iX2RadnVBVHlfLWg5ODRkZW8wOGVwUUZHaEFxRHgyLVdPSkR1VEkxdHZvQXBQYWkyOTcyd3ktcXVIR09LdXZ5TFM4RklFT3FMVThFUjdIcw?oc=5",
+   "published_at": "2026-10-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ERE94eTNCSUxZT01iX2RadnVBVHlfLWg5ODRkZW8wOGVwUUZHaEFxRHgyLVdPSkR1VEkxdHZvQXBQYWkyOTcyd3ktcXVIR09LdXZ5TFM4RklFT3FMVThFUjdIcw?oc=5\" target=\"_blank\">Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IEEE Spectrum</font>",
+   "fetched_at": "2026-10-13T11:18:48+00:00"
+  },
+  {
+   "id": "web-1079-ea63010d8c",
+   "source_id": "news",
+   "source_name": "证券之星",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体迭代提速三十九只概念股获机构积极评级_个股掘金 - 证券之星",
+   "summary": "AI智能体迭代提速三十九只概念股获机构积极评级_个股掘金 &nbsp;&nbsp; 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KeGJnR29Fa0Zfb3ZUcDB2cGNlTXU2ZHAxQ2RNcGxvRl9HbnpZOUtjVkRDbTB3S1NaNlZRUjRQQVNfT0pIakpGekF4Q3QwOS02LWhyd1JqaHJCVHg5aGIwd25n?oc=5",
+   "published_at": "2026-10-09T01:11:09+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KeGJnR29Fa0Zfb3ZUcDB2cGNlTXU2ZHAxQ2RNcGxvRl9HbnpZOUtjVkRDbTB3S1NaNlZRUjRQQVNfT0pIakpGekF4Q3QwOS02LWhyd1JqaHJCVHg5aGIwd25n?oc=5\" target=\"_blank\">AI智能体迭代提速三十九只概念股获机构积极评级_个股掘金</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+   "fetched_at": "2026-10-13T11:18:48+00:00"
   }
  ]
 }
