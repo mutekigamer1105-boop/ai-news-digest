@@ -3217,6 +3217,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaMk9mb1VPakQzMG5CYnBFNkk0SE8xX1RSU0ZLTU1SNEh6MUt6VGVtOFBBaFZoN1JJSVhmWUFsSHpEWG9KdGU4R2Rtdm14aXlxQWY2bU4zVWFXNEVLUHdJ?oc=5\" target=\"_blank\">Large language models outperform humans at estimating society’s everyday norms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-27T04:05:04+00:00"
+  },
+  {
+   "id": "web-790-be58800999",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic releases new models, cuts agent costs - Axios",
+   "summary": "Anthropic releases new models, cuts agent costs &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2phY0R2b1N5eTVJRXNMM21ubUlFYUhaWjZCY0VDb3pFMXJsSWlxOWhsQ0RXRmVVM0RTejN0OVp4TEtVRm02SlRydW5yS2YzV1dtbVNGeVZocDNaeTIwYzNVSnBST1hSbGZvR25Ba3IwaWowTklveUhyZHo0M21HSEI3V1Mtbk1kdkgwYWwtamt5UzYtenZfVQ?oc=5",
+   "published_at": "2026-09-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2phY0R2b1N5eTVJRXNMM21ubUlFYUhaWjZCY0VDb3pFMXJsSWlxOWhsQ0RXRmVVM0RTejN0OVp4TEtVRm02SlRydW5yS2YzV1dtbVNGeVZocDNaeTIwYzNVSnBST1hSbGZvR25Ba3IwaWowTklveUhyZHo0M21HSEI3V1Mtbk1kdkgwYWwtamt5UzYtenZfVQ?oc=5\" target=\"_blank\">Anthropic releases new models, cuts agent costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-10-14T09:10:25+00:00"
   }
  ]
 }

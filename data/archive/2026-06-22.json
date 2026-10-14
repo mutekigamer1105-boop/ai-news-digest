@@ -110,6 +110,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQm01cVlLeVVFc2JidERQUC1rYkRWU3hjVGxWX0Z1TUt2Zk9uRlctODFtNzlzZldaM0FoWXA0NFZIR0NlWW5MZWRJenJla1BUQ0RTVm1pYjhCbC1YRXRNMTBvT1RfdGNjVlpBTHVPUEhzQ0dHQVpMM3JMUWF3eFI5SzI0UlNaUDAzbmpyclFScE4?oc=5\" target=\"_blank\">A custom-configured large language model for Arabic academic feedback: a case study within the SSDEC curriculum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
    "fetched_at": "2026-09-13T04:05:55+00:00"
+  },
+  {
+   "id": "web-1150-76e02d866a",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "IBM 与 OpenAI 合作，将 AI 安全工具带给企业客户 - Cryptopolitan",
+   "summary": "IBM 与 OpenAI 合作，将 AI 安全工具带给企业客户 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0NJV1k3YXZKNkNoT2NTRkQxUEFRZDVzV3B4Zk8tTzFENmVKMGtxOUVSZTFLWHpJcEZzTkZ4aEd1LTV4cDZ4VXp4QUhHWnBWNFNyQmV6cDQ5bkxnaFNHWkltQzdXLTMwVF9LSThCSnZISll0NlhIVnZ6WFRjcTJkUTVCdHNPZw?oc=5",
+   "published_at": "2026-06-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0NJV1k3YXZKNkNoT2NTRkQxUEFRZDVzV3B4Zk8tTzFENmVKMGtxOUVSZTFLWHpJcEZzTkZ4aEd1LTV4cDZ4VXp4QUhHWnBWNFNyQmV6cDQ5bkxnaFNHWkltQzdXLTMwVF9LSThCSnZISll0NlhIVnZ6WFRjcTJkUTVCdHNPZw?oc=5\" target=\"_blank\">IBM 与 OpenAI 合作，将 AI 安全工具带给企业客户</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-14T09:10:25+00:00"
   }
  ]
 }

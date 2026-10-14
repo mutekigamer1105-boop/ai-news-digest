@@ -8875,6 +8875,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Vbkx6Nk1mMmlnVGExZVVUYlNVeEVlUHNuUEpCVlRLN2FUZ3ZkSVYtWHlLdnRCYVpMSGRxRHJ6ajBPbFNaMU5VU3NneENPSXlU?oc=5\" target=\"_blank\">Thinking Inertia: LLMs Keep Thinking When Told Not To</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alphaXiv</font>",
    "fetched_at": "2026-10-13T11:18:48+00:00"
+  },
+  {
+   "id": "web-1047-bf551b40f4",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体迭代提速 三十九只概念股获机构积极评级 - 东方财富",
+   "summary": "AI智能体迭代提速 三十九只概念股获机构积极评级 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iV1ZSaHBaVGFtbE1hOTNaZ0FzOVlyTGVpWkt6bFZPdmFnYWZGeVB0ZkQxMzRCUHFncmlaM2hWWGpZOHF3X0JOVXZGWGpsTDdQWER2OXBSTHFKTkNIUkVFYjNpeUZGUQ?oc=5",
+   "published_at": "2026-10-08T17:29:48+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iV1ZSaHBaVGFtbE1hOTNaZ0FzOVlyTGVpWkt6bFZPdmFnYWZGeVB0ZkQxMzRCUHFncmlaM2hWWGpZOHF3X0JOVXZGWGpsTDdQWER2OXBSTHFKTkNIUkVFYjNpeUZGUQ?oc=5\" target=\"_blank\">AI智能体迭代提速 三十九只概念股获机构积极评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-14T09:10:25+00:00"
+  },
+  {
+   "id": "web-49-7c91fad9d5",
+   "source_id": "news",
+   "source_name": "Department of Energy (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting - Department of Energy (.gov)",
+   "summary": "National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting &nbsp;&nbsp; Department of Energy (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2czV1NLUmdGcEhNcTlhOGJHMzRGRVhFaVBfT2EtNU8tWE4yVzVrQ2ozMHRUSnhvSmVnT1F1aTdSYVJTLU1xeWVDc3Q5cWEtelE5QVN1YmhWeFNZUm04eEs3N3gzSzNGdFBNZWJGbUJDUTlNdXBRRDRlbV9PQU9zSHJ1U2FqcVVJZUtkU1ZUNXo5WDhBZ21WUG90dDczeDhaUmluS0hObWZoLWdKLThwWGlBdG5xZw?oc=5",
+   "published_at": "2026-10-08T13:13:59+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2czV1NLUmdGcEhNcTlhOGJHMzRGRVhFaVBfT2EtNU8tWE4yVzVrQ2ozMHRUSnhvSmVnT1F1aTdSYVJTLU1xeWVDc3Q5cWEtelE5QVN1YmhWeFNZUm04eEs3N3gzSzNGdFBNZWJGbUJDUTlNdXBRRDRlbV9PQU9zSHJ1U2FqcVVJZUtkU1ZUNXo5WDhBZ21WUG90dDczeDhaUmluS0hObWZoLWdKLThwWGlBdG5xZw?oc=5\" target=\"_blank\">National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+   "fetched_at": "2026-10-14T09:10:25+00:00"
   }
  ]
 }

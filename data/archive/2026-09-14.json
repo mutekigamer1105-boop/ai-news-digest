@@ -12464,6 +12464,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOM194QXBqVUN1S3c3dElFTmZuVndPcnJmcXJFSTZqTjlGVFlIUS11ZS1LT2ZVM2pwaF9QSFRMRElOeVF2Q3Q2ZFNJN1loNXJiclRiSW9CS0FjZXRjZzVkNnYtY0s4WEwyYV9wbkEwRVpxRkNEcm1jNEJhN0NRMmtja21oM1YxOFd6cTlkU3BTUTNyRk5IQXFsZXRR?oc=5\" target=\"_blank\">African AI Startups Grow as Early-Stage Funding Pipeline Shrinks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech In Africa</font>",
    "fetched_at": "2026-09-30T04:06:27+00:00"
+  },
+  {
+   "id": "web-1155-2b29fbcd82",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "马斯克在Grok 4.7落后于Anthropic和OpenAI最新模型的同时，用Grok 5暗示AGI - Cryptopolitan",
+   "summary": "马斯克在Grok 4.7落后于Anthropic和OpenAI最新模型的同时，用Grok 5暗示AGI &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHd1WDBteE1hNWM3TkF5bGRyMmR1RFhSS3A0VHNPRDhtZjA1Rk1saURMWU10TVpOX2ZlY3MwUXFmYmE5TUxkeHlqMGpqU0hrVXVFQ2hmcVIzMlM0OEZFLVBHYmpHZzZTcUlybzgtOHgyazZXa0ZXR0o3anI4U2owZklhTVRYeXQ5UEM2Zjg4LWZZaEV0NHVjMENlbDg5OXJaZzlWMG42bDR1SXZIMjUwRzVYejJIOU96ampz?oc=5",
+   "published_at": "2026-09-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHd1WDBteE1hNWM3TkF5bGRyMmR1RFhSS3A0VHNPRDhtZjA1Rk1saURMWU10TVpOX2ZlY3MwUXFmYmE5TUxkeHlqMGpqU0hrVXVFQ2hmcVIzMlM0OEZFLVBHYmpHZzZTcUlybzgtOHgyazZXa0ZXR0o3anI4U2owZklhTVRYeXQ5UEM2Zjg4LWZZaEV0NHVjMENlbDg5OXJaZzlWMG42bDR1SXZIMjUwRzVYejJIOU96ampz?oc=5\" target=\"_blank\">马斯克在Grok 4.7落后于Anthropic和OpenAI最新模型的同时，用Grok 5暗示AGI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-14T09:10:25+00:00"
   }
  ]
 }

@@ -6972,6 +6972,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9MYzJfOHZPNVVlQkstZy16WmFtTkFqaktxTWhWOE9xcGNCcGl3Z3MwZmQyOW4zR1h6eHBHMlUydC1GUGd4RElzem1JYUt6bHEtdDFXZWIzX2Z1bm9KSlN1VnNEV1F5RGtUU1JkLUdGYzVWbGFJQ2lvTXNFLXg?oc=5\" target=\"_blank\">Surface Laptop Ultra $2,599 AI PC: Local LLM Specs [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://tech-insider.org/</font>",
    "fetched_at": "2026-10-13T11:18:48+00:00"
+  },
+  {
+   "id": "web-379-276347dfba",
+   "source_id": "news",
+   "source_name": "AP News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "A timeline of developments in AI safety since the attack on Hugging Face - AP News",
+   "summary": "A timeline of developments in AI safety since the attack on Hugging Face &nbsp;&nbsp; AP News",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUdUMlp0Z0xkQTl3clhkT2VWYy1EclBLWWpQOGJJc1Bad2xkdTk5eGR3YmdEUC1EZmtibnFZREhkV1BzLURrTlNkbnRDVDRqS1RrUHFhRy1TSGRpeWVldEtfbG1GY2YtQW9VSnZpV3BFM0VhcFlhQXhzOWFiampadkdleFJpYXZxLTdLSGRXcUJ5dE0ta1ZDVjJtaw?oc=5",
+   "published_at": "2026-10-10T16:41:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUdUMlp0Z0xkQTl3clhkT2VWYy1EclBLWWpQOGJJc1Bad2xkdTk5eGR3YmdEUC1EZmtibnFZREhkV1BzLURrTlNkbnRDVDRqS1RrUHFhRy1TSGRpeWVldEtfbG1GY2YtQW9VSnZpV3BFM0VhcFlhQXhzOWFiampadkdleFJpYXZxLTdLSGRXcUJ5dE0ta1ZDVjJtaw?oc=5\" target=\"_blank\">A timeline of developments in AI safety since the attack on Hugging Face</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+   "fetched_at": "2026-10-14T09:10:25+00:00"
   }
  ]
 }

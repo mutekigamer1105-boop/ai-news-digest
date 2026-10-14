@@ -12137,6 +12137,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkJBZ2o0YmZnOEpWVk9mT1dmRUFDZmkxbFZBNU9FQy1VWk5YeENDb0U3c080STBTdmFTWVh0aGNjRXZuNnhrU1RseEVPaWpBVkRSbGtJWExBenJwSlJYNkxHNzcwdk1oMzh4bUs0WGFsdGt3cGNRa29jdndoZXJVbkRJOEI5blRoVGN4NTFRLTNlU1J1VWVKOFRfLTRlb0hXMnFzVWlrTG45NVlSVkRSbVVEUFh1eklGWEVJWThpZ09ZUQ?oc=5\" target=\"_blank\">Peter Thiel-Backed AI Startup Cognition Raises Funds at $48 Billion Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-1151-9b442838ea",
+   "source_id": "news",
+   "source_name": "blockchain.news",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI：Astra GPT 6 接管 GPT 投资组合| 快讯详情 - blockchain.news",
+   "summary": "OpenAI：Astra GPT 6 接管 GPT 投资组合| 快讯详情 &nbsp;&nbsp; blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0JMOWN0d19OVjFVbXBmaU85c2FjYzdKdGwxYU1Sc1dPVDlwWkNqX2xkNi03SmJONnM3XzJLbGJYX2RTbkw5amx6U0pBb1lqejh0UEQ3RFcwOWxuWDY4eFJJZUkwUFNxelIwSG4tMWlVbGxzLXF6clBqMFdUTTR5dTVEYXBsU3RIUkhpUnNQUQ?oc=5",
+   "published_at": "2026-09-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0JMOWN0d19OVjFVbXBmaU85c2FjYzdKdGwxYU1Sc1dPVDlwWkNqX2xkNi03SmJONnM3XzJLbGJYX2RTbkw5amx6U0pBb1lqejh0UEQ3RFcwOWxuWDY4eFJJZUkwUFNxelIwSG4tMWlVbGxzLXF6clBqMFdUTTR5dTVEYXBsU3RIUkhpUnNQUQ?oc=5\" target=\"_blank\">OpenAI：Astra GPT 6 接管 GPT 投资组合| 快讯详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+   "fetched_at": "2026-10-14T09:10:25+00:00"
   }
  ]
 }

@@ -18172,6 +18172,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSm5ZSVAzVkxaN3lmd011NU83OHhMb3ZyemtNRU9RR0oyOUl0S1ZpSXpEQWNOVE5nY3RlQW1HWktwZUtUbkdVUUd2Y1JacVktdzNMTy1STEhpNE1JbEVtS1ZPTmhvTldWQ1BDVW1udFY0ME9nQWEtYUxvWjlJVG9KcHBiQ3RUMUtJNkI0?oc=5\" target=\"_blank\">Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ-CN</font>",
    "fetched_at": "2026-09-24T04:05:12+00:00"
+  },
+  {
+   "id": "web-1149-6af016d787",
+   "source_id": "news",
+   "source_name": "blockchain.news",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Polymarket：OpenAI AGI 几率升至19% GPT-6后 - blockchain.news",
+   "summary": "Polymarket：OpenAI AGI 几率升至19% GPT-6后 &nbsp;&nbsp; blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS21pS3dXRTdINDZOUnJzZkJUZU1rdGxLN2VJamRpSHRNMzlFTHlxTHRWUDRvdmZCdE82YkhGMG51SGlMM05jYTFnVkkzQ1p0Z3pXVVozWVE0NjNJaFh1QVlWS2VuQVZyQVNzUFdSaVFqYTRwUENvNFVQV3Ytd1BKalhzQ2t2Z2xERGZYOGVtSQ?oc=5",
+   "published_at": "2026-09-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOS21pS3dXRTdINDZOUnJzZkJUZU1rdGxLN2VJamRpSHRNMzlFTHlxTHRWUDRvdmZCdE82YkhGMG51SGlMM05jYTFnVkkzQ1p0Z3pXVVozWVE0NjNJaFh1QVlWS2VuQVZyQVNzUFdSaVFqYTRwUENvNFVQV3Ytd1BKalhzQ2t2Z2xERGZYOGVtSQ?oc=5\" target=\"_blank\">Polymarket：OpenAI AGI 几率升至19% GPT-6后</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+   "fetched_at": "2026-10-14T09:10:25+00:00"
   }
  ]
 }

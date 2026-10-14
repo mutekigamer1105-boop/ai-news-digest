@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsV0VIQ3NacWJDdVNMaHBuWU15TlRsOGZCNnZlVk5zVzdaVUlVdEFWREFYdWg3dzl0LTB0ZVBZV05VWjdZSm5PVjBDZThyVGZlYmJLUVVQM0lYQmlvT1pReXlYcXlPbmJm?oc=5\" target=\"_blank\">Accuracy and Readability of Large Language Models’ Responses to Frequently Asked Questions on Social Assistance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The University of Chicago Press: Journals</font>",
    "fetched_at": "2026-09-11T04:05:30+00:00"
+  },
+  {
+   "id": "web-1156-b1f7e0a3ef",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI、Meta和SpaceXAI竞相使企业AI大幅降价 - Cryptopolitan",
+   "summary": "OpenAI、Meta和SpaceXAI竞相使企业AI大幅降价 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV3lnZlRlMDMtZDhicE9IZzhsZEVLdEJ2LTdVcWVUYk92ZTVpM1BMNHdQWV93NHBXVXpWelF4T0ZKMm5LZkljdjV0d1Zzdkp2UFhpU0lmbW9nZ0hycjc2N0RUbUJORE1lX09xS0RieDFKTkR5M2NKblE2bTNKVHZxSmhXSy1jaGhN?oc=5",
+   "published_at": "2026-07-12T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV3lnZlRlMDMtZDhicE9IZzhsZEVLdEJ2LTdVcWVUYk92ZTVpM1BMNHdQWV93NHBXVXpWelF4T0ZKMm5LZkljdjV0d1Zzdkp2UFhpU0lmbW9nZ0hycjc2N0RUbUJORE1lX09xS0RieDFKTkR5M2NKblE2bTNKVHZxSmhXSy1jaGhN?oc=5\" target=\"_blank\">OpenAI、Meta和SpaceXAI竞相使企业AI大幅降价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-14T09:10:25+00:00"
   }
  ]
 }
