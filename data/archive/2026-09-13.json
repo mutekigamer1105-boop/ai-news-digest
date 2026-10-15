@@ -5162,6 +5162,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQOGVuNVZfcnY5RElzWTlhcEVhMjkwbENFSkVtZ0c4QjI0T0I3Zl9CZFBsMGJTOWxjOG1Ja19SMEw3QjRkOTQzQW9lNDJkeWpvSnB1QzUzNHRNYUE3Ui1tc0taWlh5LWNTVzF2VzFxZEc2c0hqdFVVWnZFWm9hNFdTd1FZVmdveG5ET3p4QjdIazVGX0V0RHBlOXNYVThXZw?oc=5\" target=\"_blank\">Anthropic、OpenAI 和谷歌正在权衡建立共同的 AI 标准机构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-1169-3ded794666",
+   "source_id": "news",
+   "source_name": "blockchain.news",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Binance：OpenAI永续合约因AI步伐呼吁下跌7.9% - blockchain.news",
+   "summary": "Binance：OpenAI永续合约因AI步伐呼吁下跌7.9% &nbsp;&nbsp; blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSlJfcV9sRmZsd2V6Rnh2dDRlRnNTR0Y4c056a2c4QWh5OEJvRmstcW5KdGhEYW1Td3d4RDVaT1dmVUtEUEM2NThlelNRVDVhQ0ZvVzhQNkU2VUtaMmFyTTNMaXIyRU82QXh4TEZ4WjFqRnJoTmN6VmZ4SEZEd2pYQUpMbll0M2hrN1E?oc=5",
+   "published_at": "2026-09-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQSlJfcV9sRmZsd2V6Rnh2dDRlRnNTR0Y4c056a2c4QWh5OEJvRmstcW5KdGhEYW1Td3d4RDVaT1dmVUtEUEM2NThlelNRVDVhQ0ZvVzhQNkU2VUtaMmFyTTNMaXIyRU82QXh4TEZ4WjFqRnJoTmN6VmZ4SEZEd2pYQUpMbll0M2hrN1E?oc=5\" target=\"_blank\">Binance：OpenAI永续合约因AI步伐呼吁下跌7.9%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+   "fetched_at": "2026-10-15T08:43:29+00:00"
   }
  ]
 }

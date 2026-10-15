@@ -418,6 +418,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBRV0hJa0hYUXQtVDNjUmVxTGxETHlnT2xiSmhmRV9RUjRWd3FFM3ZjN2xERnBLR0t6ZGxGR1FfMFVyeERhb3J3Vnl3dVBZZHdaSG1hTW1wOFZRci1TRGg0S0s2Z2R5NnNPZGQxOFZaQlU?oc=5\" target=\"_blank\">龙岗依托城管AI大模型探索非标场景智慧管理-政务动态</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">龙岗政府在线</font>",
    "fetched_at": "2026-10-13T11:18:48+00:00"
+  },
+  {
+   "id": "web-1160-8a41d5abc4",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 向 ChatGPT 消费者用户推出全双工 GPT-Live 语音功能 - Cryptopolitan",
+   "summary": "OpenAI 向 ChatGPT 消费者用户推出全双工 GPT-Live 语音功能 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlFiSmlHUml6TWt2RVB1RVFpOFRWT3M2THFvTEswZ2xsV3RmSVlYa3NkUzEzQVBHRXdWYkxfdXc0dXExN1hUQmI0by16SHBLMXZ6bWZ4eXhfMTM3em9jLVAwTEctRlVoOGIxMFVVQXRRb2xxaXQxNnJhS29ROEdqS3Q1b2hkZXF0cG5oMGhvNWFPU09BX1VDQjRXU1VnRHhXZWdDYTVWRFhjdw?oc=5",
+   "published_at": "2026-07-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlFiSmlHUml6TWt2RVB1RVFpOFRWT3M2THFvTEswZ2xsV3RmSVlYa3NkUzEzQVBHRXdWYkxfdXc0dXExN1hUQmI0by16SHBLMXZ6bWZ4eXhfMTM3em9jLVAwTEctRlVoOGIxMFVVQXRRb2xxaXQxNnJhS29ROEdqS3Q1b2hkZXF0cG5oMGhvNWFPU09BX1VDQjRXU1VnRHhXZWdDYTVWRFhjdw?oc=5\" target=\"_blank\">OpenAI 向 ChatGPT 消费者用户推出全双工 GPT-Live 语音功能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-15T08:43:29+00:00"
   }
  ]
 }

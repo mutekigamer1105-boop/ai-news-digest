@@ -11831,6 +11831,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNTk9JSldkLWY4MG1KMXZxb0dsenN6RXEwNXphVWpPUUs1czF0LVNYMWVFY0U4bm50OE5ZN2ozTWVucVljcXZEeVZpYndYVzVfR0lBVVVtMzZnbWY4cVFhbnkyanh6MS05R1ZKc19ZOXpUQVJheUV0WTR0TV9YZDJ3TEFKNENoeW9mUl9ZNDlKSk52cXVWblQyQ21EMUI?oc=5\" target=\"_blank\">OpenAI shelves new AI model release over safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Y100 WNCY</font>",
    "fetched_at": "2026-10-11T10:28:09+00:00"
+  },
+  {
+   "id": "web-783-5ceb97ecae",
+   "source_id": "news",
+   "source_name": "Yahoo",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI halts model release over safety concerns: \"Didn't quite meet the bar\" - Yahoo",
+   "summary": "OpenAI halts model release over safety concerns: \"Didn't quite meet the bar\" &nbsp;&nbsp; Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmFRQng1bEpNangyNTVMeVhET0J2dGdqakM1eWFFWDF1TXBFakxYVDQ4ampuTFJwRVV0WEhJT1pnWDdJMk1sTUpuenYzaE1xd01Pdk9Oa0k2dkdpUVI5Tzk2TE1TYzJJZkJZZ09VME9Xc1VjQ0tsZkY3SGI2bWVnSE1TckVTQ1MySDl3cGN5Vk1aNUs4U0E?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmFRQng1bEpNangyNTVMeVhET0J2dGdqakM1eWFFWDF1TXBFakxYVDQ4ampuTFJwRVV0WEhJT1pnWDdJMk1sTUpuenYzaE1xd01Pdk9Oa0k2dkdpUVI5Tzk2TE1TYzJJZkJZZ09VME9Xc1VjQ0tsZkY3SGI2bWVnSE1TckVTQ1MySDl3cGN5Vk1aNUs4U0E?oc=5\" target=\"_blank\">OpenAI halts model release over safety concerns: \"Didn't quite meet the bar\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+   "fetched_at": "2026-10-15T08:43:29+00:00"
   }
  ]
 }

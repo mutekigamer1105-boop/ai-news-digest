@@ -131,6 +131,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9NTndjUVdzQ3ZHSGtieTlyVFZlaTVzVHZNQ3E0TmlDdmhXQ0hpaVM0eEhEZWZXTFVKeEMySFJuYU5pMlVxTTlTd0ZLZEJLbmJKbHB3cUY2V1NhdnR6Z0I0TnZKejN3Z0tqeWhZUVluRnZaTGxneWNV?oc=5\" target=\"_blank\">宇信科技“星睿智调”入选“2026中国AI智能体领航者”榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ncsti.gov.cn</font>",
    "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-1165-313eb5d85b",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 瞄准由英伟达支持的 10-GW 俄亥俄州 AI 数据中心，推动历史性基础设施布局 - Cryptopolitan",
+   "summary": "OpenAI 瞄准由英伟达支持的 10-GW 俄亥俄州 AI 数据中心，推动历史性基础设施布局 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00dkFmZXdPd1dyS0VGUkpHRWowWmFnQ2lrOV83VDBlRmJHUXhINjlzejJ0cE9jMDFUbFJwTnMyWVV1NmtmTWw2TnBxdDRUUXpLUE5oZ2JoTXozSU4zTG5IY3JyVExCdThiSlNLVkFNWjVWVFY0SGpldmhIazM0VGM?oc=5",
+   "published_at": "2026-06-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE00dkFmZXdPd1dyS0VGUkpHRWowWmFnQ2lrOV83VDBlRmJHUXhINjlzejJ0cE9jMDFUbFJwTnMyWVV1NmtmTWw2TnBxdDRUUXpLUE5oZ2JoTXozSU4zTG5IY3JyVExCdThiSlNLVkFNWjVWVFY0SGpldmhIazM0VGM?oc=5\" target=\"_blank\">OpenAI 瞄准由英伟达支持的 10-GW 俄亥俄州 AI 数据中心，推动历史性基础设施布局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-15T08:43:29+00:00"
   }
  ]
 }

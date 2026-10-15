@@ -374,6 +374,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wZFEtaksweHFaMi1hVjEzRlByVlRxbzk2QUF4dmN4QjNXeFlWcHoxWnhpdnR1WW5ueXU0UVp2cDFPcV9NdDQ0enhNUVFEMUJqMG95MUM0c1NVZUpPSWJzcDhvX1FNZw?oc=5\" target=\"_blank\">前五全是中国产品！中国AI大模型调用量连续十四周领跑：DeepSeek-V4-Flash登顶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-1113-0248a0d60a",
+   "source_id": "news",
+   "source_name": "搜狐网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起 - 搜狐网",
+   "summary": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起 &nbsp;&nbsp; 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZHBtMExJXzJDSGFacC1mZTJfSko1MVNOM3Btek5ZUFdBWnJMN2pyMS1VZGRpbVV5Mm81ZjBzeW85aTY0ejN4UUx1MnVIaGNVWkhuSXVwZkRPZHd1WlJ2UnpreEpUR2ZPWEZya0hNMjNWeFVoVHBKYlNKdjJFaGxaU0dITklhc0JJ?oc=5",
+   "published_at": "2026-08-03T05:30:25+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZHBtMExJXzJDSGFacC1mZTJfSko1MVNOM3Btek5ZUFdBWnJMN2pyMS1VZGRpbVV5Mm81ZjBzeW85aTY0ejN4UUx1MnVIaGNVWkhuSXVwZkRPZHd1WlJ2UnpreEpUR2ZPWEZya0hNMjNWeFVoVHBKYlNKdjJFaGxaU0dITklhc0JJ?oc=5\" target=\"_blank\">澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+   "fetched_at": "2026-10-15T08:43:29+00:00"
   }
  ]
 }

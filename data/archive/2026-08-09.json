@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUhsdFk2X0hXZVBLOFBkUEZHR3FCLVEweG5WSHVaYnJFNnhlOGtVWUxOaVNGNDhXZzNJR1JtbnlJWnZseFF0NGt2bFBRTnJldGdOb19zVnhHQ3MzNzg4ODY5MVJvamFETV83bUhGc3JmenoxRmNzTnZOWXlhYU45VmVpamRveDIwT1Ytc2xLTV9YZUp0MFdN?oc=5\" target=\"_blank\">Anthropic is turning Claude Code’s auto mode on by default</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-296-8cea70fb14",
+   "source_id": "news",
+   "source_name": "alphaXiv",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Beyond Static Models: An Evolving Framework for Continual Learning in Large Language Models across Training Stages - alphaXiv",
+   "summary": "Beyond Static Models: An Evolving Framework for Continual Learning in Large Language Models across Training Stages &nbsp;&nbsp; alphaXiv",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53Qk9PQlhMcHA2eGVRS2Z1X2pfaEEyb2xxOFluVlRsYVp0OC1MM0Fld3hDaERZZ243b1hWN1NSTkp3dWcxYWY0dWdreXBFdFpP?oc=5",
+   "published_at": "2026-08-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE53Qk9PQlhMcHA2eGVRS2Z1X2pfaEEyb2xxOFluVlRsYVp0OC1MM0Fld3hDaERZZ243b1hWN1NSTkp3dWcxYWY0dWdreXBFdFpP?oc=5\" target=\"_blank\">Beyond Static Models: An Evolving Framework for Continual Learning in Large Language Models across Training Stages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alphaXiv</font>",
+   "fetched_at": "2026-10-15T08:43:29+00:00"
   }
  ]
 }

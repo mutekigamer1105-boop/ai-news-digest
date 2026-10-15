@@ -4207,6 +4207,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWtwVUZ2WTRoazkxYTdQVmhIM2ZfM2RRVDhJQXI5NkhDbmxxUGdHSjA2T21kcThhTzQyemp5QUVSYVd6ak5nNzFVRFFTNGZWR2gtX3lpSGZYbG8wQ1R5VTNpeXk5blNzU0NrTTJJRTJiNHRhNzJLQVB3bEVzTC1xSDByT0w3X0s3Vk9vTA?oc=5\" target=\"_blank\">Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
    "fetched_at": "2026-10-13T11:18:48+00:00"
+  },
+  {
+   "id": "web-407-1b214f126c",
+   "source_id": "news",
+   "source_name": "Syracuse.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI goes rogue again: Anthropic’s Claude submits false tip on unsolved homicide case - Syracuse.com",
+   "summary": "AI goes rogue again: Anthropic’s Claude submits false tip on unsolved homicide case &nbsp;&nbsp; Syracuse.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUExUNWRuU0FLUndxaURDdDNELXozNDBKeU1uYXoxNW9McXMxd0liRzZVZVFVMUhSQTlPQ3hNcDRDM05KeHdGY3d2UnlmZFlnQkNSUGFHX3B0WkRiNjFzNlhHRWNaV3FQaFN1Sy1rWG0zRVI3TktEaGlCQW9rcFlnSUtIS0FWWmdaVHFocmpGdWtWSE0yc0lPVXpZZ1FRakltaDg1UTAxdWpCUmx4M2VzcG1BMUp2bXZVSDdSUllUbF83bElSTEE?oc=5",
+   "published_at": "2026-10-11T20:56:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUExUNWRuU0FLUndxaURDdDNELXozNDBKeU1uYXoxNW9McXMxd0liRzZVZVFVMUhSQTlPQ3hNcDRDM05KeHdGY3d2UnlmZFlnQkNSUGFHX3B0WkRiNjFzNlhHRWNaV3FQaFN1Sy1rWG0zRVI3TktEaGlCQW9rcFlnSUtIS0FWWmdaVHFocmpGdWtWSE0yc0lPVXpZZ1FRakltaDg1UTAxdWpCUmx4M2VzcG1BMUp2bXZVSDdSUllUbF83bElSTEE?oc=5\" target=\"_blank\">AI goes rogue again: Anthropic’s Claude submits false tip on unsolved homicide case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
+   "fetched_at": "2026-10-15T08:43:29+00:00"
+  },
+  {
+   "id": "web-803-7417c02ffe",
+   "source_id": "news",
+   "source_name": "新浪新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "马化腾带28岁青年，与省委书记座谈|腾讯|广东省|人工智能|制造业|模型 - 新浪新闻",
+   "summary": "马化腾带28岁青年，与省委书记座谈|腾讯|广东省|人工智能|制造业|模型 &nbsp;&nbsp; 新浪新闻",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aYnVSQnB6SDZ6am5jZ3Znd0tzemNpTmF4c3RuSmhDQkV5NVMzQUtnYWptZzZKLWJYcGNWeVFUYnZMRTA1TmU0NERqel9PQmxRTkNxY1o2RlJHZV9WamdvMjF5dENwQTNLOTZCNUtRdmdPYXBPTHpKTA?oc=5",
+   "published_at": "2026-10-11T08:09:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9aYnVSQnB6SDZ6am5jZ3Znd0tzemNpTmF4c3RuSmhDQkV5NVMzQUtnYWptZzZKLWJYcGNWeVFUYnZMRTA1TmU0NERqel9PQmxRTkNxY1o2RlJHZV9WamdvMjF5dENwQTNLOTZCNUtRdmdPYXBPTHpKTA?oc=5\" target=\"_blank\">马化腾带28岁青年，与省委书记座谈|腾讯|广东省|人工智能|制造业|模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪新闻</font>",
+   "fetched_at": "2026-10-15T08:43:29+00:00"
   }
  ]
 }

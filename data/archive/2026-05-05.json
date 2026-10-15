@@ -64,6 +64,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE40SUZaeTh5RVJHd1lXdXBqaExTbE5MczNGUlpwc0pTXzAzOFg2Y0RDNFRGTUYxVFd2RmtQOXRmc3k1WlM2X3BhRndXS0lJSHRjNkFCRnhOakhZNG02Qk9fbUV2UWU5d9IBa0FVX3lxTE85LWQzYlNDa0haNG10eVFnN1MyNVAtZ1lSSVM4cGM2TDc2Q2Y4NEZGZmxUUXdDOWFaeGw1WGdQSHM3LVl3RWNYOF9oTkRKNTdkd0w0X3pzQnhHSTI4SzF6RkV1OWcwN0dCWTMw?oc=5\" target=\"_blank\">AI蒸馏：一项关键技术为何成为美中科技竞争的新战场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-1167-620f34fcf3",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI搁置分拆机器人和硬件部门的计划，为IPO做准备 - Cryptopolitan",
+   "summary": "OpenAI搁置分拆机器人和硬件部门的计划，为IPO做准备 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONXhEakdibHpuaVBYemRTZlBGd2R5amxjM2h2MDlHQTdDbFhDbDZKYTlRTHpWenkwQVhYRTlSU0l5ZFJPVFd4cEFITVVqNV9RXzltZWdpSEFDVVpLR3g1VEUtTjNUbG5YbHZZZlRXSlZkUHVaVTlqblRoaER6czRiU1FvYm9KQQ?oc=5",
+   "published_at": "2026-05-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONXhEakdibHpuaVBYemRTZlBGd2R5amxjM2h2MDlHQTdDbFhDbDZKYTlRTHpWenkwQVhYRTlSU0l5ZFJPVFd4cEFITVVqNV9RXzltZWdpSEFDVVpLR3g1VEUtTjNUbG5YbHZZZlRXSlZkUHVaVTlqblRoaER6czRiU1FvYm9KQQ?oc=5\" target=\"_blank\">OpenAI搁置分拆机器人和硬件部门的计划，为IPO做准备</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-15T08:43:29+00:00"
   }
  ]
 }
