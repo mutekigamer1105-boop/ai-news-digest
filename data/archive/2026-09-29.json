@@ -14310,6 +14310,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5\" target=\"_blank\">Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-10-11T10:28:09+00:00"
+  },
+  {
+   "id": "web-901-e418a2e83d",
+   "source_id": "news",
+   "source_name": "求是",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "如何看待人工智能对数学的影响？ - 求是",
+   "summary": "如何看待人工智能对数学的影响？ &nbsp;&nbsp; 求是",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qa0tIYjlqRlBZWVhsQjlSMWJoZHo0YVB2NklYOGdiczJXZzJxb2NzM0VuMTE1WXVodWdsRGRxcU5Mc012T0Ntd0ZVanU3d1cxZG15QTdCc1ROREJhYlNLSm9FZ3JlcXdRSkVSZjFOQ2tWZTdmM0VUTDR6YXM?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5qa0tIYjlqRlBZWVhsQjlSMWJoZHo0YVB2NklYOGdiczJXZzJxb2NzM0VuMTE1WXVodWdsRGRxcU5Mc012T0Ntd0ZVanU3d1cxZG15QTdCc1ROREJhYlNLSm9FZ3JlcXdRSkVSZjFOQ2tWZTdmM0VUTDR6YXM?oc=5\" target=\"_blank\">如何看待人工智能对数学的影响？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">求是</font>",
+   "fetched_at": "2026-10-16T08:38:37+00:00"
+  },
+  {
+   "id": "web-1090-c794964e25",
+   "source_id": "news",
+   "source_name": "中国日报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "筑牢合规底线 共建产业未来 ——AI智能体安全合规与治理专项研究阶段性成果研讨会举行 - 中国日报网",
+   "summary": "筑牢合规底线 共建产业未来 ——AI智能体安全合规与治理专项研究阶段性成果研讨会举行 &nbsp;&nbsp; 中国日报网",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53b1JZYVNHN1l1cVFsMDk5WHd6S2owS0s2VExMQkFSZnFlNDFicTY3cW1pVUtIRE04SzNKdGxmRTZGTnJQLXZEVE9JdC1IbWdYV0VyZE5iWlcySkdOTTlwTWl2VXYwNkRSRW41U1I0MzVTYUoyQjlBUmVyYV8?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE53b1JZYVNHN1l1cVFsMDk5WHd6S2owS0s2VExMQkFSZnFlNDFicTY3cW1pVUtIRE04SzNKdGxmRTZGTnJQLXZEVE9JdC1IbWdYV0VyZE5iWlcySkdOTTlwTWl2VXYwNkRSRW41U1I0MzVTYUoyQjlBUmVyYV8?oc=5\" target=\"_blank\">筑牢合规底线 共建产业未来 ——AI智能体安全合规与治理专项研究阶段性成果研讨会举行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国日报网</font>",
+   "fetched_at": "2026-10-16T08:38:37+00:00"
   }
  ]
 }

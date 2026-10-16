@@ -12620,6 +12620,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOWGVJb0NDYlJzSnRZbHcwLUxDQmtUbmIyV0VOM0hEQnhYZnE1VmxvN3NLSTExQjdFMVpCX2N4RTVYQV9IdGV6c09OemYxWC1ick90OWlmTV9OUjVjdEFLd0d0X1Y2Y211Y2xFWTQ2WlRnaUlSdEpxeGZ3MG1XT2ZzVU4yQUw5dw?oc=5\" target=\"_blank\">Everything new coming to Meta’s AI agent Muse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-10-13T11:18:48+00:00"
+  },
+  {
+   "id": "web-1103-29fdb49ef5",
+   "source_id": "news",
+   "source_name": "财联社电报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "千问发布AI手机Qwen Intelligence 智能体应用生态有望加速扩张 - 财联社电报",
+   "summary": "千问发布AI手机Qwen Intelligence 智能体应用生态有望加速扩张 &nbsp;&nbsp; 财联社电报",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBmVHY0X0kwT1l1ZW5jVlJTZTk5V1B5NmVmbjMzQzAteFdJUXI1ZXpYZW5fZGpvVlA1Z3VSb1c1SGdzT0x4cUE?oc=5",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBmVHY0X0kwT1l1ZW5jVlJTZTk5V1B5NmVmbjMzQzAteFdJUXI1ZXpYZW5fZGpvVlA1Z3VSb1c1SGdzT0x4cUE?oc=5\" target=\"_blank\">千问发布AI手机Qwen Intelligence 智能体应用生态有望加速扩张</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社电报</font>",
+   "fetched_at": "2026-10-16T08:38:37+00:00"
   }
  ]
 }

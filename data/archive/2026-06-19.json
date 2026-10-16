@@ -109,6 +109,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTWJ0WWFzVWN6MFNoczdyR1FjRnd0TzRyQlJyRi14S3YtczRaNVhPVkV0ckxDaGJjOE9RM3VKWEtPM0ZtemZVYnpGeHhTSDU1di1KWEdOVzRFcHViczhz?oc=5\" target=\"_blank\">Memorization in large language models in medicine prevalence characteristics and implications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-1174-b4e08fba20",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Z.ai 的 GLM-5.2 缩小了与 OpenAI 和 Anthropic 的差距 - Cryptopolitan",
+   "summary": "Z.ai 的 GLM-5.2 缩小了与 OpenAI 和 Anthropic 的差距 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTVVlTlJWSTdsUlRnWEdrRHQwVzVBMFFoREF0SWRoS1c4enVUTExhbjA0UjZyeHh0aC0tR1paN2NBLWp0NkZWVno1dHJpMm1EWXhfV3Z5anlYRGUxdzRraWdURVBPS1ppSWVZcnhZS3gxSm5nQXh4X1VIUUJTVGFVdDhpNzkxQQ?oc=5",
+   "published_at": "2026-06-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOTVVlTlJWSTdsUlRnWEdrRHQwVzVBMFFoREF0SWRoS1c4enVUTExhbjA0UjZyeHh0aC0tR1paN2NBLWp0NkZWVno1dHJpMm1EWXhfV3Z5anlYRGUxdzRraWdURVBPS1ppSWVZcnhZS3gxSm5nQXh4X1VIUUJTVGFVdDhpNzkxQQ?oc=5\" target=\"_blank\">Z.ai 的 GLM-5.2 缩小了与 OpenAI 和 Anthropic 的差距</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-16T08:38:37+00:00"
   }
  ]
 }

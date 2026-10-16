@@ -173,6 +173,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WQW9vazlLZFdMaFJhbVlBLWsydFkzWFZnQ1NFb292Uk5MN2owV3A0eENxc2RmbV9jVk1lRHR3WnhlbEJaalJIaXBpeVF0Z0Y4ZXozVkx6NA?oc=5\" target=\"_blank\">中国AI大模型调用量连续九周领跑，美国份额一年内从72%跌至33%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
    "fetched_at": "2026-09-19T04:05:23+00:00"
+  },
+  {
+   "id": "web-1170-b41235eaa4",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "惠普押注OpenAI以变革企业运营 - Cryptopolitan",
+   "summary": "惠普押注OpenAI以变革企业运营 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeEtNNG5Gcm1VVl84aWU0V3NqdUNjYlk4MTNjc0NDV2pmTWg0WEkzbEFTQ1JwV0RjSzVUa0N5Mjc2YnliQkhYQUJwbzdhSG5HUFFPOExXYUo4Z044LUM4OWRuTngwb1JOMzlNd0JsSkFCMUZCYmR4Q29UTmpQNXcxUVBkRFRCdw?oc=5",
+   "published_at": "2026-06-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQeEtNNG5Gcm1VVl84aWU0V3NqdUNjYlk4MTNjc0NDV2pmTWg0WEkzbEFTQ1JwV0RjSzVUa0N5Mjc2YnliQkhYQUJwbzdhSG5HUFFPOExXYUo4Z044LUM4OWRuTngwb1JOMzlNd0JsSkFCMUZCYmR4Q29UTmpQNXcxUVBkRFRCdw?oc=5\" target=\"_blank\">惠普押注OpenAI以变革企业运营</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-16T08:38:37+00:00"
   }
  ]
 }

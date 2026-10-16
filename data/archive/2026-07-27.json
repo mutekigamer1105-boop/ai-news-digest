@@ -330,6 +330,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUJyVHF3dkxUTEdRalQxdDBjTDZWbXdvb0lmQzREX3dvQ25iem05MTdoZ05lUjNFSjlqbk05Y25MeGxrZlY4X3lLVUNZTTNPWGFnTmlJdG1zaWhtMGt4UzczTTNKd2k0QVVxSGt4TnY4ODZpVjc0WXhlSjE4N1NiMll3?oc=5\" target=\"_blank\">中国开源人工智能模型快速进步加剧硅谷分歧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
    "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-1168-770e2b183d",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Nvidia利用OpenAI的Ilya Sutskever来削弱Google对精英AI研究的控制 - Cryptopolitan",
+   "summary": "Nvidia利用OpenAI的Ilya Sutskever来削弱Google对精英AI研究的控制 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11SWVWQUVOejF4NFljUjJxbmxMOVVoeEJwQ1QxWEhiX2lCV1g3cFBrN0toQ0RBNUktRHFHM1dHOXBsNWNLcUJuYy1FMEE4VlBQZ1htck9ScHgxMEwySkJMZS13U045X2N0a3B5UHBpVVdmLXNj?oc=5",
+   "published_at": "2026-07-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE11SWVWQUVOejF4NFljUjJxbmxMOVVoeEJwQ1QxWEhiX2lCV1g3cFBrN0toQ0RBNUktRHFHM1dHOXBsNWNLcUJuYy1FMEE4VlBQZ1htck9ScHgxMEwySkJMZS13U045X2N0a3B5UHBpVVdmLXNj?oc=5\" target=\"_blank\">Nvidia利用OpenAI的Ilya Sutskever来削弱Google对精英AI研究的控制</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-16T08:38:37+00:00"
   }
  ]
 }

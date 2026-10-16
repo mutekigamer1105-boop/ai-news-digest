@@ -86,6 +86,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQLThkRUJqLTZRNjFlNjRvZjg3Q3RCVzFtbHJSekxlbzhQdTVkakFCNWtPT2V5UWVaQjlHMWlETUV2QUE0Z3ZOVHhUZ21ERlQ5bU9NRWtTZ2RXaXpvRGlKNGJzTVd5M0ZWNktLR0JBSk12NE9oVmNxY2g3WklWeF9ETFJHNlZlODNYcXlYZU9WSG9oTDYtQjRuMEY4Z1FEUQ?oc=5\" target=\"_blank\">Exclusive: Fazeshift Scores $17M As Investors Bet On AI-Powered Finance Ops, Starting With Accounts Receivable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
    "fetched_at": "2026-09-20T04:05:20+00:00"
+  },
+  {
+   "id": "web-1175-2d5e76bbd2",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "一波自杀诉讼后，OpenAI 推出 ChatGPT 警报系统 - Cryptopolitan",
+   "summary": "一波自杀诉讼后，OpenAI 推出 ChatGPT 警报系统 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazdYakk0aWppYWNmN3JLZVhxX3BTdzZhNTNnS2Nac1dSVW9DZlJRLUVOd09ydFNTMjBPdl9jb1JTU3Q2ZFJOYldVd2hxSUlsRHFkVEtfekRtRF9MX0pwa3pVamZGVzdhT2diWXhJdEY1b0dIYU9aSm93OGJ6Q2VJQVg5SHlXSDg3?oc=5",
+   "published_at": "2026-05-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazdYakk0aWppYWNmN3JLZVhxX3BTdzZhNTNnS2Nac1dSVW9DZlJRLUVOd09ydFNTMjBPdl9jb1JTU3Q2ZFJOYldVd2hxSUlsRHFkVEtfekRtRF9MX0pwa3pVamZGVzdhT2diWXhJdEY1b0dIYU9aSm93OGJ6Q2VJQVg5SHlXSDg3?oc=5\" target=\"_blank\">一波自杀诉讼后，OpenAI 推出 ChatGPT 警报系统</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-16T08:38:37+00:00"
   }
  ]
 }

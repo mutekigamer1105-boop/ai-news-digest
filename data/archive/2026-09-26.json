@@ -5969,6 +5969,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1WcENURW1zdk53NzZqTjBkWEs1MHo0cHZ5aVRwVFJTaXJyQXZjbkF2WDdmaXZ1LUNCWlVDSl9MVGdWUnVhZWVlNzA4ZlROTmhnU1haNExYeGQ0ZzNLaUNyLV9aLTBGVkpBTnFYU19R0gFzQVVfeXFMTV9jbnMyWVNVNUlUMXNvNmdid2lNZlIzNVZlT05USXJ0NzJHNXY5UDhRd0FjbEJnUGNhdkJqV3hPNHhaUUdYTlNZRjg1d0pLOE1qT2NzaXh1ODJlT3gtcHcyR01zd0JHTDJoZGJtOXJlNDZhbw?oc=5\" target=\"_blank\">Chinese AI models surge in global popularity — and Washington is worried</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-10-13T11:18:48+00:00"
+  },
+  {
+   "id": "web-1115-fcf5636920",
+   "source_id": "news",
+   "source_name": "PANews",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Tibo：OpenAI 已为所有付费用户重置 Codex 与 ChatGPT 使用额度 - PANews",
+   "summary": "Tibo：OpenAI 已为所有付费用户重置 Codex 与 ChatGPT 使用额度 &nbsp;&nbsp; PANews",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8taXJ1YjE2MlBRVUI2UXNaMEZKN19uMDQta0FmaE9ZT0JaZzVVZTM5SVVuSnExVHBJSUJsYi1Sc0lXdjc3X2VHblIxM0JDTTRZb0kzOS1EYjFGb3dVWHpTUFJiaTRCUVNmVGZfbFZjYnNOVFFKMmo4M3BpZVF0Y2s?oc=5",
+   "published_at": "2026-09-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8taXJ1YjE2MlBRVUI2UXNaMEZKN19uMDQta0FmaE9ZT0JaZzVVZTM5SVVuSnExVHBJSUJsYi1Sc0lXdjc3X2VHblIxM0JDTTRZb0kzOS1EYjFGb3dVWHpTUFJiaTRCUVNmVGZfbFZjYnNOVFFKMmo4M3BpZVF0Y2s?oc=5\" target=\"_blank\">Tibo：OpenAI 已为所有付费用户重置 Codex 与 ChatGPT 使用额度</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
+   "fetched_at": "2026-10-16T08:38:37+00:00"
   }
  ]
 }

@@ -11853,6 +11853,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmFRQng1bEpNangyNTVMeVhET0J2dGdqakM1eWFFWDF1TXBFakxYVDQ4ampuTFJwRVV0WEhJT1pnWDdJMk1sTUpuenYzaE1xd01Pdk9Oa0k2dkdpUVI5Tzk2TE1TYzJJZkJZZ09VME9Xc1VjQ0tsZkY3SGI2bWVnSE1TckVTQ1MySDl3cGN5Vk1aNUs4U0E?oc=5\" target=\"_blank\">OpenAI halts model release over safety concerns: \"Didn't quite meet the bar\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
    "fetched_at": "2026-10-15T08:43:29+00:00"
+  },
+  {
+   "id": "web-997-e4e7f1cf08",
+   "source_id": "news",
+   "source_name": "川观新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "马斯克夸赞中国的AI大模型：在单位算力有限的情况下，产出的性能几乎是全球顶尖水平。#媒体原创 - 川观新闻",
+   "summary": "马斯克夸赞中国的AI大模型：在单位算力有限的情况下，产出的性能几乎是全球顶尖水平。#媒体原创 &nbsp;&nbsp; 川观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QMlE2OXFfV0twTGVNUVpHQzZHRVJOUTBUdHRLZHJ2eDYtRXF3bTV1Z0Y1YWRjTkhhWXp5N1pHMVpNcWFvXzd4UGZzbXR5dw?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QMlE2OXFfV0twTGVNUVpHQzZHRVJOUTBUdHRLZHJ2eDYtRXF3bTV1Z0Y1YWRjTkhhWXp5N1pHMVpNcWFvXzd4UGZzbXR5dw?oc=5\" target=\"_blank\">马斯克夸赞中国的AI大模型：在单位算力有限的情况下，产出的性能几乎是全球顶尖水平。#媒体原创</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">川观新闻</font>",
+   "fetched_at": "2026-10-16T08:38:37+00:00"
   }
  ]
 }
