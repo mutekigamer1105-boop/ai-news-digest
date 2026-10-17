@@ -11242,6 +11242,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE05TEVyamJNSUt0SHhaNkdiSERtQUUyS0NXdzFnS0dLZmtCZm5sdm5sTEtFQ1p1dGs2d2FEX0FPa21HSnhTQ2ZRMmZxNWFWMWRaX19pM3JvZHg3eUkx?oc=5\" target=\"_blank\">2026清华人工智能青年大会在京举行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">清华大学</font>",
    "fetched_at": "2026-10-16T08:38:37+00:00"
+  },
+  {
+   "id": "web-647-f7ca5d5672",
+   "source_id": "news",
+   "source_name": "AlleyWatch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The Weekly Notable Startup Funding Report: 9/21/26 - AlleyWatch",
+   "summary": "The Weekly Notable Startup Funding Report: 9/21/26 &nbsp;&nbsp; AlleyWatch",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlFJelRGMmMwdkpmMVRHRzBfaGptZGRTQ1ZfaWhScU9vSTJ0M1dnZTdJZ08zWFpQQ0J5bHFwVXVrejJDYVJEcFdfNE9GcTJ1a2FTRXpJdW9IeDExS2dSVUt2UmdaSFRKN2xDRUtSYnlMQ2szaUgwNUZsX2VIQlE4WmxxSm5FMnBsd21XMzJR?oc=5",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlFJelRGMmMwdkpmMVRHRzBfaGptZGRTQ1ZfaWhScU9vSTJ0M1dnZTdJZ08zWFpQQ0J5bHFwVXVrejJDYVJEcFdfNE9GcTJ1a2FTRXpJdW9IeDExS2dSVUt2UmdaSFRKN2xDRUtSYnlMQ2szaUgwNUZsX2VIQlE4WmxxSm5FMnBsd21XMzJR?oc=5\" target=\"_blank\">The Weekly Notable Startup Funding Report: 9/21/26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AlleyWatch</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
   }
  ]
 }

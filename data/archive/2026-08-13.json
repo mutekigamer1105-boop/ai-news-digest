@@ -324,6 +324,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0RoMnk1XzB5RzZpMk9iQzhlNE1SR2E2Uk5ScGEtTEN3UjZIUHJvY0RZbFRZbGRadU1xd1VEa3JfQ0cwV0Q2SVM4VTBUa3lyZUFKY1FfN1pnMWgtUmItWVY4d1d0bHNvbHBpOUlaX1E4NDZKM2w5NnVEbElmOVhNZmt4aHRoRDVvMUVF?oc=5\" target=\"_blank\">The 19 Largest Global Startup Funding Rounds of July 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AlleyWatch</font>",
    "fetched_at": "2026-10-02T04:06:25+00:00"
+  },
+  {
+   "id": "web-1167-3442691beb",
+   "source_id": "news",
+   "source_name": "ababnews.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI推出Cerebras支持的Ultrafast模式，该模式比标准处理快最高14倍 - ababnews.com",
+   "summary": "OpenAI推出Cerebras支持的Ultrafast模式，该模式比标准处理快最高14倍 &nbsp;&nbsp; ababnews.com",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtZURVbzVITURZdktZYk4xMzZHV3pGY2YzSWNIaUFUamZla2Zkd3lGM1FWZ0VMWlVGLURFbXYtU0JURGMxQzdhTDBCenVocjRjdkRlc29XcktRS2wybUFyTnJ5LWZjRUczVWdZU1IwYWlIUkdr?oc=5",
+   "published_at": "2026-08-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBtZURVbzVITURZdktZYk4xMzZHV3pGY2YzSWNIaUFUamZla2Zkd3lGM1FWZ0VMWlVGLURFbXYtU0JURGMxQzdhTDBCenVocjRjdkRlc29XcktRS2wybUFyTnJ5LWZjRUczVWdZU1IwYWlIUkdr?oc=5\" target=\"_blank\">OpenAI推出Cerebras支持的Ultrafast模式，该模式比标准处理快最高14倍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ababnews.com</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
   }
  ]
 }

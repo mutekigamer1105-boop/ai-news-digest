@@ -5991,6 +5991,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8taXJ1YjE2MlBRVUI2UXNaMEZKN19uMDQta0FmaE9ZT0JaZzVVZTM5SVVuSnExVHBJSUJsYi1Sc0lXdjc3X2VHblIxM0JDTTRZb0kzOS1EYjFGb3dVWHpTUFJiaTRCUVNmVGZfbFZjYnNOVFFKMmo4M3BpZVF0Y2s?oc=5\" target=\"_blank\">Tibo：OpenAI 已为所有付费用户重置 Codex 与 ChatGPT 使用额度</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
    "fetched_at": "2026-10-16T08:38:37+00:00"
+  },
+  {
+   "id": "web-1160-1624f19945",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI和Anthropic发现规模远超其披露范围的AI安全事件 - Cryptopolitan",
+   "summary": "OpenAI和Anthropic发现规模远超其披露范围的AI安全事件 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2VTaGhHaXFQU3FEeGt6VEhuM05xMXhwNHhDMG9OeU9yMlpfQllDM0g1RE9XN3FpbXIyR1NhUHBMREE0VWNFWVJjM3Y0VE1ibzEwZFVzVHE3N2cyQmdwV0RkYktWcXB6eFNTZ1ZlcE1FWHdpclZsYW5lZFF3OHRlMVdrZXhVdw?oc=5",
+   "published_at": "2026-09-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2VTaGhHaXFQU3FEeGt6VEhuM05xMXhwNHhDMG9OeU9yMlpfQllDM0g1RE9XN3FpbXIyR1NhUHBMREE0VWNFWVJjM3Y0VE1ibzEwZFVzVHE3N2cyQmdwV0RkYktWcXB6eFNTZ1ZlcE1FWHdpclZsYW5lZFF3OHRlMVdrZXhVdw?oc=5\" target=\"_blank\">OpenAI和Anthropic发现规模远超其披露范围的AI安全事件</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
   }
  ]
 }

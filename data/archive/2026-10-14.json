@@ -11642,6 +11642,184 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzJrdHRERUtGTlktMXdhSXZNUEoxU1pEZEctTGRRV2RFcUxqVUFDQVpfczRjejRpMXNBWDc3Y1BxQVVBUmJUUTFBTGxwRHNwQTUtWHNxbFY5NzBhd3N5RkNYQ1lQZ2pYcl9HOWlDS1lDYXBMbWd1RE5xY0VldzBPalUzTE1nbFZvT005Wg?oc=5\" target=\"_blank\">Beyond the Prompt: Dangerous Activity Detection for AI Agent Trajectories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Snowflake</font>",
    "fetched_at": "2026-10-16T08:38:37+00:00"
+  },
+  {
+   "id": "web-1012-694188c620",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "Amp 借助 OpenAI 模型，让 AI 智能体承担编程之外的工作 - OpenAI",
+   "summary": "Amp 借助 OpenAI 模型，让 AI 智能体承担编程之外的工作 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Xem9CcUhCYU1KcGNfaEkwY1Ezcl90b05ReXVqSGN1Rld0VW1teVlnYnRPY0pmQ2lkM3ZJcElVWWExdnctY3NjZnUtYW41NGd1b2VBWVNIeEJFeWZ0MDVodlRGTzY?oc=5",
+   "published_at": "2026-10-14T20:04:14+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Xem9CcUhCYU1KcGNfaEkwY1Ezcl90b05ReXVqSGN1Rld0VW1teVlnYnRPY0pmQ2lkM3ZJcElVWWExdnctY3NjZnUtYW41NGd1b2VBWVNIeEJFeWZ0MDVodlRGTzY?oc=5\" target=\"_blank\">Amp 借助 OpenAI 模型，让 AI 智能体承担编程之外的工作</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-737-332266f7b4",
+   "source_id": "news",
+   "source_name": "TechRepublic",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Liquid AI Releases LFM2.5-24B-A2B for Local AI Workflows - TechRepublic",
+   "summary": "Liquid AI Releases LFM2.5-24B-A2B for Local AI Workflows &nbsp;&nbsp; TechRepublic",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSTZWMVhOSVlQWHF1WnplQ0tjRmR0eTJqSF84b3lEcXU5ZEl5WGpRbkhhUW9nZmpmUkRqbjI4OHJxT2hobGlaMjVCWXktVkplZFJvWW01NUJZZ3NXOG5RYVNWVFl5RDhxSFlpYzFfSDc5QlBkMkh4Vm14WTV6VV90Yw?oc=5",
+   "published_at": "2026-10-14T17:58:45+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOSTZWMVhOSVlQWHF1WnplQ0tjRmR0eTJqSF84b3lEcXU5ZEl5WGpRbkhhUW9nZmpmUkRqbjI4OHJxT2hobGlaMjVCWXktVkplZFJvWW01NUJZZ3NXOG5RYVNWVFl5RDhxSFlpYzFfSDc5QlBkMkh4Vm14WTV6VV90Yw?oc=5\" target=\"_blank\">Liquid AI Releases LFM2.5-24B-A2B for Local AI Workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRepublic</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-124-c97cd2d054",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Amp puts AI agents to work beyond code with OpenAI models - OpenAI",
+   "summary": "Amp puts AI agents to work beyond code with OpenAI models &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5",
+   "published_at": "2026-10-14T17:09:39+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5\" target=\"_blank\">Amp puts AI agents to work beyond code with OpenAI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-775-6e77270f9a",
+   "source_id": "news",
+   "source_name": "https://tech-insider.org/",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "UK AI Test Breach: Agent Acted Alone in 10 Runs [2026] - https://tech-insider.org/",
+   "summary": "UK AI Test Breach: Agent Acted Alone in 10 Runs [2026] &nbsp;&nbsp; https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SYjRJY2hHelIyZGE1WUFPaC1WLUN5VUVzV1RHX0JwczVSUWh2ZVhoWEprbzV3aWY1dTRVZXk4OHdNUnZYX2dnQVM5MXowXzRKZ1RLV0VhN1lpQjFLOHc3cVFaZ3FRVWJYSTY1RDQxczM0MFFiQkE?oc=5",
+   "published_at": "2026-10-14T14:47:03+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1SYjRJY2hHelIyZGE1WUFPaC1WLUN5VUVzV1RHX0JwczVSUWh2ZVhoWEprbzV3aWY1dTRVZXk4OHdNUnZYX2dnQVM5MXowXzRKZ1RLV0VhN1lpQjFLOHc3cVFaZ3FRVWJYSTY1RDQxczM0MFFiQkE?oc=5\" target=\"_blank\">UK AI Test Breach: Agent Acted Alone in 10 Runs [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://tech-insider.org/</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-740-01691910d6",
+   "source_id": "news",
+   "source_name": "https://tech-insider.org/",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "UK AISI Tests 55+ AI Models, Warns of Breach Risk [2026] - https://tech-insider.org/",
+   "summary": "UK AISI Tests 55+ AI Models, Warns of Breach Risk [2026] &nbsp;&nbsp; https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LX1ZTMDF0Z3RmNzJIZGhybDlFdk9iREYtSktEVVNIMngwUWpJV19Hb1NBYnVNUGNVQ1ozd3FLU3AtMHdtSVpPemRnTUgtUEtmTW5HekVOYXR4YUtOYzdzMU5SVTBCMUV5R0J0dg?oc=5",
+   "published_at": "2026-10-14T14:34:59+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1LX1ZTMDF0Z3RmNzJIZGhybDlFdk9iREYtSktEVVNIMngwUWpJV19Hb1NBYnVNUGNVQ1ozd3FLU3AtMHdtSVpPemRnTUgtUEtmTW5HekVOYXR4YUtOYzdzMU5SVTBCMUV5R0J0dg?oc=5\" target=\"_blank\">UK AISI Tests 55+ AI Models, Warns of Breach Risk [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://tech-insider.org/</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-598-5a073c7aca",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Can Navitas Semiconductor (NVTS) Turn NVIDIA-Aligned 800V AI Power Designs Into Durable Competitive Advantage? - Yahoo Finance",
+   "summary": "Can Navitas Semiconductor (NVTS) Turn NVIDIA-Aligned 800V AI Power Designs Into Durable Competitive Advantage? &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakF6U3pYdkZ4Q0tNUTkwdFgzd3R2NHY1ZU5kZmZPajl4MVZOQ0V6S242MV9tTXoyT0p5eDM4NndSZkxuRmVjSGM2MTJna1BKUHBYbzBKTEpXaDU2dm11YXY4NU9DLVU3clpQMzg2ZU8xZWd2UDBReng2NXA1NFR3S1cwdU1BNWFTNm1UWFRNN3BUczJNOUZIM2drRVI0ajF4Vzhsdw?oc=5",
+   "published_at": "2026-10-14T14:20:34+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQakF6U3pYdkZ4Q0tNUTkwdFgzd3R2NHY1ZU5kZmZPajl4MVZOQ0V6S242MV9tTXoyT0p5eDM4NndSZkxuRmVjSGM2MTJna1BKUHBYbzBKTEpXaDU2dm11YXY4NU9DLVU3clpQMzg2ZU8xZWd2UDBReng2NXA1NFR3S1cwdU1BNWFTNm1UWFRNN3BUczJNOUZIM2drRVI0ajF4Vzhsdw?oc=5\" target=\"_blank\">Can Navitas Semiconductor (NVTS) Turn NVIDIA-Aligned 800V AI Power Designs Into Durable Competitive Advantage?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-727-8c90a6bdae",
+   "source_id": "news",
+   "source_name": "Quartz",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic executive warns open-source AI models carry more safety risk - Quartz",
+   "summary": "Anthropic executive warns open-source AI models carry more safety risk &nbsp;&nbsp; Quartz",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xSFdhR3FvZzNJZGMtYjE1by1nSk5YemNuUHh4R1FDUDJlQmNiaDhmbm1MUGRuQ3V2QkdQa1R2R1V4Q0FsbHNMXzY5b1JYWTVYcUhaaHFfZGtiRFJrRUcyZ0dMbUFNNGNPN3c?oc=5",
+   "published_at": "2026-10-14T11:47:49+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9xSFdhR3FvZzNJZGMtYjE1by1nSk5YemNuUHh4R1FDUDJlQmNiaDhmbm1MUGRuQ3V2QkdQa1R2R1V4Q0FsbHNMXzY5b1JYWTVYcUhaaHFfZGtiRFJrRUcyZ0dMbUFNNGNPN3c?oc=5\" target=\"_blank\">Anthropic executive warns open-source AI models carry more safety risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quartz</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-743-69a2b42b66",
+   "source_id": "news",
+   "source_name": "https://tech-insider.org/",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meta Stock Rises 3.4% as Muse Wonder AI Models Debut [2026] - https://tech-insider.org/",
+   "summary": "Meta Stock Rises 3.4% as Muse Wonder AI Models Debut [2026] &nbsp;&nbsp; https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tV1dpM2pyS2JOUnJ6UmRPYmtYOTRtd1hTblNBRi16eHl4d3lrNG9zS3V3YjN4MUtuUlhsMjJrTVlkOHpfM0xtYW1qbFNOc2VveUpsNVRsdmgzalFVa3pzemttS1otZnd2TFlYR0g1LThUX2xfNXdCXw?oc=5",
+   "published_at": "2026-10-14T04:59:20+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9tV1dpM2pyS2JOUnJ6UmRPYmtYOTRtd1hTblNBRi16eHl4d3lrNG9zS3V3YjN4MUtuUlhsMjJrTVlkOHpfM0xtYW1qbFNOc2VveUpsNVRsdmgzalFVa3pzemttS1otZnd2TFlYR0g1LThUX2xfNXdCXw?oc=5\" target=\"_blank\">Meta Stock Rises 3.4% as Muse Wonder AI Models Debut [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://tech-insider.org/</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
   }
  ]
 }

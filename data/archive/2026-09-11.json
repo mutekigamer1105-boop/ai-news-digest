@@ -11533,6 +11533,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0VMTWpGZlFmVlIyblo0Wnpzb0k3OVpaU1FmR0RGYXdGMVNZNi04eUVyeWdQZEdjOWFsZmZRd1B2Wl8zWDlwdXNKZFg0NFRnRnRkTmt6bTAtbnZ5RW9IQXVWamhQdnRUblFBT2wwWDRHeG1QNUdNbnVmYkJnVXRaOUsySUJyRkV5UXB0V2xsV1ByUDZwU1FR?oc=5\" target=\"_blank\">Update: Market Chatter: AMD-Backed AI Startup Upstage Weighs Pre-Listing Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
    "fetched_at": "2026-10-10T10:19:17+00:00"
+  },
+  {
+   "id": "web-1165-ccebfc04cf",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI的Sam Altman呼吁减缓AI竞赛，因为国家行为者劫持Anthropic用于生物武器 - Cryptopolitan",
+   "summary": "OpenAI的Sam Altman呼吁减缓AI竞赛，因为国家行为者劫持Anthropic用于生物武器 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1ZXUWp2TEkzZHY4V3JzYU9OUlppU21sUldWa2hMeVZfaDg2LWN1ZmFvNm8xZGYtbjFNUjQzUTFwRzhreGczWmxsWUFQazhiTUU0ZXVEWHF4ZVZ1WUREN0FzNVIxTGEwNEQ4NFpLb2RvZVYtOTZOUVdrdkZLY3FteTgwR2tuWEJO?oc=5",
+   "published_at": "2026-09-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1ZXUWp2TEkzZHY4V3JzYU9OUlppU21sUldWa2hMeVZfaDg2LWN1ZmFvNm8xZGYtbjFNUjQzUTFwRzhreGczWmxsWUFQazhiTUU0ZXVEWHF4ZVZ1WUREN0FzNVIxTGEwNEQ4NFpLb2RvZVYtOTZOUVdrdkZLY3FteTgwR2tuWEJO?oc=5\" target=\"_blank\">OpenAI的Sam Altman呼吁减缓AI竞赛，因为国家行为者劫持Anthropic用于生物武器</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
   }
  ]
 }

@@ -8919,6 +8919,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2czV1NLUmdGcEhNcTlhOGJHMzRGRVhFaVBfT2EtNU8tWE4yVzVrQ2ozMHRUSnhvSmVnT1F1aTdSYVJTLU1xeWVDc3Q5cWEtelE5QVN1YmhWeFNZUm04eEs3N3gzSzNGdFBNZWJGbUJDUTlNdXBRRDRlbV9PQU9zSHJ1U2FqcVVJZUtkU1ZUNXo5WDhBZ21WUG90dDczeDhaUmluS0hObWZoLWdKLThwWGlBdG5xZw?oc=5\" target=\"_blank\">National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
    "fetched_at": "2026-10-14T09:10:25+00:00"
+  },
+  {
+   "id": "web-458-58a4a299f1",
+   "source_id": "news",
+   "source_name": "The Guardian",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude - The Guardian",
+   "summary": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude &nbsp;&nbsp; The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2lja2Y3b2J4SGw2TDhuWUNxNmxablZvTlcwSVg4eHhuSUFwNUEzQTd0WFhOTlJMd0F5UHBDSnhxTl9nVXJlNjFrZVBSc1Zic01sZ1RuZ2tTTlQ3RVVLUEw5OFI2NDcwNzNPSVpYTUJmR1pVdmd2NWkyOUtxcTg5bC05ckRhX1pnSVRZdVhLSlQ0ckU?oc=5",
+   "published_at": "2026-10-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2lja2Y3b2J4SGw2TDhuWUNxNmxablZvTlcwSVg4eHhuSUFwNUEzQTd0WFhOTlJMd0F5UHBDSnhxTl9nVXJlNjFrZVBSc1Zic01sZ1RuZ2tTTlQ3RVVLUEw5OFI2NDcwNzNPSVpYTUJmR1pVdmd2NWkyOUtxcTg5bC05ckRhX1pnSVRZdVhLSlQ0ckU?oc=5\" target=\"_blank\">Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
   }
  ]
 }

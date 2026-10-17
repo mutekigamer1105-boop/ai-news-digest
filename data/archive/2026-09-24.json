@@ -12495,6 +12495,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZaTBmRVh5X0Y1UDNlaXRxUURkYzBKTkRBbTVFLWVrc3ZPODdnLTdzMU5OVHhsUlBvcHd3SG1wbWJUelRrNHNRc1YtLUowTEdIWElXcllTSk16MGFLMFE?oc=5\" target=\"_blank\">29 小时攻破浏览器，GPT-6 Astra 成为 OpenAI 首个“严重级”模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ-CN</font>",
    "fetched_at": "2026-10-10T10:19:17+00:00"
+  },
+  {
+   "id": "web-984-66a11f44cf",
+   "source_id": "news",
+   "source_name": "证券时报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "基石资本合伙人陶涛： 中国AI大模型正走向“准公共产品” - 证券时报网",
+   "summary": "基石资本合伙人陶涛： 中国AI大模型正走向“准公共产品” &nbsp;&nbsp; 证券时报网",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yQkZZZV9KVHg0Uk10QmFlZjRrNjJPTFQtUnlHQnhoRDh3VTdzc2YyVGlPRjkwc0JxblhORVE1REtHd19Yc2o2czVhWkw1R2pHVURuMC1MTmVaMXlN?oc=5",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yQkZZZV9KVHg0Uk10QmFlZjRrNjJPTFQtUnlHQnhoRDh3VTdzc2YyVGlPRjkwc0JxblhORVE1REtHd19Yc2o2czVhWkw1R2pHVURuMC1MTmVaMXlN?oc=5\" target=\"_blank\">基石资本合伙人陶涛： 中国AI大模型正走向“准公共产品”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报网</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-986-3ed4637692",
+   "source_id": "news",
+   "source_name": "封面新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "医疗AI大模型亮相第五届数贸会 助力健康管理场景规模化落地 - 封面新闻",
+   "summary": "医疗AI大模型亮相第五届数贸会 助力健康管理场景规模化落地 &nbsp;&nbsp; 封面新闻",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQTBNbUlHVlltQ2hWVC1XV3UxbHZxZVVvTWkzMWlTTlhqODVSUmFQM0pzOU90bHd1dFZmSjg5X1JjVVpTalB5OHMwTnZHM3VDaDF3bEpPM0wyWnN2b1F1RjVoakxKMW9uRDJYaExJVWpGOW9BMGVFTEd2WDZIS29TazJRTQ?oc=5",
+   "published_at": "2026-09-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQTBNbUlHVlltQ2hWVC1XV3UxbHZxZVVvTWkzMWlTTlhqODVSUmFQM0pzOU90bHd1dFZmSjg5X1JjVVpTalB5OHMwTnZHM3VDaDF3bEpPM0wyWnN2b1F1RjVoakxKMW9uRDJYaExJVWpGOW9BMGVFTEd2WDZIS29TazJRTQ?oc=5\" target=\"_blank\">医疗AI大模型亮相第五届数贸会 助力健康管理场景规模化落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">封面新闻</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
   }
  ]
 }

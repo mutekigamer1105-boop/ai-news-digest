@@ -238,6 +238,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FaTN5Wmt2NFJmR1EwWUpObnNsQzdwc1pLQm10SlNBOHRBdFp1VXVzaUN5aDZVSVp5Q2ttcThaa1I2YnZnZ1dVUWpjQThqOE5GRXJxUmU4aC1GdzgwUlNqRA?oc=5\" target=\"_blank\">OpenAI大模型失控，入侵全球最大AI开源社区！多亏中国大模型来救场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-10-02T04:06:25+00:00"
+  },
+  {
+   "id": "web-1121-824ec2af66",
+   "source_id": "news",
+   "source_name": "新西兰中文先驱网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "史无前例！OpenAI失控，入侵另一家公司！新西兰机构发提醒…… - 新西兰中文先驱网",
+   "summary": "史无前例！OpenAI失控，入侵另一家公司！新西兰机构发提醒",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1ZHpWLXJvaDBOeUEzMWhLcmZSc2NCUkQyeVZxZ3duRHd5dVY2UEhLb2tnUTdodzVydTlCcFNBS203MkNLWnlvQmltcVBqQWVabnBYNkZrREw3Z2JXUWVtS19YSEJxQVNySEsxRVM1WHdOQQ?oc=5",
+   "published_at": "2026-07-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA1ZHpWLXJvaDBOeUEzMWhLcmZSc2NCUkQyeVZxZ3duRHd5dVY2UEhLb2tnUTdodzVydTlCcFNBS203MkNLWnlvQmltcVBqQWVabnBYNkZrREw3Z2JXUWVtS19YSEJxQVNySEsxRVM1WHdOQQ?oc=5\" target=\"_blank\">史无前例！OpenAI失控，入侵另一家公司！新西兰机构发提醒……</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新西兰中文先驱网</font>",
+   "fetched_at": "2026-10-17T08:09:48+00:00"
   }
  ]
 }
