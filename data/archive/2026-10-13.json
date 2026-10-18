@@ -12462,6 +12462,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE56MFZGTVRFRTNtZ2pzazQ5aEJ6eV9ZWTBfLWVUanFQUGlYWHZZOFhtZVlRdGFESE14eWMwWmMtWEMtbFRSVUh4S2xxbWkyM25oelRBSXU5QkZRUE0ta09SSDY5VVBnZ2hpd1ZjXzR4dXpJSW4tQjZMQXhRREFvUQ?oc=5\" target=\"_blank\">Apple unveils the new Apple TV 4K, supercharged by Siri AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
    "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-359-bb8ddc4c9e",
+   "source_id": "news",
+   "source_name": "The Washington Post",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI employee arrested by FBI after listening device found at its office - The Washington Post",
+   "summary": "OpenAI employee arrested by FBI after listening device found at its office &nbsp;&nbsp; The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFhIOWJVeXVpUmJZekJyZS1PX0dzX3VBWjRYT2k4dFNrR055RkswcEJweEJ0NThjN0dRMVA0LWZrUGROYzVnTGdqOXJHTmRnRkNFREpSc3RucnNYM0JrM2ZPNlE4VmpDdENWU2sya2Fqc3BIMm9icHVzcFVYemZhTTZNXzJ4Qkx4Mm5taEpNUGstOGZ3dVVocURKVzFScFJxYkY2ajhja2J2Q2JrVF9WNQ?oc=5",
+   "published_at": "2026-10-13T23:19:36+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFhIOWJVeXVpUmJZekJyZS1PX0dzX3VBWjRYT2k4dFNrR055RkswcEJweEJ0NThjN0dRMVA0LWZrUGROYzVnTGdqOXJHTmRnRkNFREpSc3RucnNYM0JrM2ZPNlE4VmpDdENWU2sya2Fqc3BIMm9icHVzcFVYemZhTTZNXzJ4Qkx4Mm5taEpNUGstOGZ3dVVocURKVzFScFJxYkY2ajhja2J2Q2JrVF9WNQ?oc=5\" target=\"_blank\">OpenAI employee arrested by FBI after listening device found at its office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+   "fetched_at": "2026-10-18T08:26:55+00:00"
+  },
+  {
+   "id": "web-73-0cda177fab",
+   "source_id": "news",
+   "source_name": "AZ Family",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Kroger to lay off 3,000 employees as it leans into artificial intelligence - AZ Family",
+   "summary": "Kroger to lay off 3,000 employees as it leans into artificial intelligence &nbsp;&nbsp; AZ Family",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXFFWGdobHY0ay0teDJ6bUNNUVB3UU9vZjgtVEJjamlhNHAwS2Fpc1d3VVpEckhnTl9lVGI3N2xQREdza1lTREtxRHdScGd4VHBfNVoweFpOYVp1dExzSTVTNFctakw0LV9KS19OY0FTV3g5QzJGR2F0eWdva1BNYU1sNU9tSjc1S0xGUi1SZHZaNlMwSUhBemFCYzhzUC14Rmo2TlNEb9IBuwFBVV95cUxPanhOYUx3MGZmdjN2ZjcwOHR5dFg3cTJwWFhXOFR1Zi1XeEkybDVqQlhCSzdPTnE1VHlaSkFwWmRtM0ZkYkhHUDd6R1B5NldZLTQ3bXVXWjN3aU9lNC1Ud2hOVVF3enFpWTZVY3VjcmUzcmVKSURzMG1mREI0R0tZYkd6N2szOVpVTzlhcVJGQUV5a3p5eXFpRnhQbmVfMVlNTXVEcm5CYksxand5MXh2b2FidFZZTEp0Y2Yw?oc=5",
+   "published_at": "2026-10-13T17:10:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXFFWGdobHY0ay0teDJ6bUNNUVB3UU9vZjgtVEJjamlhNHAwS2Fpc1d3VVpEckhnTl9lVGI3N2xQREdza1lTREtxRHdScGd4VHBfNVoweFpOYVp1dExzSTVTNFctakw0LV9KS19OY0FTV3g5QzJGR2F0eWdva1BNYU1sNU9tSjc1S0xGUi1SZHZaNlMwSUhBemFCYzhzUC14Rmo2TlNEb9IBuwFBVV95cUxPanhOYUx3MGZmdjN2ZjcwOHR5dFg3cTJwWFhXOFR1Zi1XeEkybDVqQlhCSzdPTnE1VHlaSkFwWmRtM0ZkYkhHUDd6R1B5NldZLTQ3bXVXWjN3aU9lNC1Ud2hOVVF3enFpWTZVY3VjcmUzcmVKSURzMG1mREI0R0tZYkd6N2szOVpVTzlhcVJGQUV5a3p5eXFpRnhQbmVfMVlNTXVEcm5CYksxand5MXh2b2FidFZZTEp0Y2Yw?oc=5\" target=\"_blank\">Kroger to lay off 3,000 employees as it leans into artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZ Family</font>",
+   "fetched_at": "2026-10-18T08:26:55+00:00"
   }
  ]
 }

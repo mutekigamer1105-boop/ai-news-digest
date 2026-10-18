@@ -525,6 +525,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WWExSa0pQYkFtejFHeFlfcG45UHk3ckUwb25fSUtoVFFKNU4zeUpxZU5DUjNYZG4tWngtVlJ0QndOYkx6dFk4YVR6MG9SS01nQzFXUzNkQmxKZ1lrQld3R2JR?oc=5\" target=\"_blank\">OpenRouter：全球AI大模型周调用量93.4万亿Token 首破90万亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">观点网</font>",
    "fetched_at": "2026-10-10T10:19:17+00:00"
+  },
+  {
+   "id": "web-110-1f66127f37",
+   "source_id": "venturebeat",
+   "source_name": "VentureBeat",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.88,
+   "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs - VentureBeat",
+   "summary": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs &nbsp;&nbsp; VentureBeat",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5",
+   "published_at": "2026-08-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5\" target=\"_blank\">Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+   "fetched_at": "2026-10-18T08:26:55+00:00"
   }
  ]
 }

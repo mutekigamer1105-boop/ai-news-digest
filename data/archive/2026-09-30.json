@@ -11839,6 +11839,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3pNYUtLZWttZkllSlJJRFBWV1NkazFCUkQ1WF9mZzJyTXhWdXJVTE5nNVdKc0xKVnYyTmpBaWJ5NmJtczZaZ3diV0JuRXM0aUlhN091VTNaS2FuZzN6TERhVWVYanVKdWxnQ0RwLTNhaFZBWmtoRU5MSGdiUUJtNGFFUGlpOTA5TG5XVkVZQUgwR3g0?oc=5\" target=\"_blank\">Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
    "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-1163-d2b2109487",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 搅动与月之暗面相关的活动，AI 蒸馏战愈演愈烈 - Cryptopolitan",
+   "summary": "OpenAI 搅动与月之暗面相关的活动，AI 蒸馏战愈演愈烈 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOFJLZ2gwV0F2RDc3S3ZqVW4tbjhqQ0loMVFwdjVpQzBUY0h5ZW0zaFM1S0YybWNvUmthVF9WcTFQT0NYcWYxZVVzODB6SFJ5anVNSF9xYzBvRDdRWk04V3ZzVEF6LXJJVFhSTGphYW1zUWRhYWFyX2ZSdnJ1eEk1eFIzMA?oc=5",
+   "published_at": "2026-09-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNOFJLZ2gwV0F2RDc3S3ZqVW4tbjhqQ0loMVFwdjVpQzBUY0h5ZW0zaFM1S0YybWNvUmthVF9WcTFQT0NYcWYxZVVzODB6SFJ5anVNSF9xYzBvRDdRWk04V3ZzVEF6LXJJVFhSTGphYW1zUWRhYWFyX2ZSdnJ1eEk1eFIzMA?oc=5\" target=\"_blank\">OpenAI 搅动与月之暗面相关的活动，AI 蒸馏战愈演愈烈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-18T08:26:55+00:00"
   }
  ]
 }

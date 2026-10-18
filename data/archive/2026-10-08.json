@@ -8940,6 +8940,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2lja2Y3b2J4SGw2TDhuWUNxNmxablZvTlcwSVg4eHhuSUFwNUEzQTd0WFhOTlJMd0F5UHBDSnhxTl9nVXJlNjFrZVBSc1Zic01sZ1RuZ2tTTlQ3RVVLUEw5OFI2NDcwNzNPSVpYTUJmR1pVdmd2NWkyOUtxcTg5bC05ckRhX1pnSVRZdVhLSlQ0ckU?oc=5\" target=\"_blank\">Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
    "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-930-12b4954c7d",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "大模型推理成本加速下降 AI应用端渗透有望迎来提速 - 财联社",
+   "summary": "大模型推理成本加速下降 AI应用端渗透有望迎来提速 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Sb2dTLWRUZC1oV0JDbjRfWk5YS0FrV053dS1tRTZfYXp6TGJCa3pJSVBRa2pTblk5UzljSTNzSUtxT3VpMTd0WQ?oc=5",
+   "published_at": "2026-10-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Sb2dTLWRUZC1oV0JDbjRfWk5YS0FrV053dS1tRTZfYXp6TGJCa3pJSVBRa2pTblk5UzljSTNzSUtxT3VpMTd0WQ?oc=5\" target=\"_blank\">大模型推理成本加速下降 AI应用端渗透有望迎来提速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-10-18T08:26:55+00:00"
   }
  ]
 }
