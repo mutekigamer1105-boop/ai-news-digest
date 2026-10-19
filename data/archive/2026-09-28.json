@@ -11876,6 +11876,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QMlE2OXFfV0twTGVNUVpHQzZHRVJOUTBUdHRLZHJ2eDYtRXF3bTV1Z0Y1YWRjTkhhWXp5N1pHMVpNcWFvXzd4UGZzbXR5dw?oc=5\" target=\"_blank\">马斯克夸赞中国的AI大模型：在单位算力有限的情况下，产出的性能几乎是全球顶尖水平。#媒体原创</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">川观新闻</font>",
    "fetched_at": "2026-10-16T08:38:37+00:00"
+  },
+  {
+   "id": "web-393-852ad3ac8a",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Towards safety cases for frontier AI training - OpenAI",
+   "summary": "Towards safety cases for frontier AI training &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5cm5nT3BoSU9lR283QzQzbGlfQ1FSUGhobEFLc2E4YkxaMEZLb1N6LWlWeG5VYUE5azlyWFZuM1lGdUVaNnRKNjBJUlNYdGIwUGNCMmg5U29IRkZoSjRiUVdVSUo3MThsUUhXM2llaGd5UkMyYlhqNHBydw?oc=5",
+   "published_at": "2026-09-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFA5cm5nT3BoSU9lR283QzQzbGlfQ1FSUGhobEFLc2E4YkxaMEZLb1N6LWlWeG5VYUE5azlyWFZuM1lGdUVaNnRKNjBJUlNYdGIwUGNCMmg5U29IRkZoSjRiUVdVSUo3MThsUUhXM2llaGd5UkMyYlhqNHBydw?oc=5\" target=\"_blank\">Towards safety cases for frontier AI training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-19T09:28:16+00:00"
   }
  ]
 }

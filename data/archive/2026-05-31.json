@@ -21,6 +21,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOeW9YSlZpV1FHV1gwTnhzcVVFYlAxS0NZTF9jLS1SNVc4dlkyTDNQNF9nbDdYbGFkdVQ3bnBkVlcyb0JYcnBsd3hpbS0wb3dId0E5VU96Qk1QNktrVHVWZ2NjYTVZWFR5SU56Z2UxZGhzdG1hT2hvdG5GT3Y4Mjl4MzNabE5pQ3pFeERlZkk4dEpsVjlwVFFHRG9oS3U4QnRKYVE?oc=5\" target=\"_blank\">Cross-linguistic patterns of cognitive biases in large language models: a comparative study in English, Hebrew, and Russian</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
    "fetched_at": "2026-09-11T04:05:30+00:00"
+  },
+  {
+   "id": "web-291-62d87a9eae",
+   "source_id": "news",
+   "source_name": "medRxiv",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Agent Role Structure and Operating Characteristics in Large Language Model Clinical Classification: A Comparative Study of Specialist and Deliberative Multi-Agent Protocols - medRxiv",
+   "summary": "Agent Role Structure and Operating Characteristics in Large Language Model Clinical Classification: A Comparative Study of Specialist and Deliberative Multi-Agent Protocols &nbsp;&nbsp; medRxiv",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JSFhsdjRuUktaWHNZaTFfYnoybnpJdmxmd19yZkNybUM4bmE0dGRESWVCdko1RkJDRXBTcGE3bzJyVXJta2tKbnNkZUtyamxVTjJNNzZiSTNoTDM3bkRXenUxQ1pzT2czeEloNzVnM21LNTFyR1pmOGFWajA?oc=5",
+   "published_at": "2026-05-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1JSFhsdjRuUktaWHNZaTFfYnoybnpJdmxmd19yZkNybUM4bmE0dGRESWVCdko1RkJDRXBTcGE3bzJyVXJta2tKbnNkZUtyamxVTjJNNzZiSTNoTDM3bkRXenUxQ1pzT2czeEloNzVnM21LNTFyR1pmOGFWajA?oc=5\" target=\"_blank\">Agent Role Structure and Operating Characteristics in Large Language Model Clinical Classification: A Comparative Study of Specialist and Deliberative Multi-Agent Protocols</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">medRxiv</font>",
+   "fetched_at": "2026-10-19T09:28:16+00:00"
   }
  ]
 }

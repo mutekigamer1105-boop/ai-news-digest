@@ -392,6 +392,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5LVDFHMTZMU2lLOUV5RjVyaU5FaDI4T2ozbFVrZlRGUVZTaGc3Q0VHX1dCTzFHZ3VRSERsa2JIek1BYTd5ZkhLakJSUklMejZ2RV9ldFo2TjFTSWc3aEc1aU1Sd1Zpc1RnTldv?oc=5\" target=\"_blank\">OpenAI 推出 ChatGPT Work，幫助企業自動化日常工作並提升效率| 乌克兰新闻- #Mezha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
    "fetched_at": "2026-09-19T04:05:23+00:00"
+  },
+  {
+   "id": "web-1174-1ff34933bd",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI在特朗普政府完成安全审查后推出GPT-5.6 - Cryptopolitan",
+   "summary": "OpenAI在特朗普政府完成安全审查后推出GPT-5.6 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTzJwQ0NJV0wyWDV1NmZ0NzlfUUJVdGF5RTNJeU55M21NUEwwdnA2MVFUN2k2MElOejBvQ2dQRjJEaTRvVHNGSWJBYXRZM2hpYjVsbGhjcnVGU25kWlJqYWVyc1lCcGQ3WDRNazZWWXFLbWtQUjBaa2dNTFFaUVV6ZUt6MA?oc=5",
+   "published_at": "2026-07-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOTzJwQ0NJV0wyWDV1NmZ0NzlfUUJVdGF5RTNJeU55M21NUEwwdnA2MVFUN2k2MElOejBvQ2dQRjJEaTRvVHNGSWJBYXRZM2hpYjVsbGhjcnVGU25kWlJqYWVyc1lCcGQ3WDRNazZWWXFLbWtQUjBaa2dNTFFaUVV6ZUt6MA?oc=5\" target=\"_blank\">OpenAI在特朗普政府完成安全审查后推出GPT-5.6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-19T09:28:16+00:00"
   }
  ]
 }

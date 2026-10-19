@@ -347,6 +347,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOVHNtcXFuSk1MY0dlTUFXRVlfSndyeHlqd0JRYTRKUXdmeUFiNW5hNmRrOElUTWp2THdpeWlaY1V4anBDczlUeXQyWU5mMFc4Y3IxY2d0dVFnUWJBMUJPdHJLZHVpdHd6dzFQdFZxSnU0ZDdEeUxyUTBVdjF2OVNfVEhlaw?oc=5\" target=\"_blank\">Apply Now: Google Africa Applied AI Lab for Founders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ICTworks</font>",
    "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-290-2c6cb12211",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "On the smallness of the large language model scaling exponents - Frontiers",
+   "summary": "On the smallness of the large language model scaling exponents &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZllXN2lNRllmakY5WklwdDVndmV3bHIzbkhISVdUTmd1OWgwTl8tVzZMWTd4QmkzaE1tVDU2WTFBYl9iSWZta0hlR2Q0c1V0N2RqdjZfUnNUcnNnOXk4U0MyeVUtNmdLWlplVDUtV3E1RjZrYWUzR09JSnNzUTBjRldRQi1IRE1mTGMzUw?oc=5",
+   "published_at": "2026-08-17T15:46:36+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZllXN2lNRllmakY5WklwdDVndmV3bHIzbkhISVdUTmd1OWgwTl8tVzZMWTd4QmkzaE1tVDU2WTFBYl9iSWZta0hlR2Q0c1V0N2RqdjZfUnNUcnNnOXk4U0MyeVUtNmdLWlplVDUtV3E1RjZrYWUzR09JSnNzUTBjRldRQi1IRE1mTGMzUw?oc=5\" target=\"_blank\">On the smallness of the large language model scaling exponents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-10-19T09:28:16+00:00"
   }
  ]
 }

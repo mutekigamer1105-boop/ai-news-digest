@@ -11861,6 +11861,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNOFJLZ2gwV0F2RDc3S3ZqVW4tbjhqQ0loMVFwdjVpQzBUY0h5ZW0zaFM1S0YybWNvUmthVF9WcTFQT0NYcWYxZVVzODB6SFJ5anVNSF9xYzBvRDdRWk04V3ZzVEF6LXJJVFhSTGphYW1zUWRhYWFyX2ZSdnJ1eEk1eFIzMA?oc=5\" target=\"_blank\">OpenAI 搅动与月之暗面相关的活动，AI 蒸馏战愈演愈烈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-18T08:26:55+00:00"
+  },
+  {
+   "id": "web-677-383ce32625",
+   "source_id": "news",
+   "source_name": "The American Bazaar",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Google alumni close $11.3 million fund to back early-stage AI startups - The American Bazaar",
+   "summary": "Google alumni close $11.3 million fund to back early-stage AI startups &nbsp;&nbsp; The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdjA1ZE5nOWFiRjhqbUREazlEQ29mOXgwYVFIS3NGZ0l1RXhpaDE2ZHZIMWlnZ01XM01La1pLZnhSSHRWYV9kRU4zUDNXNWp4b1MxUTZnbEV5YzBlN25QdDBHYlRzTlp6QmlEVnRrVmt6NGpPUkdscUdwT0FCMXE0cGdNdHNLbVVtWm9YcXhaWWd6Qi1FUmIzS1VYMVQ0bGViaE50eTdCdWxaNlZHTEljVWlpMVpvcEs0UkoxRW5B?oc=5",
+   "published_at": "2026-09-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdjA1ZE5nOWFiRjhqbUREazlEQ29mOXgwYVFIS3NGZ0l1RXhpaDE2ZHZIMWlnZ01XM01La1pLZnhSSHRWYV9kRU4zUDNXNWp4b1MxUTZnbEV5YzBlN25QdDBHYlRzTlp6QmlEVnRrVmt6NGpPUkdscUdwT0FCMXE0cGdNdHNLbVVtWm9YcXhaWWd6Qi1FUmIzS1VYMVQ0bGViaE50eTdCdWxaNlZHTEljVWlpMVpvcEs0UkoxRW5B?oc=5\" target=\"_blank\">Google alumni close $11.3 million fund to back early-stage AI startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The American Bazaar</font>",
+   "fetched_at": "2026-10-19T09:28:16+00:00"
+  },
+  {
+   "id": "web-1093-7771584f35",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中科创达：AI智能体的发展会进一步提升产品和技术体系的整体价值 - 东方财富",
+   "summary": "中科创达：AI智能体的发展会进一步提升产品和技术体系的整体价值 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsMkRrUnIwQXR0Y00zWnpvNVJBVmV1M0xPLU9EMVh0U3hLRTNaWGptMjViTzA1Z3NFQW9oSm5Kd0gzNWxvQUFWV2FhdFNGaW5fcFdhMnFkOUNsM3kzdFdmcQ?oc=5",
+   "published_at": "2026-09-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsMkRrUnIwQXR0Y00zWnpvNVJBVmV1M0xPLU9EMVh0U3hLRTNaWGptMjViTzA1Z3NFQW9oSm5Kd0gzNWxvQUFWV2FhdFNGaW5fcFdhMnFkOUNsM3kzdFdmcQ?oc=5\" target=\"_blank\">中科创达：AI智能体的发展会进一步提升产品和技术体系的整体价值</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-19T09:28:16+00:00"
   }
  ]
 }

@@ -618,6 +618,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGp4Y2JmNV9fMU4zcnp1WjBUR2h2MmRHNjA3S09jZzh4emdXUTd3dVlyY0ktamx0dFNsaF85Y3pUb3VLdzBKbXpUVlFVRDNsS2FNakN0aXU4Ykl6aWRkSldTOHNNNk1SREJMZWY0VERkYWZzMEgxUWh2c0ZFR2JzQktVWnppaWthY1FQUC1rbmt2Y2Yy?oc=5\" target=\"_blank\">Robotics AI startup Generalist reportedly raises $200M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
    "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-273-f50ec6fad9",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Evaluating large language models as grant reviewers: a comparative study of prompt engineering strategies - Frontiers",
+   "summary": "Evaluating large language models as grant reviewers: a comparative study of prompt engineering strategies &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xrNlhIYzlaMXBfMlBYOWxTQURkMUR6Z2pYV0JhTGFhZW4wVEEweGNJMUhHQ1dsQmN3NjlON044OGhsWlBWSzA5QzJhXzFDY1hmLUZYdDIyLTZOYVIzS1ZpcUhuRWJPb0tNa09VODg3Rmg1M3R0QnVhOVdxWF82RHVGMGJXNEYzT2lqR29ZZXY?oc=5",
+   "published_at": "2026-08-24T10:32:05+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xrNlhIYzlaMXBfMlBYOWxTQURkMUR6Z2pYV0JhTGFhZW4wVEEweGNJMUhHQ1dsQmN3NjlON044OGhsWlBWSzA5QzJhXzFDY1hmLUZYdDIyLTZOYVIzS1ZpcUhuRWJPb0tNa09VODg3Rmg1M3R0QnVhOVdxWF82RHVGMGJXNEYzT2lqR29ZZXY?oc=5\" target=\"_blank\">Evaluating large language models as grant reviewers: a comparative study of prompt engineering strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-10-19T09:28:16+00:00"
   }
  ]
 }

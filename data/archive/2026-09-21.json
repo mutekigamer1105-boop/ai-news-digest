@@ -11264,6 +11264,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlFJelRGMmMwdkpmMVRHRzBfaGptZGRTQ1ZfaWhScU9vSTJ0M1dnZTdJZ08zWFpQQ0J5bHFwVXVrejJDYVJEcFdfNE9GcTJ1a2FTRXpJdW9IeDExS2dSVUt2UmdaSFRKN2xDRUtSYnlMQ2szaUgwNUZsX2VIQlE4WmxxSm5FMnBsd21XMzJR?oc=5\" target=\"_blank\">The Weekly Notable Startup Funding Report: 9/21/26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AlleyWatch</font>",
    "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-278-74415121cc",
+   "source_id": "news",
+   "source_name": "Shopify",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What Are Large Language Models? How LLMs Work and Where They’re Used (2026) - Shopify",
+   "summary": "What Are Large Language Models? How LLMs Work and Where They’re Used (2026) &nbsp;&nbsp; Shopify",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pM3BZOGQ1UC1uX21ZTDRUdTNNQXFBQWRWNnlTOFBmYVlkY19zYlZtSGZob1g1OVR5ZkVmUDdiRDVDNkdFdkFRY0lValBfV0pJX0tSa0lRSEp5Z3BIajZB?oc=5",
+   "published_at": "2026-09-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pM3BZOGQ1UC1uX21ZTDRUdTNNQXFBQWRWNnlTOFBmYVlkY19zYlZtSGZob1g1OVR5ZkVmUDdiRDVDNkdFdkFRY0lValBfV0pJX0tSa0lRSEp5Z3BIajZB?oc=5\" target=\"_blank\">What Are Large Language Models? How LLMs Work and Where They’re Used (2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shopify</font>",
+   "fetched_at": "2026-10-19T09:28:16+00:00"
   }
  ]
 }

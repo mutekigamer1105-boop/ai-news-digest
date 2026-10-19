@@ -12539,6 +12539,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQTBNbUlHVlltQ2hWVC1XV3UxbHZxZVVvTWkzMWlTTlhqODVSUmFQM0pzOU90bHd1dFZmSjg5X1JjVVpTalB5OHMwTnZHM3VDaDF3bEpPM0wyWnN2b1F1RjVoakxKMW9uRDJYaExJVWpGOW9BMGVFTEd2WDZIS29TazJRTQ?oc=5\" target=\"_blank\">医疗AI大模型亮相第五届数贸会 助力健康管理场景规模化落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">封面新闻</font>",
    "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-236-932eb6bb0c",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Reusing obsolete windows 10 PCs for on-premises large language model inference - Frontiers",
+   "summary": "Reusing obsolete windows 10 PCs for on-premises large language model inference &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmhvWTlWWUJzTFMzRERObTBGblZOU2pRVFJMVTBtcVBReEFUblJFVmhxWTU3eG9TWkEyR2dDT1RXUnFYUmpFa24tSjE1cEFpaXNuWEtKWkhKa19SdjNROW52SEk3d2JHTkJDeldQaU5EZGNXMnBBUl96a3YwMW96ZGdEYUMxSmR4NDNlVDM4YUJlXzByZVhmNkFn?oc=5",
+   "published_at": "2026-09-24T10:11:03+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmhvWTlWWUJzTFMzRERObTBGblZOU2pRVFJMVTBtcVBReEFUblJFVmhxWTU3eG9TWkEyR2dDT1RXUnFYUmpFa24tSjE1cEFpaXNuWEtKWkhKa19SdjNROW52SEk3d2JHTkJDeldQaU5EZGNXMnBBUl96a3YwMW96ZGdEYUMxSmR4NDNlVDM4YUJlXzByZVhmNkFn?oc=5\" target=\"_blank\">Reusing obsolete windows 10 PCs for on-premises large language model inference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-10-19T09:28:16+00:00"
   }
  ]
 }

@@ -12762,6 +12762,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE83SVNGNlhKTXJWMER2dHd3bk5wbjEzblJBbnVIQ18tNXpUS3lrSnE0bjhiZjd0SnNVYng2Y0FMaFRFRFVBcmF6YTViODF0VXJIbzcxNlVJSVZxN1E?oc=5\" target=\"_blank\">豆包手机二代发布，新势力来了，AI智能体手机将是下一个战场吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jfdaily.com</font>",
    "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-1162-fe22a4b4a2",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI与微软的版权之争成为检验人工智能商业模式的试金石 - Cryptopolitan",
+   "summary": "OpenAI与微软的版权之争成为检验人工智能商业模式的试金石 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGJrVUZLbXpZWGpfRnVMb3JmY1dxSy1MbkxQY2JtbnU3Z2RNTjFISWh0dVJOQ0dqZ3o5d2hDcEZIRnpXQ1lYVEIxV0p3ZGpObTk4U1doUGJvRmlpYUd6MDY3dHN2ZExIVWRiTmVlelhRT2M0S0wtdlVnM01XWlc2dmxNOTlIcE5q?oc=5",
+   "published_at": "2026-09-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGJrVUZLbXpZWGpfRnVMb3JmY1dxSy1MbkxQY2JtbnU3Z2RNTjFISWh0dVJOQ0dqZ3o5d2hDcEZIRnpXQ1lYVEIxV0p3ZGpObTk4U1doUGJvRmlpYUd6MDY3dHN2ZExIVWRiTmVlelhRT2M0S0wtdlVnM01XWlc2dmxNOTlIcE5q?oc=5\" target=\"_blank\">OpenAI与微软的版权之争成为检验人工智能商业模式的试金石</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-19T09:28:16+00:00"
   }
  ]
 }

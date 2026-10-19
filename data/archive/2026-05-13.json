@@ -65,6 +65,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQTFFoRFk4WFJ3V2Q3WklIbEdhLWFEWTA2dVhOUVdJdy1ScUtYME5qUEk3eXZRcXFjaWYzenVmamJzbTFiT1BKekJPcDBvWEJqM3pZX1l3c2NKZlJQLWxwRWZidG45R1Y3UnNEclhZblJJVlJhcUNMeTJhZklWY3hXMlE4UEhPaURJMjVJOGdGeDluTXVxSWhUcTRLMHd1YWtKY3MtcEhPRjhPUXFOWmh6Z0MwOFFsOEdTeDl1MVNVMUpTUHRDNlZYdVF3?oc=5\" target=\"_blank\">Anthropic 和 OpenAI 代币暴跌 40%，因 AI 公司警告 SPV 转账无效</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
    "fetched_at": "2026-09-26T04:05:14+00:00"
+  },
+  {
+   "id": "web-495-5845579f87",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Claude for Small Business - Anthropic",
+   "summary": "Introducing Claude for Small Business &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaaGlNU1BTa0ZESnJCcWhQVnB6anhtUDJOU28wYVhGTEJNcnNUbWdIeFRyUGpzMkFhR0dMbmg5Y2lCa3JHcDBmQ1NGYnZRcjJhOWdMMHVHUHp1V2dmZmtRcU9qTVpCOXM?oc=5",
+   "published_at": "2026-05-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaaGlNU1BTa0ZESnJCcWhQVnB6anhtUDJOU28wYVhGTEJNcnNUbWdIeFRyUGpzMkFhR0dMbmg5Y2lCa3JHcDBmQ1NGYnZRcjJhOWdMMHVHUHp1V2dmZmtRcU9qTVpCOXM?oc=5\" target=\"_blank\">Introducing Claude for Small Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-10-19T09:28:16+00:00"
   }
  ]
 }
