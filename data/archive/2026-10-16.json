@@ -12234,6 +12234,116 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYnBwMWtuVnVsNW1ta3h2SmFFWjM3YUNZNmlNUUkzd3BOVURFWEE3QUFrUm8xdGVtX2djNnI5blkzY0I0NEVkRlE2OEJIOHhjTXhtXy16bTBmT2hFcjdxTVpVeEk5cl8zdlpJMkhTS3B3SHpneTItSFc2SERENFFJbnpQUDBwc1pCemM2QW42Z0FBWXhZZjJ2Wl94V0RxUXVmaDREYzgzMTg0VTM4eXluOVFCZnB3cDBHeVJTa2JaRzVSOEUydjZnem5sT1NnVEpmZzRKSTkyd2o2d3JFcEl3?oc=5\" target=\"_blank\">Meta与苹果合作推出适配Mac的AI大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-10-19T09:28:16+00:00"
+  },
+  {
+   "id": "web-1057-6a9d1c3eb5",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体学会自我改造后，为什么反而越改越差？ - 新浪财经",
+   "summary": "AI智能体学会自我改造后，为什么反而越改越差？ &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMivAVBVV95cUxOMEdZajNQMGg1MVJpYTlKNUpGTmxOdEpiSnB1dFB1aUk1cjJ6Q0ZYRFlXemJGRlU5U3hZd3E1LV9VbGxMdUpYMVdhTjZoYzBmdW9udjNnTmlvWjcyaTJ3bXM3cVd2S25zcm51TFhqVUNYWGt4aHFtQml3VVkxaVpKenlrUS0zYnpzeldMbkZwMjN6bms4SjNwdzRzWmQ4Y2tMeHp5eGVTN0dXcFJBOXBpVEV3NVJmSGZjWTVPbGxVNmFFUFNka1ZyLU1HeDgtRXBrZzRJNXpDOG55NnF2N2tTTEVKX1VpbEpzeTY2RW55VXVMQXI5T2NKdlVDdWVjVjBFU19PZjBnS3FHNDdIX01JOVFrbnR5MXo2X2kwS1U3SkpQNmR2VkNjUTQ5V0VwMkpsQXdvYjNySk9YWFZ0NWV3eTdLV2FXdWFqQl9nb3huQk9BV2NteEN4d2tCRWxHWHlRY25IRFJtcGNYRmhjYjAtQmstTHpDUTRDN3M4WUdRZnliUFhxY3B0R20zWXhYOERNNnJzbUxRTG1vQ2ZiNVhSMWl6akVXZGItcGUwODAtd280REhfVVR2T21aTmwweWZXTWhVQXRZcHdqRFNsVkthdlpuajhIUGVOVnp2c25sbnhRNE85OHpwWjBvVnJibnVOWnZUek1JM2k5dWZZbWtjdVBtZXFFdEI5emF2YzNja0VZNWs4OGNzUUZ1ZGRxV2duX3hYaUhMX1g5d3hlNGlJcFAxNmFLOW05c3lMUC1NbmE3Nl84QzI4MW9oSlFPSl9pOFBPZkhhWmN2YTZqVGtPbGd0X2lfUGtiVzZOTl9pTFNlUnFlOFJiazJpdnJXRWRTbHdfc0hMbXc1THJTREdHODRvNXdXbkJodzJhR1h1LW5OdEw4Y0taSjFidXF1dDNmcGNMZjdieEdEYnI5?oc=5",
+   "published_at": "2026-10-16T23:58:28+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivAVBVV95cUxOMEdZajNQMGg1MVJpYTlKNUpGTmxOdEpiSnB1dFB1aUk1cjJ6Q0ZYRFlXemJGRlU5U3hZd3E1LV9VbGxMdUpYMVdhTjZoYzBmdW9udjNnTmlvWjcyaTJ3bXM3cVd2S25zcm51TFhqVUNYWGt4aHFtQml3VVkxaVpKenlrUS0zYnpzeldMbkZwMjN6bms4SjNwdzRzWmQ4Y2tMeHp5eGVTN0dXcFJBOXBpVEV3NVJmSGZjWTVPbGxVNmFFUFNka1ZyLU1HeDgtRXBrZzRJNXpDOG55NnF2N2tTTEVKX1VpbEpzeTY2RW55VXVMQXI5T2NKdlVDdWVjVjBFU19PZjBnS3FHNDdIX01JOVFrbnR5MXo2X2kwS1U3SkpQNmR2VkNjUTQ5V0VwMkpsQXdvYjNySk9YWFZ0NWV3eTdLV2FXdWFqQl9nb3huQk9BV2NteEN4d2tCRWxHWHlRY25IRFJtcGNYRmhjYjAtQmstTHpDUTRDN3M4WUdRZnliUFhxY3B0R20zWXhYOERNNnJzbUxRTG1vQ2ZiNVhSMWl6akVXZGItcGUwODAtd280REhfVVR2T21aTmwweWZXTWhVQXRZcHdqRFNsVkthdlpuajhIUGVOVnp2c25sbnhRNE85OHpwWjBvVnJibnVOWnZUek1JM2k5dWZZbWtjdVBtZXFFdEI5emF2YzNja0VZNWs4OGNzUUZ1ZGRxV2duX3hYaUhMX1g5d3hlNGlJcFAxNmFLOW05c3lMUC1NbmE3Nl84QzI4MW9oSlFPSl9pOFBPZkhhWmN2YTZqVGtPbGd0X2lfUGtiVzZOTl9pTFNlUnFlOFJiazJpdnJXRWRTbHdfc0hMbXc1THJTREdHODRvNXdXbkJodzJhR1h1LW5OdEw4Y0taSjFidXF1dDNmcGNMZjdieEdEYnI5?oc=5\" target=\"_blank\">AI智能体学会自我改造后，为什么反而越改越差？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-751-cde0e19e38",
+   "source_id": "news",
+   "source_name": "Amazon Web Services (AWS)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS | Amazon Web Services - Amazon Web Services (AWS)",
+   "summary": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS | Amazon Web Services &nbsp;&nbsp; Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSElxZ0NWWkFqY3FmY29PN3JhMHRxSVo3eEJMLUYxMmtNNVl2LUlzNjZsU05heFlmby1aWFh4ZFRCRTRobDMwdjZvdGI1NlNCb1ZGRS0zMUdqQjJvRFpQb0JoN1NFLXhGdzI1WFl0Z0UtRWNVNWYySEZDV05GdGhzZHhsdU1BT3Z2Y09uWUo2TXZJZEY4ekotQVJYM0hWQ3VyWHJvSnU2WFU0T2JLVTNGSkVlcTk0c2M5amhJN01n?oc=5",
+   "published_at": "2026-10-16T15:23:10+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPSElxZ0NWWkFqY3FmY29PN3JhMHRxSVo3eEJMLUYxMmtNNVl2LUlzNjZsU05heFlmby1aWFh4ZFRCRTRobDMwdjZvdGI1NlNCb1ZGRS0zMUdqQjJvRFpQb0JoN1NFLXhGdzI1WFl0Z0UtRWNVNWYySEZDV05GdGhzZHhsdU1BT3Z2Y09uWUo2TXZJZEY4ekotQVJYM0hWQ3VyWHJvSnU2WFU0T2JLVTNGSkVlcTk0c2M5amhJN01n?oc=5\" target=\"_blank\">Introducing Reflection Beam: an open-weight model for agentic coding on AWS | Amazon Web Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-411-84f6e8993c",
+   "source_id": "news",
+   "source_name": "CBC",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nova Scotia to host massive data centre to power Anthropic's AI assistant Claude - CBC",
+   "summary": "Nova Scotia to host massive data centre to power Anthropic's AI assistant Claude &nbsp;&nbsp; CBC",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnVIOG51MWpiWDNTOTl0Zk5BNXVPV2dQdmJpVFp0SEZIOFZBOGhyMnpYZGFETkdYUWxNdWlXbVpXZ0ltcTJteU56bE5OM1JjZFAwOWQyQ2RiZ2dGR3JmYThGY3oyNGI0QUpWc1RHSGFjYThvQ3ZLYW01NEdsbEY4U0xQMm42d2xLN3U4TnI0VGhKcUtFYnR0dlRWZmlKZk5DcURDdTlLU2YyYTJnOXRkM2stY2pMRmdTQ0FNYUVIc2JUa1NwazhSWTRsZHNoUQ?oc=5",
+   "published_at": "2026-10-16T14:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnVIOG51MWpiWDNTOTl0Zk5BNXVPV2dQdmJpVFp0SEZIOFZBOGhyMnpYZGFETkdYUWxNdWlXbVpXZ0ltcTJteU56bE5OM1JjZFAwOWQyQ2RiZ2dGR3JmYThGY3oyNGI0QUpWc1RHSGFjYThvQ3ZLYW01NEdsbEY4U0xQMm42d2xLN3U4TnI0VGhKcUtFYnR0dlRWZmlKZk5DcURDdTlLU2YyYTJnOXRkM2stY2pMRmdTQ0FNYUVIc2JUa1NwazhSWTRsZHNoUQ?oc=5\" target=\"_blank\">Nova Scotia to host massive data centre to power Anthropic's AI assistant Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-640-488f6f430a",
+   "source_id": "news",
+   "source_name": "AI Funding Tracker",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Fintech Startups: $28.6B H1 Funding and 7 Recent Rounds - AI Funding Tracker",
+   "summary": "Fintech Startups: $28.6B H1 Funding and 7 Recent Rounds &nbsp;&nbsp; AI Funding Tracker",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4YTFHRXZaU0ZIRXM2Uk13cDBYMkZ4cjlLMnk1aTRJcWFRT1ZxS2F1aEJBVlZIbEpibFBoZUN6QlZ4M0l2VXhOaHluZDRYV3BjMmY1TmVkTTc5eXluS215OXIyb1NpNllZMmozTA?oc=5",
+   "published_at": "2026-10-16T08:56:48+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB4YTFHRXZaU0ZIRXM2Uk13cDBYMkZ4cjlLMnk1aTRJcWFRT1ZxS2F1aEJBVlZIbEpibFBoZUN6QlZ4M0l2VXhOaHluZDRYV3BjMmY1TmVkTTc5eXluS215OXIyb1NpNllZMmozTA?oc=5\" target=\"_blank\">Fintech Startups: $28.6B H1 Funding and 7 Recent Rounds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Funding Tracker</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-934-9739455815",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta与苹果合作推出适配Mac的AI大模型 - 新浪财经",
+   "summary": "Meta与苹果合作推出适配Mac的AI大模型 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEdsWUJrYkJVN3A1MHZ1MmRvMlRqQmZ2WlgtR0lzdkFDVVVFbGwyVzFvUkJrU3J3ZFBUQ1hWY1ZFXzlPanZfUWgyLVZZQjloS1JqeWNZNVQ5R3BSX1RyTWRVLVQ1X1FhbnR0cDFMYWlXaFV2VUkzN0tGXzVoVjBnZnB4N1RJVWQ0N1hUZ0RLdU9HNW52WVdmS0R4ZlpGZmw4TDNWUFhDU01RMS0yMkh3TkFqQXRiOE8waXpVYlBwV1J1WHUzLXhyTHJ3dzJVejJaZ2lZcjNQczRzYnZLOVMw?oc=5",
+   "published_at": "2026-10-16T06:39:28+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEdsWUJrYkJVN3A1MHZ1MmRvMlRqQmZ2WlgtR0lzdkFDVVVFbGwyVzFvUkJrU3J3ZFBUQ1hWY1ZFXzlPanZfUWgyLVZZQjloS1JqeWNZNVQ5R3BSX1RyTWRVLVQ1X1FhbnR0cDFMYWlXaFV2VUkzN0tGXzVoVjBnZnB4N1RJVWQ0N1hUZ0RLdU9HNW52WVdmS0R4ZlpGZmw4TDNWUFhDU01RMS0yMkh3TkFqQXRiOE8waXpVYlBwV1J1WHUzLXhyTHJ3dzJVejJaZ2lZcjNQczRzYnZLOVMw?oc=5\" target=\"_blank\">Meta与苹果合作推出适配Mac的AI大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
   }
  ]
 }

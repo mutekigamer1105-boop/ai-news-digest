@@ -415,6 +415,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOTzJwQ0NJV0wyWDV1NmZ0NzlfUUJVdGF5RTNJeU55M21NUEwwdnA2MVFUN2k2MElOejBvQ2dQRjJEaTRvVHNGSWJBYXRZM2hpYjVsbGhjcnVGU25kWlJqYWVyc1lCcGQ3WDRNazZWWXFLbWtQUjBaa2dNTFFaUVV6ZUt6MA?oc=5\" target=\"_blank\">OpenAI在特朗普政府完成安全审查后推出GPT-5.6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-19T09:28:16+00:00"
+  },
+  {
+   "id": "web-292-faa4846b45",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models in healthcare: applications, evaluation frameworks, and governance pathways — a scoping review and multidimensional framework - Frontiers",
+   "summary": "Large language models in healthcare: applications, evaluation frameworks, and governance pathways — a scoping review and multidimensional framework &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdkQ5WTVSc2JIbE9wOXg3OUNnMEdsalMwQmVXMng2Z3pueDh0NVpDTGlCSjJrSFQ5ejNWM2NnSS1kTkl2TTFXOEZwX3Y1eWZUTTJ6VzVkR3N1QXphNHhnZjVIYlRFRlZPVlgySUdiOUZ0TkFkR2NkcGx6dmFNU2VVa3QyZkNXR3IyQ19PcWhVc2JPU1oxQVBB?oc=5",
+   "published_at": "2026-07-09T01:08:21+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdkQ5WTVSc2JIbE9wOXg3OUNnMEdsalMwQmVXMng2Z3pueDh0NVpDTGlCSjJrSFQ5ejNWM2NnSS1kTkl2TTFXOEZwX3Y1eWZUTTJ6VzVkR3N1QXphNHhnZjVIYlRFRlZPVlgySUdiOUZ0TkFkR2NkcGx6dmFNU2VVa3QyZkNXR3IyQ19PcWhVc2JPU1oxQVBB?oc=5\" target=\"_blank\">Large language models in healthcare: applications, evaluation frameworks, and governance pathways — a scoping review and multidimensional framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
   }
  ]
 }

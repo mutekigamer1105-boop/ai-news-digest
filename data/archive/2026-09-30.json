@@ -11905,6 +11905,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsMkRrUnIwQXR0Y00zWnpvNVJBVmV1M0xPLU9EMVh0U3hLRTNaWGptMjViTzA1Z3NFQW9oSm5Kd0gzNWxvQUFWV2FhdFNGaW5fcFdhMnFkOUNsM3kzdFdmcQ?oc=5\" target=\"_blank\">中科创达：AI智能体的发展会进一步提升产品和技术体系的整体价值</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-10-19T09:28:16+00:00"
+  },
+  {
+   "id": "web-47-12f4d18357",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "This award-winning microscopy image used AI — igniting controversy in a prestigious competition - Nature",
+   "summary": "This award-winning microscopy image used AI — igniting controversy in a prestigious competition &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmb1lpdkRPOU45ek5VdWVvWGc0WkNIUTlyazJ2Z1FtbHVxNmJkQi05ZDRSUFl4am1ScVJyblh0cVlQWGR3UjE2aGJmVHQ2UHQ5cENtRXJEZl84OVJEd2xv?oc=5",
+   "published_at": "2026-09-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmb1lpdkRPOU45ek5VdWVvWGc0WkNIUTlyazJ2Z1FtbHVxNmJkQi05ZDRSUFl4am1ScVJyblh0cVlQWGR3UjE2aGJmVHQ2UHQ5cENtRXJEZl84OVJEd2xv?oc=5\" target=\"_blank\">This award-winning microscopy image used AI — igniting controversy in a prestigious competition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
   }
  ]
 }

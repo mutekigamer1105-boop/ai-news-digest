@@ -5096,6 +5096,180 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTi1qWVZ5OGhUanRjQkhGREcwSnFCQ1VsazVCSlhFNXMxV2tzODNSZU1sTWxQLXpuaEZyMjB4Z3d6R3lCX1NXZEhqeVkzSWo0Q24yMHpiaWpUamhyUEtRcVNfeDhINWNPMWdKMThQUWhCbGt5VThFdi1uZXdmMGVDRW9JTWZMTVpCb1RoQzV1bEJhMkVWbnB2NS1XaUlqZw?oc=5\" target=\"_blank\">Watch OpenAI Arrest Raises AI Espionage Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
    "fetched_at": "2026-10-19T09:28:16+00:00"
+  },
+  {
+   "id": "web-1105-959bfff2a3",
+   "source_id": "news",
+   "source_name": "36Kr",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Anthropic最新报告：AI智能体工时已是人类6倍 - 36Kr",
+   "summary": "Anthropic最新报告：AI智能体工时已是人类6倍 &nbsp;&nbsp; 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2ODZrREhhdW5yMmxJTGZpajI2Ymw2cjhYLXVyeXZyU1RpTER2VzBaVXNuTXpTZWQ5R1N6eDg0ZzZxTUxQZnRTNGpmMVJGQQ?oc=5",
+   "published_at": "2026-10-18T19:17:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2ODZrREhhdW5yMmxJTGZpajI2Ymw2cjhYLXVyeXZyU1RpTER2VzBaVXNuTXpTZWQ5R1N6eDg0ZzZxTUxQZnRTNGpmMVJGQQ?oc=5\" target=\"_blank\">Anthropic最新报告：AI智能体工时已是人类6倍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-472-ac234b7beb",
+   "source_id": "news",
+   "source_name": "Martin Cid Magazine",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic cut junior tech hires from 27% to 9% as Claude took on the code - Martin Cid Magazine",
+   "summary": "Anthropic cut junior tech hires from 27% to 9% as Claude took on the code &nbsp;&nbsp; Martin Cid Magazine",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVNpVVB5cG1FRDNUZ3pMM2pNTjVLLWx6ZEVEbmRvQml3VS1hUlVZMDc2N2sxTW80SVV5VF8tcUZXcW96VG1XVTFYN2VpcE9LQUZPc3lIQ043bExyUDh5Qm9DTVJZN3kzZDVXakhaRWVReHBLTmpWSFlKZ01mVGpka0wzUkc1T29uMGVkTnNJYXF6aVdJc1REYTBmNW5TVGs?oc=5",
+   "published_at": "2026-10-18T14:11:10+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVNpVVB5cG1FRDNUZ3pMM2pNTjVLLWx6ZEVEbmRvQml3VS1hUlVZMDc2N2sxTW80SVV5VF8tcUZXcW96VG1XVTFYN2VpcE9LQUZPc3lIQ043bExyUDh5Qm9DTVJZN3kzZDVXakhaRWVReHBLTmpWSFlKZ01mVGpka0wzUkc1T29uMGVkTnNJYXF6aVdJc1REYTBmNW5TVGs?oc=5\" target=\"_blank\">Anthropic cut junior tech hires from 27% to 9% as Claude took on the code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Martin Cid Magazine</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-807-9a2121968b",
+   "source_id": "news",
+   "source_name": "联合早报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "DeepSeek发布新版AI模型 性能提升且运行成本降低 - 联合早报",
+   "summary": "DeepSeek发布新版AI模型 性能提升且运行成本降低 &nbsp;&nbsp; 联合早报",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qemZxckJqd2t2Y0hNdVIzRW1FN2hBX3c3WEJmM2FLaG11bWJ6Y1RmWHZvdlhjMlI5a3U1RU1HRWd2Q1lFaldmdXFMVm4zUzdqRHdab0ZqRGluWFpKVmotZnhDNDA2Zw?oc=5",
+   "published_at": "2026-10-18T13:06:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qemZxckJqd2t2Y0hNdVIzRW1FN2hBX3c3WEJmM2FLaG11bWJ6Y1RmWHZvdlhjMlI5a3U1RU1HRWd2Q1lFaldmdXFMVm4zUzdqRHdab0ZqRGluWFpKVmotZnhDNDA2Zw?oc=5\" target=\"_blank\">DeepSeek发布新版AI模型 性能提升且运行成本降低</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">联合早报</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-910-92cece0a81",
+   "source_id": "news",
+   "source_name": "中国新闻网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "（经济观察）中国民企AI大模型在全球“圈粉” - 中国新闻网",
+   "summary": "（经济观察）中国民企AI大模型在全球“圈粉” &nbsp;&nbsp; 中国新闻网",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yaW9Ncjhjc2F2cmVDLUZIWjctS3l0U3c2dkRMTERFYjJxOGtaUEhiQlc2Y3FLMzE4YnpPb1Z3ajVvUGFPREZIaDRFelllcnlkbGpHYWx5eS15NjRtX002ZTNEcXpwczZf?oc=5",
+   "published_at": "2026-10-18T12:24:11+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yaW9Ncjhjc2F2cmVDLUZIWjctS3l0U3c2dkRMTERFYjJxOGtaUEhiQlc2Y3FLMzE4YnpPb1Z3ajVvUGFPREZIaDRFelllcnlkbGpHYWx5eS15NjRtX002ZTNEcXpwczZf?oc=5\" target=\"_blank\">（经济观察）中国民企AI大模型在全球“圈粉”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国新闻网</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-727-a07459ee24",
+   "source_id": "news",
+   "source_name": "Tom's Hardware",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an AI model - Tom's Hardware",
+   "summary": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an",
+   "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOZzBaVmx3ZGk3YlBaUW1pR0FwLVdwWFlwaVlUeVFVdHY4dVhqRExLeV91blg0ZmNyRERfMFpQNmY5NlZtaW8xUDVwbEVlVWFMLUNkUnFiRk9KMEtsNThBR2loVXRxWkZiekxNYllWaEZpTzZBNUMtNndZUnVvTzQzZFJWS2d4NTE2eldDUzR0R2RDNHhuZ3p0cW9ib2puME5nQ2xpR2RRQkRkMmxjTmw2NV9Jck1tZjVCUDZwYjlYb0NyMS1MbWV0cE00SzlBbzZWcFB6M1FnRkFveFQxV0o2QS11MWtzOEUtQkx2NG40S3RJM0lOMUNBZjkzelBLdk94QzA3LUl6cDlPMFF3ZUM2MDYzSDRtQVlWR0pEeTVoY0JDdEN0WUxiUDl1eFpGTDBObUtZRHVlb0pyYzdMOFdTVUIxTXRQNnV5eGFlMWJIbEJhQWpKUDZEX1psZWxNakkzdWp2ekE3V3VFNWNXT21oYnA4c0w5bHZCTHNVUGNkLXRJU3pwMlV6V1p2aw?oc=5",
+   "published_at": "2026-10-18T11:25:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwNBVV95cUxOZzBaVmx3ZGk3YlBaUW1pR0FwLVdwWFlwaVlUeVFVdHY4dVhqRExLeV91blg0ZmNyRERfMFpQNmY5NlZtaW8xUDVwbEVlVWFMLUNkUnFiRk9KMEtsNThBR2loVXRxWkZiekxNYllWaEZpTzZBNUMtNndZUnVvTzQzZFJWS2d4NTE2eldDUzR0R2RDNHhuZ3p0cW9ib2puME5nQ2xpR2RRQkRkMmxjTmw2NV9Jck1tZjVCUDZwYjlYb0NyMS1MbWV0cE00SzlBbzZWcFB6M1FnRkFveFQxV0o2QS11MWtzOEUtQkx2NG40S3RJM0lOMUNBZjkzelBLdk94QzA3LUl6cDlPMFF3ZUM2MDYzSDRtQVlWR0pEeTVoY0JDdEN0WUxiUDl1eFpGTDBObUtZRHVlb0pyYzdMOFdTVUIxTXRQNnV5eGFlMWJIbEJhQWpKUDZEX1psZWxNakkzdWp2ekE3V3VFNWNXT21oYnA4c0w5bHZCTHNVUGNkLXRJU3pwMlV6V1p2aw?oc=5\" target=\"_blank\">Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-484-60f466f8ae",
+   "source_id": "news",
+   "source_name": "Ynetnews",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Claude cracks 25-year NSA cryptography mystery in under 30 minutes - Ynetnews",
+   "summary": "Claude cracks 25-year NSA cryptography mystery in under 30 minutes &nbsp;&nbsp; Ynetnews",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1venJNWUphZE5GSTVteExzaWRUaDVXVS1fQ05JQXhTWmU3b1ZZTXRfMDczNGpUaGZlc2p3cjNSdDktMVRfMXlKX3VOMnpMODFLcm1sR2RVejR1ODlwY3FIQlNWN0xjYzd0bm5KTw?oc=5",
+   "published_at": "2026-10-18T09:04:39+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1venJNWUphZE5GSTVteExzaWRUaDVXVS1fQ05JQXhTWmU3b1ZZTXRfMDczNGpUaGZlc2p3cjNSdDktMVRfMXlKX3VOMnpMODFLcm1sR2RVejR1ODlwY3FIQlNWN0xjYzd0bm5KTw?oc=5\" target=\"_blank\">Claude cracks 25-year NSA cryptography mystery in under 30 minutes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ynetnews</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-1012-25fbace54f",
+   "source_id": "news",
+   "source_name": "华尔街见闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Anthropic发布内部就业报告：智能体工时达到人类6倍，“元工作时代”来了 - 华尔街见闻",
+   "summary": "Anthropic发布内部就业报告：智能体工时达到人类6倍，“元工作时代”来了 &nbsp;&nbsp; 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tX0ROeHZLRktmZ1JIdUpJSmxKQVlkZU5rTEx4U1piSFJTWEgwMnE0Umlra01sNy1WYWxieVlIY3FJOWVCV3FWUEJubnpzUG9DVkV3?oc=5",
+   "published_at": "2026-10-18T08:48:41+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tX0ROeHZLRktmZ1JIdUpJSmxKQVlkZU5rTEx4U1piSFJTWEgwMnE0Umlra01sNy1WYWxieVlIY3FJOWVCV3FWUEJubnpzUG9DVkV3?oc=5\" target=\"_blank\">Anthropic发布内部就业报告：智能体工时达到人类6倍，“元工作时代”来了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-481-129ac7292b",
+   "source_id": "news",
+   "source_name": "TradingView",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "FT: Anthropic wants lawyers’ negotiating ethics built into Claude agents that bargain against other agents - TradingView",
+   "summary": "FT: Anthropic wants lawyers’ negotiating ethics built into Claude agents that bargain against other agents &nbsp;&nbsp; TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQamFkOGxrLXRBeXl4OWM0VnR0Z3V3VmR6RmZxVFJzWEx6M3hWY2ZRdUZOc0xTclA2akdqbFJPTTVjSS11N0haZ0cyTlpIYnoyMFVDbWZTYWZCckQyVUNNajNxeWRadmV1TUZxSno3QUlvMzMtRGtJX0xjNHhFcktvdzdFcDlkQmFBRl90a1YwMFVlcU9CS2tvVGJzVU5tbnpmeVNmY2FqLWhDWThGcjB1TXVqcGVXU2RraFdXYjY0VGxpZFVqd3VYWXc3TGRadEhXYmFTTm1HZ21SdE9IN3VITy1RdmNydm1HcDZJblREaldlYUFfUUNNNEJRT1lkZw?oc=5",
+   "published_at": "2026-10-18T05:49:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQamFkOGxrLXRBeXl4OWM0VnR0Z3V3VmR6RmZxVFJzWEx6M3hWY2ZRdUZOc0xTclA2akdqbFJPTTVjSS11N0haZ0cyTlpIYnoyMFVDbWZTYWZCckQyVUNNajNxeWRadmV1TUZxSno3QUlvMzMtRGtJX0xjNHhFcktvdzdFcDlkQmFBRl90a1YwMFVlcU9CS2tvVGJzVU5tbnpmeVNmY2FqLWhDWThGcjB1TXVqcGVXU2RraFdXYjY0VGxpZFVqd3VYWXc3TGRadEhXYmFTTm1HZ21SdE9IN3VITy1RdmNydm1HcDZJblREaldlYUFfUUNNNEJRT1lkZw?oc=5\" target=\"_blank\">FT: Anthropic wants lawyers’ negotiating ethics built into Claude agents that bargain against other agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
   }
  ]
 }

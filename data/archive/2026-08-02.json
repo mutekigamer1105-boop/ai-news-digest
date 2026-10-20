@@ -129,6 +129,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE54Yk1DOVFIRkVQbnI3bmVoUFgtaGc0UGl0c2FscjdUMjNmM1hmOHp5OUc3enRxem44NnZCTUpwV2VCTkZWNHZCUXJlekVkSXAtSTdMUGlBR0ZSaUE?oc=5\" target=\"_blank\">中国AI包揽前五，凭的是什么？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jfdaily.com</font>",
    "fetched_at": "2026-09-26T04:05:14+00:00"
+  },
+  {
+   "id": "web-1001-f974807b57",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型的优势在哪？全球大模型调用量前五均为国产 - 新浪财经",
+   "summary": "中国AI大模型的优势在哪？全球大模型调用量前五均为国产 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sMElsakdkT0wydTZPYllWNElZLWdPNVdacXB4dlRhV0NWME9JV1hOVmlSSldlSFVyVkFNRzgwMFJGY1VHRk51UlZCaERSeXNQMFR1d3hxT1JVaE96dGpRU2hYQzY0X0ppZEhzZTdqSQ?oc=5",
+   "published_at": "2026-08-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9sMElsakdkT0wydTZPYllWNElZLWdPNVdacXB4dlRhV0NWME9JV1hOVmlSSldlSFVyVkFNRzgwMFJGY1VHRk51UlZCaERSeXNQMFR1d3hxT1JVaE96dGpRU2hYQzY0X0ppZEhzZTdqSQ?oc=5\" target=\"_blank\">中国AI大模型的优势在哪？全球大模型调用量前五均为国产</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
   }
  ]
 }

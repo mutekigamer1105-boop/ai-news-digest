@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUXc2LVpvb01paVhkbmhaQ0NEbTZXUl9FbU5pX3JEWm93UGZSRnB2Y1AxMm00YTRfUVladWZFWmhNaW5ObFZjQlFtcGtMWWxKX2E1S3BZR21OX0RBVTVn?oc=5\" target=\"_blank\">Comparative analysis of large language models as decision support tools in oral pathology | Scientific Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-14T04:05:42+00:00"
+  },
+  {
+   "id": "web-1127-4ca485344f",
+   "source_id": "news",
+   "source_name": "美国之音",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI报告揭中国官员用ChatGPT进行“网络特战”；美议员称这是将跨国镇压“工业化” - 美国之音",
+   "summary": "OpenAI报告揭中国官员用ChatGPT进行“网络特战”；美议员称这是将跨国镇压“工业化” &nbsp;&nbsp; 美国之音",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPN3drbVYtcEdzUUVSR015cWdhdjFFMU40aVYxbTRabmh3RlJpMkRFaFJHeWtKVFZveTlsLS1LSTktalc4WkhhQW53Ny00bHRFYkd1c1RFNXVVbUYxQmJGQU9VVkFvOHpicURZQVpWNW1TM1ZHVjk2V0hjQ3E5ODFoLTFSbmE4Ul9fcmhYZXFINVhCZGtqWHkwSFFwaUxLem03THlqdWpObG1GZ2JUcXN2UEFsU09YUk5fLWpkSzkwSE1SRWdIVjZ1S1BCR1JuRW5ZU09rZ1dYZTR2MGp2YTdJWEZfeHJxb1pGbnFSQWk3aDYwbXJ5enA5STN4TDctOFpLYy1oeXRmWdIBigJBVV95cUxPT0UxQklPZ0V4TjljYjV6MUpGNm5KU2w5ZVJ5MUhvbUZQYnRqNVh5YkZEMUNLLTd2dTNLTFBGb2ZBVEdzalEtTTVocUR4Y0NPVEFrcHFyUVdncVhiMHZYSVp3N2hnMWRrQlBuUVpNc3RlWklZWVV3MlkwS3M0N3AwVUllaHl1UE10UUZiS0xEem9mUU9ES09objFuNTZ6UmNxTlYyalZEYlJHaGZfcGE1cXNYMzUtcFVjTUo1blZVSnlxWjdpX2k5UDladmFHeUpsTVltaHhhYkhHUkszZkxvcXVXS1Y3WkVyeE1rU2UtU2pBZHlKUXk3MDMtc0pDMGZnM29MQ3hIMEhnZw?oc=5",
+   "published_at": "2026-02-27T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPN3drbVYtcEdzUUVSR015cWdhdjFFMU40aVYxbTRabmh3RlJpMkRFaFJHeWtKVFZveTlsLS1LSTktalc4WkhhQW53Ny00bHRFYkd1c1RFNXVVbUYxQmJGQU9VVkFvOHpicURZQVpWNW1TM1ZHVjk2V0hjQ3E5ODFoLTFSbmE4Ul9fcmhYZXFINVhCZGtqWHkwSFFwaUxLem03THlqdWpObG1GZ2JUcXN2UEFsU09YUk5fLWpkSzkwSE1SRWdIVjZ1S1BCR1JuRW5ZU09rZ1dYZTR2MGp2YTdJWEZfeHJxb1pGbnFSQWk3aDYwbXJ5enA5STN4TDctOFpLYy1oeXRmWdIBigJBVV95cUxPT0UxQklPZ0V4TjljYjV6MUpGNm5KU2w5ZVJ5MUhvbUZQYnRqNVh5YkZEMUNLLTd2dTNLTFBGb2ZBVEdzalEtTTVocUR4Y0NPVEFrcHFyUVdncVhiMHZYSVp3N2hnMWRrQlBuUVpNc3RlWklZWVV3MlkwS3M0N3AwVUllaHl1UE10UUZiS0xEem9mUU9ES09objFuNTZ6UmNxTlYyalZEYlJHaGZfcGE1cXNYMzUtcFVjTUo1blZVSnlxWjdpX2k5UDladmFHeUpsTVltaHhhYkhHUkszZkxvcXVXS1Y3WkVyeE1rU2UtU2pBZHlKUXk3MDMtc0pDMGZnM29MQ3hIMEhnZw?oc=5\" target=\"_blank\">OpenAI报告揭中国官员用ChatGPT进行“网络特战”；美议员称这是将跨国镇压“工业化”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">美国之音</font>",
+   "fetched_at": "2026-10-20T09:01:42+00:00"
   }
  ]
 }
