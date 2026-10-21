@@ -9370,6 +9370,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KZnRTLUZ2ZW1xUXJ0eG5ob05EMUhPY3d6WDNWSmhkcHVQRlQzTUR2cXhGRVZyVVFsT3pwRmUyS3AtNDFXZFhieUJ2d1Y0UkVMUzQxUTFTOWVTaEkyTEt4TXlMeUhhdw?oc=5\" target=\"_blank\">中国AI大模型调用量连续二十三周领跑：匿名模型“太空兔”冲上榜首，环比增长179%！DeepSeek V4 Flash预览版跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-10-14T09:10:25+00:00"
+  },
+  {
+   "id": "web-772-955c1e090c",
+   "source_id": "news",
+   "source_name": "Dealroom",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia-backed Reflection AI prepares first open-weight model launch - Dealroom",
+   "summary": "Nvidia-backed Reflection AI prepares first open-weight model launch &nbsp;&nbsp; Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDdUMl9IVDhvZDZCR0RHX3NTX0dqQ1J5a3UwdEd6MjZneTB3bWZzYlJMOFZuNmJGWkFQOHJWUHlyTjNPOGN1VVlCTVYxOWNZb3hzczdmM0pLMkxUMzdfM2NwN0dZcUd6T296TTA5V1JPQ0RvaFZIQXpqM1NGUkZXcFJtUXF1eUVQM1Q3dzBJbHh3LUlFaW91U013eFlEel9OZmo0?oc=5",
+   "published_at": "2026-10-05T04:03:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDdUMl9IVDhvZDZCR0RHX3NTX0dqQ1J5a3UwdEd6MjZneTB3bWZzYlJMOFZuNmJGWkFQOHJWUHlyTjNPOGN1VVlCTVYxOWNZb3hzczdmM0pLMkxUMzdfM2NwN0dZcUd6T296TTA5V1JPQ0RvaFZIQXpqM1NGUkZXcFJtUXF1eUVQM1Q3dzBJbHh3LUlFaW91U013eFlEel9OZmo0?oc=5\" target=\"_blank\">Nvidia-backed Reflection AI prepares first open-weight model launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dealroom</font>",
+   "fetched_at": "2026-10-21T09:00:53+00:00"
   }
  ]
 }

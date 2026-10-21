@@ -10220,6 +10220,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SeUtBNjhFUi12SUk2c0NqVWRQb2pHNHItdHc3ZDBCYTVVcU1fZDhlUnl6QU4wUW1rQkhwLXFyRG1wRzVzdkE?oc=5\" target=\"_blank\">大模型推理成本加速下降 AI应用端渗透有望迎来提速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社电报</font>",
    "fetched_at": "2026-10-13T11:18:48+00:00"
+  },
+  {
+   "id": "web-429-c435919116",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Claude Haiku 5.5 - Anthropic",
+   "summary": "Introducing Claude Haiku 5.5 &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5",
+   "published_at": "2026-10-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5\" target=\"_blank\">Introducing Claude Haiku 5.5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-10-21T09:00:53+00:00"
   }
  ]
 }

@@ -21,6 +21,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwWjFUT014MkRMSVpwd2MtRXF0cHByQXZjV1JUNXFCRDNOenlEVV9BVVJzWWZXNFJPWVJjaWVnRDlWQmx6a25JeEhzc1FmTHJLelZxdUxqdjVKS1dfcFNn?oc=5\" target=\"_blank\">Human–large language model collaboration in clinical medicine: a systematic review and meta-analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-10T04:05:08+00:00"
+  },
+  {
+   "id": "web-1100-1deb4db712",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "如何防范 AI 智能体在访问链接时泄露用户数据 - OpenAI",
+   "summary": "如何防范 AI 智能体在访问链接时泄露用户数据 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jdWNKZzdnQXZtVUJvTmV5d0xicFBkMXJndmxJbmhwR0pFdENkQWs0TlhmSUdiRERsWFhYUFVaWDl6bEtfVFhTVHAwWHhjeWVrRmM5RUJxRHVNOGstSlJzdGxlZ1d3THJi?oc=5",
+   "published_at": "2026-01-28T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jdWNKZzdnQXZtVUJvTmV5d0xicFBkMXJndmxJbmhwR0pFdENkQWs0TlhmSUdiRERsWFhYUFVaWDl6bEtfVFhTVHAwWHhjeWVrRmM5RUJxRHVNOGstSlJzdGxlZ1d3THJi?oc=5\" target=\"_blank\">如何防范 AI 智能体在访问链接时泄露用户数据</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-21T09:00:53+00:00"
   }
  ]
 }

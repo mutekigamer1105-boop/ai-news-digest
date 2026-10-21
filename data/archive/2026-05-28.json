@@ -43,6 +43,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjNfdHkyU3lQSG45NHFmVGxNSjc1ZXpwcDQ0X0pic1QxaWtmMm90T2lzampsZG1QdzQzWmhHWjluTUZwREVqeHlWY3NfdVFpSUFsZWJ4bFhvd0o2TkhiS3lEOUo0Z3F3WjQxNlJtRjNSUnQyZ1I5aHNVME1SVzBKZEN3WDJESUtwNUY0QkttVC1WQQ?oc=5\" target=\"_blank\">From automation to augmentation: a retrieval-augmented large language model framework for reshaping learning experiences in higher education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-503-7b646a6ada",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Claude Opus 4.8 - Anthropic",
+   "summary": "Introducing Claude Opus 4.8 &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5",
+   "published_at": "2026-05-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5\" target=\"_blank\">Introducing Claude Opus 4.8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-10-21T09:00:53+00:00"
   }
  ]
 }

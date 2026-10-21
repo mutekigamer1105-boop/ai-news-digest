@@ -9298,6 +9298,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOM194QXBqVUN1S3c3dElFTmZuVndPcnJmcXJFSTZqTjlGVFlIUS11ZS1LT2ZVM2pwaF9QSFRMRElOeVF2Q3Q2ZFNJN1loNXJiclRiSW9CS0FjZXRjZzVkNnYtY0s4WEwyYV9wbkEwRVpxRkNEcm1jNEJhN0NRMmtja21oM1YxOFd6cTlkU3BTUTNyRk5IQXFsZXRR?oc=5\" target=\"_blank\">African AI Startups Grow as Early-Stage Funding Pipeline Shrinks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech In Africa</font>",
    "fetched_at": "2026-10-14T09:10:25+00:00"
+  },
+  {
+   "id": "web-765-44b15e7dca",
+   "source_id": "news",
+   "source_name": "infoq.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "TypeSafe AI Releases Jev: a Decision-Only Model That Returns Typed Probabilities Instead of Text - infoq.com",
+   "summary": "TypeSafe AI Releases Jev: a Decision-Only Model That Returns Typed Probabilities Instead of Text &nbsp;&nbsp; infoq.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zOGZGUGNqZ2lkSnBDQ3djRjgyTkFRcmxxS0hjeHFuRWNuZDZ0c1NMZUNVckFfajFadGhDQ1RWR0tINlJoRmFuTGlFUzJVNmE0UFowOFBWME1pNHdHMmNWUXJTaDM3MTQyX01fNA?oc=5",
+   "published_at": "2026-10-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5zOGZGUGNqZ2lkSnBDQ3djRjgyTkFRcmxxS0hjeHFuRWNuZDZ0c1NMZUNVckFfajFadGhDQ1RWR0tINlJoRmFuTGlFUzJVNmE0UFowOFBWME1pNHdHMmNWUXJTaDM3MTQyX01fNA?oc=5\" target=\"_blank\">TypeSafe AI Releases Jev: a Decision-Only Model That Returns Typed Probabilities Instead of Text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">infoq.com</font>",
+   "fetched_at": "2026-10-21T09:00:53+00:00"
   }
  ]
 }

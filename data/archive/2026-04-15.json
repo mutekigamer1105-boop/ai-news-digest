@@ -110,6 +110,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnUwYjZWVW1Valcyd0VfdWlqY04zUnJmX1M3dDVvS1lfRjlwbW56aDU0SU9ZYTU3V19yS2lMX21JVzZsUXFjV3pxNkE4VlhTNXBoU3FZbi1fYWthNW8yMWJPa0RNVmJBRjFvWkw4RHEtcnlWLVFxdVZQOXEwWWhjUnVheU1vTndRTFVUTzJ4VldvdUVLbXpFVUMzZm44bi1QR0E?oc=5\" target=\"_blank\">Can small language models handle context-summarized multi-turn customer-service QA? A synthetic data-driven comparative evaluation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
    "fetched_at": "2026-09-08T04:05:56+00:00"
+  },
+  {
+   "id": "web-1091-cb20c33f68",
+   "source_id": "news",
+   "source_name": "Cloudflare Blog",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Project Think：在 Cloudflare 上构建下一代 AI 智能体 - Cloudflare Blog",
+   "summary": "Project Think：在 Cloudflare 上构建下一代 AI 智能体 &nbsp;&nbsp; Cloudflare Blog",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Z2wzMDhReVNOQU5nSHdNYXVJRmFaanBWMHFqakVuVWk0TDNBR2JWUU9rUmtyMXpsekJ1SXF5OWZDZ3JKUTFrU2E5SlktRTI2cU1tLUpWejhBY1Mt?oc=5",
+   "published_at": "2026-04-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Z2wzMDhReVNOQU5nSHdNYXVJRmFaanBWMHFqakVuVWk0TDNBR2JWUU9rUmtyMXpsekJ1SXF5OWZDZ3JKUTFrU2E5SlktRTI2cU1tLUpWejhBY1Mt?oc=5\" target=\"_blank\">Project Think：在 Cloudflare 上构建下一代 AI 智能体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cloudflare Blog</font>",
+   "fetched_at": "2026-10-21T09:00:53+00:00"
   }
  ]
 }

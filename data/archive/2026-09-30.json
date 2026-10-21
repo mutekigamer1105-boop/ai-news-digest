@@ -11926,6 +11926,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmb1lpdkRPOU45ek5VdWVvWGc0WkNIUTlyazJ2Z1FtbHVxNmJkQi05ZDRSUFl4am1ScVJyblh0cVlQWGR3UjE2aGJmVHQ2UHQ5cENtRXJEZl84OVJEd2xv?oc=5\" target=\"_blank\">This award-winning microscopy image used AI — igniting controversy in a prestigious competition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-768-89f51e916b",
+   "source_id": "news",
+   "source_name": "shattered.io",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Weighs New Model as GPT-6 Astra Hits 13% [2026] - shattered.io",
+   "summary": "Anthropic Weighs New Model as GPT-6 Astra Hits 13% [2026] &nbsp;&nbsp; shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXB1UTdZcDJzOGM5UmxFbVU3ZnJQQS0yYkliZGFPNnY2NTgzYlZ6RnppdjJCLXJiWW43MXRZazZyZi1iZ283bFpQNHFCc1ZCZGl4OVBIX2dZWTdrODg3UnNrX3M1SnVtb3lna0paWHE1enRRM3JBQ1k2Z3llV2o3M2p3?oc=5",
+   "published_at": "2026-09-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXB1UTdZcDJzOGM5UmxFbVU3ZnJQQS0yYkliZGFPNnY2NTgzYlZ6RnppdjJCLXJiWW43MXRZazZyZi1iZ283bFpQNHFCc1ZCZGl4OVBIX2dZWTdrODg3UnNrX3M1SnVtb3lna0paWHE1enRRM3JBQ1k2Z3llV2o3M2p3?oc=5\" target=\"_blank\">Anthropic Weighs New Model as GPT-6 Astra Hits 13% [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
+   "fetched_at": "2026-10-21T09:00:53+00:00"
   }
  ]
 }

@@ -14376,6 +14376,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHpBaUE1S3doVkZUQ1h2eWJCVFFlaV9pU2JNek9vTjh0TVhSam5WR0ZVYVozRWxoeURmQWFuWnBVR2VKQVQ1Yl9ZQWQ3ZFp1Wk9QT04zVVEteUZRcmhEaGFETmd3T1hSVDNRZTdTeF9WMDNPYm5XUWVJZlNJcHhsS2puNXRFRzJsUm5n?oc=5\" target=\"_blank\">Agentic AI early adopters have failed, pivoted, and learned these 3 lessons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
    "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-1107-45ea8be8b6",
+   "source_id": "news",
+   "source_name": "DW.com",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI因安全隐患暂缓发布新模型 - DW.com",
+   "summary": "OpenAI因安全隐患暂缓发布新模型 &nbsp;&nbsp; DW.com",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd3V6UXRiNC0zeVg1U2RfeFY3LU5nd01DZ0stbW5XZDV4bGg1c21nUGpJc09RUUdJeEtuN1hBcVNwT1B0X1JBeU0zME1Ud3dWWU9mVmxXLVZTSE1yRVhVemMzUktXRU5KUzB0RnlIa21ZQ0hUY3h5QXRHcVdVT1phQTNVek1yYUdxWTFEamlOR0k3dHljbmUxQjZpZHNDTTdnZDJ2cTJTSHJ6cmh0Q2ItTzVORExmUUNOTEk3aE80NW5POUo1Q1gwdmVDM1hESGJyYnJxZTV0SnZBcHpHWFg3dNIB4AFBVV95cUxOZG40d3dCeHpLdUl2OWdGamtEVEZmOVlybWVxdVZmcWNVSkV0Mk1qWjBpczBuVWJ0M3Njb05XNi1wem9MWFBtaWFvNUs4TW1DdV9MZE51UXU4cjBOWFJlbEhKdEllcl82MEtWQVRsMDVFUUxXN0R0VEwyOS1UdjRJX1ZzbVk1VDI0NjRISlhSakFuZ3hSbjVzZVFLUjdZQ1l3Y0R4ZDk3U0JucWxfUWZGUkx5ZWxIVmVya2kxYVVUQkxnLV9nZUw3RWhENGdWeVdna0pQTmRtem52c09lYjFjTw?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd3V6UXRiNC0zeVg1U2RfeFY3LU5nd01DZ0stbW5XZDV4bGg1c21nUGpJc09RUUdJeEtuN1hBcVNwT1B0X1JBeU0zME1Ud3dWWU9mVmxXLVZTSE1yRVhVemMzUktXRU5KUzB0RnlIa21ZQ0hUY3h5QXRHcVdVT1phQTNVek1yYUdxWTFEamlOR0k3dHljbmUxQjZpZHNDTTdnZDJ2cTJTSHJ6cmh0Q2ItTzVORExmUUNOTEk3aE80NW5POUo1Q1gwdmVDM1hESGJyYnJxZTV0SnZBcHpHWFg3dNIB4AFBVV95cUxOZG40d3dCeHpLdUl2OWdGamtEVEZmOVlybWVxdVZmcWNVSkV0Mk1qWjBpczBuVWJ0M3Njb05XNi1wem9MWFBtaWFvNUs4TW1DdV9MZE51UXU4cjBOWFJlbEhKdEllcl82MEtWQVRsMDVFUUxXN0R0VEwyOS1UdjRJX1ZzbVk1VDI0NjRISlhSakFuZ3hSbjVzZVFLUjdZQ1l3Y0R4ZDk3U0JucWxfUWZGUkx5ZWxIVmVya2kxYVVUQkxnLV9nZUw3RWhENGdWeVdna0pQTmRtem52c09lYjFjTw?oc=5\" target=\"_blank\">OpenAI因安全隐患暂缓发布新模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font>",
+   "fetched_at": "2026-10-21T09:00:53+00:00"
   }
  ]
 }

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1104-c13dfdd065",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "《2026 年 AI 智能体指南》 - IBM",
+   "summary": "《2026 年 AI 智能体指南》 &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iWExNeE1JOEpFSGN2WWNXRzhJTGxXWDVwa05fa2tvWU9LYUxaemppb2ppSnNkQWdES2JMUnExLWJtZHZuUVR2U2JJZGhva2gyQTNJ?oc=5",
+   "published_at": "2025-06-27T17:50:55+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iWExNeE1JOEpFSGN2WWNXRzhJTGxXWDVwa05fa2tvWU9LYUxaemppb2ppSnNkQWdES2JMUnExLWJtZHZuUVR2U2JJZGhva2gyQTNJ?oc=5\" target=\"_blank\">《2026 年 AI 智能体指南》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-10-21T09:00:53+00:00"
+  }
+ ]
+}

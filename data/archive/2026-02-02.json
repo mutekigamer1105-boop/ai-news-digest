@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1JWTRxVVNwY0h6SXM4VThaekZkVjdPVWljcVpxeXNQMTBqY1hFR3E3bUk2SjEyeEtWLThlR0d3Ri1aMkRRZlNlVE84UkhsdjRXTXlrUFlTeDVhb3hHYWd6dlVmTk5qbENlcEE?oc=5\" target=\"_blank\">清华“姚班”大神加入OpenAi，全球巨头正疯狂抢顶级人才</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新西兰中文先驱网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1089-75c2fa77e0",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体决策不应架空人类“数字主权” - 新华网",
+   "summary": "AI智能体决策不应架空人类“数字主权” &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQnBpM2VsVE1FSmtfRzFidG4wcWJwYnZqRE1JZ0hLY0o3VEhuaEZDV2hlcTA3ZmZ5NDVkR2ZOQXlhRVpsWHdHZnZLVTdIS01Mc2lVZEVHZHJwTm9TVzdBWTZFUW1hMGdCNDVsMXE2aW9OSTdkNDNpRnd4QmZMNm1KOA?oc=5",
+   "published_at": "2026-02-02T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQnBpM2VsVE1FSmtfRzFidG4wcWJwYnZqRE1JZ0hLY0o3VEhuaEZDV2hlcTA3ZmZ5NDVkR2ZOQXlhRVpsWHdHZnZLVTdIS01Mc2lVZEVHZHJwTm9TVzdBWTZFUW1hMGdCNDVsMXE2aW9OSTdkNDNpRnd4QmZMNm1KOA?oc=5\" target=\"_blank\">AI智能体决策不应架空人类“数字主权”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-10-21T09:00:53+00:00"
   }
  ]
 }

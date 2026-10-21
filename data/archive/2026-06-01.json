@@ -65,6 +65,30 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5YcGdNTS1iQzBpVjhiOC1wUmJPRkNHODVpaU1FZ2xPei1mUkZ0X0F5OHdyYlh0ZzRGWG0wVkhZQnVCeG1KX1hGUjF0SldCYWJyVGFwMmJ2Q0pxRll5OFhuRmxZUVFFLWxfYzJZYWxYNTZqOG4yS0xUb1h30gF_QVVfeXFMUG45ZkVYcTVydnVRZFB5M3RWMmcwMjRZS2Q5NlJCcVdZT205SDVVZGliRk10X1JnYWhOdVdiRzN6LU1Pd2NYT0J4bmZKQW5ReHVvVWhwUy1XYlFFeFI3Mmg0RWkzRl9hOEFlNmE0UGk4MTdUWDBndTZ4OGlGV21oSQ?oc=5\" target=\"_blank\">'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-1083-6e7aa5b1ce",
+   "source_id": "news",
+   "source_name": "NVIDIA",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "NVIDIA 发布面向物理 AI 的开源智能体工具和技能集合 - NVIDIA",
+   "summary": "NVIDIA 发布面向物理 AI 的开源智能体工具和技能集合 &nbsp;&nbsp; NVIDIA",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZTIzaTA5SGM2WkVPRDRrVldodnpDR3M3b2FtQTA0Mjh4MlNid3kwWXZtNHBmd0I3alNETkxoVEpQSER6dEVOTUpZai1TZ0R2R1hIUVlvaFJMWXlEREh3VV9JZ0RJT0JnQldLQXIzTXZsU21BSEEwaDJZYjRqUGFJaDNVQzdEMnl5UllBeDl6RWdxZ3I4WW9sYzY1M2hkTFVtWk5qbGdjOVFIWUMybW00cDRLYmhVR3c?oc=5",
+   "published_at": "2026-06-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPZTIzaTA5SGM2WkVPRDRrVldodnpDR3M3b2FtQTA0Mjh4MlNid3kwWXZtNHBmd0I3alNETkxoVEpQSER6dEVOTUpZai1TZ0R2R1hIUVlvaFJMWXlEREh3VV9JZ0RJT0JnQldLQXIzTXZsU21BSEEwaDJZYjRqUGFJaDNVQzdEMnl5UllBeDl6RWdxZ3I4WW9sYzY1M2hkTFVtWk5qbGdjOVFIWUMybW00cDRLYmhVR3c?oc=5\" target=\"_blank\">NVIDIA 发布面向物理 AI 的开源智能体工具和技能集合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
+   "fetched_at": "2026-10-21T09:00:53+00:00"
   }
  ]
 }

@@ -1,0 +1,27 @@
+{
+ "items": [
+  {
+   "id": "web-1092-bb95db49f1",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "优化 AI 智能体设计：提升对“提示注入”的免疫力 - OpenAI",
+   "summary": "优化 AI 智能体设计：提升对“提示注入”的免疫力 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU9OdVNFaVNQX1A3VUNDV1hyV092UWFSRXlNMGtpdnZFd3V3QmROc2p5bzVqdHYwSlVRdHZpSEh6WkhKaEF4TXFNVEVkT1NMUnE3Ukd0OUtackNTMTFCUWR3TWtseXdrcnp2ajJwNk5vVURjYTREUGVCUTV2UE90SjlYSDZSdU0?oc=5",
+   "published_at": "2026-03-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU9OdVNFaVNQX1A3VUNDV1hyV092UWFSRXlNMGtpdnZFd3V3QmROc2p5bzVqdHYwSlVRdHZpSEh6WkhKaEF4TXFNVEVkT1NMUnE3Ukd0OUtackNTMTFCUWR3TWtseXdrcnp2ajJwNk5vVURjYTREUGVCUTV2UE90SjlYSDZSdU0?oc=5\" target=\"_blank\">优化 AI 智能体设计：提升对“提示注入”的免疫力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-21T09:00:53+00:00"
+  }
+ ]
+}
