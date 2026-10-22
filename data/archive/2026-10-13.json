@@ -12526,6 +12526,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbFExbm5WbGdGUkl4aGEzMVVra2NDZXRXZ21IeTRvMUJheGp1SThmUUNFUzRjVFpydVY4Ui1jMzBzX2J5WXNEdTVNel9GeDZfV3l6NEd3aklwSU9sNkFPWTdMaDg4MUkxaEhlU0MxbXRadmxQX1QwX3M0dHBLREdvdXZIWWFRdWlkdHZZUFB6eTJFd1h0OWw3bkttWS1hM29JVXfSAbYBQVVfeXFMTmF3TjhUQVE2aFJUNmtOVVc5TUdGMklDV1h5eG9UU0ozNlJqV1FMTzFkUk9mV3I5VkFmUlNBZldKZmVOLUVWUGxlaHZndWcydlI4Uzk5NHhvYXE2OFd1UHhjWVlkQjVhenRpNkwwZlhrSUlmN01SYlBvS1FYYTJ4SHVKbWlLM2ZpVWxyQVZvMFNUQ1V0Q3lQV3BWb1JlMFV1ZXlqbWNlaHFEMzZrYV9VWmhYSC00QVE?oc=5\" target=\"_blank\">Kroger to lay off 3,000 employees as it leans into artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBTX News 3</font>",
    "fetched_at": "2026-10-19T09:28:16+00:00"
+  },
+  {
+   "id": "web-956-a4a2cc7701",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta打出AI翻身牌：新模型并肩行业巨头 暗示接下来还要加速 - 东方财富",
+   "summary": "Meta打出AI翻身牌：新模型并肩行业巨头 暗示接下来还要加速 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oaU12cDI2YTI2MWtDLU5ad09RMnZ0em84MVM3cUc1OVRMUHBLTUp5WVFteFpiWjVJUHoybnpKcW9sR3hnZk1QTFdrMF8tOUhkRUhiT2M4ckhOTHBrejg3NA?oc=5",
+   "published_at": "2026-10-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oaU12cDI2YTI2MWtDLU5ad09RMnZ0em84MVM3cUc1OVRMUHBLTUp5WVFteFpiWjVJUHoybnpKcW9sR3hnZk1QTFdrMF8tOUhkRUhiT2M4ckhOTHBrejg3NA?oc=5\" target=\"_blank\">Meta打出AI翻身牌：新模型并肩行业巨头 暗示接下来还要加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-22T09:03:22+00:00"
+  },
+  {
+   "id": "web-1108-f485bcf9d4",
+   "source_id": "news",
+   "source_name": "InfoQ-CN",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta、OpenAI、Google 集体杀入，个人 Agent 一夜爆红：YC CEO 说真正的 AGI 已经在你电脑里 - InfoQ-CN",
+   "summary": "Meta、OpenAI、Google 集体杀入，个人 Agent 一夜爆红：YC CEO 说真正的 AGI 已经在你电脑里 &nbsp;&nbsp; InfoQ-CN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RVUNpRHZpWmI3b01jb3czTy1rOElwNGdwWUxUYzZnQVdvTWFudUx4NDVDXzZ5c2N3dFpXRVI5MmdfVG5WVDREUGJWYVR0MlZkUlFmTXFtRXNfSHVxZUE?oc=5",
+   "published_at": "2026-10-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RVUNpRHZpWmI3b01jb3czTy1rOElwNGdwWUxUYzZnQVdvTWFudUx4NDVDXzZ5c2N3dFpXRVI5MmdfVG5WVDREUGJWYVR0MlZkUlFmTXFtRXNfSHVxZUE?oc=5\" target=\"_blank\">Meta、OpenAI、Google 集体杀入，个人 Agent 一夜爆红：YC CEO 说真正的 AGI 已经在你电脑里</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ-CN</font>",
+   "fetched_at": "2026-10-22T09:03:22+00:00"
   }
  ]
 }

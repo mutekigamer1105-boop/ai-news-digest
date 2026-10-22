@@ -11948,6 +11948,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1pLT2hoTlBBc0tjeFIzaEkyNXNENmplTzhCUjQtTU9wV1dkaEVGVHNsNWFXZDdJc3cycDllZE8ycjdMdVZ0WWtrY083STczR1poYmRpZGp5cGd2MUQ5ZVdyM1RMRzc0RlJ5ODJYTjFFZEFVWnVtMmxnMFlwUEYyd3lsbVlCWXczTzNzcnpPdXVqdXlQNkd6SkhERHpiYXVkTXVF?oc=5\" target=\"_blank\">Police receive fake murder tip from Anthropic’s Claude AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Malwarebytes</font>",
    "fetched_at": "2026-10-18T08:26:55+00:00"
+  },
+  {
+   "id": "web-1086-45f868c878",
+   "source_id": "news",
+   "source_name": "METR",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "评估方如何考察内部 AI 智能体的控制与监测 - METR",
+   "summary": "评估方如何考察内部 AI 智能体的控制与监测 &nbsp;&nbsp; METR",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iajZ3OTU0azBYckNwVElkbGN4Y1d1YjFVajRDRGMyV2l3cEw3ZFdJSF9BT0VXVF9qY1RWZy1oTlRGYmhFMUpCZlF4WnVsQi12cmhqMGN1YU1kNnB5NERCcGJnXzB3cV8xc2ZFbnRVemZDRFY2bDNuMA?oc=5",
+   "published_at": "2026-10-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9iajZ3OTU0azBYckNwVElkbGN4Y1d1YjFVajRDRGMyV2l3cEw3ZFdJSF9BT0VXVF9qY1RWZy1oTlRGYmhFMUpCZlF4WnVsQi12cmhqMGN1YU1kNnB5NERCcGJnXzB3cV8xc2ZFbnRVemZDRFY2bDNuMA?oc=5\" target=\"_blank\">评估方如何考察内部 AI 智能体的控制与监测</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">METR</font>",
+   "fetched_at": "2026-10-22T09:03:22+00:00"
   }
  ]
 }

@@ -196,6 +196,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5VanAyVjc1QlNVQXVfLS1xdjBxanNQUzY0TWRqU2lUcHBLM3pXMmtoVG5PRjRwWmJEV21mVTMxSlF1b2tfSUVKcjRDUVp3ekZzWGZsaTM0N1F6b193OHNSRmtRaGlCcTJWc21LZl95WlEtdw?oc=5\" target=\"_blank\">如何避免AI大模型“顺着你说”？专家支招</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央广网</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-990-27afc4651e",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续六周超美国全球前五中占四席：MiniMax M3冲进前三Claude两大模型跌出前五 - 东方财富",
+   "summary": "中国AI大模型调用量连续六周超美国全球前五中占四席：MiniMax M3冲进前三Claude两大模型跌出前五 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIMmxrTURSWGRrX3NMbGdtR3h4eTEyWWZpcjktTGxfX0l4MFNOYmNWTFYwRzlQX2JxOVRvYVJPbjVoR2lzeXlMcFQ2TUFWMkdmMTQ2THVnNm1Mbi1VenluVA?oc=5",
+   "published_at": "2026-06-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIMmxrTURSWGRrX3NMbGdtR3h4eTEyWWZpcjktTGxfX0l4MFNOYmNWTFYwRzlQX2JxOVRvYVJPbjVoR2lzeXlMcFQ2TUFWMkdmMTQ2THVnNm1Mbi1VenluVA?oc=5\" target=\"_blank\">中国AI大模型调用量连续六周超美国全球前五中占四席：MiniMax M3冲进前三Claude两大模型跌出前五</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-22T09:03:22+00:00"
   }
  ]
 }

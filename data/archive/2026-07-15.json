@@ -175,6 +175,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxObzhVWW5WR2h2MWlaWDZuQnNFOVpSVWZYbFhVcFRjN1lUTk1ldl9VOWFpbDJnR1lnWlNaSGN6LXFZZWJVTjZYMktxNHdtYzRkczlrcTlMeFoybFE1T250U28zMHpXUUV3MWhqY0NpS2ViSmJGeUtRcFFJSmZ6ZXp1RDhMY0FkZDVSVHBaOEZmM2JQRVVGd09TdHBaaTdoYzhTVnhRVVhmT29ENXNhTmNtOXNJYVI?oc=5\" target=\"_blank\">AI Startup Emergent Raises Funds at $1.5 Billion Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-961-4f06bbf216",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持 - 财联社",
+   "summary": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUNzlxNUduTl9EbzM5VkZKdFZLY1N3VDVGX01VQ2tKNTNYN28tVkVidFl6N3VEd205X1VDNEs5aEVSRzAycWpDMA?oc=5",
+   "published_at": "2026-07-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUNzlxNUduTl9EbzM5VkZKdFZLY1N3VDVGX01VQ2tKNTNYN28tVkVidFl6N3VEd205X1VDNEs5aEVSRzAycWpDMA?oc=5\" target=\"_blank\">7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-10-22T09:03:22+00:00"
   }
  ]
 }

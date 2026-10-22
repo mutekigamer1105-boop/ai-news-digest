@@ -177,6 +177,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xV20xLW45cFBwUUdUN2RjdXhwNkdZdml1MUM5aXB3NjlPdGl4RnM1UDNVWjVNTERzUGFza1FmS3JXTnVjbFBjb1BHZ3FydE1UclJXQk1ZYWl0XzNiQjJNWVZfMDI?oc=5\" target=\"_blank\">Efficient Segmentation with Multimodal Large Language Model via Token Routing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Association for the Advancement of Artificial Intelligence</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-286-214e580014",
+   "source_id": "news",
+   "source_name": "The Association for the Advancement of Artificial Intelligence",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "ST-LLM: Spatial Transcriptomics Embedding with Large Language Models - The Association for the Advancement of Artificial Intelligence",
+   "summary": "ST-LLM: Spatial Transcriptomics Embedding with Large Language Models &nbsp;&nbsp; The Association for the Advancement of Artificial Intelligence",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yc2ZCODBtNjZLZnpNMmJVcUNtYW9kLUttTUlNMFVMZjB6VFNYUzZWcTB6VlRCcE1UcnpwbWVvUjJFZzlYSkVUY1VwSW84REVZV3FGRmJQejBSdzctZHpQWGQwM3A?oc=5",
+   "published_at": "2026-03-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yc2ZCODBtNjZLZnpNMmJVcUNtYW9kLUttTUlNMFVMZjB6VFNYUzZWcTB6VlRCcE1UcnpwbWVvUjJFZzlYSkVUY1VwSW84REVZV3FGRmJQejBSdzctZHpQWGQwM3A?oc=5\" target=\"_blank\">ST-LLM: Spatial Transcriptomics Embedding with Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Association for the Advancement of Artificial Intelligence</font>",
+   "fetched_at": "2026-10-22T09:03:22+00:00"
   }
  ]
 }

@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjVwb0drVlJUUWNZbVhJWko0MnFzeXlWek9wVWp5Y3JhcTdsZ1BoeW9nUVZoQmk1MTV1VGQ4aVhsX1JFaE5kVEZYRlMtMVpfaHBSNGFLb2VYb1ZtaDlKMy15TXNMTmxoWnNzeXhWeXVUQk5SS1VzQXZOZmN5bjR5Y01Lcnc?oc=5\" target=\"_blank\">埃隆·马斯克在OpenAI诉讼中站在苹果一边，在X上与山姆·奥特曼互相攻击</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-11T10:28:09+00:00"
+  },
+  {
+   "id": "web-1171-1374d69c42",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 重置 Codex 和 ChatGPT Work 使用限额，需求激增 - Cryptopolitan",
+   "summary": "OpenAI 重置 Codex 和 ChatGPT Work 使用限额，需求激增 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajFGTWxEMi12TjdiYXI0UFM2SXI5WE9tWjVsS01Sa0s1ZFdPZW1OQVRoRFZQSkNaR0xuT25MSFNfNU1RN3hrQzFsZkZ2cDVYMjc0ZTZzeFZlblBfaE40YjkyanRFcXhOUDgtbklqUW9ib2E1MW9fNmkzUXM3dDJtb3Rn?oc=5",
+   "published_at": "2026-07-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNajFGTWxEMi12TjdiYXI0UFM2SXI5WE9tWjVsS01Sa0s1ZFdPZW1OQVRoRFZQSkNaR0xuT25MSFNfNU1RN3hrQzFsZkZ2cDVYMjc0ZTZzeFZlblBfaE40YjkyanRFcXhOUDgtbklqUW9ib2E1MW9fNmkzUXM3dDJtb3Rn?oc=5\" target=\"_blank\">OpenAI 重置 Codex 和 ChatGPT Work 使用限额，需求激增</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-22T09:03:22+00:00"
   }
  ]
 }

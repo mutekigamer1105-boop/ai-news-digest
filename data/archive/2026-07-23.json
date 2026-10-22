@@ -260,6 +260,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA1ZHpWLXJvaDBOeUEzMWhLcmZSc2NCUkQyeVZxZ3duRHd5dVY2UEhLb2tnUTdodzVydTlCcFNBS203MkNLWnlvQmltcVBqQWVabnBYNkZrREw3Z2JXUWVtS19YSEJxQVNySEsxRVM1WHdOQQ?oc=5\" target=\"_blank\">史无前例！OpenAI失控，入侵另一家公司！新西兰机构发提醒……</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新西兰中文先驱网</font>",
    "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-296-206da30141",
+   "source_id": "news",
+   "source_name": "IEEE Spectrum",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "NASA Puts Google’s Gemma Large Language Model in Orbit - IEEE Spectrum",
+   "summary": "NASA Puts Google’s Gemma Large Language Model in Orbit &nbsp;&nbsp; IEEE Spectrum",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JdVkwUnc1S1MwVWZ2bzVRUGFvM2FHcUY4UFlXN25XN2JIMnlmc0hDbDRPMXFfOXUtYnB2Rk9wcEIyVG9zV1piY3Zob0taMUpBSHJfRktHZDBuUFFCcmlCRENBNkJxRHVRc0E?oc=5",
+   "published_at": "2026-07-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1JdVkwUnc1S1MwVWZ2bzVRUGFvM2FHcUY4UFlXN25XN2JIMnlmc0hDbDRPMXFfOXUtYnB2Rk9wcEIyVG9zV1piY3Zob0taMUpBSHJfRktHZDBuUFFCcmlCRENBNkJxRHVRc0E?oc=5\" target=\"_blank\">NASA Puts Google’s Gemma Large Language Model in Orbit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IEEE Spectrum</font>",
+   "fetched_at": "2026-10-22T09:03:22+00:00"
   }
  ]
 }
