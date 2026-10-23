@@ -11795,6 +11795,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rUmhlSVFmV2Z6TEZEcUlQaGVHS2NEbnVCdmp0aEgtZlF4bzBZbzl2QlFOcnRQVXliTGxGWHJ2MXJsRC11dGh1Y21uOTVwT2VQaW1zbG1ZNDZGVXFyUXNNRQ?oc=5\" target=\"_blank\">再度包揽全球前五！中国AI大模型周调用量环比增长50.96%：阶跃星辰Step 5 Preview跻身前四，匿名模型“太空兔”跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-10-22T09:03:22+00:00"
+  },
+  {
+   "id": "web-972-2cd1015bb2",
+   "source_id": "news",
+   "source_name": "经济观察网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "《山东人工智能垂域大模型》系列短片之矿山篇：山东的矿山AI大模型，正在帮人守护作业安全 - 经济观察网",
+   "summary": "《山东人工智能垂域大模型》系列短片之矿山篇：山东的矿山AI大模型，正在帮人守护作业安全 &nbsp;&nbsp; 经济观察网",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY1pfMk1manBXcGFyN0UwYlEyd1JlNWpKbk5hbUNnNHNRRzF2Tm5YekRXUDF2ZDg5OVdSck12aGthdm9vR2VWUXQ0cjVGR25jV3BBdGVjSEc4QQ?oc=5",
+   "published_at": "2026-10-12T17:35:46+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY1pfMk1manBXcGFyN0UwYlEyd1JlNWpKbk5hbUNnNHNRRzF2Tm5YekRXUDF2ZDg5OVdSck12aGthdm9vR2VWUXQ0cjVGR25jV3BBdGVjSEc4QQ?oc=5\" target=\"_blank\">《山东人工智能垂域大模型》系列短片之矿山篇：山东的矿山AI大模型，正在帮人守护作业安全</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济观察网</font>",
+   "fetched_at": "2026-10-23T08:58:20+00:00"
   }
  ]
 }

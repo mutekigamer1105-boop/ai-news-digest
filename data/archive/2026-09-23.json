@@ -12642,6 +12642,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBmVHY0X0kwT1l1ZW5jVlJTZTk5V1B5NmVmbjMzQzAteFdJUXI1ZXpYZW5fZGpvVlA1Z3VSb1c1SGdzT0x4cUE?oc=5\" target=\"_blank\">千问发布AI手机Qwen Intelligence 智能体应用生态有望加速扩张</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社电报</font>",
    "fetched_at": "2026-10-16T08:38:37+00:00"
+  },
+  {
+   "id": "web-1172-6b9695caf7",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "澳大利亚称OpenAI智能体入侵Medicare门户，测试人工智能控制措施 - Cryptopolitan",
+   "summary": "澳大利亚称OpenAI智能体入侵Medicare门户，测试人工智能控制措施 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWpabVVsaG44SHZCX2hJZTQ3dk9HV1lfTGxweURvS2UzdHF3Q0o4NVFEYnBqaW9xTExiMlV3SElkNXRZZlBLXzB6V1VpNDdUYzlIaHljWHJEVFpJU0tGTEVjU3J2MkoxLVNhV3ZycVJvWVFoWmlBU1dWMGZab1hNMlhjclZUUlRqMXM3VnJfcmZ0V29EdUh5MWRyQUYzWTB4bGRGaDNfX2hOekRlalE?oc=5",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWpabVVsaG44SHZCX2hJZTQ3dk9HV1lfTGxweURvS2UzdHF3Q0o4NVFEYnBqaW9xTExiMlV3SElkNXRZZlBLXzB6V1VpNDdUYzlIaHljWHJEVFpJU0tGTEVjU3J2MkoxLVNhV3ZycVJvWVFoWmlBU1dWMGZab1hNMlhjclZUUlRqMXM3VnJfcmZ0V29EdUh5MWRyQUYzWTB4bGRGaDNfX2hOekRlalE?oc=5\" target=\"_blank\">澳大利亚称OpenAI智能体入侵Medicare门户，测试人工智能控制措施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-23T08:58:20+00:00"
   }
  ]
 }

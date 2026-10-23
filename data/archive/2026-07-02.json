@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHVTRm8yZ2ZLNmFkbGxtRmNrSEZCb1d4b0R5X09RRXZ3akQ3cUczdUxqUFlzSU5aWmdUYTFkLTl0RlJVbFp0M2gzdjl4b0IwVTkteTBSWjdDWmJyZ280dkpvNXgzY3pBTk9ZVDdxbFJ6R2IxYlN2SE1Wdm9PWEUwZE9HVGFNdDJ1eWxPeHoxV2Jsblo5?oc=5\" target=\"_blank\">Does intelligence ‘emerge’ in large language models?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Fe Institute</font>",
    "fetched_at": "2026-09-09T04:05:31+00:00"
+  },
+  {
+   "id": "web-284-83ba40238c",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "STARS: extending interactive task learning with large language models - Frontiers",
+   "summary": "STARS: extending interactive task learning with large language models &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUxLMHhOWjhMVzZWUm5BTnVmT0diZ3JVRXlGTTdfaFJJenNhUEk0VnhUdjR2N0ZKdU9xX0pGYmFwY0VOeTdpa2d6bGQ1b1RPQnhFaGNNM0N3azlTeG1nSmhWb2c3S2lmSDlDby1BcFd0MlotX3VHQ0tqMzBfcXdKTEJOZWZfN2MwSDRvVGhCVDRrMFlrdWJKLWFB?oc=5",
+   "published_at": "2026-07-02T20:04:11+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUxLMHhOWjhMVzZWUm5BTnVmT0diZ3JVRXlGTTdfaFJJenNhUEk0VnhUdjR2N0ZKdU9xX0pGYmFwY0VOeTdpa2d6bGQ1b1RPQnhFaGNNM0N3azlTeG1nSmhWb2c3S2lmSDlDby1BcFd0MlotX3VHQ0tqMzBfcXdKTEJOZWZfN2MwSDRvVGhCVDRrMFlrdWJKLWFB?oc=5\" target=\"_blank\">STARS: extending interactive task learning with large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-10-23T08:58:20+00:00"
   }
  ]
 }

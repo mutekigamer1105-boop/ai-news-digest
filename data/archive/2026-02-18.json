@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOQjNWeG9oN3JWYkxQeUhFTnpvd3lwelp4ZDI4VHlXVlZ6Z0J1UU5XandkbmZvdm16WFhIN1plZmJLWk5Yd19PUnpTMHBQZzNMd2p2MTMwclZsZTFUcnow?oc=5\" target=\"_blank\">A roadmap for evaluating moral competence in large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-265-8016b43e17",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The adoption and efficacy of large language models in US consumer financial complaints - Nature",
+   "summary": "The adoption and efficacy of large language models in US consumer financial complaints &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbk5HUG1SQ0xjRWVvSF9fTFFsWHh6MGhZaV9KRWRxaTF5LTZ2TnlpWDZOTW1Gb0J0UUJjSEt5ZkVKRldxd05qNXRxak9QN004c2otaF9uRWg4MjVWeWdR?oc=5",
+   "published_at": "2026-02-18T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rbk5HUG1SQ0xjRWVvSF9fTFFsWHh6MGhZaV9KRWRxaTF5LTZ2TnlpWDZOTW1Gb0J0UUJjSEt5ZkVKRldxd05qNXRxak9QN004c2otaF9uRWg4MjVWeWdR?oc=5\" target=\"_blank\">The adoption and efficacy of large language models in US consumer financial complaints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-10-23T08:58:20+00:00"
   }
  ]
 }

@@ -12571,6 +12571,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RVUNpRHZpWmI3b01jb3czTy1rOElwNGdwWUxUYzZnQVdvTWFudUx4NDVDXzZ5c2N3dFpXRVI5MmdfVG5WVDREUGJWYVR0MlZkUlFmTXFtRXNfSHVxZUE?oc=5\" target=\"_blank\">Meta、OpenAI、Google 集体杀入，个人 Agent 一夜爆红：YC CEO 说真正的 AGI 已经在你电脑里</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoQ-CN</font>",
    "fetched_at": "2026-10-22T09:03:22+00:00"
+  },
+  {
+   "id": "web-1164-aa3bfaf5cd",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI工程师因藏匿录音设备被起诉，AI技术双刃剑效应显现 - Cryptopolitan",
+   "summary": "OpenAI工程师因藏匿录音设备被起诉，AI技术双刃剑效应显现 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXJ2QkdMc1dqVjJsOGJBc1JoN2V3bFJ0NjljMGFRZ3I0YklvX2ttb0NzSHBFSnl1dW1BWWFhYVFHSi1WX2VuMHptZUJFaWpxUTBLSUljT3hlSXZ0UU1hc1NoNEpsZ0t5V2g5bjNzVjhpWUZMczdnWXZrVVkwV3dUZUxZckdOQ3VXbU84OC1yVEdER0YxLW1lWm41RlY1SnFtRW5SSHJ0UzJhdw?oc=5",
+   "published_at": "2026-10-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXJ2QkdMc1dqVjJsOGJBc1JoN2V3bFJ0NjljMGFRZ3I0YklvX2ttb0NzSHBFSnl1dW1BWWFhYVFHSi1WX2VuMHptZUJFaWpxUTBLSUljT3hlSXZ0UU1hc1NoNEpsZ0t5V2g5bjNzVjhpWUZMczdnWXZrVVkwV3dUZUxZckdOQ3VXbU84OC1yVEdER0YxLW1lWm41RlY1SnFtRW5SSHJ0UzJhdw?oc=5\" target=\"_blank\">OpenAI工程师因藏匿录音设备被起诉，AI技术双刃剑效应显现</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-23T08:58:20+00:00"
   }
  ]
 }

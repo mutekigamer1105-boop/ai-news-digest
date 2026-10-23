@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1156-93ac514876",
+   "source_id": "news",
+   "source_name": "OSCHINA",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 开源语音识别模型 Whisper - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+   "summary": "OpenAI 开源语音识别模型 Whisper - OSCHINA - 开源 × AI · 开发者生态社区 &nbsp;&nbsp; OSCHINA",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KNmJmTW55WU9yek5uRkdNR3ZDQzBhZG1XbGIwajNGZDdpd1BOeVNtdjdQWGpFY2NSZ2w3Vi1paktXQlBsYWhxV05Jdw?oc=5",
+   "published_at": "2022-09-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KNmJmTW55WU9yek5uRkdNR3ZDQzBhZG1XbGIwajNGZDdpd1BOeVNtdjdQWGpFY2NSZ2w3Vi1paktXQlBsYWhxV05Jdw?oc=5\" target=\"_blank\">OpenAI 开源语音识别模型 Whisper - OSCHINA - 开源 × AI · 开发者生态社区</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OSCHINA</font>",
+   "fetched_at": "2026-10-23T08:58:20+00:00"
+  }
+ ]
+}

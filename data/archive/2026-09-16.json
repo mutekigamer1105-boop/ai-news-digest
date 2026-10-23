@@ -12784,6 +12784,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGJrVUZLbXpZWGpfRnVMb3JmY1dxSy1MbkxQY2JtbnU3Z2RNTjFISWh0dVJOQ0dqZ3o5d2hDcEZIRnpXQ1lYVEIxV0p3ZGpObTk4U1doUGJvRmlpYUd6MDY3dHN2ZExIVWRiTmVlelhRT2M0S0wtdlVnM01XWlc2dmxNOTlIcE5q?oc=5\" target=\"_blank\">OpenAI与微软的版权之争成为检验人工智能商业模式的试金石</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-19T09:28:16+00:00"
+  },
+  {
+   "id": "web-984-77002526fc",
+   "source_id": "news",
+   "source_name": "经济参考报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "智象未来：以“世界模型”重构AI大模型新边界 - 经济参考报",
+   "summary": "智象未来：以“世界模型”重构AI大模型新边界 &nbsp;&nbsp; 经济参考报",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2UnBuNkJ5RzlPRVNPMEhHbUFEWTZtOVFvQlF5TXBpZGVpMmhTdm5ZZmw4dWZBUjR5WTRPb29qMnhobW5MT0M3WE1PaFNrUjBHTDVzMkdtejdwejB0Zy1EZXluOWVRWm5xZnZBQ3B2TlRnczdZcDN6RA?oc=5",
+   "published_at": "2026-09-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA2UnBuNkJ5RzlPRVNPMEhHbUFEWTZtOVFvQlF5TXBpZGVpMmhTdm5ZZmw4dWZBUjR5WTRPb29qMnhobW5MT0M3WE1PaFNrUjBHTDVzMkdtejdwejB0Zy1EZXluOWVRWm5xZnZBQ3B2TlRnczdZcDN6RA?oc=5\" target=\"_blank\">智象未来：以“世界模型”重构AI大模型新边界</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">经济参考报</font>",
+   "fetched_at": "2026-10-23T08:58:20+00:00"
   }
  ]
 }

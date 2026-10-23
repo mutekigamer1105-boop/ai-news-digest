@@ -14421,6 +14421,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOU3lQT3NORWZFUWFhY2tkREszNTcxVGxiVUNvQXBWbS1zNTdIY19HeGQ3MWFMdGxBdHU1SHJGNHNDSnRHTVd0VDZvMHNfSEt2WEhrUHg3OEJ4LUlLb0ZiLU5zdU92WWRuNDRNWWR0bzhWbnlDSjJGOXVJVEVYVFptQVozdEdiVmI5TENYZ19TVnFieTJhZXdhTlFDdzdXZDJkQlNfQnN5ajRZYk92Y3UwUExYVHd6cnpFQ2U0UWxRWVkxTW5DR3hISERwbw?oc=5\" target=\"_blank\">OpenAI's new AI tool was too capable. Now its release is delayed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scripps News</font>",
    "fetched_at": "2026-10-22T09:03:22+00:00"
+  },
+  {
+   "id": "web-767-d0d06996a8",
+   "source_id": "news",
+   "source_name": "The Hill",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI halts releasing newest model over safety concerns - The Hill",
+   "summary": "OpenAI halts releasing newest model over safety concerns &nbsp;&nbsp; The Hill",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU9OXzVMOExFOXlqd3dqdlNWekFQWnNaWGdOU0MyVkdjWktJbDFQODRmdWFOVFRKczZHWHBQd2NBblF3MGpEWC03akFFNVl0R3BSTGt6UUJ2R05Ra19pWFNGSnZhX25mRlVLX3h5T1BqTVc4UFpGOS1lS29NU3gxYU4wNGtQNUlmODZWTzB1SWRqcHY1TldsNXV2Q0Nocm1oUlpfR2ZMVS3SAa4BQVVfeXFMUHhGNDhrU1JWT1gyWjlsaXl5cjJ3RWVXODhsZmJFY0N6OTFqem9zcVJOUHlyaDJ3RWxfcnA5LWRUQlVqeF96VER2UlJwaVF0M0hmaXpQLU5jMGltYnlCZy1Xa2NKNU5uVV9wZzFmR1BPczRxUkJ1Y3RDMXhrNkdUbC00NXRhNnBLV1JlcDJYOVV5dDJ4bUJ4T2UwZUVYM3hCcWJMeEZodTJtaVFqdFdB?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU9OXzVMOExFOXlqd3dqdlNWekFQWnNaWGdOU0MyVkdjWktJbDFQODRmdWFOVFRKczZHWHBQd2NBblF3MGpEWC03akFFNVl0R3BSTGt6UUJ2R05Ra19pWFNGSnZhX25mRlVLX3h5T1BqTVc4UFpGOS1lS29NU3gxYU4wNGtQNUlmODZWTzB1SWRqcHY1TldsNXV2Q0Nocm1oUlpfR2ZMVS3SAa4BQVVfeXFMUHhGNDhrU1JWT1gyWjlsaXl5cjJ3RWVXODhsZmJFY0N6OTFqem9zcVJOUHlyaDJ3RWxfcnA5LWRUQlVqeF96VER2UlJwaVF0M0hmaXpQLU5jMGltYnlCZy1Xa2NKNU5uVV9wZzFmR1BPczRxUkJ1Y3RDMXhrNkdUbC00NXRhNnBLV1JlcDJYOVV5dDJ4bUJ4T2UwZUVYM3hCcWJMeEZodTJtaVFqdFdB?oc=5\" target=\"_blank\">OpenAI halts releasing newest model over safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+   "fetched_at": "2026-10-23T08:58:20+00:00"
   }
  ]
 }

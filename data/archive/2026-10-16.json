@@ -12434,6 +12434,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQUNUaWQtM2RucU9lOXptY1F6c0hmRERqVEVtT1g0QmFLSEQ1TjJSYWFvWkYwWWdoYUF6YnliYTVtNXhCWnZnSzhMOXg0eXAxOTRYLU5VbWN0MHNWSHY2TEx2ZVRISlotcHFvdnFWUkZFT0ZjYW1vdHNfY3k5WU8wclJJMEJ5X2tZaUN6NnVGVXBkc3h5YVN2UEdCaTBqcUhMTDhfUVZFZFQyOWFMMmpVZUxWVjhwcUhSODJkMENabEcxZnAtNmxEZUdweUhuV1JMUXkydnlldWlXY3BaSl9z?oc=5\" target=\"_blank\">Meta与苹果合作推出适配Mac的AI大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-10-22T09:03:22+00:00"
+  },
+  {
+   "id": "web-20-82f3eef599",
+   "source_id": "news",
+   "source_name": "Department of Energy (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "DOE Explains...Artificial Intelligence - Department of Energy (.gov)",
+   "summary": "DOE Explains...Artificial Intelligence &nbsp;&nbsp; Department of Energy (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41OVprOE5tN2lBVzZuck52RDRvRU9FU0JvNThpald0enFRaUNzSHBxY0QzVmVhWnJMMHNEUXAzUlNrRnFmOFBtNkpTUVhTQ1lkdFVFeXJpRUZodHAwWTZwMDQ1UzNfMThKTFZqSjZuWkxtOEl2?oc=5",
+   "published_at": "2026-10-16T17:30:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE41OVprOE5tN2lBVzZuck52RDRvRU9FU0JvNThpald0enFRaUNzSHBxY0QzVmVhWnJMMHNEUXAzUlNrRnFmOFBtNkpTUVhTQ1lkdFVFeXJpRUZodHAwWTZwMDQ1UzNfMThKTFZqSjZuWkxtOEl2?oc=5\" target=\"_blank\">DOE Explains...Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+   "fetched_at": "2026-10-23T08:58:20+00:00"
   }
  ]
 }
