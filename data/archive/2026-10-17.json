@@ -5667,6 +5667,73 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUFoSFEtVXdoNlptaEdMb3l5S3phY1Fna01lSGhSSlQtTXVCeTJLeGpVNWl0ZEl1TzctR0VlQW9iN25UVnBtNXpYNUxGS3VleXpMcWdpSnNLU29Jb0dRQURfZHFlZElWd1dtLWtPd1NidEs5NjY4UDlxWXM2SDI0Uk5rQzhYbWxiY2h3RllR?oc=5\" target=\"_blank\">AI智能体异常抓取高德地图数据，腾讯回应</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
    "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-951-40dce398b7",
+   "source_id": "news",
+   "source_name": "finance.sina.com.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "港股通重塑AI资产估值中枢大模型从价格战迈向价值战|AI大模型|Minimax|开源模型|资金|提价 - finance.sina.com.cn",
+   "summary": "港股通重塑AI资产估值中枢大模型从价格战迈向价值战|AI大模型|Minimax|开源模型|资金|提价 &nbsp;&nbsp; finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxQV2hmUXRKNklkNmRpbUMteXIzb1Y5U19UeEIyYldXaEZkVFd1b0RUTkZEWEg4NzhGN2FfcHI3VXVFRDA1SXBYSUhUc19PM1c3WDFvUEUtVkZmbUZtT19sanJuS0NqTEphZmhIOHVWZnFnb19FRU5IMUtXTkpKVUo3b2JHR3dGVkRlUXFNLXFkM0t6TmtRbEJZU2hsTVh0UW5LSG9feGFYS2JGYmZZQzRKc3hMbE5DUVI0emNLUUN2dENFbkFtM3dzODVaZHE1SXV6angwbUNVWExUSVhjSGZVOHd5VkR6YXM3Z0toZWgxQlJWQ1BaT1FuTWEzaDZfTm9acTI1YTZaSFZfMHZUajlkUU9wTWFPZnVRa0staEthQ0Iyc2c3d0dSVjlqbmV4ME9NVDQtZVJKS3lMYUtMTUVLQ3hRTFFtUG8tTHdvakJlajBMcUl1ekxJb0NkclpMR2dMQVNvbXVsR3NxZ243U0RMMzA5RXNjUWJ0Zk9GY29TUEJ1cnFvUTh4RHUzR3pQRnp2OG5wcEVGZEZTOHRSWkxYcFY1a0stM3lUY0V6djBCYVR3Y0paU1JQQUNDWXptNzAzd1B3RVBPUGE4VXJ0SVgzVkZKU0tTOXdXN2FYdXRKZlNBTEZYeGVMUld4Wkc0NUxoTVdfeWhSekY1VFhVRnRXN3lLUzhsVW5iWWQ5VkFtd1FVdnotTVlwaGU2R1RkMmdac014cE1xTDA4ZVE2Z0dyaGtQR0xSYzkwRG9RQWpOS21WU29XbXZSeV96Tko0Tjgza3BUeVV5dUVSTk5S?oc=5",
+   "published_at": "2026-10-17T15:40:59+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3ARBVV95cUxQV2hmUXRKNklkNmRpbUMteXIzb1Y5U19UeEIyYldXaEZkVFd1b0RUTkZEWEg4NzhGN2FfcHI3VXVFRDA1SXBYSUhUc19PM1c3WDFvUEUtVkZmbUZtT19sanJuS0NqTEphZmhIOHVWZnFnb19FRU5IMUtXTkpKVUo3b2JHR3dGVkRlUXFNLXFkM0t6TmtRbEJZU2hsTVh0UW5LSG9feGFYS2JGYmZZQzRKc3hMbE5DUVI0emNLUUN2dENFbkFtM3dzODVaZHE1SXV6angwbUNVWExUSVhjSGZVOHd5VkR6YXM3Z0toZWgxQlJWQ1BaT1FuTWEzaDZfTm9acTI1YTZaSFZfMHZUajlkUU9wTWFPZnVRa0staEthQ0Iyc2c3d0dSVjlqbmV4ME9NVDQtZVJKS3lMYUtMTUVLQ3hRTFFtUG8tTHdvakJlajBMcUl1ekxJb0NkclpMR2dMQVNvbXVsR3NxZ243U0RMMzA5RXNjUWJ0Zk9GY29TUEJ1cnFvUTh4RHUzR3pQRnp2OG5wcEVGZEZTOHRSWkxYcFY1a0stM3lUY0V6djBCYVR3Y0paU1JQQUNDWXptNzAzd1B3RVBPUGE4VXJ0SVgzVkZKU0tTOXdXN2FYdXRKZlNBTEZYeGVMUld4Wkc0NUxoTVdfeWhSekY1VFhVRnRXN3lLUzhsVW5iWWQ5VkFtd1FVdnotTVlwaGU2R1RkMmdac014cE1xTDA4ZVE2Z0dyaGtQR0xSYzkwRG9RQWpOS21WU29XbXZSeV96Tko0Tjgza3BUeVV5dUVSTk5S?oc=5\" target=\"_blank\">港股通重塑AI资产估值中枢大模型从价格战迈向价值战|AI大模型|Minimax|开源模型|资金|提价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
+  },
+  {
+   "id": "web-753-6d62cd97bc",
+   "source_id": "news",
+   "source_name": "Yahoo Finance UK",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "DeepSeek releases AI model update, opens search APIs to all users - Yahoo Finance UK",
+   "summary": "DeepSeek releases AI model update, opens search APIs to all users &nbsp;&nbsp; Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3RCeWpFc3hFVmN0eVVCOHZwRE9MandIZzN1UmtibXc3dFlfc3QxSU9DbExhbHEweW83YUFtc3NaMlhNM0p1U3BBYVQyQTkzS3dFMXEyX1o2d3hwY09oT0pPbE10NXJVWUo4MmlGTTRITVFROVJCaVdZX3lTQ3F0Z0JNTkVWNHd2?oc=5",
+   "published_at": "2026-10-17T15:04:10+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3RCeWpFc3hFVmN0eVVCOHZwRE9MandIZzN1UmtibXc3dFlfc3QxSU9DbExhbHEweW83YUFtc3NaMlhNM0p1U3BBYVQyQTkzS3dFMXEyX1o2d3hwY09oT0pPbE10NXJVWUo4MmlGTTRITVFROVJCaVdZX3lTQ3F0Z0JNTkVWNHd2?oc=5\" target=\"_blank\">DeepSeek releases AI model update, opens search APIs to all users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
+  },
+  {
+   "id": "web-1001-dc5815ce07",
+   "source_id": "news",
+   "source_name": "finance.sina.com.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta与苹果合作推出适配Mac的AI大模型|MUSE|AI模型|开源模型|Apple|AI人才 - finance.sina.com.cn",
+   "summary": "Meta与苹果合作推出适配Mac的AI大模型|MUSE|AI模型|开源模型|Apple|AI人才 &nbsp;&nbsp; finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxNRHFXcEVvSFBOWXJYUTBDM1Jxb19MTjJMdnNsVUY3UzJlVVJLZVVOT0dGQ05iRHVrRzJMclVvZzhOMkxocHNVZEtVT0ZkQUNJczZQX1ExTTNzUThUMjhOWHlibE14c2o2Unl4YnpLcTgyT0RVVjZKMDlWVlRpcTNpTGpGMXJUNldOajBTeWZfZlEzNDl1RUswUkVIVDFtZVh2aHBWVjM5UGNPRk84aE9fdkdRanF0NVRMODZ0Z0w1dVVWb1lremx4S1ZRS0o3NTYyT1hVdVlxcTlqN3BndXJGRXEzMkxKNGJWaVRmRHRvczJoRlRpeXdlcmNtOUZuTi1DcnkyMThEY0lSa2hZUzdQMy11SXg2WC1IUFdFVXlwVGFPcF9GZzJQOFhtWktkMF9NQjZmMnZZZ3NMUDllTnBUQi1lUzQ3T244c0YySjBLQnViV0R2TndXbXB6SzJrTXM1aU84cUlzYTVkWGkxS2xteTNrU3hKSGpoaGE0VEt3NFZQa1dabHVlRWQzN0RzSldHY29HS0pxMU5HbGJCbExfc3gzY19qLWxpdWh0RHpSSVQxWm85QlpXQ3RzZ1VBWXVzLVNrWi00NVFqWHlSM2Y5WVBmMEFMb3B1Yk9pWUJjS2VYMURaUTlpbkZwRWViUTJ2bjVHRnI0ZzVScWU4b05fNTRIdVV6OHhtUHI5cnE0dXlSSWtTdkJmZExmV0tXTDZ4aWc?oc=5",
+   "published_at": "2026-10-17T07:52:40+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogRBVV95cUxNRHFXcEVvSFBOWXJYUTBDM1Jxb19MTjJMdnNsVUY3UzJlVVJLZVVOT0dGQ05iRHVrRzJMclVvZzhOMkxocHNVZEtVT0ZkQUNJczZQX1ExTTNzUThUMjhOWHlibE14c2o2Unl4YnpLcTgyT0RVVjZKMDlWVlRpcTNpTGpGMXJUNldOajBTeWZfZlEzNDl1RUswUkVIVDFtZVh2aHBWVjM5UGNPRk84aE9fdkdRanF0NVRMODZ0Z0w1dVVWb1lremx4S1ZRS0o3NTYyT1hVdVlxcTlqN3BndXJGRXEzMkxKNGJWaVRmRHRvczJoRlRpeXdlcmNtOUZuTi1DcnkyMThEY0lSa2hZUzdQMy11SXg2WC1IUFdFVXlwVGFPcF9GZzJQOFhtWktkMF9NQjZmMnZZZ3NMUDllTnBUQi1lUzQ3T244c0YySjBLQnViV0R2TndXbXB6SzJrTXM1aU84cUlzYTVkWGkxS2xteTNrU3hKSGpoaGE0VEt3NFZQa1dabHVlRWQzN0RzSldHY29HS0pxMU5HbGJCbExfc3gzY19qLWxpdWh0RHpSSVQxWm85QlpXQ3RzZ1VBWXVzLVNrWi00NVFqWHlSM2Y5WVBmMEFMb3B1Yk9pWUJjS2VYMURaUTlpbkZwRWViUTJ2bjVHRnI0ZzVScWU4b05fNTRIdVV6OHhtUHI5cnE0dXlSSWtTdkJmZExmV0tXTDZ4aWc?oc=5\" target=\"_blank\">Meta与苹果合作推出适配Mac的AI大模型|MUSE|AI模型|开源模型|Apple|AI人才</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
   }
  ]
 }

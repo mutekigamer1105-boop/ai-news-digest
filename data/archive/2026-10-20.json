@@ -11287,6 +11287,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0JhUWwwQ19oa2tCN0xDa3JCR0tlMW10V1prVWtFcHBnX0dDNzhOQlJMX1UydVg2bEpuQk8zcGtKZGlEU20yQ0RINnBkQVZ3RFZzd1UzZ202WjVUTGVsMUZJZW5KSGhJc19FU2NpbGtjN1FpMWxndUFiZl8yM0NzWGdGcFNQSUtFUk1EejNtdw?oc=5\" target=\"_blank\">Muse能带火国内个人AI智能体吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
    "fetched_at": "2026-10-23T08:58:20+00:00"
+  },
+  {
+   "id": "web-1066-d1b5347466",
+   "source_id": "news",
+   "source_name": "新浪网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "「迪迪虾」重磅发布，比亚迪率先进入AI智能体时代 - 新浪网",
+   "summary": "「迪迪虾」重磅发布，比亚迪率先进入AI智能体时代 &nbsp;&nbsp; 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0FxUU5uakhCTV9TbFNKN25fSE82S01LU3BvUFBRRVc1VWw4NS1BYVZCUTJpcUxSd3o2X190SUxvU0hZMVF3SnNOQUFQb2QyOXN3OGRUb0w3WDNPRmdEa1p6Yk5QME1WRmJKb29IT0o1cG5na3BsZkt0SkFxM0ZvR0dzZERNVTJxT1dtdG1odw?oc=5",
+   "published_at": "2026-10-20T11:45:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0FxUU5uakhCTV9TbFNKN25fSE82S01LU3BvUFBRRVc1VWw4NS1BYVZCUTJpcUxSd3o2X190SUxvU0hZMVF3SnNOQUFQb2QyOXN3OGRUb0w3WDNPRmdEa1p6Yk5QME1WRmJKb29IT0o1cG5na3BsZkt0SkFxM0ZvR0dzZERNVTJxT1dtdG1odw?oc=5\" target=\"_blank\">「迪迪虾」重磅发布，比亚迪率先进入AI智能体时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
+  },
+  {
+   "id": "web-34-d55a243d45",
+   "source_id": "news",
+   "source_name": "UNESCO",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
+   "summary": "Call for papers: Advancing research on the Ethics of Artificial Intelligence &nbsp;&nbsp; UNESCO",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
+   "published_at": "2026-10-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5\" target=\"_blank\">Call for papers: Advancing research on the Ethics of Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNESCO</font>",
+   "fetched_at": "2026-10-24T08:31:59+00:00"
   }
  ]
 }

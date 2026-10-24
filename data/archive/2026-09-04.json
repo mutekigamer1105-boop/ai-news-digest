@@ -10888,6 +10888,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVV291X1I1V29yODdTUUY5ZnR6TERyTk5zZ1hpOF9CZW9YY2FYQjMtdHRTZzRZYzhVLV9hall1V2FQRVc0YjNRVmFnYmZuci1pTXctT2F1Q1RaYlJiWlppRFZ2aXRHdWNfb0MtV01lblA4SzFjMTh5azdlRHhadThwaWN2V0FHZlpiWnVvRkU5Nkw1WDNHRHdaY1NsZXk0eHQ0?oc=5\" target=\"_blank\">Anthropic uses Claude to formalize proof of Fermat’s Last Theorem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
    "fetched_at": "2026-10-21T09:00:53+00:00"
+  },
+  {
+   "id": "web-975-83190b6ea9",
+   "source_id": "news",
+   "source_name": "封面新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI发布“地球最强大模型”GPT-6 AI的“iPhone时刻”来了吗？｜科技观察 - 封面新闻",
+   "summary": "OpenAI发布“地球最强大模型”GPT-6 AI的“iPhone时刻”来了吗？｜科技观察 &nbsp;&nbsp; 封面新闻",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qdl83dEhsN2xYajVvWFJ3VTdhcy1KSVc4TlRnZzMwblIxSm1sZzIxLVBUTHk0YTQ0Z1hKWndubFhrNWs2VkFITWdGNmFCUlZBbzl2T0trZnF4VEtXMHljendXSQ?oc=5",
+   "published_at": "2026-09-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qdl83dEhsN2xYajVvWFJ3VTdhcy1KSVc4TlRnZzMwblIxSm1sZzIxLVBUTHk0YTQ0Z1hKWndubFhrNWs2VkFITWdGNmFCUlZBbzl2T0trZnF4VEtXMHljendXSQ?oc=5\" target=\"_blank\">OpenAI发布“地球最强大模型”GPT-6 AI的“iPhone时刻”来了吗？｜科技观察</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">封面新闻</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
   }
  ]
 }

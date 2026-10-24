@@ -12530,6 +12530,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1KbldCdy0xLW44SVF0eVZTNkxMUXpGc2ZIcFBUNDA2SmdnSEQ5Z254RDc0N3YyOHR2NWFJX2libUtoY3lYYUJfaEkxYmh2VWtLZ3dTbE9jdThFTGEyOUtQanZmLVh1ZFl1VVYyMVQxeXo?oc=5\" target=\"_blank\">2026 TMOT首个AI智能体即将亮相上海</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪上海</font>",
    "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-710-d35200a99f",
+   "source_id": "news",
+   "source_name": "The Guardian",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model - The Guardian",
+   "summary": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model &nbsp;&nbsp; The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0RHc3czZERxSklFc0VnWGlpTDV4VUpjVDJONmd2Mm9XYlRKUE5TUWUyNG1BVFJ0c044WGtINDBuR3VnUEdXV1puNkhveWx6QXdWT2tyc2RpUm9qS2M5eFI4ZVlnM3VaRE9mdVgtZDVOS1NwdGJMVTVJWkNVWHFiaHVfVnZQLVRQaU5JcF9nVi1aT0loWUltUnRKaThnVmdqaVV5UjdVMkxoR1E?oc=5",
+   "published_at": "2026-10-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0RHc3czZERxSklFc0VnWGlpTDV4VUpjVDJONmd2Mm9XYlRKUE5TUWUyNG1BVFJ0c044WGtINDBuR3VnUEdXV1puNkhveWx6QXdWT2tyc2RpUm9qS2M5eFI4ZVlnM3VaRE9mdVgtZDVOS1NwdGJMVTVJWkNVWHFiaHVfVnZQLVRQaU5JcF9nVi1aT0loWUltUnRKaThnVmdqaVV5UjdVMkxoR1E?oc=5\" target=\"_blank\">Meta releases Muse Spark Open, a new ‘open-weight’ AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
   }
  ]
 }

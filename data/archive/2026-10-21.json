@@ -12557,6 +12557,161 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDVNRXJndElaSnNKMWxmVm14U01RTkI3V09UWmFQdzZ3bF9BejJqT080Y0k4UVdnWnpFRlNtVWxPTURjSWkwMDBPU1l0ZFFoaDNzLUUxTjNvOUxmSUF1STU3OFdNQndIaHNSLUNfUVJQa21ubTM4QjdrSHYyU2R1VjM1aUE?oc=5\" target=\"_blank\">The $15bn ‘viral’ AI start-up changing how American doctors treat patients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
    "fetched_at": "2026-10-23T08:58:20+00:00"
+  },
+  {
+   "id": "web-426-72fe1e2ef8",
+   "source_id": "news",
+   "source_name": "Engadget",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Claude Duet Is Anthropic's Answer To Meta Muse And OpenAI Dots - Engadget",
+   "summary": "Claude Duet Is Anthropic's Answer To Meta Muse And OpenAI Dots &nbsp;&nbsp; Engadget",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZG9TT3FiN2RJS0EzYUVwOTZjZVRaQmVPZS1DX0pfclJzbTdKVnp2S0E5bkgtbWRaZDY2dXBMX25WV1ZmOXdQcmhiQ0FuSVl5Q0FvNFhVWk1kQTFDcTByYnVsdHA0RVRHYnpNa19TdXpHemIxNjV2MmNwb05rNlBzNTZRbDZlMXJsSWtRS28tdV9YeVZDbHNJNVo3RQ?oc=5",
+   "published_at": "2026-10-21T21:03:19+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZG9TT3FiN2RJS0EzYUVwOTZjZVRaQmVPZS1DX0pfclJzbTdKVnp2S0E5bkgtbWRaZDY2dXBMX25WV1ZmOXdQcmhiQ0FuSVl5Q0FvNFhVWk1kQTFDcTByYnVsdHA0RVRHYnpNa19TdXpHemIxNjV2MmNwb05rNlBzNTZRbDZlMXJsSWtRS28tdV9YeVZDbHNJNVo3RQ?oc=5\" target=\"_blank\">Claude Duet Is Anthropic's Answer To Meta Muse And OpenAI Dots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
+  },
+  {
+   "id": "web-209-effe16a386",
+   "source_id": "news",
+   "source_name": "Texas A&M Stories",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI models can get brain rot, too - Texas A&M Stories",
+   "summary": "AI models can get brain rot, too &nbsp;&nbsp; Texas A&M Stories",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLNFdqbGN3MnhjY0pFNVFRS2tjUVB1Q083Wm9rX3NFQXplQWRlRDh5LVZKTzR6VkhxYVdMSW5oU000NjhOVlJyY1ZkcVBJWDFyT255dWhYS3VEcjJPWXQydGNBSVIxR3RQeTFqUTJJTmFQaXBuM1NCOW5JNUpBdw?oc=5",
+   "published_at": "2026-10-21T16:21:11+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBLNFdqbGN3MnhjY0pFNVFRS2tjUVB1Q083Wm9rX3NFQXplQWRlRDh5LVZKTzR6VkhxYVdMSW5oU000NjhOVlJyY1ZkcVBJWDFyT255dWhYS3VEcjJPWXQydGNBSVIxR3RQeTFqUTJJTmFQaXBuM1NCOW5JNUpBdw?oc=5\" target=\"_blank\">AI models can get brain rot, too</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Texas A&M Stories</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
+  },
+  {
+   "id": "web-584-940876a0b2",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "CrowdStrike Gains 3.6% on Expanded NVIDIA AI Agent Security Deal: “Setting the Standard” - Yahoo Finance",
+   "summary": "CrowdStrike Gains 3.6% on Expanded NVIDIA AI Agent Security Deal: “Setting the Standard” &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmYwOTk1VzJiU2wtQWdWVVB3TW9PMXk2cnVWOXRCamxTc0VyRDB4c0lEdjItanNocXFfSE9rNEFERUJFUDJ1Nmw0d3NoLW10endOdllyZnczaTJxY2U2RUkzdGNpSW02M1dpYU4yc3BYVnd0QXpzVzMwRWlVZWRWakt0NFhvTXMxQUdGV3I2S3htUGpwbEhDTTJR?oc=5",
+   "published_at": "2026-10-21T15:19:10+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmYwOTk1VzJiU2wtQWdWVVB3TW9PMXk2cnVWOXRCamxTc0VyRDB4c0lEdjItanNocXFfSE9rNEFERUJFUDJ1Nmw0d3NoLW10endOdllyZnczaTJxY2U2RUkzdGNpSW02M1dpYU4yc3BYVnd0QXpzVzMwRWlVZWRWakt0NFhvTXMxQUdGV3I2S3htUGpwbEhDTTJR?oc=5\" target=\"_blank\">CrowdStrike Gains 3.6% on Expanded NVIDIA AI Agent Security Deal: “Setting the Standard”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
+  },
+  {
+   "id": "web-601-d5c791f5e3",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Elisa taps NVIDIA and Nokia for its journey towards commercial AI-RAN in Finland - Yahoo Finance",
+   "summary": "Elisa taps NVIDIA and Nokia for its journey towards commercial AI-RAN in Finland &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPam5MTFRZU2RiM2lUV0dUa1BHRHZuVHdRS29Ec1NsWWVORU5zdDlUaGZkQUMxaXNLU0I3Wm9Ebk56MHZ3SkM2ek1LTjJiYko2eFFUTTVYTHcydEhuaHZJWDNkOVM1eDZqanZoTHpCRm16X0ZRclVFRVptaHgwNXF3Mkd3Q0xyam5La2pBSVBEMGNPdVJYakRkSDhIUQ?oc=5",
+   "published_at": "2026-10-21T12:32:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPam5MTFRZU2RiM2lUV0dUa1BHRHZuVHdRS29Ec1NsWWVORU5zdDlUaGZkQUMxaXNLU0I3Wm9Ebk56MHZ3SkM2ek1LTjJiYko2eFFUTTVYTHcydEhuaHZJWDNkOVM1eDZqanZoTHpCRm16X0ZRclVFRVptaHgwNXF3Mkd3Q0xyam5La2pBSVBEMGNPdVJYakRkSDhIUQ?oc=5\" target=\"_blank\">Elisa taps NVIDIA and Nokia for its journey towards commercial AI-RAN in Finland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
+  },
+  {
+   "id": "web-220-ae712359ed",
+   "source_id": "news",
+   "source_name": "SECURITY.COM",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks - SECURITY.COM",
+   "summary": "Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks &nbsp;&nbsp; SECURITY.COM",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81QlE4WFFHTUZDem9ZUEhYRG1BUEN0RFp5N0M1bmtYN2tJdlVFbWZhOGtRZnhsVkx0aThVeTBTTzlFaXAzZU1TS29FMW5mODUxbHZBV3BVbElrcmNJY0NfMW5McTA1OVE3N29UUWktbmpKZEE?oc=5",
+   "published_at": "2026-10-21T10:19:21+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE81QlE4WFFHTUZDem9ZUEhYRG1BUEN0RFp5N0M1bmtYN2tJdlVFbWZhOGtRZnhsVkx0aThVeTBTTzlFaXAzZU1TS29FMW5mODUxbHZBV3BVbElrcmNJY0NfMW5McTA1OVE3N29UUWktbmpKZEE?oc=5\" target=\"_blank\">Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SECURITY.COM</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
+  },
+  {
+   "id": "web-15-2e085bae01",
+   "source_id": "news",
+   "source_name": "U.S. Department of War (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Super Intelligence - U.S. Department of War (.gov)",
+   "summary": "Super Intelligence &nbsp;&nbsp; U.S. Department of War (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZ2otZUZNdk9MbGMtVlpSTXZSS05kV2x2RWR5bTU1ZlVsY1hTTTcwV04xOXA1TmJfdlhIVVZLZHFibklnYkJ4TWpjR2ZoVWxMcHpFR1dFd2VlRmVjcTdv?oc=5",
+   "published_at": "2026-10-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wZ2otZUZNdk9MbGMtVlpSTXZSS05kV2x2RWR5bTU1ZlVsY1hTTTcwV04xOXA1TmJfdlhIVVZLZHFibklnYkJ4TWpjR2ZoVWxMcHpFR1dFd2VlRmVjcTdv?oc=5\" target=\"_blank\">Super Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Department of War (.gov)</font>",
+   "fetched_at": "2026-10-24T08:31:59+00:00"
+  },
+  {
+   "id": "web-356-cbb82c83a7",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "How AT&T is rethinking in-house legal work with OpenAI - OpenAI",
+   "summary": "How AT&T is rethinking in-house legal work with OpenAI &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02dDdIYUFlOWx4LVR0LURHaU9SNkxnd3c2aFhKeEhhYzRuSUhkLTBQYVJBMGVaSE8xdzRGdVBGRmZDcUJ6Mkx5eHpuSQ?oc=5",
+   "published_at": "2026-10-21T04:40:28+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE02dDdIYUFlOWx4LVR0LURHaU9SNkxnd3c2aFhKeEhhYzRuSUhkLTBQYVJBMGVaSE8xdzRGdVBGRmZDcUJ6Mkx5eHpuSQ?oc=5\" target=\"_blank\">How AT&T is rethinking in-house legal work with OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
   }
  ]
 }

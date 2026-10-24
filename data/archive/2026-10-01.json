@@ -9342,6 +9342,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOTUgtNmFaZXhmM2tka0Zub2xsNUVxSHZkaE5zRzRNcGxzTEhqR2FOcDlfdnNEOEsyMlRqcmlNcWRHXzBOQS1FY2VROWx2Ty1QaEZWbEhHT3VnS1pfVHZKZm1Gektya2dHWXFGbGVrLVJfQ2tLa2wtYXF3bDlFbHV1UGh0SURUZw?oc=5\" target=\"_blank\">Training novices to think in the age of large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CEPR</font>",
    "fetched_at": "2026-10-22T09:03:22+00:00"
+  },
+  {
+   "id": "web-230-4c4c374e33",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Generative AI and Large Language Models in Medicine: Applications, Challenges, and Opportunities - Frontiers",
+   "summary": "Generative AI and Large Language Models in Medicine: Applications, Challenges, and Opportunities &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUXRtdzR3X3phUWdWQlBSTlJaTGUyQnd6SXVEOEVVSlpOYV9aR2lneXBnUzh2WVJFNzNpYVZqS0VBVVZEQlJ3RHp3SUpGeEpOdnN0cUVtSkw5WWhiM1lQS1ZaUmhBWHJHRHVSQlFqdWNRNVlsWW5mRjNlUkFOSWdJRWhqNWRNM0h6ZGdicU44TFlNb2pyYVBXeFl2Q1E5dzFselBsYWtuZWRZZk1aZ3ltVUZFZHB3dHgyLXd2a0JDUFBMLW5yazRzUkRON0N5TG42TTZrZTBlT0hIMWhFRlhycXp5NG9PSEk?oc=5",
+   "published_at": "2026-10-01T14:21:33+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUXRtdzR3X3phUWdWQlBSTlJaTGUyQnd6SXVEOEVVSlpOYV9aR2lneXBnUzh2WVJFNzNpYVZqS0VBVVZEQlJ3RHp3SUpGeEpOdnN0cUVtSkw5WWhiM1lQS1ZaUmhBWHJHRHVSQlFqdWNRNVlsWW5mRjNlUkFOSWdJRWhqNWRNM0h6ZGdicU44TFlNb2pyYVBXeFl2Q1E5dzFselBsYWtuZWRZZk1aZ3ltVUZFZHB3dHgyLXd2a0JDUFBMLW5yazRzUkRON0N5TG42TTZrZTBlT0hIMWhFRlhycXp5NG9PSEk?oc=5\" target=\"_blank\">Generative AI and Large Language Models in Medicine: Applications, Challenges, and Opportunities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
   }
  ]
 }

@@ -10241,6 +10241,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5\" target=\"_blank\">Introducing Claude Haiku 5.5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-10-21T09:00:53+00:00"
+  },
+  {
+   "id": "web-900-1e6184e2de",
+   "source_id": "news",
+   "source_name": "RFI",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "台湾朝鲜南海…… “少兵多机器人”人工智能和无人机如何重塑亚洲军备竞赛 可能引发战争 中国军事拥抱机器人AI 美国担忧 - RFI",
+   "summary": "台湾朝鲜南海",
+   "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxQcFlRMS01NTRmbEQ3enNRQW9iSEFyUWdsSllLeHBVTmxJbTdOQUNOZTUwRkRVejlIODNwdEU5YmdyenNaRHZOMzJTM2drbDhNVGg4SldKMUxoWHpjUU5yWEdhdS04MnZnc0lLLUpWaC1tWWxERjNObUNsYXZZaEl2aDhZUmJlb0VLdGRoZHRqd3lxcGsyT1g5N0dEMjluNjNTdVFkSE9hNjNOa09KemIxV2FfRlp5VG41NFJ4TG54MFdTMEJpazJKZ3Rna25SdENFMXFlSmRCLUVDUmZSTjBncEFsZTZ6V2gyclVRUzJKNGw4dTZuVTB3T004ZTFPclVBU01CX1JpYWFEUF9SazEyWWxXSUNPTUp1am5oeF9NNUZpcW0waFlwdzhJaWJVWHVNQWlDZldzWm5KSC1EYVV0eENDelZua1hpTkU4OERvVGhwaHdyUlpSZEFLd2R4aGg2ekpsUTlGQTd1d0tkclptMUdZLXVkclN6Snh1bTlrdFBxclJId2R6NGhOLXpVeHZaT1N0LWVUZDdOaTJRRUZjUUVYRFVXQWVpRnA2MFhLckNENmlOUFBOSDIyTDhoeHdFMUtGN2tNZTRuT0VLd1FodjhnZFE4aUVVTFpPSUU3RFVqT0dKTTVEV2JNcUxyTjNwLTFkc0JiMkUxdnBFalBKSHNTWGxJaWdkZTZzN1RlY3FzNDAzLTA2emFicTItWHNtbERZQWhQT3FvSGhmTm9kcHV5dDg5RS0yT0o1b3FET0FvQ0xGdkc5S01fUzRWdExSd09SS3JITDNTUXg0R2JLRGl0YlFoMXNIaEw0X1Vvd1JYX2I3Y0cwcEFTWlNuNWtvLXlRQTRKN0x5R2xoQ1Q4ME51ZHBFTlNHRHc4SFJQbklsVVBxOWNmWlNUSlN0VXVUVVdqMDlBQQ?oc=5",
+   "published_at": "2026-10-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitwVBVV95cUxQcFlRMS01NTRmbEQ3enNRQW9iSEFyUWdsSllLeHBVTmxJbTdOQUNOZTUwRkRVejlIODNwdEU5YmdyenNaRHZOMzJTM2drbDhNVGg4SldKMUxoWHpjUU5yWEdhdS04MnZnc0lLLUpWaC1tWWxERjNObUNsYXZZaEl2aDhZUmJlb0VLdGRoZHRqd3lxcGsyT1g5N0dEMjluNjNTdVFkSE9hNjNOa09KemIxV2FfRlp5VG41NFJ4TG54MFdTMEJpazJKZ3Rna25SdENFMXFlSmRCLUVDUmZSTjBncEFsZTZ6V2gyclVRUzJKNGw4dTZuVTB3T004ZTFPclVBU01CX1JpYWFEUF9SazEyWWxXSUNPTUp1am5oeF9NNUZpcW0waFlwdzhJaWJVWHVNQWlDZldzWm5KSC1EYVV0eENDelZua1hpTkU4OERvVGhwaHdyUlpSZEFLd2R4aGg2ekpsUTlGQTd1d0tkclptMUdZLXVkclN6Snh1bTlrdFBxclJId2R6NGhOLXpVeHZaT1N0LWVUZDdOaTJRRUZjUUVYRFVXQWVpRnA2MFhLckNENmlOUFBOSDIyTDhoeHdFMUtGN2tNZTRuT0VLd1FodjhnZFE4aUVVTFpPSUU3RFVqT0dKTTVEV2JNcUxyTjNwLTFkc0JiMkUxdnBFalBKSHNTWGxJaWdkZTZzN1RlY3FzNDAzLTA2emFicTItWHNtbERZQWhQT3FvSGhmTm9kcHV5dDg5RS0yT0o1b3FET0FvQ0xGdkc5S01fUzRWdExSd09SS3JITDNTUXg0R2JLRGl0YlFoMXNIaEw0X1Vvd1JYX2I3Y0cwcEFTWlNuNWtvLXlRQTRKN0x5R2xoQ1Q4ME51ZHBFTlNHRHc4SFJQbklsVVBxOWNmWlNUSlN0VXVUVVdqMDlBQQ?oc=5\" target=\"_blank\">台湾朝鲜南海…… “少兵多机器人”人工智能和无人机如何重塑亚洲军备竞赛 可能引发战争 中国军事拥抱机器人AI 美国担忧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RFI</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
   }
  ]
 }

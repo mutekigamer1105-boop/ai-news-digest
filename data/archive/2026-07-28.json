@@ -174,6 +174,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE15UXNtZEpBMDM2NGpsTERULTY4WWpVcW4wNi1hcWJaWEc5aURGVlVZdU1LQ0NfYlNmcWVzdXZsaG1sSnV3cklYeV9aMHlWVDltZWZ6NGtFclYzWFkxLU5CTW9QMXp6am9aX3JHUEhrTVJXRlVDb2kw?oc=5\" target=\"_blank\">智能体 AI 时代的科学计算</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-690-7d322eebe4",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI Seed Investors Flock To Cybersecurity - Crunchbase News",
+   "summary": "AI Seed Investors Flock To Cybersecurity &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHd3a2JnVHFuSFlLRmFSYU9BVFpXZkowa2FnZE1uak41di1tUFZVbUpSQ19kVlJyRXZ3bUcwUGh2YVhGbl95YmR3THdhUXBJREdxbVQzMzBmYlpOcGZlSVFpQ1dCWXFDM3dPQmdjNm1lcDF2MHJ5Vk5oNXZPd2NKUm5sT2JQS3lNeDJBMER0WEs?oc=5",
+   "published_at": "2026-07-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxObHd3a2JnVHFuSFlLRmFSYU9BVFpXZkowa2FnZE1uak41di1tUFZVbUpSQ19kVlJyRXZ3bUcwUGh2YVhGbl95YmR3THdhUXBJREdxbVQzMzBmYlpOcGZlSVFpQ1dCWXFDM3dPQmdjNm1lcDF2MHJ5Vk5oNXZPd2NKUm5sT2JQS3lNeDJBMER0WEs?oc=5\" target=\"_blank\">AI Seed Investors Flock To Cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
   }
  ]
 }

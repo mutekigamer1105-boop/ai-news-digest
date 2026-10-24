@@ -85,6 +85,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWduQjI5SHFzZ1I4SV9vb1ZwUWxnSlZ5NDM2b2IxLTRBOFMyQVJ1YUkyV2RrZ2FhTjlHY1RYTGdDNDdwcHJzWVhFcGZmWkxSS2kxcWJRUlozeWEzaXhvdHVadkdzRlRUc1RWOFdVbDJRbFQ0R195VFZXMnpsMWlVMUNoUTM3U0o5WXpCTWFqd0xXLXBwRGdKQTJxNmxHWlk?oc=5\" target=\"_blank\">Artificial Intelligence (AI)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NCUA (.gov)</font>",
    "fetched_at": "2026-09-29T04:05:44+00:00"
+  },
+  {
+   "id": "web-253-4755596e76",
+   "source_id": "news",
+   "source_name": "RAND",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Evaluating Large Language Models' Abilities to Process and Understand Technical Policy Reports - RAND",
+   "summary": "Evaluating Large Language Models' Abilities to Process and Understand Technical Policy Reports &nbsp;&nbsp; RAND",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qOGVpRVY2azN6dW5KZ1hoVGZXSGxzTEF0T1E5QkdvOVd5VHFZS2dXZ0c4OFdYb0JLRTFrdm9acFNvemo0QW9vNE5WZ205TlV2VzduZTJfNlRpcm1RNkpUNkRETGdWUU9a?oc=5",
+   "published_at": "2026-04-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qOGVpRVY2azN6dW5KZ1hoVGZXSGxzTEF0T1E5QkdvOVd5VHFZS2dXZ0c4OFdYb0JLRTFrdm9acFNvemo0QW9vNE5WZ205TlV2VzduZTJfNlRpcm1RNkpUNkRETGdWUU9a?oc=5\" target=\"_blank\">Evaluating Large Language Models' Abilities to Process and Understand Technical Policy Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RAND</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
   }
  ]
 }

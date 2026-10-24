@@ -306,6 +306,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNdGE5Rm0taGZ0NEd0NDBYTjhlbDZueFc4V3pER0hLNWdZOUdtX1JRYk5ZMDdMekk4Q1AyT0p6bTkzSnBSam5uSlYwRDFVT1dQZFMzaQ?oc=5\" target=\"_blank\">开放智能体规范 (Agent Spec)：AI智能体的统一表示</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alphaXiv</font>",
    "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-637-b3b4441678",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI Startup Cognition in New Funding Talks at $40 Billion Value - Bloomberg.com",
+   "summary": "AI Startup Cognition in New Funding Talks at $40 Billion Value &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1YzbC1pbmE3QnN1WU95NGFWQlNrR1BlZnNfaDZvLXRKbXQ1NGJEYnlJckgyai01NFB5YkVuTWxXbGdrbW5SX1NxWUh3ek5kQ1BpM2lVV1RNME5NSUFtTzF3aVBESGhTYW5wVG9VZkdqRUt2MG1sNWhKV0x1NUE2Q0hKb2kzTkRLT19YNU9KU1JPMmthYUc3dWQwWE9malo2cG9kS2tlanBaM2N6R2hSaThR?oc=5",
+   "published_at": "2026-08-12T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1YzbC1pbmE3QnN1WU95NGFWQlNrR1BlZnNfaDZvLXRKbXQ1NGJEYnlJckgyai01NFB5YkVuTWxXbGdrbW5SX1NxWUh3ek5kQ1BpM2lVV1RNME5NSUFtTzF3aVBESGhTYW5wVG9VZkdqRUt2MG1sNWhKV0x1NUE2Q0hKb2kzTkRLT19YNU9KU1JPMmthYUc3dWQwWE9malo2cG9kS2tlanBaM2N6R2hSaThR?oc=5\" target=\"_blank\">AI Startup Cognition in New Funding Talks at $40 Billion Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-10-24T08:32:00+00:00"
   }
  ]
 }
