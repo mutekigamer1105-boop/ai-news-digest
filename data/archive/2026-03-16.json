@@ -66,6 +66,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iWnQxSy1zbkpJTjNqcW83ZTFzOWhCREkxdEJYelJoNTJkMGctbmVJVUZsWU84MVMxdnVHeDN4ME1EeWhMcExRX2x3c0VDS1FT?oc=5\" target=\"_blank\">NVIDIA 借助开放智能体开发平台，开启知识工作领域的下一次行业变革</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
    "fetched_at": "2026-10-21T09:00:53+00:00"
+  },
+  {
+   "id": "web-762-5788ce1e00",
+   "source_id": "mistral",
+   "source_name": "Mistral AI",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "Introducing Mistral Small 4 - Mistral AI",
+   "summary": "Introducing Mistral Small 4 &nbsp;&nbsp; Mistral AI",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aZEwyR3JHR0swOXdSWHFFa01DQ2oxRG02Xy12M3ZEQ0pnNFd3NGJRSVo0TzRiaGhBdGNVLUM2UHdQa3BhS0w2VmwxTHl3UmI5Tmc?oc=5",
+   "published_at": "2026-03-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aZEwyR3JHR0swOXdSWHFFa01DQ2oxRG02Xy12M3ZEQ0pnNFd3NGJRSVo0TzRiaGhBdGNVLUM2UHdQa3BhS0w2VmwxTHl3UmI5Tmc?oc=5\" target=\"_blank\">Introducing Mistral Small 4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mistral AI</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

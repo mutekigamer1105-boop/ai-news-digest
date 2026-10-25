@@ -42,6 +42,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwcWpRT2djMGhSR2hqVHRRVXJkUDFFQWdhWEgtVzIyTnFZZUtPR3ZjRHNXcEkteGhhMDZfNzNOLThLcXNYZnFpQk0yMGplVU1yOHFsSXVKM2ItcFVha04zX3JwaWw?oc=5\" target=\"_blank\">隆重推出 IndQA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-09-25T04:05:21+00:00"
+  },
+  {
+   "id": "web-693-9774b9bd65",
+   "source_id": "news",
+   "source_name": "AI Funding Tracker",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Weekly AI Startup Funding: October 26 to November 1, 2025 - AI Funding Tracker",
+   "summary": "Weekly AI Startup Funding: October 26 to November 1, 2025 &nbsp;&nbsp; AI Funding Tracker",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1seVBZQURNaEJoYU1Dak5GeEt2N001U3JhWXRISDFWSnFyNjVRX25jNEJZZXkyQ0h4a05LY3ljLTNXb2RFUzJrTmhIZGxwMThLTmViTm1MMERpUENNeTZNS1Y0YWNLbEUtWVE?oc=5",
+   "published_at": "2025-11-03T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1seVBZQURNaEJoYU1Dak5GeEt2N001U3JhWXRISDFWSnFyNjVRX25jNEJZZXkyQ0h4a05LY3ljLTNXb2RFUzJrTmhIZGxwMThLTmViTm1MMERpUENNeTZNS1Y0YWNLbEUtWVE?oc=5\" target=\"_blank\">Weekly AI Startup Funding: October 26 to November 1, 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Funding Tracker</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

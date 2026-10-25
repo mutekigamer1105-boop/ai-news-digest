@@ -11649,6 +11649,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNN253ZVo1a19jdWlBRG5VdmVxYldxelhDSnBuVE4xUzBxLWhyc0lWUUthWE4temZ1QkxoeFBNcTdjVGtTdzUyc1NkQXQybklqdmRyZmd3RWZ5eGdNQUhXZzN3YkVtSVlTMkpmakxXbWZtQlk4cXFHV1lLOTJXSlBTWWdvaWUxdks3c3k5MVRWVHR2TUV4bGNTTUp1NmtiUVdRS0E?oc=5\" target=\"_blank\">OpenAI models went rogue. We urgently need a better Hugging Face investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
    "fetched_at": "2026-10-20T09:01:42+00:00"
+  },
+  {
+   "id": "web-868-718fab7e39",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "外交部：中美都是人工智能大国 应加强合作 - 新华网",
+   "summary": "外交部：中美都是人工智能大国 应加强合作 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJc043MHJoMFBGQUVRRy16aWRhM3o3ZmdVZmt0RDIwcEwzRVh5V2Mxc3RaTW9CakczLWZialJ0RVNQZTcxV3BHaDhyb3J0SGRUczJLWmJKNTd5eFdYN05yTGxLeTdxNnI5MzBTR29pQ1luMXVEVlV6QUVzQXRNR2s?oc=5",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBJc043MHJoMFBGQUVRRy16aWRhM3o3ZmdVZmt0RDIwcEwzRVh5V2Mxc3RaTW9CakczLWZialJ0RVNQZTcxV3BHaDhyb3J0SGRUczJLWmJKNTd5eFdYN05yTGxLeTdxNnI5MzBTR29pQ1luMXVEVlV6QUVzQXRNR2s?oc=5\" target=\"_blank\">外交部：中美都是人工智能大国 应加强合作</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

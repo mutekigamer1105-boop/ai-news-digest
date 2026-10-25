@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-770-344bbc652e",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "GPT-2: 1.5B release - OpenAI",
+   "summary": "GPT-2: 1.5B release &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBERVBGYUktcm5PbkpOQTFPS0JLclB4QXlXQTdJa0p5UEV4bVZfNENFYmhxSGdKNHlIaU90TDZpdWYtcWdUTlA0LW9qUjRVNlQxQ2swNDM0NA?oc=5",
+   "published_at": "2019-11-05T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBERVBGYUktcm5PbkpOQTFPS0JLclB4QXlXQTdJa0p5UEV4bVZfNENFYmhxSGdKNHlIaU90TDZpdWYtcWdUTlA0LW9qUjRVNlQxQ2swNDM0NA?oc=5\" target=\"_blank\">GPT-2: 1.5B release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
+  }
+ ]
+}

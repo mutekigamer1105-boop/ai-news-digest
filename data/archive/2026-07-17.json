@@ -435,6 +435,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQTks3NC0zUmVLY3lnRUJmLTZOeExkcENlUHZNV1ktM2p2WW9YTDNQaC1xWllHRUlNVmdqUkh3andHSWc2eHkxX0owYno5WGtfUlZsenplZHRTb1dyTHdWSEtMbEtZZm9LeldJSEtfay1oejlQbjBZcUhkay1ObDZvT2lfaw?oc=5\" target=\"_blank\">中国 Moonshot AI Kimi K3 缩小了与 OpenAI 和 Anthropic 的差距</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-07T10:44:22+00:00"
+  },
+  {
+   "id": "web-643-8ac307575c",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The Week’s 10 Biggest Funding Rounds: No Summer Doldrums As Dollars Still Flow To AI - Crunchbase News",
+   "summary": "The Week’s 10 Biggest Funding Rounds: No Summer Doldrums As Dollars Still Flow To AI &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzZBbHlHMHNxOTlfal9mZ3RzdGNuMXBTUzZ3VDNicENBTjFPZE9vMEU0dklUYWh2RGxyVWk1VmIwU3Mybjk3RkxRbjZUZDFwd1VKekRkQWY2ell1bTM1czd2MHpzTi01aF83ejAzRS05N2Y5cXZFc1IyUVdpQThTOTBJa2J5ZW5jd0lRUXIzVTY?oc=5",
+   "published_at": "2026-07-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzZBbHlHMHNxOTlfal9mZ3RzdGNuMXBTUzZ3VDNicENBTjFPZE9vMEU0dklUYWh2RGxyVWk1VmIwU3Mybjk3RkxRbjZUZDFwd1VKekRkQWY2ell1bTM1czd2MHpzTi01aF83ejAzRS05N2Y5cXZFc1IyUVdpQThTOTBJa2J5ZW5jd0lRUXIzVTY?oc=5\" target=\"_blank\">The Week’s 10 Biggest Funding Rounds: No Summer Doldrums As Dollars Still Flow To AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

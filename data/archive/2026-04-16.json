@@ -65,6 +65,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE85aXB1SDFYWDAwYXNoRUJRMHRqWmFYV2k4YVdQcm8xZFBRMkVwX3FfUzZBZVVJdE4yemExRHhGY0ExRnREZTdlUnp3MnR5c2hJRDNiQ2xMRXBMUFJ5dkJiR1d2bFFFZEJzendPTTFIalFGQQ?oc=5\" target=\"_blank\">Codex：全能型助手</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-754-8c48a54a71",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Claude Opus 4.7 - Anthropic",
+   "summary": "Introducing Claude Opus 4.7 &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rS2xYRnJxOV9fQjgxWkl0OHlJRFhxMktsVmtTdGV6dnhPTXQzSXcwRE5hQXhOUGdVMXNwVVBZb01wYTVlY0tCT3VKZTBVQzZtVXRGY25XME5rUQ?oc=5",
+   "published_at": "2026-04-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rS2xYRnJxOV9fQjgxWkl0OHlJRFhxMktsVmtTdGV6dnhPTXQzSXcwRE5hQXhOUGdVMXNwVVBZb01wYTVlY0tCT3VKZTBVQzZtVXRGY25XME5rUQ?oc=5\" target=\"_blank\">Introducing Claude Opus 4.7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

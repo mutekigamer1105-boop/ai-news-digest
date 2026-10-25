@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPR0NyaF9TWUtVZHlwSlgyZ1FLbHNCaWlCQ1A0U0ViQVpLSldVR1FXUGhqNlpuSlcwQUtFWjVfRHJTWkc3SEphd1VpNjctSGpVV0x2SVN4X3Y0YmRQdktNQ3k5eFFMVENVUXhLSnduX3hZbVFhRTNHWlE4aDVYQmRsLTlqQnh6c1F2V1Q5emRXM1p4MnJTc1pneG91OHdHQQ?oc=5\" target=\"_blank\">甲骨文与OpenAI终止了扩建旗舰数据中心的计划，Meta考虑接手，英伟达牵线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
    "fetched_at": "2026-09-17T04:05:51+00:00"
+  },
+  {
+   "id": "web-766-c4a3cceda9",
+   "source_id": "news",
+   "source_name": "Sarvam AI",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Open-sourcing Sarvam 30B & 105B models - Sarvam AI",
+   "summary": "Open-sourcing Sarvam 30B & 105B models &nbsp;&nbsp; Sarvam AI",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2UlItdkdVWlhMSTdPM1VEOHpPRV9yUmJENnVncUNoVDZSWGFMNEM1QVpOOElBczRmYTBORTNrZUpIc1BNZjJqR2NCSHBsbWRJd2RXazJB?oc=5",
+   "published_at": "2026-03-06T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2UlItdkdVWlhMSTdPM1VEOHpPRV9yUmJENnVncUNoVDZSWGFMNEM1QVpOOElBczRmYTBORTNrZUpIc1BNZjJqR2NCSHBsbWRJd2RXazJB?oc=5\" target=\"_blank\">Open-sourcing Sarvam 30B & 105B models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sarvam AI</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

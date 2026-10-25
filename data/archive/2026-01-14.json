@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0aXN3dm9EVnFjNGx1aEViU2hiSFZTdkNQbnRkUE5abm9LZUhPT3dGZk1tYzVvOTJVME9KSC1jMXE3UFVLaDBkZ2twZnNCeWZxeGg3VEd4N2ZhcDQyNTFj?oc=5\" target=\"_blank\">Training large language models on narrow tasks can lead to broad misalignment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-03T20:18:43+00:00"
+  },
+  {
+   "id": "web-752-b0c42df5aa",
+   "source_id": "news",
+   "source_name": "South China Morning Post",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "DeepSeek stays mum on next AI model release as technical papers show frontier innovation - South China Morning Post",
+   "summary": "DeepSeek stays mum on next AI model release as technical papers show frontier innovation &nbsp;&nbsp; South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPenlZT1dKZmREeDdqaDZEYU1CZHZfTEFYMnJCU3YzcTBFRFBXWVVGNi01TG85Z1VJUEpXZ2dOSG9TVk9BazdySlVvaGZWV2ZYUnotUHF1ZmNSVGQ1WXFBcEYtRUdybVNqZjFnZnZvaGJrZXRzMmZkOWZMdTdYVENEdjhQLUxGcmFrbDBSSWRaNW9oai02azhIVW5fdGgwSl9pSk9kZlptMW0xRkVfN1U5RmlQeUxIV3RFUzdQcFZqZE5ERklKZi04bDVJaGlCMXlvZmfSAdIBQVVfeXFMTm41dXhXM09OeUtWZ1Q1MS0zWVF0TzFkVkl3Nks3ZTFBSHdQSnlrZGpBX0dfSXBqeXZBaTFQR0F5N2pBZ0lnXzJYeTRSaEJSQ0cyLTFSLXVEV3k4d3pRbTdyTUdVLUlraDdRNWZyNllld2Z4cVBqWnhfWldkNFV4WHhpeUl6X25kSEZuVGN0N1RNNUZaWE5LMDlubGNYMUVwNVhWZkdDSFdiQmRsYW5uRGtXam9NSDFqbTVtTVU1RUpCT3ZHdVJaSjJrTURuRXJqaGR3?oc=5",
+   "published_at": "2026-01-14T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPenlZT1dKZmREeDdqaDZEYU1CZHZfTEFYMnJCU3YzcTBFRFBXWVVGNi01TG85Z1VJUEpXZ2dOSG9TVk9BazdySlVvaGZWV2ZYUnotUHF1ZmNSVGQ1WXFBcEYtRUdybVNqZjFnZnZvaGJrZXRzMmZkOWZMdTdYVENEdjhQLUxGcmFrbDBSSWRaNW9oai02azhIVW5fdGgwSl9pSk9kZlptMW0xRkVfN1U5RmlQeUxIV3RFUzdQcFZqZE5ERklKZi04bDVJaGlCMXlvZmfSAdIBQVVfeXFMTm41dXhXM09OeUtWZ1Q1MS0zWVF0TzFkVkl3Nks3ZTFBSHdQSnlrZGpBX0dfSXBqeXZBaTFQR0F5N2pBZ0lnXzJYeTRSaEJSQ0cyLTFSLXVEV3k4d3pRbTdyTUdVLUlraDdRNWZyNllld2Z4cVBqWnhfWldkNFV4WHhpeUl6X25kSEZuVGN0N1RNNUZaWE5LMDlubGNYMUVwNVhWZkdDSFdiQmRsYW5uRGtXam9NSDFqbTVtTVU1RUpCT3ZHdVJaSjJrTURuRXJqaGR3?oc=5\" target=\"_blank\">DeepSeek stays mum on next AI model release as technical papers show frontier innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

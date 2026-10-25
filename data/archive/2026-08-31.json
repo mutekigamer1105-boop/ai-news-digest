@@ -1478,6 +1478,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE10Sjh4U1BRSDg4YllYMnpOVjkzZkRaVWh2eWg1a1dZQ242VFE4eGFJUlNIX3hxU0ZBVVpHcjd1UGJXS1otQnVzYmFiQi1iYml4V1BpLTZvWXNUVU9MZWJKWXJ6cVBzWnpIeUlLbEh4NEM2UVJteFNSSzN3?oc=5\" target=\"_blank\">不到200天！OpenAI广告业务爆发式增长 年化收入达10亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">美国中文网</font>",
    "fetched_at": "2026-10-12T11:30:04+00:00"
+  },
+  {
+   "id": "web-680-bbd914eeed",
+   "source_id": "news",
+   "source_name": "GOV.UK",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "£100 million competition to back British AI companies to fix public services - GOV.UK",
+   "summary": "£100 million competition to back British AI companies to fix public services &nbsp;&nbsp; GOV.UK",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEZRbXprQmJWcGR2WE1KX2pYdS15bm41clhfeWR6ZWJCTFBWN0w1OFIyUDJOU2ZkQmpyVkxPRE83ZjM4X1NCRE9LaEFMS3hOZ2owTkdyMXRRNkE3aGo0MW5IeEMtOUVFUlhTbERzNUU3Z3ZKMmRWUk5HemQyVm9xWUNZQW1JSERTRnV2N0R0Wks4M2lxelZJbmk5d0JmZEFFNkV2QjRTcVFkX1d4WmVn?oc=5",
+   "published_at": "2026-08-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEZRbXprQmJWcGR2WE1KX2pYdS15bm41clhfeWR6ZWJCTFBWN0w1OFIyUDJOU2ZkQmpyVkxPRE83ZjM4X1NCRE9LaEFMS3hOZ2owTkdyMXRRNkE3aGo0MW5IeEMtOUVFUlhTbERzNUU3Z3ZKMmRWUk5HemQyVm9xWUNZQW1JSERTRnV2N0R0Wks4M2lxelZJbmk5d0JmZEFFNkV2QjRTcVFkX1d4WmVn?oc=5\" target=\"_blank\">£100 million competition to back British AI companies to fix public services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GOV.UK</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

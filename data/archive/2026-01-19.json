@@ -21,6 +21,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1TdGkzMkdUQmRQSXkzTmxWT1RnTC1GWjlpNTF2OHBIbjVEd3BHampwUEJGZUY3NlR6cmR0YWtBcGVVbHl1TmFteTFqRmYyZjJKLXdsX0VCNFFnUG11eWoyWTM2RnpLX0gyTjVWTUR4a3M2bTBL?oc=5\" target=\"_blank\">AI大模型“双雄”上市，高亏损仍获资本青睐</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">科学网—新闻</font>",
    "fetched_at": "2026-09-21T04:05:02+00:00"
+  },
+  {
+   "id": "web-674-86ffaf9ca1",
+   "source_id": "news",
+   "source_name": "Semiconductor Engineering",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Startup Funding: Q4 2025 - Semiconductor Engineering",
+   "summary": "Startup Funding: Q4 2025 &nbsp;&nbsp; Semiconductor Engineering",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxNlJTSnlxVzR5VVhWQllIa1RmOWE3cmdZVy1MNFRhMGdLdG9YbWNZdVFiTi1wMzdlNzA5eF9TdktWeVNhRURZTm5XQU51U3lFU1MybUZNLVpxTWs1aHhSTFJn?oc=5",
+   "published_at": "2026-01-19T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxNlJTSnlxVzR5VVhWQllIa1RmOWE3cmdZVy1MNFRhMGdLdG9YbWNZdVFiTi1wMzdlNzA5eF9TdktWeVNhRURZTm5XQU51U3lFU1MybUZNLVpxTWs1aHhSTFJn?oc=5\" target=\"_blank\">Startup Funding: Q4 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semiconductor Engineering</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
+  },
+  {
+   "id": "web-691-a8e7446117",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Here are the 55 US AI startups that raised $100M or more in 2025 - TechCrunch",
+   "summary": "Here are the 55 US AI startups that raised $100M or more in 2025 &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGtUd1NWOXBDa0N3bzMwYXZWal9SLVRfUG1fcUtuaGFHR2lMZlVaSThWX2ZKYkRCc0ltaWQ1aUZjR1dmMmZxRGlQQ0dBdDlfUTN5Sm1KRWZ5X08tSHBPVEMwM0JiVFhJTGF5a3JfSEFGUzJ3MEZhTnRJcHNlLWN1eC1hV1FSaDNwOHJEXzJlLXVUN2MzUkFWbWxzLXBoWFBnaW1EcldR?oc=5",
+   "published_at": "2026-01-19T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGtUd1NWOXBDa0N3bzMwYXZWal9SLVRfUG1fcUtuaGFHR2lMZlVaSThWX2ZKYkRCc0ltaWQ1aUZjR1dmMmZxRGlQQ0dBdDlfUTN5Sm1KRWZ5X08tSHBPVEMwM0JiVFhJTGF5a3JfSEFGUzJ3MEZhTnRJcHNlLWN1eC1hV1FSaDNwOHJEXzJlLXVUN2MzUkFWbWxzLXBoWFBnaW1EcldR?oc=5\" target=\"_blank\">Here are the 55 US AI startups that raised $100M or more in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-769-63144c3a67",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing OpenAI o1‑preview - OpenAI",
+   "summary": "Introducing OpenAI o1‑preview &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kZTZIanJRQnF3TWhzTDNOQjBPNGpnX096NTZnZDYyV3Frc09Sdl9GbG1aMk1hN3FhX2VPcm9oZFZMbkl0Y1B3U1poeExYanY1WmR2RTRjQ25EeFVPWERlZkdsdlE4dw?oc=5",
+   "published_at": "2024-09-12T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kZTZIanJRQnF3TWhzTDNOQjBPNGpnX096NTZnZDYyV3Frc09Sdl9GbG1aMk1hN3FhX2VPcm9oZFZMbkl0Y1B3U1poeExYanY1WmR2RTRjQ25EeFVPWERlZkdsdlE4dw?oc=5\" target=\"_blank\">Introducing OpenAI o1‑preview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
+  }
+ ]
+}

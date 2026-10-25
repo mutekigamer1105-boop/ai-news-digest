@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kOUp2NXpDN0hLY29uY1Q0V3pzemhiVlFUODUtcmI2ODVqU01HbG12UTVfdjhabGVXLUZueEs0cWdiNG5uMVZmejg1R1U0RDcwSDQwTmR4WklVblZDV0pn?oc=5\" target=\"_blank\">A survey on large language models in biology and chemistry | Experimental & Molecular Medicine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-759-8191eefcbf",
+   "source_id": "news",
+   "source_name": "Facebook",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People - Facebook",
+   "summary": "Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People &nbsp;&nbsp; Facebook",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUgxb2steXB2U3oyaWJILWo0Q1psaURTS01uS0duWHRGVXdsSjV3RFVMT3hjNXRDdlNSU2szd3VrUjVQSkVIQzJRTnFLSFBKRjlrT09DWDROMktrdW9uaE1IYV9JZDctSEx3NzBqZlBrekV1bjZBb2xON0Z5S3BxcWVtU2wxNnhiSlhkeWR30gGTAUFVX3lxTFBUVGptRG9qRXJ1ZUEtVWQ5Tmk0d1JFd2gxRWJlUUV5cGlvYTlDRlc0M1B2a3FvTms4RDFvOEVGYmQ5OS1hWGRvYXc0V0Y1WmRDaVF6R3BPbmF3YlBtM01ydFlhOVotQkZ0SVU0MDhsMExueks0MTRKRGNfVWdvcFZDa205Z2pWOG1MWVNON050N1lqTQ?oc=5",
+   "published_at": "2026-04-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUgxb2steXB2U3oyaWJILWo0Q1psaURTS01uS0duWHRGVXdsSjV3RFVMT3hjNXRDdlNSU2szd3VrUjVQSkVIQzJRTnFLSFBKRjlrT09DWDROMktrdW9uaE1IYV9JZDctSEx3NzBqZlBrekV1bjZBb2xON0Z5S3BxcWVtU2wxNnhiSlhkeWR30gGTAUFVX3lxTFBUVGptRG9qRXJ1ZUEtVWQ5Tmk0d1JFd2gxRWJlUUV5cGlvYTlDRlc0M1B2a3FvTms4RDFvOEVGYmQ5OS1hWGRvYXc0V0Y1WmRDaVF6R3BPbmF3YlBtM01ydFlhOVotQkZ0SVU0MDhsMExueks0MTRKRGNfVWdvcFZDa205Z2pWOG1MWVNON050N1lqTQ?oc=5\" target=\"_blank\">Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facebook</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

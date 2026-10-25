@@ -21,6 +21,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxQQXMxSm9BOHVkOE5qMVFUNm53aUY4YjMyanZValVvdnRzVExxb1l1VHhNVWEzalFmdk5rVEE0RUJYRFB3ekFvaXhwWVVTY3FueExzdkdjQVFNbXduZkRXTW1kWGFOX3ZxWEx4UlAxdjk2UEdKSnZSSEtIOUd3ak1ZTlg1M3Z3cHRkcDhfTm94U2txWTliemlIa2ZocEcwSld5b3dNMHpNcXlQbWxZOTJNWkxSZVlpbTlFWE96NVRLeFpZUnJCdGU1Y2tzdEwzTUYwUXBMSWh5UVpSOWZUODN3bUk0bk9xWXN0QWpBenU5bjFJREhaYmJtV2FhNlV0amFMV1ptekVNYmIzWjhTWXNFWWRmeUlxOTlsSHFwQTh4QWFIUXZlY0xLZVM5ZHJGM0tra0pVdGNNWFVkQ3pIWmNrcUJtLXBDV0FOZFk4eUtYN0YzVlBHMWZzVmF2STlzRUN1ZDQ1aC1nMA?oc=5\" target=\"_blank\">运营商实践: AI 大模型赋能垂直行业标杆案例集(2025)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GSMA</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-765-baaf26263f",
+   "source_id": "mistral",
+   "source_name": "Mistral AI",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "Introducing Mistral 3 - Mistral AI",
+   "summary": "Introducing Mistral 3 &nbsp;&nbsp; Mistral AI",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44VzJRSjFJc2dXT3FiMHJuenBhb0RidlhCU01WOHBZam5CbFFfMlBvMV9nM190dTJoQXp2S1QtVEpFLV9TM1JaMzZn?oc=5",
+   "published_at": "2025-12-02T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE44VzJRSjFJc2dXT3FiMHJuenBhb0RidlhCU01WOHBZam5CbFFfMlBvMV9nM190dTJoQXp2S1QtVEpFLV9TM1JaMzZn?oc=5\" target=\"_blank\">Introducing Mistral 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mistral AI</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

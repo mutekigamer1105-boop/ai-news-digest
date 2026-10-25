@@ -11948,6 +11948,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXB1UTdZcDJzOGM5UmxFbVU3ZnJQQS0yYkliZGFPNnY2NTgzYlZ6RnppdjJCLXJiWW43MXRZazZyZi1iZ283bFpQNHFCc1ZCZGl4OVBIX2dZWTdrODg3UnNrX3M1SnVtb3lna0paWHE1enRRM3JBQ1k2Z3llV2o3M2p3?oc=5\" target=\"_blank\">Anthropic Weighs New Model as GPT-6 Astra Hits 13% [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
    "fetched_at": "2026-10-21T09:00:53+00:00"
+  },
+  {
+   "id": "web-69-75796954bc",
+   "source_id": "news",
+   "source_name": "Big Think",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI makes its first meaningful breakthrough in theoretical physics - Big Think",
+   "summary": "AI makes its first meaningful breakthrough in theoretical physics &nbsp;&nbsp; Big Think",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2lkREEwbGpIN1lZbkRsOHZGRWljTFl6V0liMjRPRjZHMTdXWE4tbUpLUUpndko5TG9pNzRDY0I5VjkydWNrLTJsMTIxaVpNdFA4dnhyZ3l1YnIzQ3Vaa0V0ZTJVNGlHZlBOcjZYb2xBaWRoLUZLaWFCRkJlSkFTR1dqcEVyZ3lKaGc?oc=5",
+   "published_at": "2026-09-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2lkREEwbGpIN1lZbkRsOHZGRWljTFl6V0liMjRPRjZHMTdXWE4tbUpLUUpndko5TG9pNzRDY0I5VjkydWNrLTJsMTIxaVpNdFA4dnhyZ3l1YnIzQ3Vaa0V0ZTJVNGlHZlBOcjZYb2xBaWRoLUZLaWFCRkJlSkFTR1dqcEVyZ3lKaGc?oc=5\" target=\"_blank\">AI makes its first meaningful breakthrough in theoretical physics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big Think</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

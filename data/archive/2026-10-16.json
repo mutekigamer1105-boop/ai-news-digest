@@ -12455,6 +12455,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE41OVprOE5tN2lBVzZuck52RDRvRU9FU0JvNThpald0enFRaUNzSHBxY0QzVmVhWnJMMHNEUXAzUlNrRnFmOFBtNkpTUVhTQ1lkdFVFeXJpRUZodHAwWTZwMDQ1UzNfMThKTFZqSjZuWkxtOEl2?oc=5\" target=\"_blank\">DOE Explains...Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
    "fetched_at": "2026-10-23T08:58:20+00:00"
+  },
+  {
+   "id": "web-932-774507f4b3",
+   "source_id": "news",
+   "source_name": "finance.sina.com.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "港股通重塑AI资产估值中枢大模型从价格战迈向价值战|AI大模型|Minimax|开源模型|资金|提价 - finance.sina.com.cn",
+   "summary": "港股通重塑AI资产估值中枢大模型从价格战迈向价值战|AI大模型|Minimax|开源模型|资金|提价 &nbsp;&nbsp; finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxPeHdtZVl3ZW1zZ3JxaXJDcnNXQ1ByemNLN3h5VU5pcm0tZlBGZHl1R0V1dTFTUkcySEtmVENyRUZ3VEhFcVYxUF9zRUlJdWRDTVl1dFRTQ0ZQcjN1eU0wY0RNT3dkMkpUOTRvajNSakdvU0NWZklMUlNvSTgzNklZcklmT0NXM3VNM2hud2RZU01PVTNsRGpkb2N3NHVPNUlIdExXMTRXSnZ5elNrYWFDXzlLdWdLT24tRXRpV09YVE1OMmNITC02WmZmZXFVWkVhcENIN2FMTkdtTTZleFBBcXNienVodDIxR1VrTDVHSlVrOG5FM3ZrZFMySUhJQnl1alBFVkJpRlZ2MjIxaEFlT3BNRmtGVFJZQWwwNHdOTjJtV1k1ZWduUmRlQy11LTVEWlJaSDZPeEJlbUdmUlhFUFVjakRlUE9Zc2x2NDJqV1ozZ0pqdTg2U3UzY3JEM3hCd1cxVVZRNDFrQTF6MVNDYkpoT19oTmlZZndHVXFRTkZObGMzWTRBN1ozSkNJMGdfdXJFWEItTzdKaGJyREZCTWtETTQ5MUUxMFVwSGpTTGp6TWNlWVctYzltd2RjM0VNSU55SWRjd0NPMC1wVV9sampfOGZKeC1YcVhOVDBqOXR3WE1sWFlOV0NmbHNmeHZlMENCdUpNZGhqQjhESVRNTEdIcmVHS0YwUWJMeDhXVTc5OGN0dmoxSkNIYVJXcm9CRGhOR3J1MktfNXlQbk5RSkhWTkhGRmxuMjNCeGhrbW1va1FTSzFLb2luMl9KLUxwaVVpejF0aWtWcEVOaWxEWFhxM3JkaTF1RUhTVlIwTHp2eFRDX0g0djE0NDd1MmxSeUlpYWNvUGlEanc?oc=5",
+   "published_at": "2026-10-16T03:35:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwVBVV95cUxPeHdtZVl3ZW1zZ3JxaXJDcnNXQ1ByemNLN3h5VU5pcm0tZlBGZHl1R0V1dTFTUkcySEtmVENyRUZ3VEhFcVYxUF9zRUlJdWRDTVl1dFRTQ0ZQcjN1eU0wY0RNT3dkMkpUOTRvajNSakdvU0NWZklMUlNvSTgzNklZcklmT0NXM3VNM2hud2RZU01PVTNsRGpkb2N3NHVPNUlIdExXMTRXSnZ5elNrYWFDXzlLdWdLT24tRXRpV09YVE1OMmNITC02WmZmZXFVWkVhcENIN2FMTkdtTTZleFBBcXNienVodDIxR1VrTDVHSlVrOG5FM3ZrZFMySUhJQnl1alBFVkJpRlZ2MjIxaEFlT3BNRmtGVFJZQWwwNHdOTjJtV1k1ZWduUmRlQy11LTVEWlJaSDZPeEJlbUdmUlhFUFVjakRlUE9Zc2x2NDJqV1ozZ0pqdTg2U3UzY3JEM3hCd1cxVVZRNDFrQTF6MVNDYkpoT19oTmlZZndHVXFRTkZObGMzWTRBN1ozSkNJMGdfdXJFWEItTzdKaGJyREZCTWtETTQ5MUUxMFVwSGpTTGp6TWNlWVctYzltd2RjM0VNSU55SWRjd0NPMC1wVV9sampfOGZKeC1YcVhOVDBqOXR3WE1sWFlOV0NmbHNmeHZlMENCdUpNZGhqQjhESVRNTEdIcmVHS0YwUWJMeDhXVTc5OGN0dmoxSkNIYVJXcm9CRGhOR3J1MktfNXlQbk5RSkhWTkhGRmxuMjNCeGhrbW1va1FTSzFLb2luMl9KLUxwaVVpejF0aWtWcEVOaWxEWFhxM3JkaTF1RUhTVlIwTHp2eFRDX0g0djE0NDd1MmxSeUlpYWNvUGlEanc?oc=5\" target=\"_blank\">港股通重塑AI资产估值中枢大模型从价格战迈向价值战|AI大模型|Minimax|开源模型|资金|提价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

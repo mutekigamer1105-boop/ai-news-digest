@@ -153,6 +153,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9tTnhySEc3bzNLT3hwaTlKYTNHVmlOZWVwNGZ3c0dEY3BOc2NYMkdNeDlEUHh4TjU0cDlGUzNta3FsbUFJbkRPWWh1cVZIcWFQQ0MteGlQZjd3ejBDTk5YQTdtSlBCRm9EMGdRS0g4aXRFcW00Rk9MaElrdFNXdw?oc=5\" target=\"_blank\">智能体：把能力转化为生产力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-16T04:05:18+00:00"
+  },
+  {
+   "id": "web-761-4d561343af",
+   "source_id": "news",
+   "source_name": "blog.google",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
+   "summary": "Gemma 4: Byte for byte, the most capable open models &nbsp;&nbsp; blog.google",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU0lVN3hGdkhNWU5zVGp0N2E3d2N4Rnp6S1ZjdUV6ZHhMQXV4WlpVOEFNWFprRlpqMEtCS04zNVg5b1J5ZHB1ekh0S3NvalpSVWVaYzZTZDBKZ3FMT3AxM0R4eEM5MWpBSG5xOXdvWExjUF9BTnJ1WHY2N3N1UUk?oc=5",
+   "published_at": "2026-04-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU0lVN3hGdkhNWU5zVGp0N2E3d2N4Rnp6S1ZjdUV6ZHhMQXV4WlpVOEFNWFprRlpqMEtCS04zNVg5b1J5ZHB1ekh0S3NvalpSVWVaYzZTZDBKZ3FMT3AxM0R4eEM5MWpBSG5xOXdvWExjUF9BTnJ1WHY2N3N1UUk?oc=5\" target=\"_blank\">Gemma 4: Byte for byte, the most capable open models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

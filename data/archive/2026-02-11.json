@@ -66,6 +66,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41ajloUEV6NVhKY3pPdnVJRm5Qb1RJTmlHYlR1N2ktNjFTVm9DampodjFMeU5vdXc4SVdreThwWHNDSFNfNFhtbFJtT0lYMDdtY2g3TWM4MmtHQlNHV0lxdjE1STdpbTQ?oc=5\" target=\"_blank\">工程技术：在智能体优先的世界中利用 Codex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-678-4ae2888774",
+   "source_id": "news",
+   "source_name": "AI Funding Tracker",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Top AI Agent Startups 2026 (Funding & Valuation) - AI Funding Tracker",
+   "summary": "Top AI Agent Startups 2026 (Funding & Valuation) &nbsp;&nbsp; AI Funding Tracker",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mYldfU3o2QTJGZTNITExlTVY3ZldwUmx5UU1ybFpfOWlJSmJkTHZQeFhtVXJfS0x4M1FObVVSRWdpUV9xNUZxREpMVWxhYlNrSm01enp2TlRKYUN2RldBbg?oc=5",
+   "published_at": "2026-02-11T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mYldfU3o2QTJGZTNITExlTVY3ZldwUmx5UU1ybFpfOWlJSmJkTHZQeFhtVXJfS0x4M1FObVVSRWdpUV9xNUZxREpMVWxhYlNrSm01enp2TlRKYUN2RldBbg?oc=5\" target=\"_blank\">Top AI Agent Startups 2026 (Funding & Valuation)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Funding Tracker</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

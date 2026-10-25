@@ -10739,6 +10739,48 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMWNDVWNLNGprRTdoS2Vuckx1Slp6d3o0cmoxOE1rVnFocFJqc0dERXgwMmd6NkczbEhGTVhhZlI2Y3F1Tk85OGlINU9tRDgxQXFpS2V0Njc5Y0ZaTDFrQTcwQTdTeUczd2ZZQlpiSmxjbWNNLXJfcnRkdmVsSUdhUDNvV2Jjd3U1cUx4eGliUnhIZGhLZi1QVklKV0U1WS15Y1I3NjNGWVBZWXZFYWlPV21WVks1ck11R3ctemRDTWE3TmQ2NEVGMmUyQ3V2eDlMVXc?oc=5\" target=\"_blank\">Reflection CEO Misha Laskin on launch of new AI model Beam, open-weight vs. closed model debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-10-24T08:32:00+00:00"
+  },
+  {
+   "id": "web-68-78559e6aa4",
+   "source_id": "news",
+   "source_name": "NASA (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What is Super Intelligence? - NASA (.gov)",
+   "summary": "What is Super Intelligence? &nbsp;&nbsp; NASA (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYV1RFejMzMzkxQmpESE1mOVVnRHJ1QUt6bi1WbFVISENxTkM4MTgxZEJfNGIwY09KNmF1ckh1ZEVuSjFXbWtUY0ZpMGEtSjZ1QWFrbDFnY0V3bEll?oc=5",
+   "published_at": "2026-10-06T16:15:19+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYV1RFejMzMzkxQmpESE1mOVVnRHJ1QUt6bi1WbFVISENxTkM4MTgxZEJfNGIwY09KNmF1ckh1ZEVuSjFXbWtUY0ZpMGEtSjZ1QWFrbDFnY0V3bEll?oc=5\" target=\"_blank\">What is Super Intelligence?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NASA (.gov)</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
+  },
+  {
+   "id": "web-79-6413b9e221",
+   "source_id": "news",
+   "source_name": "Chemistry World",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI helps chemists consider more options when it comes to picking the best reactants for an experiment - Chemistry World",
+   "summary": "AI helps chemists consider more options when it comes to picking the best reactants for an experiment &nbsp;&nbsp; Chemistry World",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVERWNE5yOURXcGJ2aE0tcGt2WkVHS0ZHdGxIWVRBYzFGRnZ5TkdVSVpIZDNYdXdMR2ZWY1JDUWk5OXlINndyTUNmTzNTdXpDME40OEtJSzF1THlLS3lkTXhUNUVTWUVYUVQzTmFnQjN2TnpjV3M4ckw0bmhJczRrMlU4MzVad251UElJU2hjZ21hT0JWaDR6ZHpScFhTNm5hcWYyZVAtSUZGSTZKTmdJYkFuZjdqSWpPR3hwY2FmZmRGYW1hU1Y0UFU3em5PTHlMQ0ItS2JGQ3FVNE5WOGZPQ211dHBOcnhY?oc=5",
+   "published_at": "2026-10-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVERWNE5yOURXcGJ2aE0tcGt2WkVHS0ZHdGxIWVRBYzFGRnZ5TkdVSVpIZDNYdXdMR2ZWY1JDUWk5OXlINndyTUNmTzNTdXpDME40OEtJSzF1THlLS3lkTXhUNUVTWUVYUVQzTmFnQjN2TnpjV3M4ckw0bmhJczRrMlU4MzVad251UElJU2hjZ21hT0JWaDR6ZHpScFhTNm5hcWYyZVAtSUZGSTZKTmdJYkFuZjdqSWpPR3hwY2FmZmRGYW1hU1Y0UFU3em5PTHlMQ0ItS2JGQ3FVNE5WOGZPQ211dHBOcnhY?oc=5\" target=\"_blank\">AI helps chemists consider more options when it comes to picking the best reactants for an experiment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chemistry World</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

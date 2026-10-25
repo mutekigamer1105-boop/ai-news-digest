@@ -21,6 +21,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPYks0ekdTQmtKWm45Y3MxblktM3dJNXF1ZjFUWHRBbU5JTXkxbHFRTW8tUFhBb1dkUWxpc2lEa3EzeHdLbGNQRmR1bWtNX3k5a1IyMmI1NmJXdzVPcGF3cmFSQThsdHd6ejN2ZUZYTFpoRmJoclM4a0Z6SXo5UU1wZlBIdl9WY0J0UTlMUXdoa2NzaWVWWW00?oc=5\" target=\"_blank\">Large language models for neurology: a mini review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-764-1e2f08f9a0",
+   "source_id": "news",
+   "source_name": "NVIDIA Newsroom",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development - NVIDIA Newsroom",
+   "summary": "NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development &nbsp;&nbsp; NVIDIA Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Z0liWUc2VlNqX1k5MzVOX0JJT3FDZTBHazZQU3NvbGhSa0RIWU5jZzRMRWpCZFRwRVg0RzJRNjNTWkxLUXJlbC12ZzU4cmJXWEtZU1RLY05SbVNmR1hMUUZmNzBvdlRHTWhkYmdUZjV4UzUwLV9EbHNtVXh0dlU?oc=5",
+   "published_at": "2026-01-05T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE15Z0liWUc2VlNqX1k5MzVOX0JJT3FDZTBHazZQU3NvbGhSa0RIWU5jZzRMRWpCZFRwRVg0RzJRNjNTWkxLUXJlbC12ZzU4cmJXWEtZU1RLY05SbVNmR1hMUUZmNzBvdlRHTWhkYmdUZjV4UzUwLV9EbHNtVXh0dlU?oc=5\" target=\"_blank\">NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

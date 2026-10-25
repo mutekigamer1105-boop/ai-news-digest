@@ -11797,6 +11797,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA2ZEdmTEl1UWJnTWlNaU8xaWk5bFQ5c042SUd3VDVwa1FjMnFiQmZnVndtd1pQRG5mM01DM1lWODVYaFVGbzRZRHpSbVBkbGxOY3ZYa0pXNEZ1b0EtWm5qSzhfR2NDX3NMX2dPQlZFNkRoZ1RvVFJnVC0yWTA?oc=5\" target=\"_blank\">OpenAI 支持 FRONTIER 法案中关于联邦 AI 安全评估员的条款</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-17T08:09:48+00:00"
+  },
+  {
+   "id": "web-1145-887a78caee",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI在IPO前融资谈判中瞄准1.2万亿美元估值 - Cryptopolitan",
+   "summary": "OpenAI在IPO前融资谈判中瞄准1.2万亿美元估值 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMEMwb2g4cGtKRy11Z1k0RUpOVmZpa3hvbmFyaDZWSlJpYS1wVWRzMUVlOG1BSW1Ldmlka0YyZVBEUEJwTWhoQXNwdUpVbm9YNXVfUmJJY09BY0V1ZGRlYzA4WkxfbmlwcDZjVkpockllSFdCU2p2UktMeHNxVzNZVDdGZ1lSY3VvZC13blhhSmo0cWwxem9IeEdUSnM?oc=5",
+   "published_at": "2026-09-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMEMwb2g4cGtKRy11Z1k0RUpOVmZpa3hvbmFyaDZWSlJpYS1wVWRzMUVlOG1BSW1Ldmlka0YyZVBEUEJwTWhoQXNwdUpVbm9YNXVfUmJJY09BY0V1ZGRlYzA4WkxfbmlwcDZjVkpockllSFdCU2p2UktMeHNxVzNZVDdGZ1lSY3VvZC13blhhSmo0cWwxem9IeEdUSnM?oc=5\" target=\"_blank\">OpenAI在IPO前融资谈判中瞄准1.2万亿美元估值</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

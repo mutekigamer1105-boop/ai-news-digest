@@ -109,6 +109,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1yUThyNkhXa1BIZzQtZV92T0RIQW9kbEQ3YjY2TUJiSTNCS0hQdGtWVHJsbmhRNElhQzNFR0ZBWlp0OFFaWTRWVEdqLVB1QVdhMDBfQzQ3cDM2X3Vfc25iVF85bjdjQ2FoNENOXw?oc=5\" target=\"_blank\">突发！OpenAI关停Sora，精简产品线为IPO 铺路；Momenta 港股秘密递表，预计年内上市；别吵了！Token中文名定了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雷峰网</font>",
    "fetched_at": "2026-09-25T04:05:21+00:00"
+  },
+  {
+   "id": "web-673-6af52a16eb",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Legal AI startup Harvey valued at $11 billion in funding round, as VCs spread bets beyond model companies - CNBC",
+   "summary": "Legal AI startup Harvey valued at $11 billion in funding round, as VCs spread bets beyond model companies &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGxZNEJtbHhJQkRTWENWNzliVWRlR1MyTmFYQkNzcXExemRfN0pGaW1lN0htTDYwQWZsWHdJMFZmOGpVdGw4eW9Qa0Y1QWFBejRqXzFoODA2RVFRenpqU2xUWGQ5UFpSbmhncE03dXdvQUFYNkJTa0Q3VXptTDlXemZmMjNaT3JybUI1QmVscGg0Z2Z3M3VkQVRkMXlMdjVnb29QdktR0gGrAUFVX3lxTE1GN090d3FRVG5CbUx2RjQxQ2lxNzRPY3lablBqdDdpV09iVjRNcV9CNWg3a1BUOUtNTXNraEh5M2lVUG1vYmRVSmtNdXFJZEhtbFhzaVUzaDJMcmZzTW9MVnBhM1poUjA5YzF3ODJRa0Z1eGlJREdSNUc2aUFvdFQ5Vkxremx1N3BpWDEtOGxJdHZLZDdwUG5ZS3dJVkF6dlpYRnZlY3F5YlZhbw?oc=5",
+   "published_at": "2026-03-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGxZNEJtbHhJQkRTWENWNzliVWRlR1MyTmFYQkNzcXExemRfN0pGaW1lN0htTDYwQWZsWHdJMFZmOGpVdGw4eW9Qa0Y1QWFBejRqXzFoODA2RVFRenpqU2xUWGQ5UFpSbmhncE03dXdvQUFYNkJTa0Q3VXptTDlXemZmMjNaT3JybUI1QmVscGg0Z2Z3M3VkQVRkMXlMdjVnb29QdktR0gGrAUFVX3lxTE1GN090d3FRVG5CbUx2RjQxQ2lxNzRPY3lablBqdDdpV09iVjRNcV9CNWg3a1BUOUtNTXNraEh5M2lVUG1vYmRVSmtNdXFJZEhtbFhzaVUzaDJMcmZzTW9MVnBhM1poUjA5YzF3ODJRa0Z1eGlJREdSNUc2aUFvdFQ5Vkxremx1N3BpWDEtOGxJdHZLZDdwUG5ZS3dJVkF6dlpYRnZlY3F5YlZhbw?oc=5\" target=\"_blank\">Legal AI startup Harvey valued at $11 billion in funding round, as VCs spread bets beyond model companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

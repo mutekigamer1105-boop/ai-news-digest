@@ -368,6 +368,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlJhNzBFNUxUMW8xOWpySlkza2EyMENZSjBEQmJGc1Rrc2wtaXg0c0E0dGhqN092LXNqVHRRX0tyWUdHYi1rWmE5eGo2bWUtMS1KRmx0TUhxZ2JWdkUxNEVEaFdwUnJWN19hWkY1dmUzX0xsTm1CcjdvT2U5VGFmY3JJVUFGX2JEcHdNTVhMbnB0NVhEaEJRaEotaVBtQzJvbTJqa3lvcTVucGpjX1BQaGJ3?oc=5\" target=\"_blank\">Pentagon’s blacklisting of Anthropic was unlawful, US judge rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
    "fetched_at": "2026-10-13T11:18:48+00:00"
+  },
+  {
+   "id": "web-275-2098520fff",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "EduFairBench: reproducible evaluation of large language models for educational assessment - Frontiers",
+   "summary": "EduFairBench: reproducible evaluation of large language models for educational assessment &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmJEZExrMFZNa00xalJFUlJqWEJRMFMtbnd4b1RBS1ZvT1pBb2w2Q2xwZTU2Z1VNNW1uNFBBV0xaaGRoUXE2MkdGSmVDVTdwTGJncXRsLUJaWWdPeURsUnpTS3FBSGVfal9UOXdsSEprRzQ0M3FNbVByQkhTektNQTRzVm9nOUowTjlTYzJ4bUJpVDhrZFI4MlhUdGlkNy1LTVE?oc=5",
+   "published_at": "2026-08-28T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmJEZExrMFZNa00xalJFUlJqWEJRMFMtbnd4b1RBS1ZvT1pBb2w2Q2xwZTU2Z1VNNW1uNFBBV0xaaGRoUXE2MkdGSmVDVTdwTGJncXRsLUJaWWdPeURsUnpTS3FBSGVfal9UOXdsSEprRzQ0M3FNbVByQkhTektNQTRzVm9nOUowTjlTYzJ4bUJpVDhrZFI4MlhUdGlkNy1LTVE?oc=5\" target=\"_blank\">EduFairBench: reproducible evaluation of large language models for educational assessment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }

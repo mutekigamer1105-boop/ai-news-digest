@@ -14443,6 +14443,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU9OXzVMOExFOXlqd3dqdlNWekFQWnNaWGdOU0MyVkdjWktJbDFQODRmdWFOVFRKczZHWHBQd2NBblF3MGpEWC03akFFNVl0R3BSTGt6UUJ2R05Ra19pWFNGSnZhX25mRlVLX3h5T1BqTVc4UFpGOS1lS29NU3gxYU4wNGtQNUlmODZWTzB1SWRqcHY1TldsNXV2Q0Nocm1oUlpfR2ZMVS3SAa4BQVVfeXFMUHhGNDhrU1JWT1gyWjlsaXl5cjJ3RWVXODhsZmJFY0N6OTFqem9zcVJOUHlyaDJ3RWxfcnA5LWRUQlVqeF96VER2UlJwaVF0M0hmaXpQLU5jMGltYnlCZy1Xa2NKNU5uVV9wZzFmR1BPczRxUkJ1Y3RDMXhrNkdUbC00NXRhNnBLV1JlcDJYOVV5dDJ4bUJ4T2UwZUVYM3hCcWJMeEZodTJtaVFqdFdB?oc=5\" target=\"_blank\">OpenAI halts releasing newest model over safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
    "fetched_at": "2026-10-23T08:58:20+00:00"
+  },
+  {
+   "id": "web-751-2ebfa0f5e9",
+   "source_id": "news",
+   "source_name": "BBC",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI scraps rollout of new model over safety concerns - BBC",
+   "summary": "OpenAI scraps rollout of new model over safety concerns &nbsp;&nbsp; BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoUlV2OXF6UjM4MGkxYVd6aEl3MS1lMjRaNS1mZmE2Sl9CR0VKcUs0YndBOThyeThZc0pYdFdPNmlNWmdrRlhRbVdBX21TamdMelBlcWIyWnZqQWo2aWc?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoUlV2OXF6UjM4MGkxYVd6aEl3MS1lMjRaNS1mZmE2Sl9CR0VKcUs0YndBOThyeThZc0pYdFdPNmlNWmdrRlhRbVdBX21TamdMelBlcWIyWnZqQWo2aWc?oc=5\" target=\"_blank\">OpenAI scraps rollout of new model over safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
+  },
+  {
+   "id": "web-865-81f9820a13",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "我国生成式人工智能用户规模突破7亿人 - 新华网",
+   "summary": "我国生成式人工智能用户规模突破7亿人 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnBZMnZ2SUVQSWZFR1A3VXRycmNMdEJMb3RlVDdTV1VubmxHVXVLRmJKeDNOaGdxUkUyLTg2NTVSY2ZmcnplMzZNTFNveXJ5d2E5dHBfOENmNkh2YXRGajBmenFpeWNFSFQ0aElKSU5IREYzTFN6X015aE52RlhIak11Y3ZhUjBscFFCQkN3alExeXc?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnBZMnZ2SUVQSWZFR1A3VXRycmNMdEJMb3RlVDdTV1VubmxHVXVLRmJKeDNOaGdxUkUyLTg2NTVSY2ZmcnplMzZNTFNveXJ5d2E5dHBfOENmNkh2YXRGajBmenFpeWNFSFQ0aElKSU5IREYzTFN6X015aE52RlhIak11Y3ZhUjBscFFCQkN3alExeXc?oc=5\" target=\"_blank\">我国生成式人工智能用户规模突破7亿人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-10-25T08:51:01+00:00"
   }
  ]
 }
