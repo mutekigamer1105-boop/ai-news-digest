@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-272-63e00b2d6d",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Better language models and their implications - OpenAI",
+   "summary": "Better language models and their implications &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CMk9rUEk3cF9VclhSQ2U2WWRtdHZhQUs2bGYwRGxXV3VtbS1ENzhlYkxlcThsSkUzMXJ2UVJLOTNxNHp5UUJPaUJnQ1c5N0VjU2UxMk5kTkVwNDQ0?oc=5",
+   "published_at": "2019-02-14T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CMk9rUEk3cF9VclhSQ2U2WWRtdHZhQUs2bGYwRGxXV3VtbS1ENzhlYkxlcThsSkUzMXJ2UVJLOTNxNHp5UUJPaUJnQ1c5N0VjU2UxMk5kTkVwNDQ0?oc=5\" target=\"_blank\">Better language models and their implications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}

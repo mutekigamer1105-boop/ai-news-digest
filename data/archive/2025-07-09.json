@@ -20,6 +20,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2cHpXUHNURkFUdThsV083VVozYjY0QkdWTHZydVh0algtbVdpYThJSGpfb0FreVI4V0tSQ2tpZDAyMXlpZFBzdQ?oc=5\" target=\"_blank\">苹果庞若鸣也被小扎挖走！Meta AI天团开会直接用中文吧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">智源社区</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-1082-28f6afae8c",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "立即开始使用 ChatGPT - OpenAI",
+   "summary": "立即开始使用 ChatGPT &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zYmZqVHM1RHNrMDZHTGVCb3QxV2VKckZJOWNKTHRvTDN3VkpPVjdBYmczWUxRdDJKN1QzYk5KWUR6ckkyQ0Q1SzY5S1MySzAxRFBSTllWQUZEWm5IbVpLeXZDS2s1WkEwT0Ryd3N1YkFpd1Zn?oc=5",
+   "published_at": "2025-07-09T21:24:24+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0zYmZqVHM1RHNrMDZHTGVCb3QxV2VKckZJOWNKTHRvTDN3VkpPVjdBYmczWUxRdDJKN1QzYk5KWUR6ckkyQ0Q1SzY5S1MySzAxRFBSTllWQUZEWm5IbVpLeXZDS2s1WkEwT0Ryd3N1YkFpd1Zn?oc=5\" target=\"_blank\">立即开始使用 ChatGPT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
   }
  ]
 }

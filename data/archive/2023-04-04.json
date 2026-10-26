@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "id": "web-263-0b34b403a9",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "How Does ChatGPT Really Work? (Published 2023) - The New York Times",
+   "summary": "How Does ChatGPT Really Work? (Published 2023) &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1Z5SkpXYjZvckxwWGZ0RjFpSW5DRm9kLVBzaTh1TXhuSVk1THdWVTBPWTNOSWRDY2dtVktsR1lWWjRfRkFTWUZYN3ZxTXJSZFRJQ3BnV0g4MmQ4dWhpbUhtNjVHTFM3d1NHbUxwdDZtTXV1NE43ZE1BbnlaUzRtUEpsTWxtTjB2OXVKTg?oc=5",
+   "published_at": "2023-04-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1Z5SkpXYjZvckxwWGZ0RjFpSW5DRm9kLVBzaTh1TXhuSVk1THdWVTBPWTNOSWRDY2dtVktsR1lWWjRfRkFTWUZYN3ZxTXJSZFRJQ3BnV0g4MmQ4dWhpbUhtNjVHTFM3d1NHbUxwdDZtTXV1NE43ZE1BbnlaUzRtUEpsTWxtTjB2OXVKTg?oc=5\" target=\"_blank\">How Does ChatGPT Really Work? (Published 2023)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}

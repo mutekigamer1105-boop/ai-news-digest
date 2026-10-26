@@ -12552,6 +12552,71 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0RHc3czZERxSklFc0VnWGlpTDV4VUpjVDJONmd2Mm9XYlRKUE5TUWUyNG1BVFJ0c044WGtINDBuR3VnUEdXV1puNkhveWx6QXdWT2tyc2RpUm9qS2M5eFI4ZVlnM3VaRE9mdVgtZDVOS1NwdGJMVTVJWkNVWHFiaHVfVnZQLVRQaU5JcF9nVi1aT0loWUltUnRKaThnVmdqaVV5UjdVMkxoR1E?oc=5\" target=\"_blank\">Meta releases Muse Spark Open, a new ‘open-weight’ AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
    "fetched_at": "2026-10-24T08:32:00+00:00"
+  },
+  {
+   "id": "web-97-03e3b1eb43",
+   "source_id": "news",
+   "source_name": "MIT News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Q&A: The “collision” between AI, your brain, and society - MIT News",
+   "summary": "Q&A: The “collision” between AI, your brain, and society &nbsp;&nbsp; MIT News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOW41bG5idnJSU2NfTGhTTG5NY1BfYWgxSzRMRTdCVnlhTjEtZy1UTVB1TlV3RkE5YTJaRllfSDhtYng2X1VFX1dTSGdLX1RXV3Jzel9JX2FPX1czTHVhb0VrbVZqTmpGc2pKRTlxMWNTeU5MaV9wQ0Q4TG5sdloxRHhzcFhrMUlIZVVoR1g0WWY?oc=5",
+   "published_at": "2026-10-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNOW41bG5idnJSU2NfTGhTTG5NY1BfYWgxSzRMRTdCVnlhTjEtZy1UTVB1TlV3RkE5YTJaRllfSDhtYng2X1VFX1dTSGdLX1RXV3Jzel9JX2FPX1czTHVhb0VrbVZqTmpGc2pKRTlxMWNTeU5MaV9wQ0Q4TG5sdloxRHhzcFhrMUlIZVVoR1g0WWY?oc=5\" target=\"_blank\">Q&A: The “collision” between AI, your brain, and society</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT News</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  },
+  {
+   "id": "web-648-e4ce3cc427",
+   "source_id": "news",
+   "source_name": "Startup Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI startups are now swallowing roughly four out of five venture dollars in the US - Startup Fortune",
+   "summary": "AI startups are now swallowing roughly four out of five venture dollars in the US &nbsp;&nbsp; Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1FKNi1aM3VPUGFnOHB4WHVBaWcwUUtmcE1ibnlMVEc4MlA3QThMZEhTQWxZOURMU2QwaE50b0g3dzh3VkVxY3N5TEp6VFNLcDhnbHJiOGlJc19RcG5GMUdsTUc5Y3djSnF1OGM1NmZyM1RxU1owWU9PLUdEMm5qR2MtUmdHdWoya21CNndPY0lfUVZ4V2VCb0ZhckNuelExOXo5Qlk3SE5qNzNxMVE?oc=5",
+   "published_at": "2026-10-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1FKNi1aM3VPUGFnOHB4WHVBaWcwUUtmcE1ibnlMVEc4MlA3QThMZEhTQWxZOURMU2QwaE50b0g3dzh3VkVxY3N5TEp6VFNLcDhnbHJiOGlJc19RcG5GMUdsTUc5Y3djSnF1OGM1NmZyM1RxU1owWU9PLUdEMm5qR2MtUmdHdWoya21CNndPY0lfUVZ4V2VCb0ZhckNuelExOXo5Qlk3SE5qNzNxMVE?oc=5\" target=\"_blank\">AI startups are now swallowing roughly four out of five venture dollars in the US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  },
+  {
+   "id": "web-726-91c00b80fd",
+   "source_id": "news",
+   "source_name": "Cybernews",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI CFO says major AI model needs more safety checks - Cybernews",
+   "summary": "OpenAI CFO says major AI model needs more safety checks &nbsp;&nbsp; Cybernews",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kcDBrNmVGZFZBYjR4MmlkQkJfQlV1a1phUkpnVUcwQjhBR2pQRjV3ZGItZEpXd1owdEhXUjVYTTdqbEtGTWl1U3dTb0lwU3pRUnJSTTRBQ0ktT3NCcldhWTZKcWlERC1VbXBXNkpsNkVJZXBk?oc=5",
+   "published_at": "2026-10-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9kcDBrNmVGZFZBYjR4MmlkQkJfQlV1a1phUkpnVUcwQjhBR2pQRjV3ZGItZEpXd1owdEhXUjVYTTdqbEtGTWl1U3dTb0lwU3pRUnJSTTRBQ0ktT3NCcldhWTZKcWlERC1VbXBXNkpsNkVJZXBk?oc=5\" target=\"_blank\">OpenAI CFO says major AI model needs more safety checks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybernews</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
   }
  ]
 }

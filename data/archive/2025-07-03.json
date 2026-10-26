@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRZmxHb3JCcHAyRlJtd0JFVzlxNUVtS0VYVTVOMERYX2NrWlFwcldzVWlNcHpqaHJHbXE5Vl83YWhkYUNlRGM2cmduemlRcjJO?oc=5\" target=\"_blank\">访谈｜郝珂灵：OpenAI建立了AI帝国，但历史上帝国都会崩溃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-256-414f92465a",
+   "source_id": "news",
+   "source_name": "IEEE Spectrum",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large Language Model Performance Doubles Every 7 Months - IEEE Spectrum",
+   "summary": "Large Language Model Performance Doubles Every 7 Months &nbsp;&nbsp; IEEE Spectrum",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YRXhveG8wVzhwTEFjLWJJY1ljMlg4eVVtLTFsZGRvLWR2bEpWOWxYeTd1ZU12R2p6OHFmc3RuNW5IbEE2akd1S2w2ajJFTkY0TkpWSmQxZXFNc3Z5czU2cEhZOElZbF94RFE?oc=5",
+   "published_at": "2025-07-03T20:18:16+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9YRXhveG8wVzhwTEFjLWJJY1ljMlg4eVVtLTFsZGRvLWR2bEpWOWxYeTd1ZU12R2p6OHFmc3RuNW5IbEE2akd1S2w2ajJFTkY0TkpWSmQxZXFNc3Z5czU2cEhZOElZbF94RFE?oc=5\" target=\"_blank\">Large Language Model Performance Doubles Every 7 Months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IEEE Spectrum</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
   }
  ]
 }

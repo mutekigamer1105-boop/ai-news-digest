@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1081-200ecf9c66",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "Prism 正式登场 - OpenAI",
+   "summary": "Prism 正式登场 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ocjVrRFk5VXY5Z2VrMFI0QndDTnh5RDlYYXpaWmxGMTNoV0xZbENZVmxBbFEtLVU1M0pSLVRNRTI5ZXZvaTktUjNfQ2lrdWRZY1lNbG5WTWp3X2h1TTBHeUNDSm4?oc=5",
+   "published_at": "2026-01-27T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ocjVrRFk5VXY5Z2VrMFI0QndDTnh5RDlYYXpaWmxGMTNoV0xZbENZVmxBbFEtLVU1M0pSLVRNRTI5ZXZvaTktUjNfQ2lrdWRZY1lNbG5WTWp3X2h1TTBHeUNDSm4?oc=5\" target=\"_blank\">Prism 正式登场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}

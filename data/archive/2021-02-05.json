@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-267-51aca0204a",
+   "source_id": "news",
+   "source_name": "Stanford HAI",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "How Large Language Models Will Transform Science, Society, and AI - Stanford HAI",
+   "summary": "How Large Language Models Will Transform Science, Society, and AI &nbsp;&nbsp; Stanford HAI",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbGdzUERPQk1tQkdiSlZpNFFsVzRLQ09jYU5XZnB4LWJ0QlZtOFlLLXFDWnpKcldFa01YY2RmcHgtM0dyVXViZVlsbF9ZUGk2WUd6ODRST1A5d2NPRVYwdXZXcVppNVJvNjBQUy1MYWhWSFpvS1p0cHlvcUV4UndJTktqUWRkRWtrcnhoTVQ5LWpMVm5mYlhBNA?oc=5",
+   "published_at": "2021-02-05T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNbGdzUERPQk1tQkdiSlZpNFFsVzRLQ09jYU5XZnB4LWJ0QlZtOFlLLXFDWnpKcldFa01YY2RmcHgtM0dyVXViZVlsbF9ZUGk2WUd6ODRST1A5d2NPRVYwdXZXcVppNVJvNjBQUy1MYWhWSFpvS1p0cHlvcUV4UndJTktqUWRkRWtrcnhoTVQ5LWpMVm5mYlhBNA?oc=5\" target=\"_blank\">How Large Language Models Will Transform Science, Society, and AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stanford HAI</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}

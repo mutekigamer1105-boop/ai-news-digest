@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1083-7749781929",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "GPT-5 系统卡更新：GPT-5.2 - OpenAI",
+   "summary": "GPT-5 系统卡更新：GPT-5.2 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56Yy00S285Wm9sbVJTLU9HbFMzOEs0UkRBQkdLZTBvenpmQ0FaT2xLVktzV2hjWTUzejdjVFlaNUZadjB1UEhLZXM0Wk9ZbGV4MEFDekdIcUtlNGdfSlJiaFZzQnl6aFVrTGtoTjhNaTk4WE1RME1FTQ?oc=5",
+   "published_at": "2025-12-11T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE56Yy00S285Wm9sbVJTLU9HbFMzOEs0UkRBQkdLZTBvenpmQ0FaT2xLVktzV2hjWTUzejdjVFlaNUZadjB1UEhLZXM0Wk9ZbGV4MEFDekdIcUtlNGdfSlJiaFZzQnl6aFVrTGtoTjhNaTk4WE1RME1FTQ?oc=5\" target=\"_blank\">GPT-5 系统卡更新：GPT-5.2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}

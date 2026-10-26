@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-250-45612801fe",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What large language models know and what people think they know - Nature",
+   "summary": "What large language models know and what people think they know &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKNXd3Mm0yRjg1cXNLRnJZbEJmWlNsamFVS2NTbm54Y1BzZU1GVnFJcTFjcnVjZDRfa2p3RHpkdktMSkw3eXRKdkVoQ0tWT2VIOHlNUVBKOTlYcVdJMzhV?oc=5",
+   "published_at": "2025-01-21T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKNXd3Mm0yRjg1cXNLRnJZbEJmWlNsamFVS2NTbm54Y1BzZU1GVnFJcTFjcnVjZDRfa2p3RHpkdktMSkw3eXRKdkVoQ0tWT2VIOHlNUVBKOTlYcVdJMzhV?oc=5\" target=\"_blank\">What large language models know and what people think they know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}

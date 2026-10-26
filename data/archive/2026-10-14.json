@@ -11970,6 +11970,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9iajZ3OTU0azBYckNwVElkbGN4Y1d1YjFVajRDRGMyV2l3cEw3ZFdJSF9BT0VXVF9qY1RWZy1oTlRGYmhFMUpCZlF4WnVsQi12cmhqMGN1YU1kNnB5NERCcGJnXzB3cV8xc2ZFbnRVemZDRFY2bDNuMA?oc=5\" target=\"_blank\">评估方如何考察内部 AI 智能体的控制与监测</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">METR</font>",
    "fetched_at": "2026-10-22T09:03:22+00:00"
+  },
+  {
+   "id": "web-1043-f2c086ca22",
+   "source_id": "news",
+   "source_name": "METR",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "评估方如何考察内部 AI 智能体的控制与监测 - METR",
+   "summary": "评估方如何考察内部 AI 智能体的控制与监测 &nbsp;&nbsp; METR",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04QmFnTzUwbjdQdE85SDNCdFZBclJlcFh4N0NTNlNvNGF4aHZVX3hBZW55Sk1TNlh5X0FvZUl1RmxmS21sRVByamNDT3lTSHlxVEo1aG53aHRFUXkteS1IRlpYOHpoZ3QxemtDSU5sODRjNlZoZkItVg?oc=5",
+   "published_at": "2026-10-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE04QmFnTzUwbjdQdE85SDNCdFZBclJlcFh4N0NTNlNvNGF4aHZVX3hBZW55Sk1TNlh5X0FvZUl1RmxmS21sRVByamNDT3lTSHlxVEo1aG53aHRFUXkteS1IRlpYOHpoZ3QxemtDSU5sODRjNlZoZkItVg?oc=5\" target=\"_blank\">评估方如何考察内部 AI 智能体的控制与监测</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">METR</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
   }
  ]
 }

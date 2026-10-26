@@ -10283,6 +10283,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdkI5VG11Rl8yU1R5S1YtNnJCenppTVRwVi1ZYUwtUHptQ1M4T2ctV1NYZThxNHI1SlB0Nng4MEQ5UG5vMGc3angwWFpMZ0N2ejhRbHc2aEo3NXVnc0xYLUhLZkdkZENHU19nTlhpbEZYb21sWGNtLVZOMGw2bDRzcTVJb1B2SGh0RVQ0ZG5CYw?oc=5\" target=\"_blank\">New study suggests brain function reduced by LLM use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IAI TV</font>",
    "fetched_at": "2026-10-25T08:51:01+00:00"
+  },
+  {
+   "id": "web-615-c45309216c",
+   "source_id": "news",
+   "source_name": "Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "China’s AI startups can match the U.S.’s models. They can’t yet match the U.S.’s money - Fortune",
+   "summary": "China’s AI startups can match the U.S.’s models. They can’t yet match the U.S.’s money &nbsp;&nbsp; Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DTk5PNjcyV2hBZ3lLeXNSY3k5VmlUUUlZai03a0VMSGtRbjZwa0Q3a2NIaDZ5bEpPRHk3LWl1MXhQMmRrSjUzMG81ZjhncnBOalo0YWN0bU1ieEZLS2hlU19pTzVUUXM1WW5yZURiUE1TRkpJSWw4amFR?oc=5",
+   "published_at": "2026-10-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5DTk5PNjcyV2hBZ3lLeXNSY3k5VmlUUUlZai03a0VMSGtRbjZwa0Q3a2NIaDZ5bEpPRHk3LWl1MXhQMmRrSjUzMG81ZjhncnBOalo0YWN0bU1ieEZLS2hlU19pTzVUUXM1WW5yZURiUE1TRkpJSWw4amFR?oc=5\" target=\"_blank\">China’s AI startups can match the U.S.’s models. They can’t yet match the U.S.’s money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
   }
  ]
 }

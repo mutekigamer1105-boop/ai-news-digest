@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-251-14e3636967",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Quantifying large language model usage in scientific papers - Nature",
+   "summary": "Quantifying large language model usage in scientific papers &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hb2lEbVh3d1o3akY1ZENZa3NSSEZvdDRsbnRVUENubHVjVzdhV0lhUHFtU3haamlVTFZwQmZkaVRxT2pEcnZDV09oOWhEZGtyS2dRblJMTWttaGZySWRN?oc=5",
+   "published_at": "2025-08-04T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hb2lEbVh3d1o3akY1ZENZa3NSSEZvdDRsbnRVUENubHVjVzdhV0lhUHFtU3haamlVTFZwQmZkaVRxT2pEcnZDV09oOWhEZGtyS2dRblJMTWttaGZySWRN?oc=5\" target=\"_blank\">Quantifying large language model usage in scientific papers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}

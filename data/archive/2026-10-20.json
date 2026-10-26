@@ -11330,6 +11330,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5\" target=\"_blank\">Call for papers: Advancing research on the Ethics of Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNESCO</font>",
    "fetched_at": "2026-10-24T08:31:59+00:00"
+  },
+  {
+   "id": "web-906-43269f0f52",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型更便宜了，机器人世界模型开始被“验真” - 东方财富",
+   "summary": "AI大模型更便宜了，机器人世界模型开始被“验真” &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RLWFtQlZmWTFLanlFV25rWVUwYng3VGRUeVdRQUhkZW5tUWZrdEQxU3dRdjFBdURQc2xPdm5EYUVHQXlNeXFsSGdGdTM5NC1nRUtGSnFMd1F0VVhJajFUOGoxQ0xZdw?oc=5",
+   "published_at": "2026-10-20T06:32:33+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RLWFtQlZmWTFLanlFV25rWVUwYng3VGRUeVdRQUhkZW5tUWZrdEQxU3dRdjFBdURQc2xPdm5EYUVHQXlNeXFsSGdGdTM5NC1nRUtGSnFMd1F0VVhJajFUOGoxQ0xZdw?oc=5\" target=\"_blank\">AI大模型更便宜了，机器人世界模型开始被“验真”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  },
+  {
+   "id": "web-1066-b7dccd8a2f",
+   "source_id": "news",
+   "source_name": "https://www.itdcw.com/",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "「迪迪虾」重磅发布，比亚迪率先进入AI智能体时代 - https://www.itdcw.com/",
+   "summary": "「迪迪虾」重磅发布，比亚迪率先进入AI智能体时代 &nbsp;&nbsp; https://www.itdcw.com/",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DeW1CRVlyQVFWOWVWU3dmcVZSc1RXV291dFc0WjNUQzlieU5jLU00ZEZ6a3dqUHJDRld4WF8xcUxwSW1HaDNtRlBTOWFGYk9odE4wdS11UFNQWWhyWjNzTA?oc=5",
+   "published_at": "2026-10-20T02:56:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DeW1CRVlyQVFWOWVWU3dmcVZSc1RXV291dFc0WjNUQzlieU5jLU00ZEZ6a3dqUHJDRld4WF8xcUxwSW1HaDNtRlBTOWFGYk9odE4wdS11UFNQWWhyWjNzTA?oc=5\" target=\"_blank\">「迪迪虾」重磅发布，比亚迪率先进入AI智能体时代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://www.itdcw.com/</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
   }
  ]
 }

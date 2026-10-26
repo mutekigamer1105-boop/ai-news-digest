@@ -14486,6 +14486,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnBZMnZ2SUVQSWZFR1A3VXRycmNMdEJMb3RlVDdTV1VubmxHVXVLRmJKeDNOaGdxUkUyLTg2NTVSY2ZmcnplMzZNTFNveXJ5d2E5dHBfOENmNkh2YXRGajBmenFpeWNFSFQ0aElKSU5IREYzTFN6X015aE52RlhIak11Y3ZhUjBscFFCQkN3alExeXc?oc=5\" target=\"_blank\">我国生成式人工智能用户规模突破7亿人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-10-25T08:51:01+00:00"
+  },
+  {
+   "id": "web-729-537d1c11ce",
+   "source_id": "news",
+   "source_name": "Yahoo Finance UK",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI unveils low-cost AI model, a day after shelving Astra upgrade - Yahoo Finance UK",
+   "summary": "OpenAI unveils low-cost AI model, a day after shelving Astra upgrade &nbsp;&nbsp; Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVJfX183NjFqMFpFRXBWWkVmSnU0MEdxelEyUWhzekp0MUhlM2NwdjFjWk9zcERaMzUwakdCem9STjRmdXVnNEN4Y0NUQTFOMDZTQVItY081VUFGXzRyS1BQOTBsTER0VkJLOUlZZFl4YzRDb2p5Tjc2UVI3c25HamJWY0dGWmFtVkdhSg?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVJfX183NjFqMFpFRXBWWkVmSnU0MEdxelEyUWhzekp0MUhlM2NwdjFjWk9zcERaMzUwakdCem9STjRmdXVnNEN4Y0NUQTFOMDZTQVItY081VUFGXzRyS1BQOTBsTER0VkJLOUlZZFl4YzRDb2p5Tjc2UVI3c25HamJWY0dGWmFtVkdhSg?oc=5\" target=\"_blank\">OpenAI unveils low-cost AI model, a day after shelving Astra upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
   }
  ]
 }

@@ -12888,6 +12888,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBwVnRlaUItRTk3a29sVHJnNzJEcE5kTGxPa2JseHBlVk5oMTJvQ29fa0V5bWhYTGJOcllpZzg1THlBS1piVFlMZ2Y5OG1lRGd2Qy1Ca1M5TzdJYW9KVWFOR2hRV19tYUV4ZWc?oc=5\" target=\"_blank\">面向AI智能体的产品数据：如何准备？不作为的代价是什么？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shopify</font>",
    "fetched_at": "2026-10-25T08:51:01+00:00"
+  },
+  {
+   "id": "web-608-797e9e47e5",
+   "source_id": "news",
+   "source_name": "Global Banking & Finance Review",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Europe Faces AI Startup Exodus Amid Regulation, Funding & Skill Gaps - Global Banking & Finance Review",
+   "summary": "Europe Faces AI Startup Exodus Amid Regulation, Funding & Skill Gaps &nbsp;&nbsp; Global Banking & Finance Review",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVk5OXoyakQwSjVhRGdOc3FZcDNkM3lOWnFKMzhCaS1FY1NRMWlRMTNvQjhjYzIzTU90T0ZCVWFxY0s4QWllS2NsbF8zb0NiTlZJU0U1NHh6cGpkLS10UlRUbmJ1UDVCLXM0UnN3cmlkNEpEQ3JPTllMSmg4cjZ5alE2R3B6N2pCOUdfYWU1UzVGaVdMdmhwOGpwMC1uTkU?oc=5",
+   "published_at": "2026-10-21T17:02:17+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVk5OXoyakQwSjVhRGdOc3FZcDNkM3lOWnFKMzhCaS1FY1NRMWlRMTNvQjhjYzIzTU90T0ZCVWFxY0s4QWllS2NsbF8zb0NiTlZJU0U1NHh6cGpkLS10UlRUbmJ1UDVCLXM0UnN3cmlkNEpEQ3JPTllMSmg4cjZ5alE2R3B6N2pCOUdfYWU1UzVGaVdMdmhwOGpwMC1uTkU?oc=5\" target=\"_blank\">Europe Faces AI Startup Exodus Amid Regulation, Funding & Skill Gaps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Banking & Finance Review</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  },
+  {
+   "id": "web-887-40449377a2",
+   "source_id": "news",
+   "source_name": "中国西藏网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国民企AI大模型全球“圈粉” 调用量连续24周霸榜！_即时中国 - 中国西藏网",
+   "summary": "中国民企AI大模型全球“圈粉” 调用量连续24周霸榜！_即时中国 &nbsp;&nbsp; 中国西藏网",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1keGVsYl9qb3gxRjBqQUlxdVNTQ0xjVkRiZEYxTGl5Tl9EeG1oRjhscVItbTgtR3MzV2VaMU9ZbXlramhoNTRpaGEtX2RlekRKODZyR2xZMDduZTQ0NE03WllHVlpPQQ?oc=5",
+   "published_at": "2026-10-21T14:40:41+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1keGVsYl9qb3gxRjBqQUlxdVNTQ0xjVkRiZEYxTGl5Tl9EeG1oRjhscVItbTgtR3MzV2VaMU9ZbXlramhoNTRpaGEtX2RlekRKODZyR2xZMDduZTQ0NE03WllHVlpPQQ?oc=5\" target=\"_blank\">中国民企AI大模型全球“圈粉” 调用量连续24周霸榜！_即时中国</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国西藏网</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
   }
  ]
 }

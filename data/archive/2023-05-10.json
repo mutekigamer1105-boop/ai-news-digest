@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "id": "web-273-c3a2eef390",
+   "source_id": "news",
+   "source_name": "blog.google",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Introducing PaLM 2 - blog.google",
+   "summary": "Introducing PaLM 2 &nbsp;&nbsp; blog.google",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWlJYmhYVzVGUTV4cklLM3R5TmVuU2hWRkxTS3NrQ19KZlBNZjNzejhtbHY5MUF2X3lSNDZjR1VKUlQ4WEwwQ2hOX0sySkFfSFd5dnJ4OFBGUlVvVncyaWdwZ1NkcEpVMzJONlBqaWd2YXdZVk1WV2k5ODd0VXZnR01hODF0RHFyVl95eFZ3?oc=5",
+   "published_at": "2023-05-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWlJYmhYVzVGUTV4cklLM3R5TmVuU2hWRkxTS3NrQ19KZlBNZjNzejhtbHY5MUF2X3lSNDZjR1VKUlQ4WEwwQ2hOX0sySkFfSFd5dnJ4OFBGUlVvVncyaWdwZ1NkcEpVMzJONlBqaWd2YXdZVk1WV2k5ODd0VXZnR01hODF0RHFyVl95eFZ3?oc=5\" target=\"_blank\">Introducing PaLM 2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-255-db9828c878",
+   "source_id": "news",
+   "source_name": "Understanding AI | Timothy B. Lee",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models, explained with a minimum of math and jargon - Understanding AI | Timothy B. Lee",
+   "summary": "Large language models, explained with a minimum of math and jargon &nbsp;&nbsp; Understanding AI | Timothy B. Lee",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pNUJwQkdWOGJpWS1MY0xxU0lyb0Q2U3FoNHBhOHRzdU0tRUF1X0MxNDFrVnlxbFJqVUF6Y3Q4ejJzenMxMjZhcmcwRGhfSzAtVjZtMEpDcWVFUE9pbUZOLWJ1bHFLVDBSRTJVbGo4cjJGQzRiQVpKTEd3?oc=5",
+   "published_at": "2023-07-27T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1pNUJwQkdWOGJpWS1MY0xxU0lyb0Q2U3FoNHBhOHRzdU0tRUF1X0MxNDFrVnlxbFJqVUF6Y3Q4ejJzenMxMjZhcmcwRGhfSzAtVjZtMEpDcWVFUE9pbUZOLWJ1bHFLVDBSRTJVbGo4cjJGQzRiQVpKTEd3?oc=5\" target=\"_blank\">Large language models, explained with a minimum of math and jargon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Understanding AI | Timothy B. Lee</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}

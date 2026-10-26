@@ -306,6 +306,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0swc2pQaTV5M1EwYUpEaHRPN243dkJJb0xhZllfSl9oZmEwZVlMYmtBUnlfVFd4RGVJTlRER1BGdDBfSnlEeUlmSDhQUUNmTDNUSzVVUlh2YS0xMk5jOGJNRERQMEhwQnFPV2VVb0duWks0YjEzUDhZNV82YzBDcDVVWTd4T0I5aC1Ed2huclRwUUtmWkJzQ1JKOU15RFpkUzZTTC1zYmdSWlFJOFN2VUZfQ19aQTdJa3Q1R1lIYUVoUQ?oc=5\" target=\"_blank\">Do Large Language Models Think Like Us?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Psychology Today</font>",
    "fetched_at": "2026-10-02T04:06:25+00:00"
+  },
+  {
+   "id": "web-954-ade01215dd",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型，为啥能再次轰动世界 - 新浪财经",
+   "summary": "中国AI大模型，为啥能再次轰动世界 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjFuc2xsdlRsVkFrRjVqcE1rZ1Q4b3kwLWN1X0o5VkV2TU1qV2pJTV9rbFhwT0dQNzBsZEhGVTRXTWd2MEtXVG95U3JsOExHaWt1NzAwbUFGektsZFJaWExLRHE0QzhkbjlGQTkwM0hack0yZTdJb2hEekQxdXJ5SEN1cVp4R0l2UkRLUEwyOA?oc=5",
+   "published_at": "2026-07-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjFuc2xsdlRsVkFrRjVqcE1rZ1Q4b3kwLWN1X0o5VkV2TU1qV2pJTV9rbFhwT0dQNzBsZEhGVTRXTWd2MEtXVG95U3JsOExHaWt1NzAwbUFGektsZFJaWExLRHE0QzhkbjlGQTkwM0hack0yZTdJb2hEekQxdXJ5SEN1cVp4R0l2UkRLUEwyOA?oc=5\" target=\"_blank\">中国AI大模型，为啥能再次轰动世界</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
   }
  ]
 }

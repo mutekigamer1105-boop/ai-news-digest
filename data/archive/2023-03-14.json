@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-270-2b230c79f6",
+   "source_id": "news",
+   "source_name": "National Cyber Security Centre",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "ChatGPT and large language models: what's the risk? - National Cyber Security Centre",
+   "summary": "ChatGPT and large language models: what's the risk? &nbsp;&nbsp; National Cyber Security Centre",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPakI4WDlDckx1aTkyME9vRFZpQklXa01jTk96ZHZkWUZ0X2JpdmVoVGQxX2FQdzBUVlhaX0hFbGlqWXdkYUo1Mk45N0xycDQ1ZGg3RVpmSXlHZ2NFSHpJWkJlRm82UDQwTkhQUHNLblhkaUtDMVFUazdxb0J4RXJmYmRoTVpiMWJfMWc?oc=5",
+   "published_at": "2023-03-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPakI4WDlDckx1aTkyME9vRFZpQklXa01jTk96ZHZkWUZ0X2JpdmVoVGQxX2FQdzBUVlhaX0hFbGlqWXdkYUo1Mk45N0xycDQ1ZGg3RVpmSXlHZ2NFSHpJWkJlRm82UDQwTkhQUHNLblhkaUtDMVFUazdxb0J4RXJmYmRoTVpiMWJfMWc?oc=5\" target=\"_blank\">ChatGPT and large language models: what's the risk?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Cyber Security Centre</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}

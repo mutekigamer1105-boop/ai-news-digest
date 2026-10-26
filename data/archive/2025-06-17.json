@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-253-84196c4b88",
+   "source_id": "news",
+   "source_name": "MIT News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Unpacking the bias of large language models - MIT News",
+   "summary": "Unpacking the bias of large language models &nbsp;&nbsp; MIT News",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIaG9DYS10amJhQnpEc0dJZTBfVk9JbW51cmZ5ZmpnVDJNZERsLTJhb0FGaDlsS1RYZXE5RE5sYUU5bkJrVEljcGExZXBPM0FuZWNwcGlrMlVvbnZrMzYwSTFCWDN5QThBNTB5RWU5d0dDSlZK?oc=5",
+   "published_at": "2025-06-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBIaG9DYS10amJhQnpEc0dJZTBfVk9JbW51cmZ5ZmpnVDJNZERsLTJhb0FGaDlsS1RYZXE5RE5sYUU5bkJrVEljcGExZXBPM0FuZWNwcGlrMlVvbnZrMzYwSTFCWDN5QThBNTB5RWU5d0dDSlZK?oc=5\" target=\"_blank\">Unpacking the bias of large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT News</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}

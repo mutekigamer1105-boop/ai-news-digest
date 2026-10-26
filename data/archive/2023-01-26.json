@@ -1,0 +1,27 @@
+{
+ "items": [
+  {
+   "id": "web-271-fe5d8c8165",
+   "source_id": "news",
+   "source_name": "NVIDIA Blog",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What Are Large Language Models Used For? - NVIDIA Blog",
+   "summary": "What Are Large Language Models Used For? &nbsp;&nbsp; NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZRGc3YWYzRmRvYzVlTkV4ZkhJUmt4bkpmWllFbks4THN4Njl4cGEzOGV2dGlSUDU3eDc1Q3ljeTJ5QU5IX2pLa241YWZ6ZnhDQWdxdTBlT0M5ZHhaWGFaZ0lZZDltdHMwelB5VDlTSUdjbTdnYUhXSmlB?oc=5",
+   "published_at": "2023-01-26T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBZRGc3YWYzRmRvYzVlTkV4ZkhJUmt4bkpmWllFbks4THN4Njl4cGEzOGV2dGlSUDU3eDc1Q3ljeTJ5QU5IX2pLa241YWZ6ZnhDQWdxdTBlT0M5ZHhaWGFaZ0lZZDltdHMwelB5VDlTSUdjbTdnYUhXSmlB?oc=5\" target=\"_blank\">What Are Large Language Models Used For?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}

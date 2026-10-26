@@ -108,6 +108,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOb1pyNVh6czd3ZTI4VHQ2YlprMW1CZzJxU1hHeXU3emp5SVBET1E4V0JBY29LeWk1elpyVnNKM3VaZm5XeDluRUl6UUsxNjdZUjZraDl4THl3RlQ3Q1F4dk9tZHVwVUdlWVNXejA5aTRaMVN6U3lWdEVXUkRsb2tqc0c3RQ?oc=5\" target=\"_blank\">As Companies Race for Cheaper A.I. Options, This Start-Up Pitches a Solution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-951-1e2a933151",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控 - 财联社",
+   "summary": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mTUVkODZXWWt4OGc4d1NKdVJJcDhBSGtUakZ1QmJDWVA0Sk1DcjFKNEJBTUVtSE5MT2xPOUZ4MFpRaXdyaEhtdA?oc=5",
+   "published_at": "2026-07-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mTUVkODZXWWt4OGc4d1NKdVJJcDhBSGtUakZ1QmJDWVA0Sk1DcjFKNEJBTUVtSE5MT2xPOUZ4MFpRaXdyaEhtdA?oc=5\" target=\"_blank\">僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
   }
  ]
 }

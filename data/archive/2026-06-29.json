@@ -195,6 +195,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQeEtNNG5Gcm1VVl84aWU0V3NqdUNjYlk4MTNjc0NDV2pmTWg0WEkzbEFTQ1JwV0RjSzVUa0N5Mjc2YnliQkhYQUJwbzdhSG5HUFFPOExXYUo4Z044LUM4OWRuTngwb1JOMzlNd0JsSkFCMUZCYmR4Q29UTmpQNXcxUVBkRFRCdw?oc=5\" target=\"_blank\">惠普押注OpenAI以变革企业运营</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-16T08:38:37+00:00"
+  },
+  {
+   "id": "web-959-565f13a3b2",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "中国AI大模型调用量连续九周领跑，美国份额一年内从72%跌至33% - 东方财富",
+   "summary": "中国AI大模型调用量连续九周领跑，美国份额一年内从72%跌至33% &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wRElUQzVrOC1PLXB0WU96Ul9yUEx5WG9jZzRkTHJZRzdRQlBCVnFZNG1DR1QzLURfN0ZaOVhoZ2k4czlhYmdyN2Nwai1rV1FNYmZhTUVLb25nRV9EYU82ZA?oc=5",
+   "published_at": "2026-06-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wRElUQzVrOC1PLXB0WU96Ul9yUEx5WG9jZzRkTHJZRzdRQlBCVnFZNG1DR1QzLURfN0ZaOVhoZ2k4czlhYmdyN2Nwai1rV1FNYmZhTUVLb25nRV9EYU82ZA?oc=5\" target=\"_blank\">中国AI大模型调用量连续九周领跑，美国份额一年内从72%跌至33%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
   }
  ]
 }

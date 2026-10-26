@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-259-8b78a2ab46",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Scalable watermarking for identifying large language model outputs - Nature",
+   "summary": "Scalable watermarking for identifying large language model outputs &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJV2o1cWdHVVJFazZwNDVNdExKZzhESWYtRFFBUUtiMzF6R3NrUlNCN2NueHhXRFY2SXdiZ0NUV2J2bzIxTVpuM0YtQVhqZDU0MU5zZXRNTlBsN2RrTU5N?oc=5",
+   "published_at": "2024-10-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJV2o1cWdHVVJFazZwNDVNdExKZzhESWYtRFFBUUtiMzF6R3NrUlNCN2NueHhXRFY2SXdiZ0NUV2J2bzIxTVpuM0YtQVhqZDU0MU5zZXRNTlBsN2RrTU5N?oc=5\" target=\"_blank\">Scalable watermarking for identifying large language model outputs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-10-26T09:32:04+00:00"
+  }
+ ]
+}
