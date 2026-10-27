@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-937-dc9185c04e",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "超越大模型：为何 AI 要达到 AGI，仅靠规模远远不够 - IBM",
+   "summary": "超越大模型：为何 AI 要达到 AGI，仅靠规模远远不够 &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xWEdqR2Z2U1dadTY1Y0QtMFpMbGs4d2daNXVuMzlBczdPVVNueVk1NXd0MWR5eGg3NXhBMkFvM0xpSVVVMVY2SWRiY3k1dmdydGhWQ1VrNkhZUmpvYk5WVQ?oc=5",
+   "published_at": "2025-12-19T05:19:15+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xWEdqR2Z2U1dadTY1Y0QtMFpMbGs4d2daNXVuMzlBczdPVVNueVk1NXd0MWR5eGg3NXhBMkFvM0xpSVVVMVY2SWRiY3k1dmdydGhWQ1VrNkhZUmpvYk5WVQ?oc=5\" target=\"_blank\">超越大模型：为何 AI 要达到 AGI，仅靠规模远远不够</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-10-27T09:28:56+00:00"
+  }
+ ]
+}

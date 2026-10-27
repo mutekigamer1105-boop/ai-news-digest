@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE11eWtEY3V1TG5nZ2M3cGNSaF9BTVVUOXFlT1J4aUFCVHFIN1FQeDJhNkt0N29NeUZJcWJ5ZXRtTmJ5OHJpNlhQcGJnMEstY0FIVi1WRjB2RkptdVhKeXBiMGtHRXF1d9IBa0FVX3lxTE1aYUdjQV9CZ3FRSG85NHJfZXJUSXNhMnVNRmpNSWVfVEtZYXNxZ3YyeFM0bkxGak9FbUZaZVpvc1I1ZEFka3FTM3RhZ3Y3ME5WeHN5YXFvVTZzeHFCOVUzLXdSeGZiRWRvN2N3?oc=5\" target=\"_blank\">ChatGPT：印度媒体加入对OpenAI的诉讼</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-947-472a3aab3c",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "七瞰AI大模型│（二）通用大模型：协同训练破难关 - 新华网",
+   "summary": "七瞰AI大模型│（二）通用大模型：协同训练破难关 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDRVTkhXd0F6eXFaSEN3Yl9pRkdZLTg3bnZ0aXBYbFRuQ1gtQXpLRkV3TzFZcG5KaDNCRGlDSXBMaDdIalB2eFZ5RGJ6VDFsZnh5ckJVMGd4bXVmeFpLSDI1cm9LNC1UNEgzZ3haM0NWeThmOHlSZWthMWNnOGNzdFlGRnQ?oc=5",
+   "published_at": "2025-02-06T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDRVTkhXd0F6eXFaSEN3Yl9pRkdZLTg3bnZ0aXBYbFRuQ1gtQXpLRkV3TzFZcG5KaDNCRGlDSXBMaDdIalB2eFZ5RGJ6VDFsZnh5ckJVMGd4bXVmeFpLSDI1cm9LNC1UNEgzZ3haM0NWeThmOHlSZWthMWNnOGNzdFlGRnQ?oc=5\" target=\"_blank\">七瞰AI大模型│（二）通用大模型：协同训练破难关</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-10-27T09:28:56+00:00"
   }
  ]
 }

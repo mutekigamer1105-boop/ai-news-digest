@@ -175,6 +175,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU0lVN3hGdkhNWU5zVGp0N2E3d2N4Rnp6S1ZjdUV6ZHhMQXV4WlpVOEFNWFprRlpqMEtCS04zNVg5b1J5ZHB1ekh0S3NvalpSVWVaYzZTZDBKZ3FMT3AxM0R4eEM5MWpBSG5xOXdvWExjUF9BTnJ1WHY2N3N1UUk?oc=5\" target=\"_blank\">Gemma 4: Byte for byte, the most capable open models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
    "fetched_at": "2026-10-25T08:51:01+00:00"
+  },
+  {
+   "id": "web-932-ca4946d7d4",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "大语言模型 (LLM) 的列表 - IBM",
+   "summary": "大语言模型 (LLM) 的列表 &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NRFF4alpFRnl6NEFwdEwzOGtyczViWlpWWVJTQ0ExbUhtalFhaG1HNWdGMTIxMXNZQ2lXRUNEbE1udElaWHpmNXpfTkhjS3pYM3ZUMjhTcWx6NHBhYzg5akdFOGFWZTEtT2lMeWNla2dYcW8?oc=5",
+   "published_at": "2026-04-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9NRFF4alpFRnl6NEFwdEwzOGtyczViWlpWWVJTQ0ExbUhtalFhaG1HNWdGMTIxMXNZQ2lXRUNEbE1udElaWHpmNXpfTkhjS3pYM3ZUMjhTcWx6NHBhYzg5akdFOGFWZTEtT2lMeWNla2dYcW8?oc=5\" target=\"_blank\">大语言模型 (LLM) 的列表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-10-27T09:28:56+00:00"
   }
  ]
 }

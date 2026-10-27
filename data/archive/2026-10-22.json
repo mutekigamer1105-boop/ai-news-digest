@@ -12955,6 +12955,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJV1FreV9QaUNHeUNJVDBnblBmNTIzdFRIZmVtQUp3cXE5NC1VSE1OTmJjZ1NHMUwwOVczaU0waUN3N3VQOHd0TFRWdlBpT0c5MnppQ0owMnlwdXJ5ZmVfUnpoeVhuQQ?oc=5\" target=\"_blank\">Anthropic杀入AI智能体战场：Claude Duet重磅亮相</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-10-26T09:32:04+00:00"
+  },
+  {
+   "id": "web-1118-3bdd226ace",
+   "source_id": "news",
+   "source_name": "blockchain.news",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI、PerturbAI和Scripps利用人工智能代理挖掘脑细胞数据 - blockchain.news",
+   "summary": "OpenAI、PerturbAI和Scripps利用人工智能代理挖掘脑细胞数据 &nbsp;&nbsp; blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY1d2RTRWMVhYb1dPUkpSd1hobmN5QXoxWkJXMW9WdkN0RlZqZ2lhTjZ5Z283Q1g1VXF2bTMzNUlUbmpwMWhVZDgtMktZU2hTeGgzaTFxX2Nad0VwYmJpMV9yS2J5Sms4bVMyeVByWmoyMVRYNWFmSlhQNGxIc3o4by01OU1NTkFGYkE?oc=5",
+   "published_at": "2026-10-22T02:32:53+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOY1d2RTRWMVhYb1dPUkpSd1hobmN5QXoxWkJXMW9WdkN0RlZqZ2lhTjZ5Z283Q1g1VXF2bTMzNUlUbmpwMWhVZDgtMktZU2hTeGgzaTFxX2Nad0VwYmJpMV9yS2J5Sms4bVMyeVByWmoyMVRYNWFmSlhQNGxIc3o4by01OU1NTkFGYkE?oc=5\" target=\"_blank\">OpenAI、PerturbAI和Scripps利用人工智能代理挖掘脑细胞数据</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+   "fetched_at": "2026-10-27T09:28:56+00:00"
+  },
+  {
+   "id": "web-1117-c91cefbf82",
+   "source_id": "news",
+   "source_name": "blockchain.news",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Cloudflare表示，OpenAI模型有助于漏洞发现和修复 - blockchain.news",
+   "summary": "Cloudflare表示，OpenAI模型有助于漏洞发现和修复 &nbsp;&nbsp; blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWndjRTJiN1dqVWVwZzR3THR6LWFYQlh1N2JlV0ppaGFTZ1JHTkJ6aE8xenZ2Qk45am5HZ3JMX2pTZVU0NDdha0wzQmNVSkxJTHQ0UlowZFpxUjJQcjJsbjBFZ1NnblBzSTZQcXEwaVpEVC1wYm5aMVBJZy1YbG9WTEZSRG1wbXlnel9XUm5JRWtSZWlFY255d05B?oc=5",
+   "published_at": "2026-10-22T00:43:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWndjRTJiN1dqVWVwZzR3THR6LWFYQlh1N2JlV0ppaGFTZ1JHTkJ6aE8xenZ2Qk45am5HZ3JMX2pTZVU0NDdha0wzQmNVSkxJTHQ0UlowZFpxUjJQcjJsbjBFZ1NnblBzSTZQcXEwaVpEVC1wYm5aMVBJZy1YbG9WTEZSRG1wbXlnel9XUm5JRWtSZWlFY255d05B?oc=5\" target=\"_blank\">Cloudflare表示，OpenAI模型有助于漏洞发现和修复</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+   "fetched_at": "2026-10-27T09:28:56+00:00"
   }
  ]
 }

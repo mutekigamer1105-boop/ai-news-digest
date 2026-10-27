@@ -109,6 +109,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ORDNJRkxSd0NtSHI3cDBvZU9PSU9jTnE0X3ZrN1JhYUNVT1NhUXRWMTF3TGxvaVlINnVkbnZOZWJkaFRlal9uRTRHZnY0SUtiYXZhQXFnTnMxNGFpeXg4QjRMaUo3QdIBa0FVX3lxTE5ZWWFlNFVGbW9yZEE0ZXFCdzNZZ0dyNHZtRUR5TzJtOWc0RkhaajZkN0dtREpuX0tYVkcyWk02ZnRjaEhVNVNXZnRqTTF0bjItTUZjYTV3SzNUXzZPZnBsZEQ3bS1BbkhiVmhj?oc=5\" target=\"_blank\">当AI智能体开始上岗：2026年春天里，三个中国人的兴奋与恐惧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
    "fetched_at": "2026-10-21T09:00:53+00:00"
+  },
+  {
+   "id": "web-936-729b87053e",
+   "source_id": "news",
+   "source_name": "华龙网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型的Token是什么？一个视频带你了解 - 华龙网",
+   "summary": "AI大模型的Token是什么？一个视频带你了解 &nbsp;&nbsp; 华龙网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xVzNPYXFqR3dvZDFCX3FCZHFkZmRLLVVDVnpPY0t6ZW1SYmxGaEFpNVBsUkFNQ1h3SUtMb2RSUzN3MDF2Smk1YTJVbVdoWnZtVV9ZZzVPdVRoZEJfaE1BdFg1V3lLS085eFhJ?oc=5",
+   "published_at": "2026-03-24T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE0xVzNPYXFqR3dvZDFCX3FCZHFkZmRLLVVDVnpPY0t6ZW1SYmxGaEFpNVBsUkFNQ1h3SUtMb2RSUzN3MDF2Smk1YTJVbVdoWnZtVV9ZZzVPdVRoZEJfaE1BdFg1V3lLS085eFhJ?oc=5\" target=\"_blank\">AI大模型的Token是什么？一个视频带你了解</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华龙网</font>",
+   "fetched_at": "2026-10-27T09:28:56+00:00"
   }
  ]
 }

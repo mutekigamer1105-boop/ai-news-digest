@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "id": "web-955-2067ba569f",
+   "source_id": "news",
+   "source_name": "Amazon Web Services (AWS)",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "生成式人工智能 - Amazon Web Services (AWS)",
+   "summary": "生成式人工智能 &nbsp;&nbsp; Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QbDlRaEdEOHd3b0tvNGgtbkoyWUtpclMzZXRxWWxUdXVYbElKdTJKOUNNMEk0NTk0VzU3SnVQcFFtRVcyWm1mN0JLNTZMSHhaWUFvS3hn?oc=5",
+   "published_at": "2024-04-30T06:35:13+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QbDlRaEdEOHd3b0tvNGgtbkoyWUtpclMzZXRxWWxUdXVYbElKdTJKOUNNMEk0NTk0VzU3SnVQcFFtRVcyWm1mN0JLNTZMSHhaWUFvS3hn?oc=5\" target=\"_blank\">生成式人工智能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+   "fetched_at": "2026-10-27T09:28:56+00:00"
+  }
+ ]
+}

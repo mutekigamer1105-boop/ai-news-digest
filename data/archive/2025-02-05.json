@@ -42,6 +42,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DRW9XTUxQX3RfX09JZy1YNDJCZDJETkZEdXlVeW9yMV9GMElIVWo2SVZqR0tPVVpfRF9aalhFdzBBVkVHM09FaU5tSGlWeU5Qd01J?oc=5\" target=\"_blank\">OpenAI o3-mini被曝大量使用中文推理！全世界AI都要学中国话了？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-950-0bf88ae5c5",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "七瞰AI大模型│（一）持续破浪前行 已呈蓬勃之势 - 新华网",
+   "summary": "七瞰AI大模型│（一）持续破浪前行 已呈蓬勃之势 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWFleERWdkM2TGdESVdZZ1FoWEhXeG5DYmdmVk9zbjYyd2dUdVQxVzNzdWpFTmRtWnhWNGo4UUtPVk9XR2FVcm02RXhyLUpaWTRuRHBac3F3aEFQUTdSd19wd0VaeHFBS1ZtSlMxcWh6YllobVNLWVhfRXZjVmdGM1NxcHY?oc=5",
+   "published_at": "2025-02-05T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWFleERWdkM2TGdESVdZZ1FoWEhXeG5DYmdmVk9zbjYyd2dUdVQxVzNzdWpFTmRtWnhWNGo4UUtPVk9XR2FVcm02RXhyLUpaWTRuRHBac3F3aEFQUTdSd19wd0VaeHFBS1ZtSlMxcWh6YllobVNLWVhfRXZjVmdGM1NxcHY?oc=5\" target=\"_blank\">七瞰AI大模型│（一）持续破浪前行 已呈蓬勃之势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-10-27T09:28:56+00:00"
   }
  ]
 }

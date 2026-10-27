@@ -306,6 +306,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RTGRGakVtU19kVjg4c0ktSDQtcVZ5U2NJZUJWREYxbzlSd0tob0dPSWtFa3U2VVdZQlZiT2tQNlhrVk5jcUx1X25XRjNDVlRiUFE?oc=5\" target=\"_blank\">又要颠覆设计行业？OpenAI炸场发布Images 2.0，中文不再乱码、超越谷歌登顶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
    "fetched_at": "2026-09-12T04:05:12+00:00"
+  },
+  {
+   "id": "web-1081-10bb9bb2af",
+   "source_id": "news",
+   "source_name": "维科号",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI深夜王炸！ChatGPT Images 2.0实测：中文稳、细节炸，设计师慌了 - 维科号",
+   "summary": "OpenAI深夜王炸！ChatGPT Images 2.0实测：中文稳、细节炸，设计师慌了 &nbsp;&nbsp; 维科号",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xTm1QdVRYTy1mLXJONm01elBHTzBlNmZleWJQWDFHUjZFSjVmWi1meUVFM1ZIZ3pEVmhJVnJ5amtXeTBTWHNReTZPUlJDMnM?oc=5",
+   "published_at": "2026-04-22T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xTm1QdVRYTy1mLXJONm01elBHTzBlNmZleWJQWDFHUjZFSjVmWi1meUVFM1ZIZ3pEVmhJVnJ5amtXeTBTWHNReTZPUlJDMnM?oc=5\" target=\"_blank\">OpenAI深夜王炸！ChatGPT Images 2.0实测：中文稳、细节炸，设计师慌了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">维科号</font>",
+   "fetched_at": "2026-10-27T09:28:56+00:00"
   }
  ]
 }

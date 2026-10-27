@@ -4642,6 +4642,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNWFQyRXJtQU5CWDVfWjZfUXpLaDFFUkFJc2tkWWE3RDljeVRhRmoyRXhIS1A1cG5Hd0VxTDhZdlNENmY1czlEQ19uZjVKOXRja1ZMeW5DNXpNT1hydjNKUlNLaFpZNlV2OHI5NkZIaGJFbUs0OUpMa1JqLUc2WHdjN2VmTHY0eDJCZDI2aW5mQVFudnl2RXdWSDJWNzE?oc=5\" target=\"_blank\">Why founders keep failing to vibecode their own LLM inference engine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
    "fetched_at": "2026-10-26T09:32:04+00:00"
+  },
+  {
+   "id": "web-908-7b9cbb7b29",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "依托“九功AI能源”大模型 朗新科技打通充电服务与电力交易智能化 - 东方财富",
+   "summary": "依托“九功AI能源”大模型 朗新科技打通充电服务与电力交易智能化 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMVkVOWE9feWVYVTduR1d6X3oybmtRN1RhbUJ1WGZnbF93UkdMNUctWm1mbVM3c2JRNVk5ZVpnaVowOE5OTTRpaW53UlR5ajNSaGpjemJIZlVMblB1WGY1SQ?oc=5",
+   "published_at": "2026-10-24T22:42:09+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMVkVOWE9feWVYVTduR1d6X3oybmtRN1RhbUJ1WGZnbF93UkdMNUctWm1mbVM3c2JRNVk5ZVpnaVowOE5OTTRpaW53UlR5ajNSaGpjemJIZlVMblB1WGY1SQ?oc=5\" target=\"_blank\">依托“九功AI能源”大模型 朗新科技打通充电服务与电力交易智能化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-27T09:28:56+00:00"
+  },
+  {
+   "id": "web-151-8690fa1230",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Here are the top AI agents that can live in your text messages - TechCrunch",
+   "summary": "Here are the top AI agents that can live in your text messages &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT29aUTlNYkhPZkZvSVAteXgxa2ZkMEVmcFN1Rl9YdTJvaGdsNXRuX0w5SmJlcTNoZmcxd3JPMnR2QmFraWdxSmUta3NhX0gtNDhyWTN5RTV3ZlF4N2JmUFNwTlJQZHJ0OFh5alZnbXhaWDBhUEFYQmZMbElRVEJlOXVxeFFLNHYwTW5pVlhGWm1xUQ?oc=5",
+   "published_at": "2026-10-24T14:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNT29aUTlNYkhPZkZvSVAteXgxa2ZkMEVmcFN1Rl9YdTJvaGdsNXRuX0w5SmJlcTNoZmcxd3JPMnR2QmFraWdxSmUta3NhX0gtNDhyWTN5RTV3ZlF4N2JmUFNwTlJQZHJ0OFh5alZnbXhaWDBhUEFYQmZMbElRVEJlOXVxeFFLNHYwTW5pVlhGWm1xUQ?oc=5\" target=\"_blank\">Here are the top AI agents that can live in your text messages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-10-27T09:28:56+00:00"
   }
  ]
 }
