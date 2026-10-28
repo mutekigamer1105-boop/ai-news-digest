@@ -4686,6 +4686,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNT29aUTlNYkhPZkZvSVAteXgxa2ZkMEVmcFN1Rl9YdTJvaGdsNXRuX0w5SmJlcTNoZmcxd3JPMnR2QmFraWdxSmUta3NhX0gtNDhyWTN5RTV3ZlF4N2JmUFNwTlJQZHJ0OFh5alZnbXhaWDBhUEFYQmZMbElRVEJlOXVxeFFLNHYwTW5pVlhGWm1xUQ?oc=5\" target=\"_blank\">Here are the top AI agents that can live in your text messages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-10-27T09:28:56+00:00"
+  },
+  {
+   "id": "web-902-8e1e6c8ab0",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心 - 东方财富",
+   "summary": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96WERUZkdDTlpKZGg2dFhSQXFrWDUxeURSVURiN0dhTm96Z0lDa3pHOVNWSGNnRmJsaENBYTJDNm1KTnZaNGs3R0t6ckJmcVZzOS1yc21KQTFEOXJsczZRbWVsZG5lUQ?oc=5",
+   "published_at": "2026-10-24T22:31:28+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE96WERUZkdDTlpKZGg2dFhSQXFrWDUxeURSVURiN0dhTm96Z0lDa3pHOVNWSGNnRmJsaENBYTJDNm1KTnZaNGs3R0t6ckJmcVZzOS1yc21KQTFEOXJsczZRbWVsZG5lUQ?oc=5\" target=\"_blank\">DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-28T10:12:56+00:00"
   }
  ]
 }

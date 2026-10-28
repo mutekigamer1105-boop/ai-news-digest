@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-287-7723f22f30",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Mathematical discoveries from program search with large language models - Nature",
+   "summary": "Mathematical discoveries from program search with large language models &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QV0NEWGs3TXd1WTd0SENOdUY1MlVLVFFvSF9ua1Z2YzhZV1dsUUIwUFhzZlM5OWJNQko2VDlXa3ljT01QT1Q3R2UzRkdtRUk0RU5sSG9ZbHUzQVEwb1RF?oc=5",
+   "published_at": "2023-12-14T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QV0NEWGs3TXd1WTd0SENOdUY1MlVLVFFvSF9ua1Z2YzhZV1dsUUIwUFhzZlM5OWJNQko2VDlXa3ljT01QT1Q3R2UzRkdtRUk0RU5sSG9ZbHUzQVEwb1RF?oc=5\" target=\"_blank\">Mathematical discoveries from program search with large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-10-28T10:12:56+00:00"
+  }
+ ]
+}

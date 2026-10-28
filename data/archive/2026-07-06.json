@@ -153,6 +153,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9sRFRySkVNc2hTZFVHRmFrT1ZXdG12VU1BcFRjbzJoc2pyT3p5YklhQ0hDdHJUaFpDMG94eGdEd1haVTltTG1Hbks2ZHQ5OTM2VkZ0SDVLS2RXTEpKdlY2ZDJOR3h6b0pod1BBZUdxSnJRWlZwYTZUXzN1aWluWkE?oc=5\" target=\"_blank\">Apply Now: $100,000 for African AI Startup Founders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ICTworks</font>",
    "fetched_at": "2026-09-06T04:05:07+00:00"
+  },
+  {
+   "id": "web-988-8ebfd8603e",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "腾讯发布最新一代AI大模型 - 东方财富",
+   "summary": "腾讯发布最新一代AI大模型 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iaGl0YjVVMFFSYzNKQTUwaFFzcmNzdnhWaWVDRVVzV1Zrd2FGa29kNDhvUWpWV0dVdTEyX21yZVQ4VGl4c3ExMUMxYjl5NFhzbW5MTm1IRUVSamhWNWJNMw?oc=5",
+   "published_at": "2026-07-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iaGl0YjVVMFFSYzNKQTUwaFFzcmNzdnhWaWVDRVVzV1Zrd2FGa29kNDhvUWpWV0dVdTEyX21yZVQ4VGl4c3ExMUMxYjl5NFhzbW5MTm1IRUVSamhWNWJNMw?oc=5\" target=\"_blank\">腾讯发布最新一代AI大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-10-28T10:12:56+00:00"
   }
  ]
 }

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1117-52f02c69e7",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "向 ChatGPT Free 用户推出 GPT-4o 和更多工具 - OpenAI",
+   "summary": "向 ChatGPT Free 用户推出 GPT-4o 和更多工具 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQUVFTXl6Rzk4U0ZXbEFISG9zeXRuRWZVQkRVX053VEtSU2lvdFFZYlc2blF6T0ozTHhDeFlCNndtNXFjOXFJemFsanhzaWl5anlGd0EySkNTdmVyNzEwNHR0STJvZTlmUUk0SnFDQ2pmSzNqYU45cmV0bTBId3c?oc=5",
+   "published_at": "2024-05-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQUVFTXl6Rzk4U0ZXbEFISG9zeXRuRWZVQkRVX053VEtSU2lvdFFZYlc2blF6T0ozTHhDeFlCNndtNXFjOXFJemFsanhzaWl5anlGd0EySkNTdmVyNzEwNHR0STJvZTlmUUk0SnFDQ2pmSzNqYU45cmV0bTBId3c?oc=5\" target=\"_blank\">向 ChatGPT Free 用户推出 GPT-4o 和更多工具</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-28T10:12:56+00:00"
+  }
+ ]
+}

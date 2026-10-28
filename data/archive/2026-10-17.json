@@ -5779,6 +5779,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxOWGpSTWVvbEc5Y0M5NWlIcGREdndzR0t0NldEcFNiZm1BNXNEYkFlQzBVRDRaNjhObFg5T1B5aWhWWmdUbGJkZkMtQWMwdmcwbkVpbFczUVdGUHR0cTVHdWh4RmZOWG1fbWZYR1RGMnZ3N2dIZ3V3RGZTUGhITVlEZGhNY2lNcGRMc3pFdjhmNjFYTm1iUVNOSU9Ec1o3YXJFc09wZ3N3YXYwZVRNUWowanpfcW93YlFJdzhhSXpwVXROMVE2a1B3bS05MUtka1ZOSU83OW43T0Q0UW81WWZialR4ZHc5cjdSWl9LRjYyTTRUbE1OX09WcnJOc09rWlVmTk5BS3pxdnNJNloyWEI4c0lMZFp3ZHlBQ2JqbHhQakFSdw?oc=5\" target=\"_blank\">山东深耕垂域大模型赋能实体产业</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
    "fetched_at": "2026-10-26T09:32:04+00:00"
+  },
+  {
+   "id": "web-727-26d08c4810",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner - Yahoo Finance",
+   "summary": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjJXOWRqV0xZSERza0ZWWmkwZE1XdncweHdHanZTTFVHWXhkUEFjYjlwNUMxWVB5QWFQdl95U3NOQW5nc0QyajZ2dDNILW9aTzdBUkhIWjZzRGo2bkZydzk4UzBQNFh6dXRjRzdvMWl4UGRITDQtYU9CVVdObzcyaVNud1JmS2lQeThPUk91OEVBdFhOZjh5OC14dGI?oc=5",
+   "published_at": "2026-10-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjJXOWRqV0xZSERza0ZWWmkwZE1XdncweHdHanZTTFVHWXhkUEFjYjlwNUMxWVB5QWFQdl95U3NOQW5nc0QyajZ2dDNILW9aTzdBUkhIWjZzRGo2bkZydzk4UzBQNFh6dXRjRzdvMWl4UGRITDQtYU9CVVdObzcyaVNud1JmS2lQeThPUk91OEVBdFhOZjh5OC14dGI?oc=5\" target=\"_blank\">DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-10-28T10:12:56+00:00"
   }
  ]
 }

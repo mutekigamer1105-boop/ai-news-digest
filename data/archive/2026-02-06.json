@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPVVNhd1FjeW82Q01WaktRMnkxUW85RUtHeTBMZEZseWxpS1Exa1lHeG0zRmF2MlVPUUQtSlpXcDdGOGY4eXpHS2gwU2gxYTM0RnBZaXQwcHRjSFlMd18xNFk2SnBId0Noc2JmREpHcEVSMlZ4YU9tcmFBLWNKSXlJOFJCaw?oc=5\" target=\"_blank\">The Week’s 10 Biggest Funding Rounds: Waymo Leads An AI-Driven Lineup Of Large Financings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
    "fetched_at": "2026-09-03T18:53:36+00:00"
+  },
+  {
+   "id": "web-1106-4c54c1433f",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "让 AI 惠及全球每一个人：我们的本地化方略 - OpenAI",
+   "summary": "让 AI 惠及全球每一个人：我们的本地化方略 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50cGdSUWc2TjVEU0NabFZJM2VCZVQxcjYxaVZlbGhidHlIR2RBWnlvWEhjRmRNTEduZktpcWl0SUZsU1prZU5iZ0NCblZmMjBLMmFHNkRoYXpsaVp1bFdNc3dUYXE2SXo1YkZhdjlmNGlEekU?oc=5",
+   "published_at": "2026-02-06T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE50cGdSUWc2TjVEU0NabFZJM2VCZVQxcjYxaVZlbGhidHlIR2RBWnlvWEhjRmRNTEduZktpcWl0SUZsU1prZU5iZ0NCblZmMjBLMmFHNkRoYXpsaVp1bFdNc3dUYXE2SXo1YkZhdjlmNGlEekU?oc=5\" target=\"_blank\">让 AI 惠及全球每一个人：我们的本地化方略</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-28T10:12:56+00:00"
   }
  ]
 }

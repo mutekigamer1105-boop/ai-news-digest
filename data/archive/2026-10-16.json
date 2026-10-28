@@ -12500,6 +12500,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS29RZ2FCQVYteS1HTjZEVG5Va184N2ROU2dtWm5lUjNrOVFoR0wzNkdSRjEzdGVydHAxVFFCTkJmUWRIb0hXQVRCYkNuX05LOHpLelRMYWVYeWNwMjVFVE8waU1qaHVvY29xYXRNVUtxb09NMk1zYnBTQTl2cy1UVlZWX2F0b0xtQk0yNHA0YUl6R3VtZGN2UlNPNzlpUEZYdHhoTEVRUXpab09icDhTS2V4OHNINTBqM3htbG52Qk4?oc=5\" target=\"_blank\">一款 OpenAI 代理的以太坊资金耗尽，随后从一个其并非所有的钱包中提取了资金</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
    "fetched_at": "2026-10-27T09:28:56+00:00"
+  },
+  {
+   "id": "web-927-322b459ed9",
+   "source_id": "news",
+   "source_name": "山东宣传网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "这11个大模型里，藏着山东“AI天团”的“野心” - 山东宣传网",
+   "summary": "这11个大模型里，藏着山东“AI天团”的“野心” &nbsp;&nbsp; 山东宣传网",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kUEhyaklKREFpQ1k1U2ltNGFCcXdEQTZVa0hlOTdBaVFuc25aNEhWS1hTVWtQOGpTVzZlS3pzM3VmTDFQcWZ3NjJmZlJRLXdZUTdYUGY4VG5WOVdsVkEybGJHYnVkbWwyWWVhVlZRQU9XTTg?oc=5",
+   "published_at": "2026-10-16T01:22:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9kUEhyaklKREFpQ1k1U2ltNGFCcXdEQTZVa0hlOTdBaVFuc25aNEhWS1hTVWtQOGpTVzZlS3pzM3VmTDFQcWZ3NjJmZlJRLXdZUTdYUGY4VG5WOVdsVkEybGJHYnVkbWwyWWVhVlZRQU9XTTg?oc=5\" target=\"_blank\">这11个大模型里，藏着山东“AI天团”的“野心”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山东宣传网</font>",
+   "fetched_at": "2026-10-28T10:12:56+00:00"
   }
  ]
 }
