@@ -11396,6 +11396,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBmMmJtYjhJSXRfMTl6d2xMOVBoSVljbXR3cFFwMi1VQm9hMXNoOW1oSDZSTlBmbDNpbFJXUlRVRV9VcEItWXE0VkQ4X1dOUlUwRnAzV3BQcHhlaDJSdlc2LVcta0ltMlZwOXJyc1FHQWo?oc=5\" target=\"_blank\">没有人类教授语言，没有预设交流规则，AI智能体可自发形成一套词汇体系</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
    "fetched_at": "2026-10-27T09:28:56+00:00"
+  },
+  {
+   "id": "web-693-65bb993f57",
+   "source_id": "news",
+   "source_name": "Financial Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The $15bn ‘viral’ AI start-up changing how American doctors treat patients - Financial Times",
+   "summary": "The $15bn ‘viral’ AI start-up changing how American doctors treat patients &nbsp;&nbsp; Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDVNRXJndElaSnNKMWxmVm14U01RTkI3V09UWmFQdzZ3bF9BejJqT080Y0k4UVdnWnpFRlNtVWxPTURjSWkwMDBPU1l0ZFFoaDNzLUUxTjNvOUxmSUF1STU3OFdNQndIaHNSLUNfUVJQa21ubTM4QjdrSHYyU2R1VjM1aUE?oc=5",
+   "published_at": "2026-10-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDVNRXJndElaSnNKMWxmVm14U01RTkI3V09UWmFQdzZ3bF9BejJqT080Y0k4UVdnWnpFRlNtVWxPTURjSWkwMDBPU1l0ZFFoaDNzLUUxTjNvOUxmSUF1STU3OFdNQndIaHNSLUNfUVJQa21ubTM4QjdrSHYyU2R1VjM1aUE?oc=5\" target=\"_blank\">The $15bn ‘viral’ AI start-up changing how American doctors treat patients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+   "fetched_at": "2026-10-29T10:36:48+00:00"
   }
  ]
 }

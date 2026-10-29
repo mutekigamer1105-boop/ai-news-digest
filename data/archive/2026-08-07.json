@@ -284,6 +284,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94VXpBWTNaVXlfcmZIZFV1WkM2RWs1VHl1bGNOVDdiRFpQZjBsb28yZ3V5UzQtSzh1RTRxUHhtTk5YZHJfbldVcXJyV1dEQW5VV3laSGNvVW5LZF95VndianNvVDFka1U?oc=5\" target=\"_blank\">The AI model OpenAI won’t release yet — and what it found in testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Stack</font>",
    "fetched_at": "2026-09-18T04:05:23+00:00"
+  },
+  {
+   "id": "web-256-aa9b9672c6",
+   "source_id": "news",
+   "source_name": "INFORMS PubsOnline",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "LAMDA: Large Language Model as Decision Analyst - INFORMS PubsOnline",
+   "summary": "LAMDA: Large Language Model as Decision Analyst &nbsp;&nbsp; INFORMS PubsOnline",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWX3ctY0dnaWFCcThWZmdtUElrWm5fcnFVMGlHN3NaOXZFbURiOWtGRUwxV1FMbDNjNm9RemVxWEpxNzRKZGhVM1ItV1dGcllrcmVKT1RQN1pva1dMR0Z6ZVp2bDJXNXZR?oc=5",
+   "published_at": "2026-08-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWX3ctY0dnaWFCcThWZmdtUElrWm5fcnFVMGlHN3NaOXZFbURiOWtGRUwxV1FMbDNjNm9RemVxWEpxNzRKZGhVM1ItV1dGcllrcmVKT1RQN1pva1dMR0Z6ZVp2bDJXNXZR?oc=5\" target=\"_blank\">LAMDA: Large Language Model as Decision Analyst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INFORMS PubsOnline</font>",
+   "fetched_at": "2026-10-29T10:36:48+00:00"
   }
  ]
 }

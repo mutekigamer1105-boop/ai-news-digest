@@ -131,6 +131,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0M3BMR0RsN3pSamc3NlJZMG5BaXMzWjFGN2J0VkRjdUdCU3I2RXZKdDBmQ3ZBQVZYd19DUjNRY3d5dnp5aTByelhKcw?oc=5\" target=\"_blank\">顾兵教授专访：AI智能体如何破解mNGS报告解读的“三大痛点”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgi.com</font>",
    "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-269-17c886aaae",
+   "source_id": "news",
+   "source_name": "EurekAlert!",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Training-free framework accelerates large language models without retraining - EurekAlert!",
+   "summary": "Training-free framework accelerates large language models without retraining &nbsp;&nbsp; EurekAlert!",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CeG5TTFFJY2VpZDhXX3JtQmFmaDExX2xCdkxYZ1NFelloamROWW1OQnU3SU5KUmJ3Q0NRN2xzZVhHUXZfSHFCdVZHY1RUYXAwVzFCYlZUX1EzMEN4?oc=5",
+   "published_at": "2026-08-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CeG5TTFFJY2VpZDhXX3JtQmFmaDExX2xCdkxYZ1NFelloamROWW1OQnU3SU5KUmJ3Q0NRN2xzZVhHUXZfSHFCdVZHY1RUYXAwVzFCYlZUX1EzMEN4?oc=5\" target=\"_blank\">Training-free framework accelerates large language models without retraining</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EurekAlert!</font>",
+   "fetched_at": "2026-10-29T10:36:48+00:00"
   }
  ]
 }

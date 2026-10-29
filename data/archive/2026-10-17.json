@@ -5801,6 +5801,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjJXOWRqV0xZSERza0ZWWmkwZE1XdncweHdHanZTTFVHWXhkUEFjYjlwNUMxWVB5QWFQdl95U3NOQW5nc0QyajZ2dDNILW9aTzdBUkhIWjZzRGo2bkZydzk4UzBQNFh6dXRjRzdvMWl4UGRITDQtYU9CVVdObzcyaVNud1JmS2lQeThPUk91OEVBdFhOZjh5OC14dGI?oc=5\" target=\"_blank\">DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
    "fetched_at": "2026-10-28T10:12:56+00:00"
+  },
+  {
+   "id": "web-774-aa9ec41b08",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner - Bloomberg.com",
+   "summary": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JqQlRDd3JxZG9sWmUyLU03cFkwSDJLbkhOc0tpa2NUS24zby1jU0JQX242dEdFYWtRSXNNbUJOM2hwdDFJX3VKc1E4UFN1VVVsYi1ncl9qNkg4ZnhhcERDMkc1ZkhXUlRxUy1BdW9JTC1wYmV5YVlTZmYtUWlLRnNJQ2ZUWEw3UHNXMkdNMUdVLXJGR2M1YXRYcFFacFNmSWJCLVNxNkZ4bTZ4UXVpOXNR?oc=5",
+   "published_at": "2026-10-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JqQlRDd3JxZG9sWmUyLU03cFkwSDJLbkhOc0tpa2NUS24zby1jU0JQX242dEdFYWtRSXNNbUJOM2hwdDFJX3VKc1E4UFN1VVVsYi1ncl9qNkg4ZnhhcERDMkc1ZkhXUlRxUy1BdW9JTC1wYmV5YVlTZmYtUWlLRnNJQ2ZUWEw3UHNXMkdNMUdVLXJGR2M1YXRYcFFacFNmSWJCLVNxNkZ4bTZ4UXVpOXNR?oc=5\" target=\"_blank\">DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-10-29T10:36:48+00:00"
+  },
+  {
+   "id": "web-847-2e7b29cc45",
+   "source_id": "news",
+   "source_name": "华尔街见闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防 - 华尔街见闻",
+   "summary": "AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防 &nbsp;&nbsp; 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44Q1hpbUltWTVVS181Nm1wd2hqbC11WlVHU0hiU3FjZzRUUGR4eUFFajhUZDV5YmRRdEdqTUVIaWE1WEVxU3lNSE80ZDRLN1BMYW1r?oc=5",
+   "published_at": "2026-10-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE44Q1hpbUltWTVVS181Nm1wd2hqbC11WlVHU0hiU3FjZzRUUGR4eUFFajhUZDV5YmRRdEdqTUVIaWE1WEVxU3lNSE80ZDRLN1BMYW1r?oc=5\" target=\"_blank\">AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+   "fetched_at": "2026-10-29T10:36:48+00:00"
   }
  ]
 }

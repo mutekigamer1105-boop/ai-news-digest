@@ -12617,6 +12617,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9kcDBrNmVGZFZBYjR4MmlkQkJfQlV1a1phUkpnVUcwQjhBR2pQRjV3ZGItZEpXd1owdEhXUjVYTTdqbEtGTWl1U3dTb0lwU3pRUnJSTTRBQ0ktT3NCcldhWTZKcWlERC1VbXBXNkpsNkVJZXBk?oc=5\" target=\"_blank\">OpenAI CFO says major AI model needs more safety checks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybernews</font>",
    "fetched_at": "2026-10-26T09:32:04+00:00"
+  },
+  {
+   "id": "web-1130-3ae1a03ba8",
+   "source_id": "news",
+   "source_name": "blockchain.news",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI：人工智能代理花费以太坊测试网资金| 快讯详情 - blockchain.news",
+   "summary": "OpenAI：人工智能代理花费以太坊测试网资金| 快讯详情 &nbsp;&nbsp; blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa29kbHBKcW9DVVBKbGFwTVNMenJtOUYxb1NKN2JDMkJHSm1CaDZCcTBoMHZXVG9TRWdiNWo2bGk4dWg5U1J6VFNab2FxQm5UMzY0a2QwUVJKSExOMEdwUS1WM0ZVRFFpUVd6RVlMU3gzY05udVZXVF9GRXhDWEwtUy1NMnVuXzNfeHE2NkF3?oc=5",
+   "published_at": "2026-10-15T19:03:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPa29kbHBKcW9DVVBKbGFwTVNMenJtOUYxb1NKN2JDMkJHSm1CaDZCcTBoMHZXVG9TRWdiNWo2bGk4dWg5U1J6VFNab2FxQm5UMzY0a2QwUVJKSExOMEdwUS1WM0ZVRFFpUVd6RVlMU3gzY05udVZXVF9GRXhDWEwtUy1NMnVuXzNfeHE2NkF3?oc=5\" target=\"_blank\">OpenAI：人工智能代理花费以太坊测试网资金| 快讯详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+   "fetched_at": "2026-10-29T10:36:48+00:00"
   }
  ]
 }

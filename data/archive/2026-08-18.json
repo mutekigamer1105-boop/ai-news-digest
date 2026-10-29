@@ -481,6 +481,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFNGLUVyMmdZQUxnMHNnQ3hvS0h0ak9GRjNMcWQ2UzU3X3hPbkdKd0FkNXpfOGtfLXdreDlWbjdhQmd2U01JOGFDS1hhYjcwTzFHblNnTHpDbkYwR3lUS1NDejFOdy04MjRUUm42RWpQUU1ET3JQRHdiNzgxSEtfcE9tUHc?oc=5\" target=\"_blank\">云徙科技毛健：以AI超级智能体激活企业数智新动能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-10-05T11:02:37+00:00"
+  },
+  {
+   "id": "web-275-40d7272094",
+   "source_id": "news",
+   "source_name": "National Defense Magazine",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "JUST IN: Large Language Models Lack Utility for Military Missions, DARPA Official Says - National Defense Magazine",
+   "summary": "JUST IN: Large Language Models Lack Utility for Military Missions, DARPA Official Says &nbsp;&nbsp; National Defense Magazine",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQnhJcW51aG9mbFN1MldFSTFvWldQZ0p3Y1hkaU0wMm9EMW9zanEzZ3lRQnZvSV9yTmlEZVBYSmxPUzk3bjNTbnJMejNYYTRORmxlRGdVcDc0ZTltRVFpSEJEdXRKT0ZPMGYyVmtmeXFnQk9CSVR5aW1JNlZ0TGUyWjVHRHUtMGh5T25ERVJJWmhienBGMEIyYWFURVFoSVBMdWtCT3RncnpiVWk2OGZFZjM5WElRY3hOMVRXVHpXTDh3ZGVobE9MUmpUWVJwRHhhcWhobDRiOVMyYlk?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQnhJcW51aG9mbFN1MldFSTFvWldQZ0p3Y1hkaU0wMm9EMW9zanEzZ3lRQnZvSV9yTmlEZVBYSmxPUzk3bjNTbnJMejNYYTRORmxlRGdVcDc0ZTltRVFpSEJEdXRKT0ZPMGYyVmtmeXFnQk9CSVR5aW1JNlZ0TGUyWjVHRHUtMGh5T25ERVJJWmhienBGMEIyYWFURVFoSVBMdWtCT3RncnpiVWk2OGZFZjM5WElRY3hOMVRXVHpXTDh3ZGVobE9MUmpUWVJwRHhhcWhobDRiOVMyYlk?oc=5\" target=\"_blank\">JUST IN: Large Language Models Lack Utility for Military Missions, DARPA Official Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Defense Magazine</font>",
+   "fetched_at": "2026-10-29T10:36:48+00:00"
   }
  ]
 }

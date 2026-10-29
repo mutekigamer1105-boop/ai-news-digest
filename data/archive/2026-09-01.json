@@ -3240,6 +3240,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2phY0R2b1N5eTVJRXNMM21ubUlFYUhaWjZCY0VDb3pFMXJsSWlxOWhsQ0RXRmVVM0RTejN0OVp4TEtVRm02SlRydW5yS2YzV1dtbVNGeVZocDNaeTIwYzNVSnBST1hSbGZvR25Ba3IwaWowTklveUhyZHo0M21HSEI3V1Mtbk1kdkgwYWwtamt5UzYtenZfVQ?oc=5\" target=\"_blank\">Anthropic releases new models, cuts agent costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
    "fetched_at": "2026-10-14T09:10:25+00:00"
+  },
+  {
+   "id": "web-695-96e60cd7a3",
+   "source_id": "news",
+   "source_name": "CTech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Israeli startups raised over $575 million in August as AI security dominates again - CTech",
+   "summary": "Israeli startups raised over $575 million in August as AI security dominates again &nbsp;&nbsp; CTech",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TOERFOFRjRzhoS2RTMjNfdlRPVUxhT2FDS19NdG91SnhRUzJsQXRlMXRXcklnV0g0ZUV0dHlxZmZGS1IzOUZVLU9LdjcwdDhPSHhOaXhPZXRwWU53eUpKd29idXFnZHR1?oc=5",
+   "published_at": "2026-09-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TOERFOFRjRzhoS2RTMjNfdlRPVUxhT2FDS19NdG91SnhRUzJsQXRlMXRXcklnV0g0ZUV0dHlxZmZGS1IzOUZVLU9LdjcwdDhPSHhOaXhPZXRwWU53eUpKd29idXFnZHR1?oc=5\" target=\"_blank\">Israeli startups raised over $575 million in August as AI security dominates again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTech</font>",
+   "fetched_at": "2026-10-29T10:36:48+00:00"
   }
  ]
 }

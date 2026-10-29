@@ -12999,6 +12999,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWndjRTJiN1dqVWVwZzR3THR6LWFYQlh1N2JlV0ppaGFTZ1JHTkJ6aE8xenZ2Qk45am5HZ3JMX2pTZVU0NDdha0wzQmNVSkxJTHQ0UlowZFpxUjJQcjJsbjBFZ1NnblBzSTZQcXEwaVpEVC1wYm5aMVBJZy1YbG9WTEZSRG1wbXlnel9XUm5JRWtSZWlFY255d05B?oc=5\" target=\"_blank\">Cloudflare表示，OpenAI模型有助于漏洞发现和修复</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
    "fetched_at": "2026-10-27T09:28:56+00:00"
+  },
+  {
+   "id": "web-1009-8a9a9713dc",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "利用数千个 AI 智能体，从生物学数据中发掘新线索 - OpenAI",
+   "summary": "利用数千个 AI 智能体，从生物学数据中发掘新线索 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYTVfUUxHc2tnVFU1b18ycHJoUkJzMWxwenlJY0h1WmlFQWpJWkdlLVR3a29fWjFuVkwzZnA0bkt5d3dMYXN0V0gyUEw3ei0wQTBlRjgzLVI0R0VxMlROYWxPT1l1Smo3N2t4R3hZVHNlWHJqZUtPR3BIXzdKV2E5c2dpUFZkUW1KMmNXdw?oc=5",
+   "published_at": "2026-10-22T10:33:23+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYTVfUUxHc2tnVFU1b18ycHJoUkJzMWxwenlJY0h1WmlFQWpJWkdlLVR3a29fWjFuVkwzZnA0bkt5d3dMYXN0V0gyUEw3ei0wQTBlRjgzLVI0R0VxMlROYWxPT1l1Smo3N2t4R3hZVHNlWHJqZUtPR3BIXzdKV2E5c2dpUFZkUW1KMmNXdw?oc=5\" target=\"_blank\">利用数千个 AI 智能体，从生物学数据中发掘新线索</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-10-29T10:36:48+00:00"
   }
  ]
 }

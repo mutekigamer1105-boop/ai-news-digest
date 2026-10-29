@@ -4325,6 +4325,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMVkVOWE9feWVYVTduR1d6X3oybmtRN1RhbUJ1WGZnbF93UkdMNUctWm1mbVM3c2JRNVk5ZVpnaVowOE5OTTRpaW53UlR5ajNSaGpjemJIZlVMblB1WGY1SQ?oc=5\" target=\"_blank\">依托“九功AI能源”大模型 朗新科技打通充电服务与电力交易智能化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-10-28T10:12:56+00:00"
+  },
+  {
+   "id": "web-805-3a0bac7df0",
+   "source_id": "news",
+   "source_name": "36Kr",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "马斯克：在AI面前，人类就是黑猩猩 - 36Kr",
+   "summary": "马斯克：在AI面前，人类就是黑猩猩 &nbsp;&nbsp; 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HRmlVU0hIR2dPa1BWTHptUU8yRXBOX3RZWkxORjQyVnpTWXBWUTVYenpZR1kwLWpBVjZUTVBURW9hd3lJcGVNNDZZcTlhQQ?oc=5",
+   "published_at": "2026-10-25T09:54:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HRmlVU0hIR2dPa1BWTHptUU8yRXBOX3RZWkxORjQyVnpTWXBWUTVYenpZR1kwLWpBVjZUTVBURW9hd3lJcGVNNDZZcTlhQQ?oc=5\" target=\"_blank\">马斯克：在AI面前，人类就是黑猩猩</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
+   "fetched_at": "2026-10-29T10:36:48+00:00"
+  },
+  {
+   "id": "web-699-faeb5ea796",
+   "source_id": "news",
+   "source_name": "Singapore Economic Development Board (EDB)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "More support for AI startups to scale faster under new Singapore-Microsoft partnership - Singapore Economic Development Board (EDB)",
+   "summary": "More support for AI startups to scale faster under new Singapore-Microsoft partnership &nbsp;&nbsp; Singapore Economic Development Board (EDB)",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNnZ2ZW01WXhrcXFxVFpRTUhTWHJXTU1JT2Zib3R1bi1vajZPNjhpekxwYnVudVBRUVktYzhKMmFKZjJrR3VzYXB0RHYwNlZNVndqMVNpUTNSb295dkp4ZHk1cHhVV1BqRjNVcnFGd0dpYW1oUXVYNGlEVGNuM05ObEVBSHVURGdUaWFpdGc0TzJoZWRnNUpuaGVVUVVPdXZqVFNDbm9HRGxZZWh4Q2s4WTVsaDV6LWU2NmozeHhaNXQwMVJzTFRjb2Y4aDgyTERoZ0E?oc=5",
+   "published_at": "2026-10-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "satya-nadella",
+   "builder_name": "Satya Nadella",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNnZ2ZW01WXhrcXFxVFpRTUhTWHJXTU1JT2Zib3R1bi1vajZPNjhpekxwYnVudVBRUVktYzhKMmFKZjJrR3VzYXB0RHYwNlZNVndqMVNpUTNSb295dkp4ZHk1cHhVV1BqRjNVcnFGd0dpYW1oUXVYNGlEVGNuM05ObEVBSHVURGdUaWFpdGc0TzJoZWRnNUpuaGVVUVVPdXZqVFNDbm9HRGxZZWh4Q2s4WTVsaDV6LWU2NmozeHhaNXQwMVJzTFRjb2Y4aDgyTERoZ0E?oc=5\" target=\"_blank\">More support for AI startups to scale faster under new Singapore-Microsoft partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Singapore Economic Development Board (EDB)</font>",
+   "fetched_at": "2026-10-29T10:36:48+00:00"
   }
  ]
 }

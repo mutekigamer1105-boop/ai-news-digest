@@ -43,6 +43,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1KeUc3b251X1RLZXhvRmhxaTBWOHZURTRKSTZ3eXRpZzRfX1BFZnVzTlJjVmNtdGdqSmpJN0x1R0xNMU5CRTFQOFdsRk96bWlqT0pwTjRYeG9tWnJiYmxuSDZtaHVMdF9RaExIa3NoblNCd3BadUJRbGctZ2Ytdw?oc=5\" target=\"_blank\">新华网科技观察丨AI智能体：不止聊天，真能干活</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-236-2360d2582d",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Feasibility and impact of a large language model pipeline for surgical trial abstracts - Nature",
+   "summary": "Feasibility and impact of a large language model pipeline for surgical trial abstracts &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rM0I3cXRGRTZuZVFpdUhXbWc1cFhxY0NOdHI4bUw0aF81SW9SRDlJMnZQWFlJdmF0NkdBZGUxVnNrNy10VGNiN0tHYW5rOVdQbXRnY2F6ckxZTEx4Y01n?oc=5",
+   "published_at": "2026-05-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rM0I3cXRGRTZuZVFpdUhXbWc1cFhxY0NOdHI4bUw0aF81SW9SRDlJMnZQWFlJdmF0NkdBZGUxVnNrNy10VGNiN0tHYW5rOVdQbXRnY2F6ckxZTEx4Y01n?oc=5\" target=\"_blank\">Feasibility and impact of a large language model pipeline for surgical trial abstracts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-10-29T10:36:48+00:00"
   }
  ]
 }
