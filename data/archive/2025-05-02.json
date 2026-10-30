@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNYnh3RFlLWlVmTXpSRkcxSEhoclg4akZhTFNkYzMxdVhocUZPSXdBR01BMF96b013dzBnTjVuT0Z2Qm92UHBaaFc0Wm1QVzJnaHowWjdOVGROUjBqTU9XdnBseWFybWluby10VG96bnN3UlZkN3p2YXVHVEJlbktIYUdURk90UQ?oc=5\" target=\"_blank\">2025 年的 AI 智能体：期望与现实</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
    "fetched_at": "2026-10-21T09:00:53+00:00"
+  },
+  {
+   "id": "web-777-5c34a80709",
+   "source_id": "news",
+   "source_name": "The International Institute for Strategic Studies",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "DeepSeek’s release of an open-weight frontier AI model - The International Institute for Strategic Studies",
+   "summary": "DeepSeek’s release of an open-weight frontier AI model &nbsp;&nbsp; The International Institute for Strategic Studies",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdC1NOFFNYWh0dWFGRWZWeldsdUlVZ05lZndTMllxR2hXSzItR1czcS1IVlJ1RWFSTGVZcWRPaF9sTF9Bb3p0OHB6M2JYWDY1RXdqVk9NdENNVzlYcFUtQWpXZGktRlZfc3VUQWcwTE81NnhMTlpDcG5iLVM1ZkdSMG8xRTdoaEtDYXR5eUl3Y2EwVHlES2tpSHBPNTFHc3ZBWnZOTmJWVkRsSTZTVW5IeTVCWWpHQQ?oc=5",
+   "published_at": "2025-05-02T14:11:21+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNdC1NOFFNYWh0dWFGRWZWeldsdUlVZ05lZndTMllxR2hXSzItR1czcS1IVlJ1RWFSTGVZcWRPaF9sTF9Bb3p0OHB6M2JYWDY1RXdqVk9NdENNVzlYcFUtQWpXZGktRlZfc3VUQWcwTE81NnhMTlpDcG5iLVM1ZkdSMG8xRTdoaEtDYXR5eUl3Y2EwVHlES2tpSHBPNTFHc3ZBWnZOTmJWVkRsSTZTVW5IeTVCWWpHQQ?oc=5\" target=\"_blank\">DeepSeek’s release of an open-weight frontier AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The International Institute for Strategic Studies</font>",
+   "fetched_at": "2026-10-30T10:38:42+00:00"
   }
  ]
 }

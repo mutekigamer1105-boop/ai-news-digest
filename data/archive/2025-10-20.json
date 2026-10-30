@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-207-67b36f1dc4",
+   "source_id": "news",
+   "source_name": "TechTarget",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What is a large language model (LLM)? - TechTarget",
+   "summary": "What is a large language model (LLM)? &nbsp;&nbsp; TechTarget",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ISGh1UU1fNXdxNlIzZWxoaW9EcEotSXdaQWFLbzVUWmUxZHMtMnROaUtPZXJ4MlVDc2EwaXBWQTUzYUM3eGtuVWsyUHBCek5UWlo3WS15ancySU5fQnlYaFdaMDRFQVhmcW9sa3BBTklSQQ?oc=5",
+   "published_at": "2025-10-20T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9ISGh1UU1fNXdxNlIzZWxoaW9EcEotSXdaQWFLbzVUWmUxZHMtMnROaUtPZXJ4MlVDc2EwaXBWQTUzYUM3eGtuVWsyUHBCek5UWlo3WS15ancySU5fQnlYaFdaMDRFQVhmcW9sa3BBTklSQQ?oc=5\" target=\"_blank\">What is a large language model (LLM)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechTarget</font>",
+   "fetched_at": "2026-10-30T10:38:42+00:00"
+  }
+ ]
+}

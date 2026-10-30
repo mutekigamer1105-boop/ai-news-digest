@@ -12614,6 +12614,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMFBucHdNeF8ycUFnZVdiOWlUREIxekVqT1IyWGlicVpWeUY5aFI5Z19TU25Ta2VuaS05SXo4ZlA2aW9iUVZJS3duYTBmXzNDX3JqVlpCakttR1JFejZ6NnhjRzBYZlpXOFBRU2V3?oc=5\" target=\"_blank\">Redesigning source control at Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-10-24T08:32:00+00:00"
+  },
+  {
+   "id": "web-51-7d4a20e0e1",
+   "source_id": "news",
+   "source_name": "Psychology Today",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI and the 'Many–One' Inversion - Psychology Today",
+   "summary": "AI and the 'Many–One' Inversion &nbsp;&nbsp; Psychology Today",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2FIOVdNMUFrcEY0bWZSVTJIUkZOYnBtN3BLVHVvc284YmdtWGI3RUpZZjJ2cVU0U0twc0JHZUxGaTdkcmFodzBTS2hONktiQ2JaTHV1LXdZVnlGVVRTRHF3d2tBLVdibkdzYzI2WmxLZWdVbUZUQXBwTWhobEpHMmFkYTBESFRNV0VyMzBFWnR5M243TUtoZw?oc=5",
+   "published_at": "2026-10-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2FIOVdNMUFrcEY0bWZSVTJIUkZOYnBtN3BLVHVvc284YmdtWGI3RUpZZjJ2cVU0U0twc0JHZUxGaTdkcmFodzBTS2hONktiQ2JaTHV1LXdZVnlGVVRTRHF3d2tBLVdibkdzYzI2WmxLZWdVbUZUQXBwTWhobEpHMmFkYTBESFRNV0VyMzBFWnR5M243TUtoZw?oc=5\" target=\"_blank\">AI and the 'Many–One' Inversion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Psychology Today</font>",
+   "fetched_at": "2026-10-30T10:38:42+00:00"
   }
  ]
 }

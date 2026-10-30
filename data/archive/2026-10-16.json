@@ -12522,6 +12522,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9kUEhyaklKREFpQ1k1U2ltNGFCcXdEQTZVa0hlOTdBaVFuc25aNEhWS1hTVWtQOGpTVzZlS3pzM3VmTDFQcWZ3NjJmZlJRLXdZUTdYUGY4VG5WOVdsVkEybGJHYnVkbWwyWWVhVlZRQU9XTTg?oc=5\" target=\"_blank\">这11个大模型里，藏着山东“AI天团”的“野心”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山东宣传网</font>",
    "fetched_at": "2026-10-28T10:12:56+00:00"
+  },
+  {
+   "id": "web-1042-5999b9660c",
+   "source_id": "news",
+   "source_name": "Microsoft",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "探索不同类型的 AI 智能体及其用例 - Microsoft",
+   "summary": "探索不同类型的 AI 智能体及其用例 &nbsp;&nbsp; Microsoft",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWGRsNUFTMXFfdlU0NXR6SnNQQkRFeTFYVWhoNDB1Wnp4QmxwQlAxNWV0c1J1MF9QVW1MMlhqQU5DNFpLSWZCOG52X1oycU41TTdjRTRsS3FPX1k0NUtRSE13Uk1iUl9WeGxlMmowTnFSLWZIOXMzUGRuRFVHQzdDd3FmOA?oc=5",
+   "published_at": "2026-10-16T03:33:07+00:00",
+   "author_handle": null,
+   "builder_id": "satya-nadella",
+   "builder_name": "Satya Nadella",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNWGRsNUFTMXFfdlU0NXR6SnNQQkRFeTFYVWhoNDB1Wnp4QmxwQlAxNWV0c1J1MF9QVW1MMlhqQU5DNFpLSWZCOG52X1oycU41TTdjRTRsS3FPX1k0NUtRSE13Uk1iUl9WeGxlMmowTnFSLWZIOXMzUGRuRFVHQzdDd3FmOA?oc=5\" target=\"_blank\">探索不同类型的 AI 智能体及其用例</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+   "fetched_at": "2026-10-30T10:38:42+00:00"
   }
  ]
 }

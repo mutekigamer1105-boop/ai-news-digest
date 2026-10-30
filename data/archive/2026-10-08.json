@@ -8962,6 +8962,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Sb2dTLWRUZC1oV0JDbjRfWk5YS0FrV053dS1tRTZfYXp6TGJCa3pJSVBRa2pTblk5UzljSTNzSUtxT3VpMTd0WQ?oc=5\" target=\"_blank\">大模型推理成本加速下降 AI应用端渗透有望迎来提速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
    "fetched_at": "2026-10-18T08:26:55+00:00"
+  },
+  {
+   "id": "web-102-760d5cf6f4",
+   "source_id": "news",
+   "source_name": "MIT News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "3 Questions: What is the best path forward for AI in academia? - MIT News",
+   "summary": "3 Questions: What is the best path forward for AI in academia? &nbsp;&nbsp; MIT News",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY000RXFnYXJsVERueVByTEwwLUYtUGk2dThsWHpsaDl0ZTBONVlqT2NSeS00TmJUdXdUazVlUVFuR3JWWV9JQlVLM1NnLVBEQmsyczlZYjNBM00ySkFFY1d3OEVmU0txdlViRzdVc3F2WlQyNzJrMDlrV0U5dnFXX3Bn?oc=5",
+   "published_at": "2026-10-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPY000RXFnYXJsVERueVByTEwwLUYtUGk2dThsWHpsaDl0ZTBONVlqT2NSeS00TmJUdXdUazVlUVFuR3JWWV9JQlVLM1NnLVBEQmsyczlZYjNBM00ySkFFY1d3OEVmU0txdlViRzdVc3F2WlQyNzJrMDlrV0U5dnFXX3Bn?oc=5\" target=\"_blank\">3 Questions: What is the best path forward for AI in academia?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT News</font>",
+   "fetched_at": "2026-10-30T10:38:42+00:00"
+  },
+  {
+   "id": "web-231-22e2b221e7",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language model-assisted modern programming pedagogy model: a perspective on teaching programming in the era of LLMs - Frontiers",
+   "summary": "Large language model-assisted modern programming pedagogy model: a perspective on teaching programming in the era of LLMs &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczQzcnNrY0N2T2pqQ1lBbWVZNXFYbDBVdERVb3VpT0lLYkMwbml0WDBXd2hnVzVVZmJFS01CRG5feUhhTlNqMFBGRFpwVmRCT3QybVBIZlphVkVudzRnaURSMFZYSHZVVTYzck5WTFYwMktzLXhvWWhFc3hURlBXVWNNSWxPR2pyRXBNOVo4VmZMd2JPN1N4SEQxTUNVams1M0E?oc=5",
+   "published_at": "2026-10-08T00:37:44+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPczQzcnNrY0N2T2pqQ1lBbWVZNXFYbDBVdERVb3VpT0lLYkMwbml0WDBXd2hnVzVVZmJFS01CRG5feUhhTlNqMFBGRFpwVmRCT3QybVBIZlphVkVudzRnaURSMFZYSHZVVTYzck5WTFYwMktzLXhvWWhFc3hURlBXVWNNSWxPR2pyRXBNOVo4VmZMd2JPN1N4SEQxTUNVams1M0E?oc=5\" target=\"_blank\">Large language model-assisted modern programming pedagogy model: a perspective on teaching programming in the era of LLMs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-10-30T10:38:42+00:00"
   }
  ]
 }

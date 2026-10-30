@@ -12665,6 +12665,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWpabVVsaG44SHZCX2hJZTQ3dk9HV1lfTGxweURvS2UzdHF3Q0o4NVFEYnBqaW9xTExiMlV3SElkNXRZZlBLXzB6V1VpNDdUYzlIaHljWHJEVFpJU0tGTEVjU3J2MkoxLVNhV3ZycVJvWVFoWmlBU1dWMGZab1hNMlhjclZUUlRqMXM3VnJfcmZ0V29EdUh5MWRyQUYzWTB4bGRGaDNfX2hOekRlalE?oc=5\" target=\"_blank\">澳大利亚称OpenAI智能体入侵Medicare门户，测试人工智能控制措施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-23T08:58:20+00:00"
+  },
+  {
+   "id": "web-410-206250444a",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats - Anthropic",
+   "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWYlBnQ2pUUS1QR0FzcnltT1VReWcxX0o3dGw2WkFGVkNjYVZ2TXNGZ1E5QnBKdFExckhQdEJWV3oybDFZU2dZMDgzb2hZbDM4WlBQMzkzLW5idlZpMy14eFg2TDdnWnFOVnJ3RkJEejlRSC02dmliWDRtaw?oc=5",
+   "published_at": "2026-09-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBWYlBnQ2pUUS1QR0FzcnltT1VReWcxX0o3dGw2WkFGVkNjYVZ2TXNGZ1E5QnBKdFExckhQdEJWV3oybDFZU2dZMDgzb2hZbDM4WlBQMzkzLW5idlZpMy14eFg2TDdnWnFOVnJ3RkJEejlRSC02dmliWDRtaw?oc=5\" target=\"_blank\">Claude discovers a novel enzyme system with CRISPR-like repeats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-10-30T10:38:42+00:00"
   }
  ]
 }
