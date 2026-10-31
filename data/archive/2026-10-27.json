@@ -12625,6 +12625,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTdDSmcxSjZ6OFpsbnV6UGpUVlhsMGM1b2Q2d1BpejBBbkctVEgtRVp4ZEtFVzh4T0s4YThpU1lvcGdib01IaTZ2MFcxS2ZnZHYwR0trS0w1LTV0aF9RTzR5MWlqUTN5TjFtNGE4eWJGd2ZhS2VSSmhFMVBJNHhNZ082ZmM?oc=5\" target=\"_blank\">探访南京AI智能体集散中心</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-10-30T10:38:42+00:00"
+  },
+  {
+   "id": "web-304-21a380a0c7",
+   "source_id": "the-information",
+   "source_name": "The Information",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.93,
+   "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips - The Information",
+   "summary": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips &nbsp;&nbsp; The Information",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5",
+   "published_at": "2026-10-27T23:59:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5\" target=\"_blank\">OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+   "fetched_at": "2026-10-31T10:04:13+00:00"
   }
  ]
 }

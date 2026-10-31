@@ -10803,6 +10803,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5FTlJ6SWZzT0xiYi1RR3MtSFpJVk0yS2cwNGJUelJmcEVHVHkwUVFGZDZULWtXSHBXNndQbWJ0S1lPVjZoZDJQR3A0QlJvT1ppU2lMTlJiRWx3bjI4c2NrX28xM0VwMW1iSV9XZnMtQdIBdEFVX3lxTE1tMDVOZG9acWpaNEhUcnhLM01pNkJ0eFVkZFJGWWRoSVpvN2FDTVNKMkl5akJ4dnhSMko2bi1aendmaFVnSmJxU3ZqNE5LcXlWSWVfMVdSR2FmQ1VvdXY4X0ZLa2FzSXdfQldUc21WaWRzYXVK?oc=5\" target=\"_blank\">Mistral unveils new AI model it says rivals best open systems from China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-10-27T09:28:56+00:00"
+  },
+  {
+   "id": "web-750-7019725c84",
+   "source_id": "news",
+   "source_name": "Morning Brew",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "New open-weight AI models could disrupt the industry - Morning Brew",
+   "summary": "New open-weight AI models could disrupt the industry &nbsp;&nbsp; Morning Brew",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeGwzbGh0ZWZVLUdBYW1Ydm13elJHNmRuQVp6MUQ1a0UwSzk3NHhSbmR5c0NFemxhZG1pVnFEdG80TTJ2X29KVzZzMEdUa0R5Y21QN1ExMTk2cS1qWVcyeFZPbjU4XzdjakJDV3Q0bGliWUwtQTd6WTVCREZrY19wZ3gtWnFfZXY1NEt6Qi15cUtVUQ?oc=5",
+   "published_at": "2026-10-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNeGwzbGh0ZWZVLUdBYW1Ydm13elJHNmRuQVp6MUQ1a0UwSzk3NHhSbmR5c0NFemxhZG1pVnFEdG80TTJ2X29KVzZzMEdUa0R5Y21QN1ExMTk2cS1qWVcyeFZPbjU4XzdjakJDV3Q0bGliWUwtQTd6WTVCREZrY19wZ3gtWnFfZXY1NEt6Qi15cUtVUQ?oc=5\" target=\"_blank\">New open-weight AI models could disrupt the industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+   "fetched_at": "2026-10-31T10:04:13+00:00"
   }
  ]
 }

@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-275-414f92465a",
+   "source_id": "news",
+   "source_name": "IEEE Spectrum",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large Language Model Performance Doubles Every 7 Months - IEEE Spectrum",
+   "summary": "Large Language Model Performance Doubles Every 7 Months &nbsp;&nbsp; IEEE Spectrum",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YRXhveG8wVzhwTEFjLWJJY1ljMlg4eVVtLTFsZGRvLWR2bEpWOWxYeTd1ZU12R2p6OHFmc3RuNW5IbEE2akd1S2w2ajJFTkY0TkpWSmQxZXFNc3Z5czU2cEhZOElZbF94RFE?oc=5",
+   "published_at": "2025-07-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9YRXhveG8wVzhwTEFjLWJJY1ljMlg4eVVtLTFsZGRvLWR2bEpWOWxYeTd1ZU12R2p6OHFmc3RuNW5IbEE2akd1S2w2ajJFTkY0TkpWSmQxZXFNc3Z5czU2cEhZOElZbF94RFE?oc=5\" target=\"_blank\">Large Language Model Performance Doubles Every 7 Months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IEEE Spectrum</font>",
+   "fetched_at": "2026-10-31T10:04:13+00:00"
+  }
+ ]
+}

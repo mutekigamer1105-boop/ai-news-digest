@@ -12639,6 +12639,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPa29kbHBKcW9DVVBKbGFwTVNMenJtOUYxb1NKN2JDMkJHSm1CaDZCcTBoMHZXVG9TRWdiNWo2bGk4dWg5U1J6VFNab2FxQm5UMzY0a2QwUVJKSExOMEdwUS1WM0ZVRFFpUVd6RVlMU3gzY05udVZXVF9GRXhDWEwtUy1NMnVuXzNfeHE2NkF3?oc=5\" target=\"_blank\">OpenAI：人工智能代理花费以太坊测试网资金| 快讯详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
    "fetched_at": "2026-10-29T10:36:48+00:00"
+  },
+  {
+   "id": "web-789-1c701d4df5",
+   "source_id": "news",
+   "source_name": "The Seattle Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meta releases open AI model while keeping its best tech closed - The Seattle Times",
+   "summary": "Meta releases open AI model while keeping its best tech closed &nbsp;&nbsp; The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0JWNG1aX19RWHd1ZWlueXZObk5fSlBkSmJubGFnbDNSUEtmZDRjU1htRHF0STVpazRJbDB4c2RacFRjX2NGUS0tUlNLZW5xOFpLaWJwVlY5NktYbHRjd3NwcTFvdjBUYXYzdV9wbmNQU2xRdXVuU1BtLWdZdnE0VFZIbUlhOThJN0FCQW5tZHZ2aG4wWGJyRmZSTFFCUDk3QUhv?oc=5",
+   "published_at": "2026-10-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0JWNG1aX19RWHd1ZWlueXZObk5fSlBkSmJubGFnbDNSUEtmZDRjU1htRHF0STVpazRJbDB4c2RacFRjX2NGUS0tUlNLZW5xOFpLaWJwVlY5NktYbHRjd3NwcTFvdjBUYXYzdV9wbmNQU2xRdXVuU1BtLWdZdnE0VFZIbUlhOThJN0FCQW5tZHZ2aG4wWGJyRmZSTFFCUDk3QUhv?oc=5\" target=\"_blank\">Meta releases open AI model while keeping its best tech closed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
+   "fetched_at": "2026-10-31T10:04:13+00:00"
   }
  ]
 }

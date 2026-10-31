@@ -66,6 +66,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE90MTl5VFZGNVFWRnpnRThYWWstNHpwNE9hLWxYQk9tM1Q2ZWdBaUdQaDFRM1czTnV5Q212ZXh0Zkh4MXJTQmptRA?oc=5\" target=\"_blank\">GPT Image 2研究科学家陈博远：我在OpenAI修中文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">智源社区</font>",
    "fetched_at": "2026-09-07T04:05:03+00:00"
+  },
+  {
+   "id": "web-1082-84ef3b3bc8",
+   "source_id": "news",
+   "source_name": "finance.sina.com.cn",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "那个在OpenAI修中文的人|ChatGPT|知乎|GPT Image 2|模型|图像_手机新浪网 - finance.sina.com.cn",
+   "summary": "那个在OpenAI修中文的人|ChatGPT|知乎|GPT Image 2|模型|图像_手机新浪网 &nbsp;&nbsp; finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzFGUmJKQThEZEluWWRaeVFWQTdyTExGTE54ZC1PWGFockZMM1pGUDNwY2o3QVhmYmViWTNZbTlHdEp0OUF5RFk4bksxcDQ2d0V6N1lGSnpfT2RaM3d2M1FndS1udTl0OGd1emxqT2FydkU1RnVwRURGTlhaSVEzOG5uSUlmdmc?oc=5",
+   "published_at": "2026-05-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzFGUmJKQThEZEluWWRaeVFWQTdyTExGTE54ZC1PWGFockZMM1pGUDNwY2o3QVhmYmViWTNZbTlHdEp0OUF5RFk4bksxcDQ2d0V6N1lGSnpfT2RaM3d2M1FndS1udTl0OGd1emxqT2FydkU1RnVwRURGTlhaSVEzOG5uSUlmdmc?oc=5\" target=\"_blank\">那个在OpenAI修中文的人|ChatGPT|知乎|GPT Image 2|模型|图像_手机新浪网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+   "fetched_at": "2026-10-31T10:04:13+00:00"
   }
  ]
 }

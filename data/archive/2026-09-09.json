@@ -11670,6 +11670,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBJc043MHJoMFBGQUVRRy16aWRhM3o3ZmdVZmt0RDIwcEwzRVh5V2Mxc3RaTW9CakczLWZialJ0RVNQZTcxV3BHaDhyb3J0SGRUczJLWmJKNTd5eFdYN05yTGxLeTdxNnI5MzBTR29pQ1luMXVEVlV6QUVzQXRNR2s?oc=5\" target=\"_blank\">外交部：中美都是人工智能大国 应加强合作</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-10-25T08:51:01+00:00"
+  },
+  {
+   "id": "web-1125-9d61c5c51b",
+   "source_id": "news",
+   "source_name": "blockchain.news",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "保罗·克里斯蒂亚诺加入OpenAI基金会董事会，专注于AI安全 - blockchain.news",
+   "summary": "保罗·克里斯蒂亚诺加入OpenAI基金会董事会，专注于AI安全 &nbsp;&nbsp; blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTUh6ZFpGQmFFbWxnMTYtUEhBanhTbEd0TXduNWZiLUVyMlRQNm16bTIwQThMcF9jOGhteF9IX0FTeXZkd29sWW9IblVla3ZfUGt2R1c5NG92MVc2YjFRNmtWbEFGUTdnUVdUTw?oc=5",
+   "published_at": "2026-09-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1MTUh6ZFpGQmFFbWxnMTYtUEhBanhTbEd0TXduNWZiLUVyMlRQNm16bTIwQThMcF9jOGhteF9IX0FTeXZkd29sWW9IblVla3ZfUGt2R1c5NG92MVc2YjFRNmtWbEFGUTdnUVdUTw?oc=5\" target=\"_blank\">保罗·克里斯蒂亚诺加入OpenAI基金会董事会，专注于AI安全</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+   "fetched_at": "2026-10-31T10:04:13+00:00"
   }
  ]
 }

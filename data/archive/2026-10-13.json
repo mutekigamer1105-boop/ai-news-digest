@@ -12635,6 +12635,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2FIOVdNMUFrcEY0bWZSVTJIUkZOYnBtN3BLVHVvc284YmdtWGI3RUpZZjJ2cVU0U0twc0JHZUxGaTdkcmFodzBTS2hONktiQ2JaTHV1LXdZVnlGVVRTRHF3d2tBLVdibkdzYzI2WmxLZWdVbUZUQXBwTWhobEpHMmFkYTBESFRNV0VyMzBFWnR5M243TUtoZw?oc=5\" target=\"_blank\">AI and the 'Many–One' Inversion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Psychology Today</font>",
    "fetched_at": "2026-10-30T10:38:42+00:00"
+  },
+  {
+   "id": "web-734-2f74c1dfa2",
+   "source_id": "news",
+   "source_name": "Euronews.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What to know about Meta’s new ‘Wonder’ AI models - Euronews.com",
+   "summary": "What to know about Meta’s new ‘Wonder’ AI models &nbsp;&nbsp; Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWU5yT0RkRGNIYm81NmlFcmwxMmhCbkk0MHQ2bnZMRTJ6LTd6RFRqeDBOOEJpU205ZjV6Q0RUZnBVeXpnb09HRElPUHU3bmNPOHNQNFhEcVFadERzaERpd3kyUk1vRk5aN09BS01haU1pdV9xQkx4UXI1SW1TZS1KYXVnRmZnYVlnbmRkZ25RRk1WaEloRkZJbUZqeEpZLUNjYkhPUFI3aDFkQQ?oc=5",
+   "published_at": "2026-10-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWU5yT0RkRGNIYm81NmlFcmwxMmhCbkk0MHQ2bnZMRTJ6LTd6RFRqeDBOOEJpU205ZjV6Q0RUZnBVeXpnb09HRElPUHU3bmNPOHNQNFhEcVFadERzaERpd3kyUk1vRk5aN09BS01haU1pdV9xQkx4UXI1SW1TZS1KYXVnRmZnYVlnbmRkZ25RRk1WaEloRkZJbUZqeEpZLUNjYkhPUFI3aDFkQQ?oc=5\" target=\"_blank\">What to know about Meta’s new ‘Wonder’ AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+   "fetched_at": "2026-10-31T10:04:13+00:00"
   }
  ]
 }
