@@ -5422,6 +5422,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE50ckRIdTFoVnpXd05LbkdWRTliTko4R3N4QUZnVGl6MzdUVFg5bUZOdlNDUmtCNDFVdEozeEp1QkVYWllPZ0UzMGhnTTA5emZHM29Ld2JNUHFSSURMVXFSenU1U1ZVV0Vs?oc=5\" target=\"_blank\">25-year-old Israeli founder sells stealth AI startup for up to $35 million without raising capital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTech</font>",
    "fetched_at": "2026-10-28T10:12:56+00:00"
+  },
+  {
+   "id": "web-1088-d9f632527a",
+   "source_id": "36kr",
+   "source_name": "36氪",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.8,
+   "title": "企业级AI智能体平台推荐：四大核心应用底座选型指南 - 36氪",
+   "summary": "企业级AI智能体平台推荐：四大核心应用底座选型指南 &nbsp;&nbsp; 36氪",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZbm4xQk1QMGEyZktCUTBZdC1QSy11cTNUZVlWNFVycUR3T0JKOXpGMDBYb3FqU3ZfcFNSdHR3NFFhNzQ2SjlTaUFtTFR3dw?oc=5",
+   "published_at": "2026-10-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZbm4xQk1QMGEyZktCUTBZdC1QSy11cTNUZVlWNFVycUR3T0JKOXpGMDBYb3FqU3ZfcFNSdHR3NFFhNzQ2SjlTaUFtTFR3dw?oc=5\" target=\"_blank\">企业级AI智能体平台推荐：四大核心应用底座选型指南</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36氪</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }

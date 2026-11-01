@@ -7127,6 +7127,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjl5WFlHYkZHajhNTHdwUFdPRW1MSkNZalJxWXVOZ2s2ZUlKelphc2ZHbERaTGFUTk9laHp0Umg1cThEdVI2djhBZGxIZnZPenJpMGxnbHQwMFU5UW0xalkyOFpxMHVvRHhHZ21NeHBha0tDMlY3cXpiOW5TWFo4TWZMRGF2eURNRnprOTF4OHpPTkVldm9pYW9wMFhHcHIwWnRRS3dQMTM?oc=5\" target=\"_blank\">An Anthropic AI model sent a false homicide tip to Philadelphia police</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-10-22T09:03:22+00:00"
+  },
+  {
+   "id": "web-87-3d76e3c787",
+   "source_id": "news",
+   "source_name": "Representative Tom Barrett | (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology - Representative Tom Barrett | (.gov)",
+   "summary": "Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology &nbsp;&nbsp; Representative Tom Barrett | (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnhldXlwRVFyVTR3bGFxMVAtdi1uMUVTOFJpYTd3aFZkVVFRVWZaeUhCTi1YZWxzdFp1Tk4wU0NieURsV1diWGdZX2ExUXVfMGh5MHFyWDlNcmR0UEhYUXNyX081UHc4YlJTUGN2V2Fka3U4b3RuM2pFYmtSRzJPRzNOUzJsNWN3WkhRMjdmYVVlM3VLSTBPMFFFRGFJampHZFE4azBFUzBIdmFPQ1VxUm1WQzRCa3I5cUhzbjdfc0d1Zw?oc=5",
+   "published_at": "2026-10-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnhldXlwRVFyVTR3bGFxMVAtdi1uMUVTOFJpYTd3aFZkVVFRVWZaeUhCTi1YZWxzdFp1Tk4wU0NieURsV1diWGdZX2ExUXVfMGh5MHFyWDlNcmR0UEhYUXNyX081UHc4YlJTUGN2V2Fka3U4b3RuM2pFYmtSRzJPRzNOUzJsNWN3WkhRMjdmYVVlM3VLSTBPMFFFRGFJampHZFE4azBFUzBIdmFPQ1VxUm1WQzRCa3I5cUhzbjdfc0d1Zw?oc=5\" target=\"_blank\">Barrett Introduces Legislation to Address Growing Threats from Artificial Intelligence, Other Emerging Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Representative Tom Barrett | (.gov)</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-265-bea67db63e",
+   "source_id": "news",
+   "source_name": "AIMultiple",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The Future of Large Language Models - AIMultiple",
+   "summary": "The Future of Large Language Models &nbsp;&nbsp; AIMultiple",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5",
+   "published_at": "2026-10-09T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVTJ4OHltYXZ4OEZpVjhzMUVQQzBUMUplbWtldkx5X1MwVEVwcUNfb0hWV0dGUlg3d2pxa0dXZHk3OTczalFBc083NFhLbHZKTEhMTEpVLTJ6b3V4NWxLNmVYMEs?oc=5\" target=\"_blank\">The Future of Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AIMultiple</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }

@@ -12514,6 +12514,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjb2JpVDAzdlBndGtaS0NSSTJ4SGpERndqSGpnQkJWVEkzRjlUUHdqOUlDYXgyX0xLdklYeTJKNi1MNXNiekM5bTd1b0wyamJnSEctejY3MnFrbnJsWWtjSTJUQQ?oc=5\" target=\"_blank\">Introducing Clairic, a new System One class of extraction models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cloudflare Blog</font>",
    "fetched_at": "2026-10-31T10:04:13+00:00"
+  },
+  {
+   "id": "web-926-6a0455da51",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "DeepSeek、MiniMax出手，国产AI大模型“新战场”来了 - 东方财富",
+   "summary": "DeepSeek、MiniMax出手，国产AI大模型“新战场”来了 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DVXB4YTBISlBRZWVzRGVCSDJ4NHFWX0N6MVBINks5U2hHV3lQN3FvaC1lU0ZlbTg1UDBEVURsaTRGZnpvamhaT2NMNi1GRDUyQkdjMVFaY1psNWNvNVE5aw?oc=5",
+   "published_at": "2026-10-19T15:08:19+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DVXB4YTBISlBRZWVzRGVCSDJ4NHFWX0N6MVBINks5U2hHV3lQN3FvaC1lU0ZlbTg1UDBEVURsaTRGZnpvamhaT2NMNi1GRDUyQkdjMVFaY1psNWNvNVE5aw?oc=5\" target=\"_blank\">DeepSeek、MiniMax出手，国产AI大模型“新战场”来了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-1052-f540f1a89e",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "【明日主题前瞻】大厂密集发布Agent产品，智能体赛道竞争白热化 - 财联社",
+   "summary": "【明日主题前瞻】大厂密集发布Agent产品，智能体赛道竞争白热化 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0ZWNMM1YwUjhRQUhEbVVLV05vdEd6TERFZy1EVmZTc2E0WGxDc2xuNURMM2RnNk1oS3FXUkdBTzdhZXRPSV9rVQ?oc=5",
+   "published_at": "2026-10-19T13:00:31+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0ZWNMM1YwUjhRQUhEbVVLV05vdEd6TERFZy1EVmZTc2E0WGxDc2xuNURMM2RnNk1oS3FXUkdBTzdhZXRPSV9rVQ?oc=5\" target=\"_blank\">【明日主题前瞻】大厂密集发布Agent产品，智能体赛道竞争白热化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }

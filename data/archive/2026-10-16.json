@@ -12544,6 +12544,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNWGRsNUFTMXFfdlU0NXR6SnNQQkRFeTFYVWhoNDB1Wnp4QmxwQlAxNWV0c1J1MF9QVW1MMlhqQU5DNFpLSWZCOG52X1oycU41TTdjRTRsS3FPX1k0NUtRSE13Uk1iUl9WeGxlMmowTnFSLWZIOXMzUGRuRFVHQzdDd3FmOA?oc=5\" target=\"_blank\">探索不同类型的 AI 智能体及其用例</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
    "fetched_at": "2026-10-30T10:38:42+00:00"
+  },
+  {
+   "id": "web-957-aca2c5363c",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "拒绝蒸馏抹黑 国产新一代AI大模型又便宜又快：性能还完胜 - 新浪财经",
+   "summary": "拒绝蒸馏抹黑 国产新一代AI大模型又便宜又快：性能还完胜 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4QjZGLWl2d1NORGdlbTFOMHJ1TTl6SERnTUd5Z2paUV85VlVVT2NTb0ViaWhYREZUaWtTaWpBU1dYeHlENUJSNXMxRVBsV0NyNUNUc3pQcU80Q0lJN2d2ZUlzcVMxVThiUDBBS3lMNUNrUkN1Tm5oU0UwaHlSaVU?oc=5",
+   "published_at": "2026-10-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB4QjZGLWl2d1NORGdlbTFOMHJ1TTl6SERnTUd5Z2paUV85VlVVT2NTb0ViaWhYREZUaWtTaWpBU1dYeHlENUJSNXMxRVBsV0NyNUNUc3pQcU80Q0lJN2d2ZUlzcVMxVThiUDBBS3lMNUNrUkN1Tm5oU0UwaHlSaVU?oc=5\" target=\"_blank\">拒绝蒸馏抹黑 国产新一代AI大模型又便宜又快：性能还完胜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-960-402e7a27ba",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Meta与苹果合作推出适配Mac的AI大模型 - 新浪财经",
+   "summary": "Meta与苹果合作推出适配Mac的AI大模型 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb29fWm1jXzZtSmxmekdxekMxbExOdnNpcjZ4NHBZZ3BJNXFhd0VoT2V0ZUNQY2RkM1VmbzAySWROWG1rTnhYdzV1UHlHYzk2c0hVQm5BcTQ2WGp2dTVLLTR6TnRjbzR3YnRDSUlKbW5wSXBUMXA4ekZPTlI1bDFzYW4wclZhdG9abnI4UlJrZXZHNEVacWZGSHFhQ2FQODVpSGd1UnNTcFRmU3lLbHNqdXdlMzVEUnNhZXY1T0VYZHhUWmZMd0dZZDRIS25uc3F4LVFlV2tzbjQwbDVPYWxB?oc=5",
+   "published_at": "2026-10-16T06:39:28+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb29fWm1jXzZtSmxmekdxekMxbExOdnNpcjZ4NHBZZ3BJNXFhd0VoT2V0ZUNQY2RkM1VmbzAySWROWG1rTnhYdzV1UHlHYzk2c0hVQm5BcTQ2WGp2dTVLLTR6TnRjbzR3YnRDSUlKbW5wSXBUMXA4ekZPTlI1bDFzYW4wclZhdG9abnI4UlJrZXZHNEVacWZGSHFhQ2FQODVpSGd1UnNTcFRmU3lLbHNqdXdlMzVEUnNhZXY1T0VYZHhUWmZMd0dZZDRIS25uc3F4LVFlV2tzbjQwbDVPYWxB?oc=5\" target=\"_blank\">Meta与苹果合作推出适配Mac的AI大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }

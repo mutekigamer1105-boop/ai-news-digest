@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUFIYnRwZVkyZkM1cmdOYlFTRWs3aGd4NE1zZzRGbWZ1LTBxWWdKbF9ZM21QYWd5VHVlSHRQOHNzNE80Nzcxc0dtOVlkcDljc1dwNVJRblNWcnI1VHEwRml5U1QtX25tZ04zemMtbmV6ZWpEd1RiOUljQ1VweUNjeGRJcjVFUVVxM1E?oc=5\" target=\"_blank\">OpenAI推出开源模型gpt-oss抗衡中企</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日经中文网</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1109-b8cbba7efc",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "GPT-5 正式发布 - OpenAI",
+   "summary": "GPT-5 正式发布 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tRjNoa1FlaUh2UV9fTDBGYkpiX0ljYXdvUjBGZGpoV0xxRDhrdWJnX0xXR2JpR0Jta0ttUEpsVXgwSnpsNzVBQjJ5Z0g?oc=5",
+   "published_at": "2025-08-07T21:07:05+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tRjNoa1FlaUh2UV9fTDBGYkpiX0ljYXdvUjBGZGpoV0xxRDhrdWJnX0xXR2JpR0Jta0ttUEpsVXgwSnpsNzVBQjJ5Z0g?oc=5\" target=\"_blank\">GPT-5 正式发布</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }

@@ -12661,6 +12661,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0JWNG1aX19RWHd1ZWlueXZObk5fSlBkSmJubGFnbDNSUEtmZDRjU1htRHF0STVpazRJbDB4c2RacFRjX2NGUS0tUlNLZW5xOFpLaWJwVlY5NktYbHRjd3NwcTFvdjBUYXYzdV9wbmNQU2xRdXVuU1BtLWdZdnE0VFZIbUlhOThJN0FCQW5tZHZ2aG4wWGJyRmZSTFFCUDk3QUhv?oc=5\" target=\"_blank\">Meta releases open AI model while keeping its best tech closed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
    "fetched_at": "2026-10-31T10:04:13+00:00"
+  },
+  {
+   "id": "web-907-6c7ea01b22",
+   "source_id": "news",
+   "source_name": "新华网客户端",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "7个垂域大模型，撑起山东AI“硬脊梁” - 新华网客户端",
+   "summary": "7个垂域大模型，撑起山东AI“硬脊梁” &nbsp;&nbsp; 新华网客户端",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUE5qS19NQkozNkdiQmwzcWltck4tMFMtLU9GakZBcDRoQUxJZmltcTM1NmdWZVk2RHNSQklSTGRDZTJhQ2YyOWxkQ2paMEFNbldHcnB2WHJ2UjhtSmx0OEhVS0NHZmJKSC1jdDY1QU1LVzJucFNRYjFtTGxUcHIxNGlpQWZXb0VzQXdsUUNlMERldGdMS3pkbWhn?oc=5",
+   "published_at": "2026-10-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUE5qS19NQkozNkdiQmwzcWltck4tMFMtLU9GakZBcDRoQUxJZmltcTM1NmdWZVk2RHNSQklSTGRDZTJhQ2YyOWxkQ2paMEFNbldHcnB2WHJ2UjhtSmx0OEhVS0NHZmJKSC1jdDY1QU1LVzJucFNRYjFtTGxUcHIxNGlpQWZXb0VzQXdsUUNlMERldGdMS3pkbWhn?oc=5\" target=\"_blank\">7个垂域大模型，撑起山东AI“硬脊梁”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网客户端</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }

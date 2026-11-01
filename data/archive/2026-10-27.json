@@ -12648,6 +12648,94 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5\" target=\"_blank\">OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
    "fetched_at": "2026-10-31T10:04:13+00:00"
+  },
+  {
+   "id": "web-1118-69089ba9eb",
+   "source_id": "news",
+   "source_name": "Mezha.net",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "父母起诉 OpenAI，指控 GPT-4o 曾指导女儿逐步停用抗癫痫药物 - Mezha.net",
+   "summary": "父母起诉 OpenAI，指控 GPT-4o 曾指导女儿逐步停用抗癫痫药物 &nbsp;&nbsp; Mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOER2R1hNTUZTN0tva2lnRXRiMzRtQzQ5N25hQVd4NzdLWTBlbnlYNk9FaUlFZ2hMeHlIU1ZJcVpMc1pOUWZUUTdWT0lhQmhtQ1FINXVXQzdHWTFLdkpHUGRycU1hc1NoTDNkV0F2MFpCS3pIcld6VWJPc185X29WRmNtNlV4Nl92eVJRMW5kN3NZaE5LdDNr?oc=5",
+   "published_at": "2026-10-27T17:39:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOOER2R1hNTUZTN0tva2lnRXRiMzRtQzQ5N25hQVd4NzdLWTBlbnlYNk9FaUlFZ2hMeHlIU1ZJcVpMc1pOUWZUUTdWT0lhQmhtQ1FINXVXQzdHWTFLdkpHUGRycU1hc1NoTDNkV0F2MFpCS3pIcld6VWJPc185X29WRmNtNlV4Nl92eVJRMW5kN3NZaE5LdDNr?oc=5\" target=\"_blank\">父母起诉 OpenAI，指控 GPT-4o 曾指导女儿逐步停用抗癫痫药物</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha.net</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-747-ff3d854069",
+   "source_id": "news",
+   "source_name": "blog.google",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation. - blog.google",
+   "summary": "We’re announcing Genie 4, our new world model for real-time interactive simulation. &nbsp;&nbsp; blog.google",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWVjemszVnZuX2wzWXZBUEV0cEhFZDN1Vk5OV0g5THlTQ0ozdGtrM21SVG1IdnpYaXVxNHYycEkySXJEVnZYV1Vnd1N0al9yS25xSWdMVklRa0JkZUs4Y3pSWGVzV0pONnV4SzgzMHV5M2hqc0hNdTk2eDYyREJ0SUhnaE5wVDdiQUZ6MXhFMzZBWVBGVXFLVWNR?oc=5",
+   "published_at": "2026-10-27T16:26:11+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWVjemszVnZuX2wzWXZBUEV0cEhFZDN1Vk5OV0g5THlTQ0ozdGtrM21SVG1IdnpYaXVxNHYycEkySXJEVnZYV1Vnd1N0al9yS25xSWdMVklRa0JkZUs4Y3pSWGVzV0pONnV4SzgzMHV5M2hqc0hNdTk2eDYyREJ0SUhnaE5wVDdiQUZ6MXhFMzZBWVBGVXFLVWNR?oc=5\" target=\"_blank\">We’re announcing Genie 4, our new world model for real-time interactive simulation.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-914-24596ff476",
+   "source_id": "news",
+   "source_name": "手机新浪网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "当AI大模型被重新定价：云知声发布U2，迎来「DeepSeek时刻」 - 手机新浪网",
+   "summary": "当AI大模型被重新定价：云知声发布U2，迎来「DeepSeek时刻」 &nbsp;&nbsp; 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hU1Y0eEROX21icXd1endXRzNiSjV1Y0RFc3F0ei1CRjBibWdzU2k2azhTVUI4ajVjLXN2LWxZVkhLNnlzVWtGVEtiUm9wMjhyaFY0WDZmSHB2M21ZSFY1eFVUdHVvbF9vV3JtSmQ0RXc?oc=5",
+   "published_at": "2026-10-27T13:42:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5hU1Y0eEROX21icXd1endXRzNiSjV1Y0RFc3F0ei1CRjBibWdzU2k2azhTVUI4ajVjLXN2LWxZVkhLNnlzVWtGVEtiUm9wMjhyaFY0WDZmSHB2M21ZSFY1eFVUdHVvbF9vV3JtSmQ0RXc?oc=5\" target=\"_blank\">当AI大模型被重新定价：云知声发布U2，迎来「DeepSeek时刻」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-1070-c1b57c33f4",
+   "source_id": "news",
+   "source_name": "证券市场周刊",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "美股三季报：AI智能体迎来商业化时点 - 证券市场周刊",
+   "summary": "美股三季报：AI智能体迎来商业化时点 &nbsp;&nbsp; 证券市场周刊",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QMndxbURRX09TLUswQU10YjZiajhFb1hDaUhkZzgtT2VFd2ZvVExnN0FPaUJ3NmZ5bl9PZlpkal90eFlnTzRGd1BYTkFXdzhPNW1fTnFJUGdIRlNJWlJ6dUYyOUktUQ?oc=5",
+   "published_at": "2026-10-27T08:13:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QMndxbURRX09TLUswQU10YjZiajhFb1hDaUhkZzgtT2VFd2ZvVExnN0FPaUJ3NmZ5bl9PZlpkal90eFlnTzRGd1BYTkFXdzhPNW1fTnFJUGdIRlNJWlJ6dUYyOUktUQ?oc=5\" target=\"_blank\">美股三季报：AI智能体迎来商业化时点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券市场周刊</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }

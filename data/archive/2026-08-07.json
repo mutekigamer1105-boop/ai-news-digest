@@ -306,6 +306,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWX3ctY0dnaWFCcThWZmdtUElrWm5fcnFVMGlHN3NaOXZFbURiOWtGRUwxV1FMbDNjNm9RemVxWEpxNzRKZGhVM1ItV1dGcllrcmVKT1RQN1pva1dMR0Z6ZVp2bDJXNXZR?oc=5\" target=\"_blank\">LAMDA: Large Language Model as Decision Analyst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INFORMS PubsOnline</font>",
    "fetched_at": "2026-10-29T10:36:48+00:00"
+  },
+  {
+   "id": "web-1104-91339a6932",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "应对关键网络能力的下一个前沿 - OpenAI",
+   "summary": "应对关键网络能力的下一个前沿 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWxhUHJkN2ZnZm5wZEVnWHlJOE1wMGdMZnZaZnlaZHhkMUtBb3R4N01NRDllM1ZIWDJaOWVOMC1Qel9pUDhKQTNtSHFlOEZTWDVsbGFSZ2llMG5XcS1sVFJ0TGYxTDk4eUxtVDNLTkU4MTlDUllYc2pzbHB1ZVpIQmRzYnZJeW9TMi1XNE9XMEpEUkU?oc=5",
+   "published_at": "2026-08-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWxhUHJkN2ZnZm5wZEVnWHlJOE1wMGdMZnZaZnlaZHhkMUtBb3R4N01NRDllM1ZIWDJaOWVOMC1Qel9pUDhKQTNtSHFlOEZTWDVsbGFSZ2llMG5XcS1sVFJ0TGYxTDk4eUxtVDNLTkU4MTlDUllYc2pzbHB1ZVpIQmRzYnZJeW9TMi1XNE9XMEpEUkU?oc=5\" target=\"_blank\">应对关键网络能力的下一个前沿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }

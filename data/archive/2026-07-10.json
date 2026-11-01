@@ -219,6 +219,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5NRHVIZE52MGdzeE1JSjFvN295cXB5RUtaYlNDMlZfdDAwNHFOWXdXZF9JQmRuQUQtS2hkV2hRQUs1N1hBam90aDZveVA3TDdPTm50djZPZjNUSmNQY2xOZmtmdjh1UndHOEFrZ1poRkZTOVFX?oc=5\" target=\"_blank\">从“技术可用”到“商业可赚” AI智能体加速落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
    "fetched_at": "2026-10-06T10:56:31+00:00"
+  },
+  {
+   "id": "web-982-a9382e990f",
+   "source_id": "news",
+   "source_name": "东南网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "福建人工智能产业观察⑦|打造大模型赋能新质生产力的“福建范式” - 东南网",
+   "summary": "福建人工智能产业观察⑦|打造大模型赋能新质生产力的“福建范式” &nbsp;&nbsp; 东南网",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPa2FURjJOWm9JYUc2M0FUb0pIRVlqczRTbkVnSERKQlh4TU4tSTRKVjNjZG1DZkF2THpKVHFsYzdyc1RtVVcyUEtFd2tNdGtzOHU3YmI5c29uZkVheG1NWVdEdGlkQQ?oc=5",
+   "published_at": "2026-07-10T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPa2FURjJOWm9JYUc2M0FUb0pIRVlqczRTbkVnSERKQlh4TU4tSTRKVjNjZG1DZkF2THpKVHFsYzdyc1RtVVcyUEtFd2tNdGtzOHU3YmI5c29uZkVheG1NWVdEdGlkQQ?oc=5\" target=\"_blank\">福建人工智能产业观察⑦|打造大模型赋能新质生产力的“福建范式”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东南网</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }

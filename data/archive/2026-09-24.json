@@ -12561,6 +12561,30 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmhvWTlWWUJzTFMzRERObTBGblZOU2pRVFJMVTBtcVBReEFUblJFVmhxWTU3eG9TWkEyR2dDT1RXUnFYUmpFa24tSjE1cEFpaXNuWEtKWkhKa19SdjNROW52SEk3d2JHTkJDeldQaU5EZGNXMnBBUl96a3YwMW96ZGdEYUMxSmR4NDNlVDM4YUJlXzByZVhmNkFn?oc=5\" target=\"_blank\">Reusing obsolete windows 10 PCs for on-premises large language model inference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
    "fetched_at": "2026-10-19T09:28:16+00:00"
+  },
+  {
+   "id": "web-989-06b837cbac",
+   "source_id": "news",
+   "source_name": "第一财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型重构安全攻防：人还没反应过来，智能体已经出手了 - 第一财经",
+   "summary": "AI大模型重构安全攻防：人还没反应过来，智能体已经出手了 &nbsp;&nbsp; 第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EN3FXeExtY19PSVBBQXZWTUk3UGhzRmFRNllEdDRYRk9fTjlGZjhrLUgwaVZsNGNjcnpnWTdhOUFEdVc5WHhYR19BOWlUU09lNDZj?oc=5",
+   "published_at": "2026-09-24T04:45:52+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EN3FXeExtY19PSVBBQXZWTUk3UGhzRmFRNllEdDRYRk9fTjlGZjhrLUgwaVZsNGNjcnpnWTdhOUFEdVc5WHhYR19BOWlUU09lNDZj?oc=5\" target=\"_blank\">AI大模型重构安全攻防：人还没反应过来，智能体已经出手了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }

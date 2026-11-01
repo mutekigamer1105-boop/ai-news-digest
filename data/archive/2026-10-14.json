@@ -12014,6 +12014,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1jVml2WDJEVUloRlJFaEN4djUxSmJWd29BUEtwYzBoM1ZKZUJsVXB5NDcxeDZ4cnZXVXo1UlE4RUdXc2c0Sm5OWUJrZlNEM3lSaVVaZzdhNC1zczVnZ0paR0hZTl9JdVo5ay03ZA?oc=5\" target=\"_blank\">“Take work away from frontier LLMs”: Subquadratic’s decision model claims 12x Jev’s context window</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Stack</font>",
    "fetched_at": "2026-10-29T10:36:48+00:00"
+  },
+  {
+   "id": "web-1076-6780a151bc",
+   "source_id": "news",
+   "source_name": "上海新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI狂想曲：智能体时代来了吗？ - 上海新闻",
+   "summary": "AI狂想曲：智能体时代来了吗？ &nbsp;&nbsp; 上海新闻",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13TTNaUGxrNV9SN1ZKT29MZDIyZW9Ga3lVSHB1eE5SSjRtMHVxOTZnejJPUHNwejhWUUsyVWM5elQyb2VoOVljNkVMVUhmandTVHFuLVZESTh3YlRrUU9RNVh4bk50ZmFnV1VUeQ?oc=5",
+   "published_at": "2026-10-14T09:13:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE13TTNaUGxrNV9SN1ZKT29MZDIyZW9Ga3lVSHB1eE5SSjRtMHVxOTZnejJPUHNwejhWUUsyVWM5elQyb2VoOVljNkVMVUhmandTVHFuLVZESTh3YlRrUU9RNVh4bk50ZmFnV1VUeQ?oc=5\" target=\"_blank\">AI狂想曲：智能体时代来了吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海新闻</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-1063-fb32ea08bd",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "IBM 获评 2026 年 IDC MarketScape 全球智能体式 AI 平台领域领导者 - IBM",
+   "summary": "IBM 获评 2026 年 IDC MarketScape 全球智能体式 AI 平台领域领导者 &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ1lBYzlhYWQ3cE9HODNvWmZoNFVYYkwyVWI3UXFGWlpCQW9yUGkyT0w4eE5ibG9UOVpFRGYxcnFlclVHY1d6em93UVFmX1kwZHAycV9xdllrSW9xMGRoekFpWXliUFBOWHpUTjh5WlIxQnE1ZHh5cWpSb2RXUnRvdmp0N3AzczlYdUllWkNDWVE3Qmd1eE9xNkh6dUxUa0dyeHJMLTVaX2pNeDk3WEJsUERicWdhWGE5SUV1Vm1aS0NuZk0?oc=5",
+   "published_at": "2026-10-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ1lBYzlhYWQ3cE9HODNvWmZoNFVYYkwyVWI3UXFGWlpCQW9yUGkyT0w4eE5ibG9UOVpFRGYxcnFlclVHY1d6em93UVFmX1kwZHAycV9xdllrSW9xMGRoekFpWXliUFBOWHpUTjh5WlIxQnE1ZHh5cWpSb2RXUnRvdmp0N3AzczlYdUllWkNDWVE3Qmd1eE9xNkh6dUxUa0dyeHJMLTVaX2pNeDk3WEJsUERicWdhWGE5SUV1Vm1aS0NuZk0?oc=5\" target=\"_blank\">IBM 获评 2026 年 IDC MarketScape 全球智能体式 AI 平台领域领导者</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }

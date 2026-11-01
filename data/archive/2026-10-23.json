@@ -11184,6 +11184,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNR0dXVDVjcVJ0UHVmaUdaaENiR3dBbEJFbnlsZ3g2YlpuSzUxQnRLbUVYUi1pNVlXcTE3UzNCUTJ1U25yN2JhZUJaWDh4ZE8zdEpLNENHbHF3VVA5dC1CWjVSa1hMMVVEYXZpeURXOEZTeEpiODBETERVV3RhZTBlMjBnM2JoY1ExQ0lsMGd5SmdPQWh3MENsQmxsQU5abDU5dmF4T2h6NHlPdmFLc0w3R0xnZnpCb3ByYkVoaUhn?oc=5\" target=\"_blank\">中国科技与人工智能领域持续演进的机遇 | 摩根大通私人银行亚洲</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">J.P. Morgan Private Bank</font>",
    "fetched_at": "2026-10-29T10:36:48+00:00"
+  },
+  {
+   "id": "web-234-268b0439dd",
+   "source_id": "news",
+   "source_name": "Springer Nature Link",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Paired response final divergence signatures of jailbreak vulnerability in large language models - Springer Nature Link",
+   "summary": "Paired response final divergence signatures of jailbreak vulnerability in large language models &nbsp;&nbsp; Springer Nature Link",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCd0lPb2E3YjBwZlR6UG1pS3ptZU5HakxFQ2o5aTlUeEVILWlabU53czJ3QlV5WEJvNDlDaldjNkswb2s5M1l2OVpGc3lCSGFMMlhlLXZ1eloxU00wSFNpUkJINmZlM3NhdVlZUQ?oc=5",
+   "published_at": "2026-10-23T07:57:28+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBCd0lPb2E3YjBwZlR6UG1pS3ptZU5HakxFQ2o5aTlUeEVILWlabU53czJ3QlV5WEJvNDlDaldjNkswb2s5M1l2OVpGc3lCSGFMMlhlLXZ1eloxU00wSFNpUkJINmZlM3NhdVlZUQ?oc=5\" target=\"_blank\">Paired response final divergence signatures of jailbreak vulnerability in large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Springer Nature Link</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-1079-4463f2a25c",
+   "source_id": "news",
+   "source_name": "科技行者",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体的记忆困境：当经验无法共享时，我们错过了什么 - 科技行者",
+   "summary": "AI智能体的记忆困境：当经验无法共享时，我们错过了什么 &nbsp;&nbsp; 科技行者",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZVmlSNTdtQUI1cnJBT0w5eEVwTEpFVmJVVEQ3RVF4QWZmbUczNEE0STBtUktrbW5nRzBXdTJsaHhfa1ZGTVBTYUNzY3E0U3FILWpYb3dtTjIzTUhVWGhJ?oc=5",
+   "published_at": "2026-10-23T01:18:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZVmlSNTdtQUI1cnJBT0w5eEVwTEpFVmJVVEQ3RVF4QWZmbUczNEE0STBtUktrbW5nRzBXdTJsaHhfa1ZGTVBTYUNzY3E0U3FILWpYb3dtTjIzTUhVWGhJ?oc=5\" target=\"_blank\">AI智能体的记忆困境：当经验无法共享时，我们错过了什么</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">科技行者</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }

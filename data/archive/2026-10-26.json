@@ -13945,6 +13945,94 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxON1E5ODh3STU5SHdMdmVoRlVhaDVBQWc2QTdqNDEwdlV6WjNkRE4zZ2g1Q2V4ZGlmN211SENyWDRjOXhlZ3kwV08wb3JkVEN5SDJQRmN2TFVTSjczdE01V0tPa1B3WFYxRUtzcEE2TEVfenFjSmUzMGUwTTN5cVVneDdselFJMDkwVTNULXExaUFWSm12Z25vcktnWHl3eUR6bi1YbUVBWQ?oc=5\" target=\"_blank\">Anthropic’s Claude Reportedly Bypassed Georgia Vote-Data Paywall, Prompting New AI Safeguard Concerns Ahead of Midterms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
    "fetched_at": "2026-10-30T10:38:42+00:00"
+  },
+  {
+   "id": "web-1078-a729047fb9",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "探访AI智能体集散中心 - 新浪财经",
+   "summary": "探访AI智能体集散中心 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iUTJwZVYwRzI3SVJURklTUndmZkticWFacktsaldHYWJoeF81Qkdwamg4OUI2bVJwVUJsLW12U19QeXdibnNiZTNoblVTTElwcXNUYzYtcWR2MVBDUkxkdC00Q3VxcXFWQV9WLVZRSHlxY3RCM2d3?oc=5",
+   "published_at": "2026-10-26T18:49:03+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1iUTJwZVYwRzI3SVJURklTUndmZkticWFacktsaldHYWJoeF81Qkdwamg4OUI2bVJwVUJsLW12U19QeXdibnNiZTNoblVTTElwcXNUYzYtcWR2MVBDUkxkdC00Q3VxcXFWQV9WLVZRSHlxY3RCM2d3?oc=5\" target=\"_blank\">探访AI智能体集散中心</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-947-ab65cfd6e9",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "DeepSeek，全球第一！ - 新浪财经",
+   "summary": "DeepSeek，全球第一！ &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSm1GbVcyVGIzNm1ZM2h3VUVZeXBISkcxUGYwcHllTW45NlExc093cmZ3RnEzcTZZbmV5dVBhR3FIdlQtWDUwc3RKR0Z6aUhWdVNCZC1LMk44bFV3N2VTRFpiWkVjQm5yVUFuWDJZU3ZmNmhMakxjMjVVZnd4YWhITkZwUkFLUHg5am9WZW9sallMeUVOVWhwa1d5cTFjUXZ0MFY3M3I5QlVFZGp4dUV3QTBn?oc=5",
+   "published_at": "2026-10-26T08:59:04+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSm1GbVcyVGIzNm1ZM2h3VUVZeXBISkcxUGYwcHllTW45NlExc093cmZ3RnEzcTZZbmV5dVBhR3FIdlQtWDUwc3RKR0Z6aUhWdVNCZC1LMk44bFV3N2VTRFpiWkVjQm5yVUFuWDJZU3ZmNmhMakxjMjVVZnd4YWhITkZwUkFLUHg5am9WZW9sallMeUVOVWhwa1d5cTFjUXZ0MFY3M3I5QlVFZGp4dUV3QTBn?oc=5\" target=\"_blank\">DeepSeek，全球第一！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-850-faba3ced87",
+   "source_id": "news",
+   "source_name": "中央网络安全和信息化委员会办公室",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "人工智能OPC嘉年华，五大亮点抢先看 - 中央网络安全和信息化委员会办公室",
+   "summary": "人工智能OPC嘉年华，五大亮点抢先看 &nbsp;&nbsp; 中央网络安全和信息化委员会办公室",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtb1FoYUFCcHJWb2pHRW1ITlA2NUlCcFV2WG9OaTA0U2xaSUxfSXZjZ1ljSjhDRHM0VUI3bHJITnZhVDI1aExRWnpZVld3TWRYN2lORUdFQUw5UmR1SXRxaTItS1hJSFk?oc=5",
+   "published_at": "2026-10-26T03:08:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtb1FoYUFCcHJWb2pHRW1ITlA2NUlCcFV2WG9OaTA0U2xaSUxfSXZjZ1ljSjhDRHM0VUI3bHJITnZhVDI1aExRWnpZVld3TWRYN2lORUdFQUw5UmR1SXRxaTItS1hJSFk?oc=5\" target=\"_blank\">人工智能OPC嘉年华，五大亮点抢先看</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中央网络安全和信息化委员会办公室</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-909-8e1e6c8ab0",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心 - 东方财富",
+   "summary": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96WERUZkdDTlpKZGg2dFhSQXFrWDUxeURSVURiN0dhTm96Z0lDa3pHOVNWSGNnRmJsaENBYTJDNm1KTnZaNGs3R0t6ckJmcVZzOS1yc21KQTFEOXJsczZRbWVsZG5lUQ?oc=5",
+   "published_at": "2026-10-26T00:29:22+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE96WERUZkdDTlpKZGg2dFhSQXFrWDUxeURSVURiN0dhTm96Z0lDa3pHOVNWSGNnRmJsaENBYTJDNm1KTnZaNGs3R0t6ckJmcVZzOS1yc21KQTFEOXJsczZRbWVsZG5lUQ?oc=5\" target=\"_blank\">DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-11-01T10:55:34+00:00"
   }
  ]
 }
