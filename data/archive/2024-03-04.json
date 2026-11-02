@@ -21,6 +21,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxORHhVMGhQN1U3TGZfM3l1S2hlVmV5LW1WWHRrOHlhLVV5V05nVkVROWJHVkgwT2ZBZnQ5c1dHeFgxMFQ3TmpiaTNJcVFlNG9SakNqUHZMY0Q0T0FLNU8tTnlBd19HenRqUE8zdnBuMGtXanI5eHVMSFFkUngycDlURlFrcDFxYUNYVlBTVE9JdXFYU29tSlJXcXlUUXJmREF6YnNTTjJB0gGrAUFVX3lxTE04Smx1OEVhUENWSWhVb3dDYWxHRDRvRm1jMlk2RTNzYTNUbzRxWFdXQlhnaFA0U3JhX2gyTDlsMDgxaG5MNkhVRnpSNGExNzRaS0R5T3ZGNjZJbmFlNnBuOVZxVTFBVlV1bHltMG9Vbk85SXhuRVdoSkVsNFNWZ3pPOHFWdUpoQzR2S3V0STNGZlN3VTZuSGhXdllMS3Nzb2p1QVJXUEtRcmlSSQ?oc=5\" target=\"_blank\">Large language models can do jaw-dropping things. But nobody knows exactly why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
    "fetched_at": "2026-10-26T09:32:04+00:00"
+  },
+  {
+   "id": "web-718-e7b1f92637",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing the next generation of Claude - Anthropic",
+   "summary": "Introducing the next generation of Claude &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MeGpZblRuUDYxTDlUM3F6c3Btd0pmQUVBRzV4M0ZsVGN0UF9ISDNOT3NOUERueFZrYVc4Sko4ZDhsN1FETy1pTmFMcTMwNmtpUTBVYVhDZ0NKdw?oc=5",
+   "published_at": "2024-03-04T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MeGpZblRuUDYxTDlUM3F6c3Btd0pmQUVBRzV4M0ZsVGN0UF9ISDNOT3NOUERueFZrYVc4Sko4ZDhsN1FETy1pTmFMcTMwNmtpUTBVYVhDZ0NKdw?oc=5\" target=\"_blank\">Introducing the next generation of Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-11-02T11:53:50+00:00"
   }
  ]
 }

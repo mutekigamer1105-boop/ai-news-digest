@@ -11883,6 +11883,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONUMtQUh3dFJKaXpuQUplWDF2NDQwYnFEUWNrTC03eV8wdGhZVGlpNV9KdmNDSWY1ZE4xZ3ZId0hIN2RhUlFheDVwTFlXazg2clR0Uk1kUWt4bDlfdl9nOVE3dVZjVFJ0T2lMX2k2cXBsZjV0R1hvUFY1ZDJjRmFyT3FVd3NrbUdYc29Na291N0RoQkRmc0RF?oc=5\" target=\"_blank\">Video: Meta Debuts New A.I. Models to Compete With Rivals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
    "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-893-1f449d3dd6",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "海康威视亮相2026工博会 AI大模型加速工业场景数字化 - 东方财富",
+   "summary": "海康威视亮相2026工博会 AI大模型加速工业场景数字化 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TNXdTNUkzYnJldUYzOTQzZ3pOMklkYzhYLWhaZHk3dDZPUjd1ZXp1UW1yVUpFNHA1MnhkT2tGUS02TUFXam1iM1RaajRsVWJCTVh2SVI5b3JEcm9WM0U1MQ?oc=5",
+   "published_at": "2026-10-12T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TNXdTNUkzYnJldUYzOTQzZ3pOMklkYzhYLWhaZHk3dDZPUjd1ZXp1UW1yVUpFNHA1MnhkT2tGUS02TUFXam1iM1RaajRsVWJCTVh2SVI5b3JEcm9WM0U1MQ?oc=5\" target=\"_blank\">海康威视亮相2026工博会 AI大模型加速工业场景数字化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-11-02T11:53:50+00:00"
   }
  ]
 }

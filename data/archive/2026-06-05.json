@@ -129,6 +129,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzFMQXZWZ1pBUXo2V0Z4eXJQdkMwbHVndW9rQjlmdUN5Y2ZLcmRPNUs3VERiaUZpS2VYMU9GN0l5VGxXbnltajlha2EySWRVUnJhSklTcGMyb1piOWFLX3JCdm42UUJPVmJOM1paUjFEREZMR21aRWJ2eWJfaDV0NzR5QmhaWll6b2Q3dTFCUUVGOHRJa0VkQzR5TjRDS2JwZ1JhVg?oc=5\" target=\"_blank\">Exclusive | Meta Keeps Delaying the Release of Its New AI Model to Developers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-1008-88cb911140",
+   "source_id": "news",
+   "source_name": "Tencent",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "腾讯云首发效率智能体工具集，构建面向多元人群的AI生产力入口 - Tencent",
+   "summary": "腾讯云首发效率智能体工具集，构建面向多元人群的AI生产力入口 &nbsp;&nbsp; Tencent",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFItV2tiZ0pQS280cWg5R1l0SjRUUWZjRDVwMUl2ZHllRzhkeF84MlVDTHgySTVrbjQyMFRxaTRBN1NYZk9xMXVxejBLazk5OEN0VnNJVE91ZzU1cFZDWnRBRWhGYW1GUFlUZmZkdnNsYlhpWDA0MVZBZFUycHVmNG9SZDlnRTloNWc1ejZOdklQeEFFc0NQVzZILVQ4eEdpM1BKeGQ1RnJ1blJkLThKM3Y2b014Yk1vcXd3MzBNc3pXX1Q1NUNtRnRjdw?oc=5",
+   "published_at": "2026-06-05T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFItV2tiZ0pQS280cWg5R1l0SjRUUWZjRDVwMUl2ZHllRzhkeF84MlVDTHgySTVrbjQyMFRxaTRBN1NYZk9xMXVxejBLazk5OEN0VnNJVE91ZzU1cFZDWnRBRWhGYW1GUFlUZmZkdnNsYlhpWDA0MVZBZFUycHVmNG9SZDlnRTloNWc1ejZOdklQeEFFc0NQVzZILVQ4eEdpM1BKeGQ1RnJ1blJkLThKM3Y2b014Yk1vcXd3MzBNc3pXX1Q1NUNtRnRjdw?oc=5\" target=\"_blank\">腾讯云首发效率智能体工具集，构建面向多元人群的AI生产力入口</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tencent</font>",
+   "fetched_at": "2026-11-02T11:53:50+00:00"
   }
  ]
 }

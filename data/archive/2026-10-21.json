@@ -12974,6 +12974,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNUmE0cVhWRWtDY3pxaWJSSi1vMDZERVV0QXk5M2VyRlcwTlR0RXZXWjV0cTlNbW05QVZLVFhTMWZxU3RaQ1lvUEg3amlLMEg1LXJKU2tqR29OYnFZQWZobVg5aDlOLWs3YWdhMExWM1l6LU9xS3BrbEpIaWVLbVdITmNuU241SnpOOFE5blNYbjg?oc=5\" target=\"_blank\">2026中外工程师工程能力提升研修活动（人工智能领域）在南京举行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科学技术协会</font>",
    "fetched_at": "2026-10-29T10:36:48+00:00"
+  },
+  {
+   "id": "web-953-8a9a9713dc",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "利用数千个 AI 智能体，从生物学数据中发掘新线索 - OpenAI",
+   "summary": "利用数千个 AI 智能体，从生物学数据中发掘新线索 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYTVfUUxHc2tnVFU1b18ycHJoUkJzMWxwenlJY0h1WmlFQWpJWkdlLVR3a29fWjFuVkwzZnA0bkt5d3dMYXN0V0gyUEw3ei0wQTBlRjgzLVI0R0VxMlROYWxPT1l1Smo3N2t4R3hZVHNlWHJqZUtPR3BIXzdKV2E5c2dpUFZkUW1KMmNXdw?oc=5",
+   "published_at": "2026-10-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYTVfUUxHc2tnVFU1b18ycHJoUkJzMWxwenlJY0h1WmlFQWpJWkdlLVR3a29fWjFuVkwzZnA0bkt5d3dMYXN0V0gyUEw3ei0wQTBlRjgzLVI0R0VxMlROYWxPT1l1Smo3N2t4R3hZVHNlWHJqZUtPR3BIXzdKV2E5c2dpUFZkUW1KMmNXdw?oc=5\" target=\"_blank\">利用数千个 AI 智能体，从生物学数据中发掘新线索</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-02T11:53:50+00:00"
   }
  ]
 }

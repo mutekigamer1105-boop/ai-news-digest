@@ -4390,6 +4390,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxQNE5xN2s1MU94Y3lyM1FEUEFBdFNFdEFIN3VvVDNKTjhMMk56dGE4NXZKbk5hX2NVUG1Tc3FQbHNLdHg2RnNqaENINzJLbE5SX1dpeHNMN2N2czg4Z1JBbTNGTklwQ3ptNExuVm1NUXVLOWlDQi1HM2EwV2FibHBLN2lBN01jVUJDV0pqZUxhUElWTVBrMjVMQ3NQNFlpN0xQTzhxZHJHTHFvRFdRZ21FMzMzMVN5YUh2QzVsZVVXZDhGcEZheDF3MTM0WWpYaFoxU3hfRE9XejhBZzZmUGZVcHpSMzFkTHlkajJITUlscVAyeV8wSVctQWdfQlVBVlE4SjZlZExZVVJ1RXhfaVdWaDY3UnV0UktLVmFmZjZKdVVXdk5vQjRzb2dkWDVOall3alE4c0ZkLVFKRmpnMkVEVjZrajNtclZnWV9HSEN2SG1ub3UwT09VeGxDR25ZdDJFbUtrVW50NA?oc=5\" target=\"_blank\">AI智能体闯进银行，美国大行开始准备“灾后预案”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-10-30T10:38:42+00:00"
+  },
+  {
+   "id": "web-406-676243f9e4",
+   "source_id": "news",
+   "source_name": "Axios",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization - Axios",
+   "summary": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization &nbsp;&nbsp; Axios",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tOWdrOGlYS2tjeWxKTnl1U3YyN3pqMnM1YTYyZU5wQy05X2FvZFhUUV9SNGt1MVd4cEE0UndMTGJiSXRqZmxmWEVPS0NQazVGVUZNWGxGdWF4Q2hMbDVid192UjFKc2hLVlE2OUxyMFdxY0NLUXdJ?oc=5",
+   "published_at": "2026-10-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4tOWdrOGlYS2tjeWxKTnl1U3YyN3pqMnM1YTYyZU5wQy05X2FvZFhUUV9SNGt1MVd4cEE0UndMTGJiSXRqZmxmWEVPS0NQazVGVUZNWGxGdWF4Q2hMbDVid192UjFKc2hLVlE2OUxyMFdxY0NLUXdJ?oc=5\" target=\"_blank\">Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+   "fetched_at": "2026-11-02T11:53:50+00:00"
   }
  ]
 }
