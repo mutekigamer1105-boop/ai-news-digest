@@ -199,6 +199,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yc2ZCODBtNjZLZnpNMmJVcUNtYW9kLUttTUlNMFVMZjB6VFNYUzZWcTB6VlRCcE1UcnpwbWVvUjJFZzlYSkVUY1VwSW84REVZV3FGRmJQejBSdzctZHpQWGQwM3A?oc=5\" target=\"_blank\">ST-LLM: Spatial Transcriptomics Embedding with Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Association for the Advancement of Artificial Intelligence</font>",
    "fetched_at": "2026-10-22T09:03:22+00:00"
+  },
+  {
+   "id": "web-302-17368b12b0",
+   "source_id": "news",
+   "source_name": "The Association for the Advancement of Artificial Intelligence",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Query-Efficient Domain Knowledge Stealing Against Large Language Models - The Association for the Advancement of Artificial Intelligence",
+   "summary": "Query-Efficient Domain Knowledge Stealing Against Large Language Models &nbsp;&nbsp; The Association for the Advancement of Artificial Intelligence",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRHAxcl9wV19tdHlsaUpka1FpQ2VPTVZ2ejZDbmwxLXVmS29vcmNfXzlzUFV5YnFKcTBaRWxfdGZ4Ry1qeGFMQ1hfcjh1Tk9nUGdHbV9DMzRkSUVFd0JhZGQzUXY?oc=5",
+   "published_at": "2026-03-14T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRHAxcl9wV19tdHlsaUpka1FpQ2VPTVZ2ejZDbmwxLXVmS29vcmNfXzlzUFV5YnFKcTBaRWxfdGZ4Ry1qeGFMQ1hfcjh1Tk9nUGdHbV9DMzRkSUVFd0JhZGQzUXY?oc=5\" target=\"_blank\">Query-Efficient Domain Knowledge Stealing Against Large Language Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Association for the Advancement of Artificial Intelligence</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
   }
  ]
 }

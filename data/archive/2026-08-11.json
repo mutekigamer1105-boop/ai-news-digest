@@ -535,6 +535,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBaYW1YQVZ0ZDMtN1dvZ0NnVktRVkgydGpVU3FoY0ZSc0xWYVQ2d1FXNnowSjV1SDFZczk4YmYwVWVYVURqeXl2U1UtOV9RYWZrSXFTMDB4M2VaY21fTDdKOTJCRWwySFpRcWlkeHRsSmhUX2dzOTZmU0FYTkxkZw?oc=5\" target=\"_blank\">Elon Musk 对另一位高管离开 OpenAI 仅用一个词回应</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-12T11:30:04+00:00"
+  },
+  {
+   "id": "web-999-a5d5153e8c",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "当养猪遇上大模型：一个传统产业的智变之路 - 新华网",
+   "summary": "当养猪遇上大模型：一个传统产业的智变之路 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlk1aWVNXzk4OEZoTUNIdVNiaE85X0V1bGZ5UEVtSG9ndW9Ob1psQThCYUhZX3JOTHdZOFExTTl5UWItNDFCR19GdEpaMHRNdFVCSEIxcUxNZmJwUElob0Q0Qm9EVFdJS2h4bEczcHZ6MDR3cjFaaDdDekducnJIREhLdFQ?oc=5",
+   "published_at": "2026-08-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlk1aWVNXzk4OEZoTUNIdVNiaE85X0V1bGZ5UEVtSG9ndW9Ob1psQThCYUhZX3JOTHdZOFExTTl5UWItNDFCR19GdEpaMHRNdFVCSEIxcUxNZmJwUElob0Q0Qm9EVFdJS2h4bEczcHZ6MDR3cjFaaDdDekducnJIREhLdFQ?oc=5\" target=\"_blank\">当养猪遇上大模型：一个传统产业的智变之路</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
   }
  ]
 }

@@ -4919,6 +4919,138 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zbzlNV2k1OUg0YkpoVFZnNXdTTWRfMUZGV0JEOHdWNkxxY1BKU0dfUEtvOHptaHM5b3lSaEMtamFXVlJuZVg0ZTVQMVNLWWZhSUVZN05NYk5zaEVocDd0TQ?oc=5\" target=\"_blank\">DeepSeek重构Agent！AI应用加速落地 多股业绩倍增可期(名单)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-11-02T11:53:50+00:00"
+  },
+  {
+   "id": "web-1128-f2cd51b351",
+   "source_id": "news",
+   "source_name": "cnBeta.COM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI考虑将数据中心重新包装为“AI算力园区” - cnBeta.COM",
+   "summary": "OpenAI考虑将数据中心重新包装为“AI算力园区” &nbsp;&nbsp; cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zQk9TOF81WGpBTlBBRVB4Z2VyVjFsY29UMUVtM3otbGdXOERaNDRmYW43T0hrRURVWWhCcW5WeUxJZVVrdGNPNlRRNUdvVUJlZy1UbnV6bnFCd3c0N0ZmQw?oc=5",
+   "published_at": "2026-11-01T22:10:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zQk9TOF81WGpBTlBBRVB4Z2VyVjFsY29UMUVtM3otbGdXOERaNDRmYW43T0hrRURVWWhCcW5WeUxJZVVrdGNPNlRRNUdvVUJlZy1UbnV6bnFCd3c0N0ZmQw?oc=5\" target=\"_blank\">OpenAI考虑将数据中心重新包装为“AI算力园区”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnBeta.COM</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-493-71cfec2aa0",
+   "source_id": "news",
+   "source_name": "GamesBeat",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic may be cracking down on use of Claude to remake popular games - GamesBeat",
+   "summary": "Anthropic may be cracking down on use of Claude to remake popular games &nbsp;&nbsp; GamesBeat",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0V2bjh6VHdMUmtKd2VrQUhtS3JxRnowUWxvTXVGTG4tNThFalNfa2pzQXVfWFFERDFiUVowVXg2UW9wc0ZtY2tQY2U2aTRtOVhsNU5nTzhKZHFzdjdIMmw2eE5oYkZwZkl5Sm14RWlDNVJqbEJqN1FaWjFtc0t5OTBWYnUyTlB6UG5VNTczMzAzMzlERmR1RVln?oc=5",
+   "published_at": "2026-11-01T21:34:24+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0V2bjh6VHdMUmtKd2VrQUhtS3JxRnowUWxvTXVGTG4tNThFalNfa2pzQXVfWFFERDFiUVowVXg2UW9wc0ZtY2tQY2U2aTRtOVhsNU5nTzhKZHFzdjdIMmw2eE5oYkZwZkl5Sm14RWlDNVJqbEJqN1FaWjFtc0t5OTBWYnUyTlB6UG5VNTczMzAzMzlERmR1RVln?oc=5\" target=\"_blank\">Anthropic may be cracking down on use of Claude to remake popular games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GamesBeat</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-903-c943771d4e",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "公募竞逐AI新变量：效率已至，阿尔法从何而来？ - 财联社",
+   "summary": "公募竞逐AI新变量：效率已至，阿尔法从何而来？ &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiWVQ1enBqRVFYaWFDTDhDVVVXYzhrRWhGOGJGUkRwa1lSbVZmRm9wb2RHS2tGZVVmckJoOXNoUW55VHBiY3Y4MQ?oc=5",
+   "published_at": "2026-11-01T13:22:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiWVQ1enBqRVFYaWFDTDhDVVVXYzhrRWhGOGJGUkRwa1lSbVZmRm9wb2RHS2tGZVVmckJoOXNoUW55VHBiY3Y4MQ?oc=5\" target=\"_blank\">公募竞逐AI新变量：效率已至，阿尔法从何而来？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-1115-ab637d13f5",
+   "source_id": "news",
+   "source_name": "Mezha.net",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI计划在中期选举后加大行动，影响华盛顿的AI辩论 - Mezha.net",
+   "summary": "OpenAI计划在中期选举后加大行动，影响华盛顿的AI辩论 &nbsp;&nbsp; Mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWl5X2Z2RzJPTWZmSVRoOUpEUFlSekNTbzNWX0NpX3NRcVlQSWEtUXhsWkNDNVhIS1l3Nkx6XzJyUGhzMjlXaTN6VndrU1dwMXFSWU1tNXVtQmpnU3NWMnpuLS1lRUVGSE12emhqVWhuLXhFd29Md1lNem1DUUJkRmxsRTJpQTNMUksyNEdFc2EyTUN1SWc?oc=5",
+   "published_at": "2026-11-01T08:30:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWl5X2Z2RzJPTWZmSVRoOUpEUFlSekNTbzNWX0NpX3NRcVlQSWEtUXhsWkNDNVhIS1l3Nkx6XzJyUGhzMjlXaTN6VndrU1dwMXFSWU1tNXVtQmpnU3NWMnpuLS1lRUVGSE12emhqVWhuLXhFd29Md1lNem1DUUJkRmxsRTJpQTNMUksyNEdFc2EyTUN1SWc?oc=5\" target=\"_blank\">OpenAI计划在中期选举后加大行动，影响华盛顿的AI辩论</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha.net</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-677-6cfab4a10e",
+   "source_id": "news",
+   "source_name": "The Sun Nigeria",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nigerian AI startup raises $3.8 million seed funding after 7 rejections - The Sun Nigeria",
+   "summary": "Nigerian AI startup raises $3.8 million seed funding after 7 rejections &nbsp;&nbsp; The Sun Nigeria",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSWRCRnBjeU5mTTcza3JVVHE0ZU9yNkY4RVRoU3M4bTBFTGFvclZWc21aMEhUVmlpZDJZT3hRVUtJdDREUVplLU1RUm1GZ3NoNm5scHh2bU13N0xEd2JCMkQ3TnJldzEyMmlSLVg5WGNGTDd6RzQ5VEU0NHRTR3pqZE9VNW9vVzRWWEhJcUpudDNQWU0?oc=5",
+   "published_at": "2026-11-01T01:58:12+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNSWRCRnBjeU5mTTcza3JVVHE0ZU9yNkY4RVRoU3M4bTBFTGFvclZWc21aMEhUVmlpZDJZT3hRVUtJdDREUVplLU1RUm1GZ3NoNm5scHh2bU13N0xEd2JCMkQ3TnJldzEyMmlSLVg5WGNGTDd6RzQ5VEU0NHRTR3pqZE9VNW9vVzRWWEhJcUpudDNQWU0?oc=5\" target=\"_blank\">Nigerian AI startup raises $3.8 million seed funding after 7 rejections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sun Nigeria</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-1015-6b927f4752",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "刚刚，DeepSeek 开源「超级智能体」！这 AI 牛马，没人 @ 都自己干活 - 新浪财经",
+   "summary": "刚刚，DeepSeek 开源「超级智能体」！这 AI 牛马，没人 @ 都自己干活 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EdnFLWENlWVMxMlh1Y0tZZjUycHRjZ1FDWV9HYlBlQlp5Nlk2QXppOERsM0JuWmhCNWdkS010SVBpaThtcG9tY2wtRTgyRFJ4dTRlUlRaVjlRQWo0WVUwb1VZVXpXY29QcERLTTJvTGJYWW5ueUdIVHNGSndERkE?oc=5",
+   "published_at": "2026-11-01T01:12:08+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1EdnFLWENlWVMxMlh1Y0tZZjUycHRjZ1FDWV9HYlBlQlp5Nlk2QXppOERsM0JuWmhCNWdkS010SVBpaThtcG9tY2wtRTgyRFJ4dTRlUlRaVjlRQWo0WVUwb1VZVXpXY29QcERLTTJvTGJYWW5ueUdIVHNGSndERkE?oc=5\" target=\"_blank\">刚刚，DeepSeek 开源「超级智能体」！这 AI 牛马，没人 @ 都自己干活</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
   }
  ]
 }

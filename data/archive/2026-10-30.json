@@ -11219,6 +11219,157 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNckVER2VQT1B2LXB4eUoxX1ZFUzIyX3packlKbnZKTlJjZGJIRFdfbTlmMUFLdlg0b3AwX1N6ZWZjZ3A5c3ZjeWNVU3dSZFBBNm9md3QtN3lBaDVmLUZ0UkI5QjVxaHRQVDJ0UXgxazNLbWxrTmMxLS1nZWh6UU1uSWw1dGx3V2J3OEhkM2Y4UzllVlhEcjRyRWNyQWRvUnc?oc=5\" target=\"_blank\">How AI Factory Expansion Will Impact NVIDIA (NVDA) Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
    "fetched_at": "2026-11-02T11:53:50+00:00"
+  },
+  {
+   "id": "web-530-45ed89503e",
+   "source_id": "news",
+   "source_name": "NVIDIA Developer",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo | NVIDIA Technical Blog - NVIDIA Developer",
+   "summary": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3FjamI5ZFlnaWszaUE5Ny1udzltbXJMMzF0aEtTY2F0ejBBZzhUYk5lNVpSS2JLTGYwaVdjS3BNdUp2WFNfWFNTS1JTX2xtNV9iQlZ5Skl0YUQ0UVVROGJ4VFAwMGtOekk5Yzl2M3VETTJ2YTc2U0oyb2Zhd1ZXYWQxY0MwZWxlQkpJNHdHaHlySHM?oc=5",
+   "published_at": "2026-10-30T21:47:42+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3FjamI5ZFlnaWszaUE5Ny1udzltbXJMMzF0aEtTY2F0ejBBZzhUYk5lNVpSS2JLTGYwaVdjS3BNdUp2WFNfWFNTS1JTX2xtNV9iQlZ5Skl0YUQ0UVVROGJ4VFAwMGtOekk5Yzl2M3VETTJ2YTc2U0oyb2Zhd1ZXYWQxY0MwZWxlQkpJNHdHaHlySHM?oc=5\" target=\"_blank\">Build a Validated Kubernetes Runtime for NVIDIA Dynamo | NVIDIA Technical Blog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Developer</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-455-5e16fada98",
+   "source_id": "ars-technica",
+   "source_name": "Ars Technica",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours - Ars Technica",
+   "summary": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours &nbsp;&nbsp; Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1lMUGhmc3dMOElMYW41ZG1LLXdnbGZFZ3BNV2F5by1rNWpkSUpoMXhMUGVhUVBCVDZmaVVqbklrT0FFVjlieERXeDdsMVp1Ql9IX0FVOVM3T1ZBeUVBdXRiSmtKd1RzSll1N0Zsd0VJTEUwNHVhcGpGdEx2VE9JUHlxNkNpUThOSExsVVhGYUVTN1lCd0FtclUxZ3F5UDFRYWtBN0VQSlhKOW1BQVRv?oc=5",
+   "published_at": "2026-10-30T21:09:54+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1lMUGhmc3dMOElMYW41ZG1LLXdnbGZFZ3BNV2F5by1rNWpkSUpoMXhMUGVhUVBCVDZmaVVqbklrT0FFVjlieERXeDdsMVp1Ql9IX0FVOVM3T1ZBeUVBdXRiSmtKd1RzSll1N0Zsd0VJTEUwNHVhcGpGdEx2VE9JUHlxNkNpUThOSExsVVhGYUVTN1lCd0FtclUxZ3F5UDFRYWtBN0VQSlhKOW1BQVRv?oc=5\" target=\"_blank\">Anthropic VS code extension on Cursor backdoored for nearly 12 hours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-542-b14b6222c6",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia’s AI financing push could sustain infrastructure investment and drive chip demand, Wedbush says - Yahoo Finance",
+   "summary": "Nvidia’s AI financing push could sustain infrastructure investment and drive chip demand, Wedbush says &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaUJRLW54UDQxM0gwN3dmVEV2RmlqcTUzYlJidTBOcXdNZENuUEdJR3RvRVo1R3pmYWhWQ2p4R0x3Q0dlTU8ySjJ5SWN3LVU1ZThGWlhNb21ySjNBMlpxZkVudGgyNTh5bGs0clo1b2hCZ2xldjh3T09XcHVHcHZuVmJma3BMRzAzS0xNcFpVVDMtREszWmVWa3Bn?oc=5",
+   "published_at": "2026-10-30T15:18:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOaUJRLW54UDQxM0gwN3dmVEV2RmlqcTUzYlJidTBOcXdNZENuUEdJR3RvRVo1R3pmYWhWQ2p4R0x3Q0dlTU8ySjJ5SWN3LVU1ZThGWlhNb21ySjNBMlpxZkVudGgyNTh5bGs0clo1b2hCZ2xldjh3T09XcHVHcHZuVmJma3BMRzAzS0xNcFpVVDMtREszWmVWa3Bn?oc=5\" target=\"_blank\">Nvidia’s AI financing push could sustain infrastructure investment and drive chip demand, Wedbush says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-18-7c91fad9d5",
+   "source_id": "news",
+   "source_name": "Department of Energy (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting - Department of Energy (.gov)",
+   "summary": "National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting &nbsp;&nbsp; Department of Energy (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2czV1NLUmdGcEhNcTlhOGJHMzRGRVhFaVBfT2EtNU8tWE4yVzVrQ2ozMHRUSnhvSmVnT1F1aTdSYVJTLU1xeWVDc3Q5cWEtelE5QVN1YmhWeFNZUm04eEs3N3gzSzNGdFBNZWJGbUJDUTlNdXBRRDRlbV9PQU9zSHJ1U2FqcVVJZUtkU1ZUNXo5WDhBZ21WUG90dDczeDhaUmluS0hObWZoLWdKLThwWGlBdG5xZw?oc=5",
+   "published_at": "2026-10-30T14:42:15+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2czV1NLUmdGcEhNcTlhOGJHMzRGRVhFaVBfT2EtNU8tWE4yVzVrQ2ozMHRUSnhvSmVnT1F1aTdSYVJTLU1xeWVDc3Q5cWEtelE5QVN1YmhWeFNZUm04eEs3N3gzSzNGdFBNZWJGbUJDUTlNdXBRRDRlbV9PQU9zSHJ1U2FqcVVJZUtkU1ZUNXo5WDhBZ21WUG90dDczeDhaUmluS0hObWZoLWdKLThwWGlBdG5xZw?oc=5\" target=\"_blank\">National Lab Discovery Series: PermitAI™: Using Artificial Intelligence to Accelerate Environmental Reviews and Permitting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-637-fc1cc16647",
+   "source_id": "news",
+   "source_name": "AOL.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI STARTUP AVALONX EMERGES FROM STEALTH WITH $10 MILLION IN FUNDING FROM RIDOWN CAPITAL - AOL.com",
+   "summary": "AI STARTUP AVALONX EMERGES FROM STEALTH WITH $10 MILLION IN FUNDING FROM RIDOWN CAPITAL &nbsp;&nbsp; AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1NEWjFKbjZQaDk4akVxTktybDhERzA3ZW5tSWdGM0VrOV81N0hmSXVjNzZxRm9VcW1EYWtOUWJNQ1pVOTZsVWdXa1VpUkQwcjV1NXRsSlZ4R3Fmd2xuc3NvQjNyM3ZYV1hiWFdWVHZMRGdvSmh5R1lhbFdWLWJXLTFDYkw?oc=5",
+   "published_at": "2026-10-30T13:09:41+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1NEWjFKbjZQaDk4akVxTktybDhERzA3ZW5tSWdGM0VrOV81N0hmSXVjNzZxRm9VcW1EYWtOUWJNQ1pVOTZsVWdXa1VpUkQwcjV1NXRsSlZ4R3Fmd2xuc3NvQjNyM3ZYV1hiWFdWVHZMRGdvSmh5R1lhbFdWLWJXLTFDYkw?oc=5\" target=\"_blank\">AI STARTUP AVALONX EMERGES FROM STEALTH WITH $10 MILLION IN FUNDING FROM RIDOWN CAPITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-13-78559e6aa4",
+   "source_id": "news",
+   "source_name": "NASA (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What is Super Intelligence? - NASA (.gov)",
+   "summary": "What is Super Intelligence? &nbsp;&nbsp; NASA (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYV1RFejMzMzkxQmpESE1mOVVnRHJ1QUt6bi1WbFVISENxTkM4MTgxZEJfNGIwY09KNmF1ckh1ZEVuSjFXbWtUY0ZpMGEtSjZ1QWFrbDFnY0V3bEll?oc=5",
+   "published_at": "2026-10-30T09:02:22+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYV1RFejMzMzkxQmpESE1mOVVnRHJ1QUt6bi1WbFVISENxTkM4MTgxZEJfNGIwY09KNmF1ckh1ZEVuSjFXbWtUY0ZpMGEtSjZ1QWFrbDFnY0V3bEll?oc=5\" target=\"_blank\">What is Super Intelligence?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NASA (.gov)</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-33-d55a243d45",
+   "source_id": "news",
+   "source_name": "UNESCO",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Call for papers: Advancing research on the Ethics of Artificial Intelligence - UNESCO",
+   "summary": "Call for papers: Advancing research on the Ethics of Artificial Intelligence &nbsp;&nbsp; UNESCO",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5",
+   "published_at": "2026-10-30T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnM5SmxmRGY5Z1NzeVVjX1VZX1dpZU1VRlB6UTNPVWRLYklpMzhSd3JaV0Z4VlZrTDdqQmdvRjhQZDlOMEYzMGFYSGFieVpMdVpKZDBZTnZTTEprUm9lMlhxT3F1X0VNbjNILTRWMkE5eHMtWXBrMTN1OEZJdENKSExRSl9iNlU4Wmp6b2RiSGxab0hCOVdWd1YxN2c?oc=5\" target=\"_blank\">Call for papers: Advancing research on the Ethics of Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNESCO</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
   }
  ]
 }

@@ -11720,6 +11720,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDByMU5QYk8zV1dFZ183Rmlocm9QS0dURE9HdXhiRjFwYXJuOXlZTnhXNjh1aWMwQzJoX3BFNk9GcllUZ01pUy1FYzJTMzNPVGRIdGZzV0RRa0FKakxXV3lBdnRVUEhnOE11YUpxdHJJcFByUEcxZ25EYVB3MlZkcnB0X1Q1b1JGWEJGNkloa3NnMHFtN05JZmJIUlhQSDh5YkRIVjRaM24?oc=5\" target=\"_blank\">Novo Nordisk Will Use Anthropic’s Claude for Drug Research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
    "fetched_at": "2026-10-04T05:35:48+00:00"
+  },
+  {
+   "id": "web-796-32e11cb915",
+   "source_id": "news",
+   "source_name": "National Institute of Standards and Technology (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "CAISI’s Assessment of Z.ai’s GLM-5.3 Cyber Capabilities - National Institute of Standards and Technology (.gov)",
+   "summary": "CAISI’s Assessment of Z.ai’s GLM-5.3 Cyber Capabilities &nbsp;&nbsp; National Institute of Standards and Technology (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPazk3QlVZNXNUNDFpVmg0Rjd3Uk8xQlFzNDNnM09JNFZoM0JIalB1MXZNdTdPMnZZQzRwc2U4aEZvNnk0dFRBalRUb2RSWWpoeW44WkE1WllVZHBSMHNOaC1BZ21IbmV3OU43QVRiLVN4RE96SEgxRk1ma2pnRHBfQjhYemt5NHc0bUZtRFo0eW1odjVRX29rUHd3?oc=5",
+   "published_at": "2026-09-17T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPazk3QlVZNXNUNDFpVmg0Rjd3Uk8xQlFzNDNnM09JNFZoM0JIalB1MXZNdTdPMnZZQzRwc2U4aEZvNnk0dFRBalRUb2RSWWpoeW44WkE1WllVZHBSMHNOaC1BZ21IbmV3OU43QVRiLVN4RE96SEgxRk1ma2pnRHBfQjhYemt5NHc0bUZtRFo0eW1odjVRX29rUHd3?oc=5\" target=\"_blank\">CAISI’s Assessment of Z.ai’s GLM-5.3 Cyber Capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Institute of Standards and Technology (.gov)</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
   }
  ]
 }

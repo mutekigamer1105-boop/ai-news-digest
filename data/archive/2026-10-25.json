@@ -4411,6 +4411,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4tOWdrOGlYS2tjeWxKTnl1U3YyN3pqMnM1YTYyZU5wQy05X2FvZFhUUV9SNGt1MVd4cEE0UndMTGJiSXRqZmxmWEVPS0NQazVGVUZNWGxGdWF4Q2hMbDVid192UjFKc2hLVlE2OUxyMFdxY0NLUXdJ?oc=5\" target=\"_blank\">Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
    "fetched_at": "2026-11-02T11:53:50+00:00"
+  },
+  {
+   "id": "web-669-dc3dbcff77",
+   "source_id": "news",
+   "source_name": "Startup Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "JB Financial Picks AI Security Startup for First Bet From New Fund - Startup Fortune",
+   "summary": "JB Financial Picks AI Security Startup for First Bet From New Fund &nbsp;&nbsp; Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZEpyVlltcExZLXZDZVJrRGZHc2ZTV0pab0poTVJhcjFhUXltQm05WlM5WnphWTJfQ05rZk5YeXZzekMxNldBakdkUFpuamhkai0wM0tqWlRuNmJnY2NGaUllZUFnUWtsMjVfMXhkSDllWUcwOERxUkxuZ0IyWjk5S3hhamZqTWlpMFRRb21wckNuM2ZUbzRYTnF3?oc=5",
+   "published_at": "2026-10-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPZEpyVlltcExZLXZDZVJrRGZHc2ZTV0pab0poTVJhcjFhUXltQm05WlM5WnphWTJfQ05rZk5YeXZzekMxNldBakdkUFpuamhkai0wM0tqWlRuNmJnY2NGaUllZUFnUWtsMjVfMXhkSDllWUcwOERxUkxuZ0IyWjk5S3hhamZqTWlpMFRRb21wckNuM2ZUbzRYTnF3?oc=5\" target=\"_blank\">JB Financial Picks AI Security Startup for First Bet From New Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+   "fetched_at": "2026-11-03T11:30:51+00:00"
   }
  ]
 }
