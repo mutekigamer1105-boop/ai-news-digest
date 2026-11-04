@@ -18194,6 +18194,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOS21pS3dXRTdINDZOUnJzZkJUZU1rdGxLN2VJamRpSHRNMzlFTHlxTHRWUDRvdmZCdE82YkhGMG51SGlMM05jYTFnVkkzQ1p0Z3pXVVozWVE0NjNJaFh1QVlWS2VuQVZyQVNzUFdSaVFqYTRwUENvNFVQV3Ytd1BKalhzQ2t2Z2xERGZYOGVtSQ?oc=5\" target=\"_blank\">Polymarket：OpenAI AGI 几率升至19% GPT-6后</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
    "fetched_at": "2026-10-14T09:10:25+00:00"
+  },
+  {
+   "id": "web-1089-1a59849499",
+   "source_id": "news",
+   "source_name": "富途牛牛",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级 - 富途牛牛",
+   "summary": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级 &nbsp;&nbsp; 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcXNaVW5RekRZSWtfN001NzJBalV3TDhUVzRHTDdwSjNsZFhOOVJjSHlKR3JLSjhLNTY5WGIwaDNSR2pjdF9KUXlZeXZ4UTdERDE1VGxlYW1TaEZXN2g5Ny1tblU4WTBfUXRyLWUxdzNFRDFvX2dhSG83dkZqRGhFeWFoMjc5OFlrM29VQnVqY01VZw?oc=5",
+   "published_at": "2026-09-03T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPcXNaVW5RekRZSWtfN001NzJBalV3TDhUVzRHTDdwSjNsZFhOOVJjSHlKR3JLSjhLNTY5WGIwaDNSR2pjdF9KUXlZeXZ4UTdERDE1VGxlYW1TaEZXN2g5Ny1tblU4WTBfUXRyLWUxdzNFRDFvX2dhSG83dkZqRGhFeWFoMjc5OFlrM29VQnVqY01VZw?oc=5\" target=\"_blank\">“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
   }
  ]
 }

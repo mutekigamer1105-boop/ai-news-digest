@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNajFGTWxEMi12TjdiYXI0UFM2SXI5WE9tWjVsS01Sa0s1ZFdPZW1OQVRoRFZQSkNaR0xuT25MSFNfNU1RN3hrQzFsZkZ2cDVYMjc0ZTZzeFZlblBfaE40YjkyanRFcXhOUDgtbklqUW9ib2E1MW9fNmkzUXM3dDJtb3Rn?oc=5\" target=\"_blank\">OpenAI 重置 Codex 和 ChatGPT Work 使用限额，需求激增</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
    "fetched_at": "2026-10-22T09:03:22+00:00"
+  },
+  {
+   "id": "web-1143-682ef7f2b6",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "苹果起诉OpenAI窃取商业秘密，Sam Altman的公司发布新硬件预告 - Cryptopolitan",
+   "summary": "苹果起诉OpenAI窃取商业秘密，Sam Altman的公司发布新硬件预告 &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ybUN3U3RNamZWemRnVXZJZl9kTy1qbnROaUg5d2x2OGp1TWhaS2d3NXNZSzRaUElQVmFxbzg4czNja2pjWFFFOFpxVGxBQ2l3QlRpcHVNV1NBUEtWazV0aktvZ2k?oc=5",
+   "published_at": "2026-07-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ybUN3U3RNamZWemRnVXZJZl9kTy1qbnROaUg5d2x2OGp1TWhaS2d3NXNZSzRaUElQVmFxbzg4czNja2pjWFFFOFpxVGxBQ2l3QlRpcHVNV1NBUEtWazV0aktvZ2k?oc=5\" target=\"_blank\">苹果起诉OpenAI窃取商业秘密，Sam Altman的公司发布新硬件预告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
   }
  ]
 }

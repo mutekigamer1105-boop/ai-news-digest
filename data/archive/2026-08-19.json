@@ -394,6 +394,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUpET2g2MTNFVnVnRVY3U2hob2UwcnpTYnhOQVJ2RDdFQW4zTHI2LThnelJwZV9CTUh6U1J0WlJOdkRGVnM1MVVQQ1hST281VHdXWV9BekdXQ2lFdWwycGQta1N1X3RTS25YNnh3em9RT0ZZVE14TUJTOUZjRHNzM0tlU2lya0F0VHFLdDcwTG9LaUtvZFVyaXEzaHZySGRqb19EbldTNVpGQQ?oc=5\" target=\"_blank\">Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
    "fetched_at": "2026-10-13T11:18:48+00:00"
+  },
+  {
+   "id": "web-1100-e83eee1c62",
+   "source_id": "news",
+   "source_name": "CoinDesk",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI增长落后于Anthropic，安全担忧促使前沿训练暂停 - CoinDesk",
+   "summary": "OpenAI增长落后于Anthropic，安全担忧促使前沿训练暂停 &nbsp;&nbsp; CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSHVfb3dlQnYzYjRUWWxtNmkwR2VzRFV0ODF5RGVHa1hESi1KZzZqaV9ybDcwdTdTQ0pFckVqWmxSZTVRUnlQUWs0R1FVdllIUWQ2RUE5bHpHX3NVcXNKTkJOeFpPeEp3VkFSUWktMWRyV3RzdWpCRmFzNy1rX08wZ0xIek9uM1dacThqRkM3OGg0MDBPR2s5Zm80SFlFQUlxOUZraWE0NHR5WkJyZDlnekJ5OGlNOHIwU2FySkl3ZEFMdDF6?oc=5",
+   "published_at": "2026-08-19T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSHVfb3dlQnYzYjRUWWxtNmkwR2VzRFV0ODF5RGVHa1hESi1KZzZqaV9ybDcwdTdTQ0pFckVqWmxSZTVRUnlQUWs0R1FVdllIUWQ2RUE5bHpHX3NVcXNKTkJOeFpPeEp3VkFSUWktMWRyV3RzdWpCRmFzNy1rX08wZ0xIek9uM1dacThqRkM3OGg0MDBPR2s5Zm80SFlFQUlxOUZraWE0NHR5WkJyZDlnekJ5OGlNOHIwU2FySkl3ZEFMdDF6?oc=5\" target=\"_blank\">OpenAI增长落后于Anthropic，安全担忧促使前沿训练暂停</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
   }
  ]
 }

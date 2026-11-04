@@ -12657,6 +12657,72 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWU5yT0RkRGNIYm81NmlFcmwxMmhCbkk0MHQ2bnZMRTJ6LTd6RFRqeDBOOEJpU205ZjV6Q0RUZnBVeXpnb09HRElPUHU3bmNPOHNQNFhEcVFadERzaERpd3kyUk1vRk5aN09BS01haU1pdV9xQkx4UXI1SW1TZS1KYXVnRmZnYVlnbmRkZ25RRk1WaEloRkZJbUZqeEpZLUNjYkhPUFI3aDFkQQ?oc=5\" target=\"_blank\">What to know about Meta’s new ‘Wonder’ AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
    "fetched_at": "2026-10-31T10:04:13+00:00"
+  },
+  {
+   "id": "web-950-b95ffa08ea",
+   "source_id": "news",
+   "source_name": "财富号",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型：从“百模大战”到“生态竞速” - 财富号",
+   "summary": "AI大模型：从“百模大战”到“生态竞速” &nbsp;&nbsp; 财富号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBac1VwMUgxdm9LTVZ2bFNFS3JIdjl1cnI5anI5WWoySjc5T1BkZjlPYnh3X1pNUG1tN0h5ZV9jbkFMS1hCTG5zT3pQcEx2R3dwdDVSZ2hjbUxzN0RTZHN0WnRMX29iazUwX2NZ?oc=5",
+   "published_at": "2026-10-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBac1VwMUgxdm9LTVZ2bFNFS3JIdjl1cnI5anI5WWoySjc5T1BkZjlPYnh3X1pNUG1tN0h5ZV9jbkFMS1hCTG5zT3pQcEx2R3dwdDVSZ2hjbUxzN0RTZHN0WnRMX29iazUwX2NZ?oc=5\" target=\"_blank\">AI大模型：从“百模大战”到“生态竞速”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-966-3005d2509f",
+   "source_id": "news",
+   "source_name": "CSDN",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型聚合站排名揭秘：这匹黑马凭啥让大厂都慌了 - CSDN",
+   "summary": "AI大模型聚合站排名揭秘：这匹黑马凭啥让大厂都慌了 &nbsp;&nbsp; CSDN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2dHlEVnRzSHl1TEdvMzdnLTdyRmV3dGlYa2cwTnBFMUdfc2txZjdEQkhnRFQ2VjlObnBodDh2Z1NDUjgxYUt1THNWQUtkRnFzVWUxRFdnYW9mcGxoLVE?oc=5",
+   "published_at": "2026-10-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2dHlEVnRzSHl1TEdvMzdnLTdyRmV3dGlYa2cwTnBFMUdfc2txZjdEQkhnRFQ2VjlObnBodDh2Z1NDUjgxYUt1THNWQUtkRnFzVWUxRFdnYW9mcGxoLVE?oc=5\" target=\"_blank\">AI大模型聚合站排名揭秘：这匹黑马凭啥让大厂都慌了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSDN</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-1138-fe95281e5d",
+   "source_id": "news",
+   "source_name": "Cryptopolitan",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "谷歌推出Gemini 4 Argon，价格低于OpenAI和Anthropic - Cryptopolitan",
+   "summary": "谷歌推出Gemini 4 Argon，价格低于OpenAI和Anthropic &nbsp;&nbsp; Cryptopolitan",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0pORXkzMERGR29pX1NJWGpBZ25vZGk2amo2cnExRnBXamdja0N5UGNabG54UlE0RWtBc1k1RXdvYWtwYTFoVGFMa1BhajZLQXdKNHZqTE9URWFBQWhCSzRUVzhzWHkxZUJYR3E4empSZGhoQTA5anNtVUdRV05mdHV4bS1pUTVT?oc=5",
+   "published_at": "2026-10-13T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0pORXkzMERGR29pX1NJWGpBZ25vZGk2amo2cnExRnBXamdja0N5UGNabG54UlE0RWtBc1k1RXdvYWtwYTFoVGFMa1BhajZLQXdKNHZqTE9URWFBQWhCSzRUVzhzWHkxZUJYR3E4empSZGhoQTA5anNtVUdRV05mdHV4bS1pUTVT?oc=5\" target=\"_blank\">谷歌推出Gemini 4 Argon，价格低于OpenAI和Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
   }
  ]
 }

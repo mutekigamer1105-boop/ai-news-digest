@@ -6263,6 +6263,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXU0akNFOUdUT0FmTVUxSjNJbk5CZ1BDSkI4ZWhyYUZ0azdtdll1NUtSWlJQZUZHU1VCcC1uSmNvVVZyOC1RWDFKeThZMzE1MDlNN3ZaeWJrY2dUU1F6Y0JuVVVfTWNkTW5fQUYwMzFiNi0zYmZGVW9OQUZtSmtYajZpNA?oc=5\" target=\"_blank\">French Tech Central Day 2026: Nov 19 Funding & AI Talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
    "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-1013-c11e0451a8",
+   "source_id": "news",
+   "source_name": "北京师范大学新闻网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "[讲座] 图书馆举办“从对话助手到科研搭档：AI智能体赋能学习与研究实践”讲座 - 北京师范大学新闻网",
+   "summary": "[讲座] 图书馆举办“从对话助手到科研搭档：AI智能体赋能学习与研究实践”讲座 &nbsp;&nbsp; 北京师范大学新闻网",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iYW9sSnphTzhpQnJyRnJadkJEdVBXVXNHcUVaUExTMVRTTURmRHFBeWJfeDJqeDlTOVVrSFAzSkEwbWU4RWxXN3B5V0VYb051X0NUSjdZTUdJU0FjNXZ6SWh5MElUMjBSbDFwTGFCamFQd1VtdnVZ?oc=5",
+   "published_at": "2026-10-31T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9iYW9sSnphTzhpQnJyRnJadkJEdVBXVXNHcUVaUExTMVRTTURmRHFBeWJfeDJqeDlTOVVrSFAzSkEwbWU4RWxXN3B5V0VYb051X0NUSjdZTUdJU0FjNXZ6SWh5MElUMjBSbDFwTGFCamFQd1VtdnVZ?oc=5\" target=\"_blank\">[讲座] 图书馆举办“从对话助手到科研搭档：AI智能体赋能学习与研究实践”讲座</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北京师范大学新闻网</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
   }
  ]
 }

@@ -5051,6 +5051,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1EdnFLWENlWVMxMlh1Y0tZZjUycHRjZ1FDWV9HYlBlQlp5Nlk2QXppOERsM0JuWmhCNWdkS010SVBpaThtcG9tY2wtRTgyRFJ4dTRlUlRaVjlRQWo0WVUwb1VZVXpXY29QcERLTTJvTGJYWW5ueUdIVHNGSndERkE?oc=5\" target=\"_blank\">刚刚，DeepSeek 开源「超级智能体」！这 AI 牛马，没人 @ 都自己干活</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
    "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-1052-995a76ee05",
+   "source_id": "news",
+   "source_name": "Unite.AI",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "一份文档就能向你的 AI 智能体发号施令。上线前就要为此做好准备。 - Unite.AI",
+   "summary": "一份文档就能向你的 AI 智能体发号施令。上线前就要为此做好准备。 &nbsp;&nbsp; Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1dXbVhELXdSejZ3WWxNem4tZDd0SGVkaTliQVdkN1o3aUw3ckZKanpERHNreWFLUjhnY2hkVjNoc0VMOHAxTWJLNjhlMXlFOVU1cXBGSWJYRXUxNThIQWVjLVdBV1hOZTZHckE5bVZTUEpraUpubjRiUmJyN1h3NHlIalozeklSblE?oc=5",
+   "published_at": "2026-11-01T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1dXbVhELXdSejZ3WWxNem4tZDd0SGVkaTliQVdkN1o3aUw3ckZKanpERHNreWFLUjhnY2hkVjNoc0VMOHAxTWJLNjhlMXlFOVU1cXBGSWJYRXUxNThIQWVjLVdBV1hOZTZHckE5bVZTUEpraUpubjRiUmJyN1h3NHlIalozeklSblE?oc=5\" target=\"_blank\">一份文档就能向你的 AI 智能体发号施令。上线前就要为此做好准备。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
   }
  ]
 }

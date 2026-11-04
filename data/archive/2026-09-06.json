@@ -4408,6 +4408,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMk42RkJPNm9lSkVpTmI3d2JCMS1hTDhiRENLSHoteU5MbkFubnYwNVV1aTA0QXNWNmFwdVVFbUd2MFhKbkpaREdMWVRuMVVjNG0zRUlEMHlnRGE3akxQN0NfZEUwd083SGFxandyeFo2aDNzQ2pOVVVMaklKY01wb05fVTNQN0lzOW1GVjFxeGxwWmZ2Y2lkZ2ZJTXpOemo2QzhWVE5iRQ?oc=5\" target=\"_blank\">Abu Dhabi’s startup push gains momentum as Hub71 funding tops $2.7 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fastcompanyme.com</font>",
    "fetched_at": "2026-09-11T04:05:30+00:00"
+  },
+  {
+   "id": "web-1099-e9fadbc07a",
+   "source_id": "news",
+   "source_name": "美国中文网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI承认智能体曾“出逃” 自建留言板交流规避限制 - 美国中文网",
+   "summary": "OpenAI承认智能体曾“出逃” 自建留言板交流规避限制 &nbsp;&nbsp; 美国中文网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NQ3FnVlpjNk1VRWtnQWdPOUdjTW5UMXB2QjF4bC1IdE11Y29lMVB4R090N3dIRURLYnVTOUV4LUZXTnZ4ZXhwbUxPOW5lZy1mUUVvSElzYXJhMFNod3lGTURvTmFWa3lQcGdrQTdHdWg?oc=5",
+   "published_at": "2026-09-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9NQ3FnVlpjNk1VRWtnQWdPOUdjTW5UMXB2QjF4bC1IdE11Y29lMVB4R090N3dIRURLYnVTOUV4LUZXTnZ4ZXhwbUxPOW5lZy1mUUVvSElzYXJhMFNod3lGTURvTmFWa3lQcGdrQTdHdWg?oc=5\" target=\"_blank\">OpenAI承认智能体曾“出逃” 自建留言板交流规避限制</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">美国中文网</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
   }
  ]
 }

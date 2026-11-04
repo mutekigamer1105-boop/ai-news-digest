@@ -44,6 +44,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE15Z0liWUc2VlNqX1k5MzVOX0JJT3FDZTBHazZQU3NvbGhSa0RIWU5jZzRMRWpCZFRwRVg0RzJRNjNTWkxLUXJlbC12ZzU4cmJXWEtZU1RLY05SbVNmR1hMUUZmNzBvdlRHTWhkYmdUZjV4UzUwLV9EbHNtVXh0dlU?oc=5\" target=\"_blank\">NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
    "fetched_at": "2026-10-25T08:51:01+00:00"
+  },
+  {
+   "id": "web-759-f2215ecd35",
+   "source_id": "news",
+   "source_name": "NVIDIA Blog",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "NVIDIA Unveils New Open Models, Data and Tools to Advance AI Across Every Industry - NVIDIA Blog",
+   "summary": "NVIDIA Unveils New Open Models, Data and Tools to Advance AI Across Every Industry &nbsp;&nbsp; NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41Z0JWRDk5VW0xQ2U4Z0oxOWZCNWVCaWZtR2VLcFJSR3ppM29ZOFpaQXhhdXUybTJGZ084NVd6R2tCa2RmSFI2Ym41UFpZUy1OQ2g1LWNoSTNHRnd2NVdKV3ZhRTRWeVVwVUJNeWVQSzJuRTY5WWc?oc=5",
+   "published_at": "2026-01-05T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE41Z0JWRDk5VW0xQ2U4Z0oxOWZCNWVCaWZtR2VLcFJSR3ppM29ZOFpaQXhhdXUybTJGZ084NVd6R2tCa2RmSFI2Ym41UFpZUy1OQ2g1LWNoSTNHRnd2NVdKV3ZhRTRWeVVwVUJNeWVQSzJuRTY5WWc?oc=5\" target=\"_blank\">NVIDIA Unveils New Open Models, Data and Tools to Advance AI Across Every Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
   }
  ]
 }

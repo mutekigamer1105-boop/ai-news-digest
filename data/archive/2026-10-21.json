@@ -12997,6 +12997,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYTVfUUxHc2tnVFU1b18ycHJoUkJzMWxwenlJY0h1WmlFQWpJWkdlLVR3a29fWjFuVkwzZnA0bkt5d3dMYXN0V0gyUEw3ei0wQTBlRjgzLVI0R0VxMlROYWxPT1l1Smo3N2t4R3hZVHNlWHJqZUtPR3BIXzdKV2E5c2dpUFZkUW1KMmNXdw?oc=5\" target=\"_blank\">利用数千个 AI 智能体，从生物学数据中发掘新线索</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-11-02T11:53:50+00:00"
+  },
+  {
+   "id": "web-955-d9124f74e3",
+   "source_id": "news",
+   "source_name": "美通社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "210+开源与AI大咖共话Agent、大模型与机器人，GOSIM Shenzhen 2026圆满收官！ - 美通社",
+   "summary": "210+开源与AI大咖共话Agent、大模型与机器人，GOSIM Shenzhen 2026圆满收官！ &nbsp;&nbsp; 美通社",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNYWxVUVVmT1docXE2OXVoSG1XbWVCdkpIcy0tTHVENGdYN1B0aldFMzhqMmNKOEowTmQzb0pHNlR5UWdySWR6czlrUS1XOHJxYzk3RkZwOA?oc=5",
+   "published_at": "2026-10-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNYWxVUVVmT1docXE2OXVoSG1XbWVCdkpIcy0tTHVENGdYN1B0aldFMzhqMmNKOEowTmQzb0pHNlR5UWdySWR6czlrUS1XOHJxYzk3RkZwOA?oc=5\" target=\"_blank\">210+开源与AI大咖共话Agent、大模型与机器人，GOSIM Shenzhen 2026圆满收官！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">美通社</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-967-6312cd58b9",
+   "source_id": "news",
+   "source_name": "京报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "视频丨AI答案靠不住？GEO给大模型配上“参考书” - 京报网",
+   "summary": "视频丨AI答案靠不住？GEO给大模型配上“参考书” &nbsp;&nbsp; 京报网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ORjZOSF9RbVJsc2NOd3R4VW5rV1RvbjlBLUdQYU5ROHdtVmFYZ09NTUtCb1FGNjVlcVU4cEpGS000cWwtTE95S2hDYkEyQmk4cWhhVEw3VzVWcUd6eU9KOUlqUVMxQXBXVWNzd0x3Sk43dw?oc=5",
+   "published_at": "2026-10-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9ORjZOSF9RbVJsc2NOd3R4VW5rV1RvbjlBLUdQYU5ROHdtVmFYZ09NTUtCb1FGNjVlcVU4cEpGS000cWwtTE95S2hDYkEyQmk4cWhhVEw3VzVWcUd6eU9KOUlqUVMxQXBXVWNzd0x3Sk43dw?oc=5\" target=\"_blank\">视频丨AI答案靠不住？GEO给大模型配上“参考书”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
   }
  ]
 }

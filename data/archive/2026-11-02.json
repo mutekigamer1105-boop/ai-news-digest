@@ -11866,6 +11866,265 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ERjB1RFVwOGdFMERWMUxzX2VWbUN2OUtYTl9QbjFleWxjUU5oam9iWm4tSjFFeFNYN0ZxeTVGb2hCd1UtSHNFWGZvSllkc0UzMzlRMUtSWFMwWjFON29GbGkxZ0otUQ?oc=5\" target=\"_blank\">DeepSeek大动作！Agent商业化有望提速 这14股业绩逐季高增(名单)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
    "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-487-ec1d9cf6f0",
+   "source_id": "news",
+   "source_name": "Gizmodo",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Software Is Dead—Unless Anthropic Says Otherwise - Gizmodo",
+   "summary": "Software Is Dead—Unless Anthropic Says Otherwise &nbsp;&nbsp; Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON0Z6eC1COGxtZXExWXRmU2JGemZqXzZzcGQwbWc5RC1lSkVNUFdYNkhXa09acHZTWElnMmR4ZS11aE1IazlWOGdGTlAzakNjYkVTb0FSWG5ERERNN0FYZTNyYjZEY0lwazlzWUNHTUxkeERTeUdYYTJxMk1RNXQzU190eVdjQQ?oc=5",
+   "published_at": "2026-11-02T19:25:12+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxON0Z6eC1COGxtZXExWXRmU2JGemZqXzZzcGQwbWc5RC1lSkVNUFdYNkhXa09acHZTWElnMmR4ZS11aE1IazlWOGdGTlAzakNjYkVTb0FSWG5ERERNN0FYZTNyYjZEY0lwazlzWUNHTUxkeERTeUdYYTJxMk1RNXQzU190eVdjQQ?oc=5\" target=\"_blank\">Software Is Dead—Unless Anthropic Says Otherwise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-558-612d308cb5",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger - The New York Times",
+   "summary": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUXZSWEtYd1FlQVdoMVZqY0YwcjVvMi1hTC15TXdyVGxJUVdWM3o5eHRXQkFDdTF6bVM4cUdZdGppbl9iVExpYlpnRG9reWN2RmZWSkphU2lSN3lfbjRvWDJRY0ZESXU1SkxTSkFlTzM3VVlaYldVRkk0enB2ZHZCSG9YSjM0bHRiUDJzTmdnZXJRS0E?oc=5",
+   "published_at": "2026-11-02T18:06:14+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUXZSWEtYd1FlQVdoMVZqY0YwcjVvMi1hTC15TXdyVGxJUVdWM3o5eHRXQkFDdTF6bVM4cUdZdGppbl9iVExpYlpnRG9reWN2RmZWSkphU2lSN3lfbjRvWDJRY0ZESXU1SkxTSkFlTzM3VVlaYldVRkk0enB2ZHZCSG9YSjM0bHRiUDJzTmdnZXJRS0E?oc=5\" target=\"_blank\">Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-456-23fae68295",
+   "source_id": "news",
+   "source_name": "GamesIndustry.biz",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic adds rule to stop Claude Code recreating existing games - GamesIndustry.biz",
+   "summary": "Anthropic adds rule to stop Claude Code recreating existing games &nbsp;&nbsp; GamesIndustry.biz",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1kwaEVjT0ZUcUtveDdXdnNKUUVwMXM4X3AtM2RnR1JyRGU2VUZ6OEFHUEFGUjlkajBYZ2U5LXA1WEhSV1c2aG8ycjQ5R2RrbW80RkM2WVlPYWJLV2RuLTdhYnN5TWRiaVN6R2hmX01fd3lBXzYxMzhhSzJIbjZYQnR6S2EwX3J1VDNvODNlVW5uNDIyT2t6b3VvQQ?oc=5",
+   "published_at": "2026-11-02T17:50:20+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1kwaEVjT0ZUcUtveDdXdnNKUUVwMXM4X3AtM2RnR1JyRGU2VUZ6OEFHUEFGUjlkajBYZ2U5LXA1WEhSV1c2aG8ycjQ5R2RrbW80RkM2WVlPYWJLV2RuLTdhYnN5TWRiaVN6R2hmX01fd3lBXzYxMzhhSzJIbjZYQnR6S2EwX3J1VDNvODNlVW5uNDIyT2t6b3VvQQ?oc=5\" target=\"_blank\">Anthropic adds rule to stop Claude Code recreating existing games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GamesIndustry.biz</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-463-a5a2d20621",
+   "source_id": "news",
+   "source_name": "Cleveland.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Being rude to this AI chatbot could get you banned. Here’s the surprising reason why - Cleveland.com",
+   "summary": "Being rude to this AI chatbot could get you banned. Here’s the surprising reason why &nbsp;&nbsp; Cleveland.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZkMxOHJyeVdRMWNmSk9xQVhpTzJEQjlYLWlWYWd4Uzk4VzRtTEVOVzNyTE5pbS1WWGMxbVR5cnJXeW1Zenp5QThKMVFaS3NaOERmVklJVHRZWkdiSHlkcGp2dnZyd2Rfdk5XQi1tZjh5M3RRanI5aW1ocE9OQWdLYmlrMEJoUm5qSG5CZUZPR1NfWEJhTDNNcXBYZHdNV2xWSW5VREZ6X2hFVnpwRHpIamkwdFpmUjN6R0pxQlpnZTlzNVlp0gHYAUFVX3lxTFBLOWN0c2lpWF83c1lWb3Q2Nzg4clJTREwtQmJKOVMtWFlVNEs3V0praV9vMm1BWENGMTdmT3BLeThtUlI4TXJ2NmxOMFVER3ljWWlpRlZvT3BmQnVSMUthRE5GSnpJWUU5dmJLYzdEUjdJd1ZSNE1uMzNBMmlWX0JETjYtV0RweGJ5SGhYcTdPR2dyTmJYWXFpV1NBYndvcGlhTTB3VEJhbjFwNktvSDUzcUR1WTJRYzB4NTVYM0JmNkJOQVAyUGJHYk5JbkNiTzZNWnF1MXdhMQ?oc=5",
+   "published_at": "2026-11-02T16:12:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZkMxOHJyeVdRMWNmSk9xQVhpTzJEQjlYLWlWYWd4Uzk4VzRtTEVOVzNyTE5pbS1WWGMxbVR5cnJXeW1Zenp5QThKMVFaS3NaOERmVklJVHRZWkdiSHlkcGp2dnZyd2Rfdk5XQi1tZjh5M3RRanI5aW1ocE9OQWdLYmlrMEJoUm5qSG5CZUZPR1NfWEJhTDNNcXBYZHdNV2xWSW5VREZ6X2hFVnpwRHpIamkwdFpmUjN6R0pxQlpnZTlzNVlp0gHYAUFVX3lxTFBLOWN0c2lpWF83c1lWb3Q2Nzg4clJTREwtQmJKOVMtWFlVNEs3V0praV9vMm1BWENGMTdmT3BLeThtUlI4TXJ2NmxOMFVER3ljWWlpRlZvT3BmQnVSMUthRE5GSnpJWUU5dmJLYzdEUjdJd1ZSNE1uMzNBMmlWX0JETjYtV0RweGJ5SGhYcTdPR2dyTmJYWXFpV1NBYndvcGlhTTB3VEJhbjFwNktvSDUzcUR1WTJRYzB4NTVYM0JmNkJOQVAyUGJHYk5JbkNiTzZNWnF1MXdhMQ?oc=5\" target=\"_blank\">Being rude to this AI chatbot could get you banned. Here’s the surprising reason why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cleveland.com</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-212-dbd169c07b",
+   "source_id": "news",
+   "source_name": "Google Cloud",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources - Google Cloud",
+   "summary": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources &nbsp;&nbsp; Google Cloud",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmVjU1FLbHQyeG15YlphN1phLS05a2JxLTIyMU1nbVhUbm1iV1R4Y2JscDlubDJDbU40MXcxeHlqZEJJSDBvRGhQOW9rUUdQZ243Ny10cU9yM3MxS3VzZFJGMVFrNEpxRnFXdnVzYkVzeFRWb2hOOVhpUEdLSFpyeFI0aWJraWNSMDJTVGxQeDB4bnhFeXpZenktRExCNTl6Q0RBNmFB?oc=5",
+   "published_at": "2026-11-02T16:02:36+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmVjU1FLbHQyeG15YlphN1phLS05a2JxLTIyMU1nbVhUbm1iV1R4Y2JscDlubDJDbU40MXcxeHlqZEJJSDBvRGhQOW9rUUdQZ243Ny10cU9yM3MxS3VzZFJGMVFrNEpxRnFXdnVzYkVzeFRWb2hOOVhpUEdLSFpyeFI0aWJraWNSMDJTVGxQeDB4bnhFeXpZenktRExCNTl6Q0RBNmFB?oc=5\" target=\"_blank\">The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Google Cloud</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-596-620d58ab6f",
+   "source_id": "news",
+   "source_name": "Benzinga",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia and AMD Are Backing a $6 Billion AI Startup Taking on Grok - Benzinga",
+   "summary": "Nvidia and AMD Are Backing a $6 Billion AI Startup Taking on Grok &nbsp;&nbsp; Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFI4TnZ1Y0kybmZSazNaTXRvVWFocjZwemI5Ukp5WFFObFBCR3RWdmM5RkRRM1hUejl1NnRoeDN2NW53eWZZOFN5a1I3a2MxdXlGelI4Y3pfRW9iT1I2NmdXN0ZNUlZjSThjX24xa1k4YXBHZUx6aDZjMFZNTHg4b0xQRnFadw?oc=5",
+   "published_at": "2026-11-02T15:44:02+00:00",
+   "author_handle": null,
+   "builder_id": "elon-musk",
+   "builder_name": "Elon Musk",
+   "tags": [
+    "AI",
+    "算力",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFI4TnZ1Y0kybmZSazNaTXRvVWFocjZwemI5Ukp5WFFObFBCR3RWdmM5RkRRM1hUejl1NnRoeDN2NW53eWZZOFN5a1I3a2MxdXlGelI4Y3pfRW9iT1I2NmdXN0ZNUlZjSThjX24xa1k4YXBHZUx6aDZjMFZNTHg4b0xQRnFadw?oc=5\" target=\"_blank\">Nvidia and AMD Are Backing a $6 Billion AI Startup Taking on Grok</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-460-1892acd683",
+   "source_id": "news",
+   "source_name": "The Independent",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic’s Claude will now leave a trail that shows whether a text was made with AI - The Independent",
+   "summary": "Anthropic’s Claude will now leave a trail that shows whether a text was made with AI &nbsp;&nbsp; The Independent",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFJoNzI0bERpeTVITFF4TE1ZSXFpR2hEeVBMakNEV3ZoV1pmZEdkeUM2MzNCd2NPLXNiaVZ6SzFZamNZbXdKTTVUR0IybWR3djJFVHIyNThGSGphMUd4Mm5PZXRuRU1PdE16MWUtXzNhZzNrNEIxbDRqaFZxLVFTRTViT05xdDlHYWxz?oc=5",
+   "published_at": "2026-11-02T15:13:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFJoNzI0bERpeTVITFF4TE1ZSXFpR2hEeVBMakNEV3ZoV1pmZEdkeUM2MzNCd2NPLXNiaVZ6SzFZamNZbXdKTTVUR0IybWR3djJFVHIyNThGSGphMUd4Mm5PZXRuRU1PdE16MWUtXzNhZzNrNEIxbDRqaFZxLVFTRTViT05xdDlHYWxz?oc=5\" target=\"_blank\">Anthropic’s Claude will now leave a trail that shows whether a text was made with AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-697-df6cffccd6",
+   "source_id": "news",
+   "source_name": "ET Now",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Goldman Sachs: AI startup funding triples to $5 billion in 2025; IPOs may add $100 billion to market cap - ET Now",
+   "summary": "Goldman Sachs: AI startup funding triples to $5 billion in 2025; IPOs may add $100 billion to market cap &nbsp;&nbsp; ET Now",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGl1cEZtUzg1WkdneEV3MjJVeTlYdlFlQmp5clhiejdKQWhZOTBnQ1NkSDczLWRKQUd1ci1OZjlXM19IbzJxNmFJMzV5ZWdsZWlKaFRFWTUxUUZQaDhEdHZHdXF6TkJyelpMRF9OaV9RYlZsampyOTVrUndoRGI0bG5PRmk3ZnA1cVRqU1Z5QkQzaWp2ZTNLb1I1MUtVZGxuNlhobmtfOVJLbHZnMGFoT2hLeE5TNVJTdUk2b0dfOGo5alNPb3lKeUF3WHRKdEFNdXNXeXNZaVVZYnpQZFAxaVc3MFhGQ2NnbUw5T1Z30gHzAUFVX3lxTE5leXlBeTQ1dk9LcU1mclA4VnMyZWgwMVZZVGVTQ0V2U09QWmFfb0RJSC1WOWxIQXFIX09jZURvb3dWSjRMNVg2Ui1mMEJOWmplc3QzS2UyYlN4QUc3SjNjdjRabUxjblJZWjk2MDVmdXZlNTFWRU5jYkR4V2FoRG01TWY0dG05c1I1dHowZmdvSmdnTkE2Snk4T3NleFlta1BJMFRHaGFaTVdfUC1ueTB6X1EwNDkzRkc0MWJWOEpPN0tHcFVUYjhXQTFmNDRJaHhacnZ3eHZiWC1KZURJRl9tM1pwSWxhSjloMkYtX3FyYlM5SQ?oc=5",
+   "published_at": "2026-11-02T13:58:58+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGl1cEZtUzg1WkdneEV3MjJVeTlYdlFlQmp5clhiejdKQWhZOTBnQ1NkSDczLWRKQUd1ci1OZjlXM19IbzJxNmFJMzV5ZWdsZWlKaFRFWTUxUUZQaDhEdHZHdXF6TkJyelpMRF9OaV9RYlZsampyOTVrUndoRGI0bG5PRmk3ZnA1cVRqU1Z5QkQzaWp2ZTNLb1I1MUtVZGxuNlhobmtfOVJLbHZnMGFoT2hLeE5TNVJTdUk2b0dfOGo5alNPb3lKeUF3WHRKdEFNdXNXeXNZaVVZYnpQZFAxaVc3MFhGQ2NnbUw5T1Z30gHzAUFVX3lxTE5leXlBeTQ1dk9LcU1mclA4VnMyZWgwMVZZVGVTQ0V2U09QWmFfb0RJSC1WOWxIQXFIX09jZURvb3dWSjRMNVg2Ui1mMEJOWmplc3QzS2UyYlN4QUc3SjNjdjRabUxjblJZWjk2MDVmdXZlNTFWRU5jYkR4V2FoRG01TWY0dG05c1I1dHowZmdvSmdnTkE2Snk4T3NleFlta1BJMFRHaGFaTVdfUC1ueTB6X1EwNDkzRkc0MWJWOEpPN0tHcFVUYjhXQTFmNDRJaHhacnZ3eHZiWC1KZURJRl9tM1pwSWxhSjloMkYtX3FyYlM5SQ?oc=5\" target=\"_blank\">Goldman Sachs: AI startup funding triples to $5 billion in 2025; IPOs may add $100 billion to market cap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Now</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-152-c50f190b64",
+   "source_id": "news",
+   "source_name": "World Economic Forum",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI Guardrails: How to Adopt AI Agents Safely in 2026 - World Economic Forum",
+   "summary": "AI Guardrails: How to Adopt AI Agents Safely in 2026 &nbsp;&nbsp; World Economic Forum",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUjJzX2Uydm5tcE4tSUlMU1d4eGFRTHdQX09ES0JyQXk1U1lrdWxDQVNnNVhOSkVXU1A5T3BaUmJDSjZPM3dxclFOWHhrbFltSFlGeEY4MnRRS3EyUTd3MVBmUTNSOEtvbElPcHVsUU4wd0RlMTZGb2NNZU1IQTloSktyTEZqdUVWdWVWb0Q3WjJxYk1BYkNV?oc=5",
+   "published_at": "2026-11-02T13:55:08+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUjJzX2Uydm5tcE4tSUlMU1d4eGFRTHdQX09ES0JyQXk1U1lrdWxDQVNnNVhOSkVXU1A5T3BaUmJDSjZPM3dxclFOWHhrbFltSFlGeEY4MnRRS3EyUTd3MVBmUTNSOEtvbElPcHVsUU4wd0RlMTZGb2NNZU1IQTloSktyTEZqdUVWdWVWb0Q3WjJxYk1BYkNV?oc=5\" target=\"_blank\">AI Guardrails: How to Adopt AI Agents Safely in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Economic Forum</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-612-726dac87aa",
+   "source_id": "news",
+   "source_name": "Sifted",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom - Sifted",
+   "summary": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom &nbsp;&nbsp; Sifted",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1lidXh2WEp3aG5hZzBXN1IxNmYwNlBfREZHTFZ2S2hIc1Fma1BfZUJFZVZQQVpsWkJ2Mmg5cUxZUnRtaDgyNFF2alVsTGdZRnhfc2ZvSy1wLTROUGhmRnVwZUNOZzk4RWdmNTFzWm9tUGRucW9lVEx2LUdLdC1xSWpEWQ?oc=5",
+   "published_at": "2026-11-02T12:08:32+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1lidXh2WEp3aG5hZzBXN1IxNmYwNlBfREZHTFZ2S2hIc1Fma1BfZUJFZVZQQVpsWkJ2Mmg5cUxZUnRtaDgyNFF2alVsTGdZRnhfc2ZvSy1wLTROUGhmRnVwZUNOZzk4RWdmNTFzWm9tUGRucW9lVEx2LUdLdC1xSWpEWQ?oc=5\" target=\"_blank\">Lovable backer Creandum raises $750m for largest-ever fund to back AI boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sifted</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-847-a623f55cdb",
+   "source_id": "news",
+   "source_name": "北京大学中外人文交流研究基地",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "鲁传颖：全球人工智能治理的议题扩散、制度框架与中国角色 - 北京大学中外人文交流研究基地",
+   "summary": "鲁传颖：全球人工智能治理的议题扩散、制度框架与中国角色 &nbsp;&nbsp; 北京大学中外人文交流研究基地",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RLUpTZTRQMEsxek1rMTluZGJ3S0pla21XZGtPYlpxS2lLU0JKLW0yUXJPRnY4RWl1LXJVREZ4S0h3OEE0VlNoQ0ZWOTJmWG92WEJnSGZiNm5hZWM?oc=5",
+   "published_at": "2026-11-02T11:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RLUpTZTRQMEsxek1rMTluZGJ3S0pla21XZGtPYlpxS2lLU0JKLW0yUXJPRnY4RWl1LXJVREZ4S0h3OEE0VlNoQ0ZWOTJmWG92WEJnSGZiNm5hZWM?oc=5\" target=\"_blank\">鲁传颖：全球人工智能治理的议题扩散、制度框架与中国角色</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北京大学中外人文交流研究基地</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-901-0f533be856",
+   "source_id": "news",
+   "source_name": "新浪财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "环比大增690％，MiniMax模型冲进全球AI大模型周Token调用榜第八！小米MiMo-V2.6-Flash跌出榜单 - 新浪财经",
+   "summary": "环比大增690％，MiniMax模型冲进全球AI大模型周Token调用榜第八！小米MiMo-V2.6-Flash跌出榜单 &nbsp;&nbsp; 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjdlRjUkh2MVNTeGJEV2NLOW5DMVVpTHZPM0hldVR0b09LbDcweXlySVJsc1NDWXBNdTlUNndQUmh1Sld1aVVycFNOeGw0TzlrSm5GOUJkWUE4WEV4TzNMb25jUllUcXFlR2Vyd2E3dWd5QzBMT1R6ag?oc=5",
+   "published_at": "2026-11-02T03:16:09+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBjdlRjUkh2MVNTeGJEV2NLOW5DMVVpTHZPM0hldVR0b09LbDcweXlySVJsc1NDWXBNdTlUNndQUmh1Sld1aVVycFNOeGw0TzlrSm5GOUJkWUE4WEV4TzNMb25jUllUcXFlR2Vyd2E3dWd5QzBMT1R6ag?oc=5\" target=\"_blank\">环比大增690％，MiniMax模型冲进全球AI大模型周Token调用榜第八！小米MiMo-V2.6-Flash跌出榜单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+   "fetched_at": "2026-11-04T11:46:32+00:00"
   }
  ]
 }
