@@ -21,6 +21,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZU5WREVKVG03TVBWZElRZ1BBeWZNWG9EOHNLZ3JBWGxESmdnbVVzMFlJTDJCYmh0YkVjYmdlMzdreV9sb2pHdzU4RUFaejZJQ21LMlJ6SUJrSXM5cmhrR0U3cXRwWHdsYnY1LVRCYmRNcGN5c0RSTTNKTzZ3MTZrSmhXOUFfQzBrd29iYUpTcXBocmZtUll2RDdB?oc=5\" target=\"_blank\">North American Startup Funding Soared 46% In 2025, Driven By AI Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
    "fetched_at": "2026-09-04T04:05:38+00:00"
+  },
+  {
+   "id": "web-915-9127e018fc",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "智源发布2026十大AI技术趋势 - 新华网",
+   "summary": "智源发布2026十大AI技术趋势 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tRjNvSlBaamdpcjVCSUJ2VkdfYWI0dEo2NDB0NGhhcU1MMzRCbk0wVFhOSmJKblpYemRNSzVKR21tbGI3c3B5Y3A1YXprMnhPZEFwSVMtQjNQZmREdElEamFvVUExZ25jNUhuYnFlWkdweFBDbHFvQmdNVEs?oc=5",
+   "published_at": "2026-01-08T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5tRjNvSlBaamdpcjVCSUJ2VkdfYWI0dEo2NDB0NGhhcU1MMzRCbk0wVFhOSmJKblpYemRNSzVKR21tbGI3c3B5Y3A1YXprMnhPZEFwSVMtQjNQZmREdElEamFvVUExZ25jNUhuYnFlWkdweFBDbHFvQmdNVEs?oc=5\" target=\"_blank\">智源发布2026十大AI技术趋势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-11-05T11:44:47+00:00"
   }
  ]
 }

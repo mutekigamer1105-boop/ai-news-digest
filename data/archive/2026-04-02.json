@@ -197,6 +197,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9NRFF4alpFRnl6NEFwdEwzOGtyczViWlpWWVJTQ0ExbUhtalFhaG1HNWdGMTIxMXNZQ2lXRUNEbE1udElaWHpmNXpfTkhjS3pYM3ZUMjhTcWx6NHBhYzg5akdFOGFWZTEtT2lMeWNla2dYcW8?oc=5\" target=\"_blank\">大语言模型 (LLM) 的列表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
    "fetched_at": "2026-10-27T09:28:56+00:00"
+  },
+  {
+   "id": "web-263-54f5fa364f",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Emotion concepts and their function in a large language model - Anthropic",
+   "summary": "Emotion concepts and their function in a large language model &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vSlN6dUswQTFqaDFEd3hzOTRkcDI5TlNWRUM2TzhiMEtVc3JZb3ZYLXJJZnRzYlU0UHg0T2YwNnhMQmtJQUhYZDd2YXpSSmdSWjhPd1F5WHBIZWhDVTVJWDJZN291NktrX2s5eQ?oc=5",
+   "published_at": "2026-04-02T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5vSlN6dUswQTFqaDFEd3hzOTRkcDI5TlNWRUM2TzhiMEtVc3JZb3ZYLXJJZnRzYlU0UHg0T2YwNnhMQmtJQUhYZDd2YXpSSmdSWjhPd1F5WHBIZWhDVTVJWDJZN291NktrX2s5eQ?oc=5\" target=\"_blank\">Emotion concepts and their function in a large language model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-11-05T11:44:47+00:00"
   }
  ]
 }

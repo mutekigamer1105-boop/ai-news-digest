@@ -65,6 +65,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0OEpobDhiSlBIX2xVUkhla1NoaDFTMjdCbEdMRlZfYWtxMndqd29fWDRueTBXYzlQQkVjWjZXa083dFl6WnlBNmZGaXRqbVpINUg0cHA4aGpvZW1hdWE4?oc=5\" target=\"_blank\">Large language models reflect the ideology of their creators - npj Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
    "fetched_at": "2026-09-22T04:04:57+00:00"
+  },
+  {
+   "id": "web-657-f516edb775",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Global Venture Funding In 2025 Surged As Startup Deals And Valuations Set All-Time Records - Crunchbase News",
+   "summary": "Global Venture Funding In 2025 Surged As Startup Deals And Valuations Set All-Time Records &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56dUxNdkRuWGhTMU9hZTJVbWZURllvbGEzS1hXY2QwZlBZQ1Exc0VlSFNzY0pFZm96V1RXMTV6bVJWb3dHLTFtVldWY3VVemg4emFVSWx2Vkl4dlViMEdmczJsMTZOcFJLeDVZRDhBcVZEUGR0azRnX2VhTWN3UQ?oc=5",
+   "published_at": "2026-01-07T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE56dUxNdkRuWGhTMU9hZTJVbWZURllvbGEzS1hXY2QwZlBZQ1Exc0VlSFNzY0pFZm96V1RXMTV6bVJWb3dHLTFtVldWY3VVemg4emFVSWx2Vkl4dlViMEdmczJsMTZOcFJLeDVZRDhBcVZEUGR0azRnX2VhTWN3UQ?oc=5\" target=\"_blank\">Global Venture Funding In 2025 Surged As Startup Deals And Valuations Set All-Time Records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-11-05T11:44:47+00:00"
   }
  ]
 }
