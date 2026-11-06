@@ -13287,6 +13287,138 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPNC1DWXh6V1hIaXliby1KMVFVa0cxX1VjZ0ZBWWY3Qk9BYzVkN3o5TkZsaV96cFdXZjVtMXNFRk5ESFI4bUJqc2c4UXRCNDlvbVplSjJSRG1DUm9yR3B1NlVKTDlkQkF2TWxGSGNIakUwUFRxMTJlX19vM0RCb0syUnV4Q3JjLTFKVXpsVmhZMjF5ZUFRNFkyN2pmRjc1S1lZczdEU2piNUh0OFcyYzNrX1QzUWRlMHQ4WVk4enpjTQ?oc=5\" target=\"_blank\">Artificial Intelligence in Psychiatric Clinical Trials: Opportunities and Limitations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Psychiatric Times</font>",
    "fetched_at": "2026-11-05T11:44:47+00:00"
+  },
+  {
+   "id": "web-1050-ae0ba209ed",
+   "source_id": "news",
+   "source_name": "blockchain.news",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI：发布 GPT-6 网络模型 - blockchain.news",
+   "summary": "OpenAI：发布 GPT-6 网络模型 &nbsp;&nbsp; blockchain.news",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmeVpHU0U3T0N0WHgtQ1hGS2ZqVWZUeWk3eEtGX2JNcE9DdkZqZGdveC1GaXZzb2FROUI0REh4V1dVbzNGcnduc1JTY0JUc3pwM0pzV1JXcjBxai1hTDJoSmlTTXM5emlkQzZzNkZua1NGV2dKWE93YkpEZ29ndw?oc=5",
+   "published_at": "2026-11-03T23:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBmeVpHU0U3T0N0WHgtQ1hGS2ZqVWZUeWk3eEtGX2JNcE9DdkZqZGdveC1GaXZzb2FROUI0REh4V1dVbzNGcnduc1JTY0JUc3pwM0pzV1JXcjBxai1hTDJoSmlTTXM5emlkQzZzNkZua1NGV2dKWE93YkpEZ29ndw?oc=5\" target=\"_blank\">OpenAI：发布 GPT-6 网络模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-435-5ca9511603",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Anthropic is working on a system to prove AI models’ identity - TechCrunch",
+   "summary": "Anthropic is working on a system to prove AI models’ identity &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTNUM28wSkNtcEpseEVkaWhkVGZraVJVNU5veHN0M3Y3ZWF1TktRelVYdE5pbjh6V29IdDJtTDlrVXJRSVBhY0JtTGVIdkxHbGFMZ3Vtb2NQXzhheDZoa0Y1TGVOcXd3MFN0QlBtWDVMdVpBSHQ2bkNSV2VibGh2dWRXQmUyMlpVTktJTFhmUkFuMGVnUm5RVzBobw?oc=5",
+   "published_at": "2026-11-03T22:41:03+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTNUM28wSkNtcEpseEVkaWhkVGZraVJVNU5veHN0M3Y3ZWF1TktRelVYdE5pbjh6V29IdDJtTDlrVXJRSVBhY0JtTGVIdkxHbGFMZ3Vtb2NQXzhheDZoa0Y1TGVOcXd3MFN0QlBtWDVMdVpBSHQ2bkNSV2VibGh2dWRXQmUyMlpVTktJTFhmUkFuMGVnUm5RVzBobw?oc=5\" target=\"_blank\">Anthropic is working on a system to prove AI models’ identity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-322-d72294038f",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer - OpenAI",
+   "summary": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GLW9mdDJMZWlkcUtYOWZpd2VNTWNrc1lHeFF4b1Q2TlM1UDc5V2dpT2FWYXlvNXFSZ2ZPYl8xcWRnUXR2WTJqd2VzUDlUMTBoVEpWeDhIb2Y1MDdGbHZIbURLRHJaYTVNTENFenpfN2tkSGNZbFVuZFBvcW84dw?oc=5",
+   "published_at": "2026-11-03T19:31:13+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1GLW9mdDJMZWlkcUtYOWZpd2VNTWNrc1lHeFF4b1Q2TlM1UDc5V2dpT2FWYXlvNXFSZ2ZPYl8xcWRnUXR2WTJqd2VzUDlUMTBoVEpWeDhIb2Y1MDdGbHZIbURLRHJaYTVNTENFenpfN2tkSGNZbFVuZFBvcW84dw?oc=5\" target=\"_blank\">OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-356-f6e3ea7ace",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol - OpenAI",
+   "summary": "DevRev delivers autonomous self-service with GPT-6.1 Sol &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qa255R3ZSeU9saFZ2Q3F4dC05aTdONFhWZHhPaHZ2d2NoeERJMjZOSGl5a2lidm93ZzR5aTVILUM2eF9kcVQ4OTlxQkxJUGo0R2tfaG54RzVWTkdnelZPT2dCQldwZmc?oc=5",
+   "published_at": "2026-11-03T18:03:54+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qa255R3ZSeU9saFZ2Q3F4dC05aTdONFhWZHhPaHZ2d2NoeERJMjZOSGl5a2lidm93ZzR5aTVILUM2eF9kcVQ4OTlxQkxJUGo0R2tfaG54RzVWTkdnelZPT2dCQldwZmc?oc=5\" target=\"_blank\">DevRev delivers autonomous self-service with GPT-6.1 Sol</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-409-80d7c1195e",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic touts Claude’s chip design skills to investors ahead of IPO, report says - Yahoo Finance",
+   "summary": "Anthropic touts Claude’s chip design skills to investors ahead of IPO, report says &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGRldDd0Z05xZVFSNHMweWV3eXBubzRXRHB1dTNhSjVEUVJVS1UzQ1E1eklnZ1ZsY0poNlp1U291SmIyWGJHWjhqTzFkazd2cTJfeE1hYXRfLWlyYWZUNUE4V3gzMkszWHBab3Y1dUJPZ0x6NkE3YVBiRkNmN2twcE1NMDdsRGY1LXhxcHdTaWY5MGQ5U1FoZWtqYlZ0Smc?oc=5",
+   "published_at": "2026-11-03T15:35:47+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGRldDd0Z05xZVFSNHMweWV3eXBubzRXRHB1dTNhSjVEUVJVS1UzQ1E1eklnZ1ZsY0poNlp1U291SmIyWGJHWjhqTzFkazd2cTJfeE1hYXRfLWlyYWZUNUE4V3gzMkszWHBab3Y1dUJPZ0x6NkE3YVBiRkNmN2twcE1NMDdsRGY1LXhxcHdTaWY5MGQ5U1FoZWtqYlZ0Smc?oc=5\" target=\"_blank\">Anthropic touts Claude’s chip design skills to investors ahead of IPO, report says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-975-193e8593c1",
+   "source_id": "news",
+   "source_name": "财联社电报",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "智能体失控风险引爆担忧？苹果警告：AI行事方式“不可预测”！ - 财联社电报",
+   "summary": "智能体失控风险引爆担忧？苹果警告：AI行事方式“不可预测”！ &nbsp;&nbsp; 财联社电报",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yODhrSUswTUNKdzN1Y2tmWDhVZl9DbzFKaVJ4dVV0MXF0WTM5SkJMZU1xa05uY0dMakVwNkpBZ2h2WVVtNEE?oc=5",
+   "published_at": "2026-11-03T07:55:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yODhrSUswTUNKdzN1Y2tmWDhVZl9DbzFKaVJ4dVV0MXF0WTM5SkJMZU1xa05uY0dMakVwNkpBZ2h2WVVtNEE?oc=5\" target=\"_blank\">智能体失控风险引爆担忧？苹果警告：AI行事方式“不可预测”！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社电报</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
   }
  ]
 }

@@ -10466,6 +10466,308 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWG10VFFUaUJSeGM3YTFvRy1WRnZLTW9jclNVUWcxa3QwdEFzVHR6bzJGZF9hNWRPUDVVcVJlTUhkam1xeTlvR1Z2TWFUOXlTaFFFNWh4NnRLSnRBa1FybUlhMUlkamFCNmFYZ3lXWQ?oc=5\" target=\"_blank\">Anthropic's FlashProve Verifies a 400B-Parameter LLM's Output on a Single H100 GPU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
    "fetched_at": "2026-11-05T11:44:47+00:00"
+  },
+  {
+   "id": "web-1003-53457c214e",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "美股AppLovin逆势暴涨超30% AI应用放量或催化结构性行情 - 财联社",
+   "summary": "美股AppLovin逆势暴涨超30% AI应用放量或催化结构性行情 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBT2RfTUM2bkJpcjhuYjhhbHJFZGtPNWs0LWR3a1pHUm9tQ09HckdfYXAycmFUZEZTbnVyQVBzby1rNzhZcVRkNg?oc=5",
+   "published_at": "2026-11-04T23:53:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBT2RfTUM2bkJpcjhuYjhhbHJFZGtPNWs0LWR3a1pHUm9tQ09HckdfYXAycmFUZEZTbnVyQVBzby1rNzhZcVRkNg?oc=5\" target=\"_blank\">美股AppLovin逆势暴涨超30% AI应用放量或催化结构性行情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-304-db17d1ce22",
+   "source_id": "news",
+   "source_name": "Gizmodo",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Sam Altman: You’re Completely Right About RAM. I’m Sorry for the Confusion. Here’s What Happened - Gizmodo",
+   "summary": "Sam Altman: You’re Completely Right About RAM. I’m Sorry for the Confusion. Here’s What Happened &nbsp;&nbsp; Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON2JOUmF2Y1NVbWFGMUdRRFhadmM1SjBkZzJWMFdxRG9sUDhlLUZULVdGanlKSDJzMlJ6bThDbEdNM0pxUTl4cHhrazk2OVFNUUVaemdXVmVPVTFIakJ3clhycVRJYXJPZkp3ZTZGcnFZSl9FNFNrV29lbE52UVJqWU1KUHpUZWxMMTFJcGVJVjdTV01mTHVCbEp6dGVXa05BejJ6QzhVQzN1RGlPVlU3aWtsVFpNbm9MTGRPSEh3?oc=5",
+   "published_at": "2026-11-04T21:45:49+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxON2JOUmF2Y1NVbWFGMUdRRFhadmM1SjBkZzJWMFdxRG9sUDhlLUZULVdGanlKSDJzMlJ6bThDbEdNM0pxUTl4cHhrazk2OVFNUUVaemdXVmVPVTFIakJ3clhycVRJYXJPZkp3ZTZGcnFZSl9FNFNrV29lbE52UVJqWU1KUHpUZWxMMTFJcGVJVjdTV01mTHVCbEp6dGVXa05BejJ6QzhVQzN1RGlPVlU3aWtsVFpNbm9MTGRPSEh3?oc=5\" target=\"_blank\">Sam Altman: You’re Completely Right About RAM. I’m Sorry for the Confusion. Here’s What Happened</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-314-a16ae2fb3d",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Images 2.6 I n t r o d u c i n g I m a g e s 2 6 - OpenAI",
+   "summary": "Introducing Images 2.6 I n t r o d u c i n g I m a g e s 2 6 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aRllmMHFwSmtFNVhMV0dnNXpZa0RkejJ2bDkzYUlTLXRBaHF5TXd0VldHSEZxbWEyQ25EdlM1azgxV2p5dGs0cnZ2dG56ekEzQTJDY1FFWjN5MzZh?oc=5",
+   "published_at": "2026-11-04T17:02:44+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aRllmMHFwSmtFNVhMV0dnNXpZa0RkejJ2bDkzYUlTLXRBaHF5TXd0VldHSEZxbWEyQ25EdlM1azgxV2p5dGs0cnZ2dG56ekEzQTJDY1FFWjN5MzZh?oc=5\" target=\"_blank\">Introducing Images 2.6 I n t r o d u c i n g I m a g e s 2 6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-657-d7727f43b3",
+   "source_id": "news",
+   "source_name": "The CapTable",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Inside India's voice AI gold rush - The CapTable",
+   "summary": "Inside India's voice AI gold rush &nbsp;&nbsp; The CapTable",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkMnYxOXR5dHVkcklTalM5djNQWk9mXzFQaE1CcTlFZERmOEdIVGJ1LXVOYWN5eWlEd0FvSFBwMTdRWkFFY1FHcFJ2VU1wWjRfTEZzRENVLWlZNmViaDFFLThlLTc3bk1zYW44X0ZKcktydVBh?oc=5",
+   "published_at": "2026-11-04T15:56:43+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBkMnYxOXR5dHVkcklTalM5djNQWk9mXzFQaE1CcTlFZERmOEdIVGJ1LXVOYWN5eWlEd0FvSFBwMTdRWkFFY1FHcFJ2VU1wWjRfTEZzRENVLWlZNmViaDFFLThlLTc3bk1zYW44X0ZKcktydVBh?oc=5\" target=\"_blank\">Inside India's voice AI gold rush</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The CapTable</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-768-dab69a2099",
+   "source_id": "news",
+   "source_name": "中华人民共和国外交部",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "驻坦桑尼亚大使陈明健出席中非广电视听人工智能应用培训班开班仪式 - 中华人民共和国外交部",
+   "summary": "驻坦桑尼亚大使陈明健出席中非广电视听人工智能应用培训班开班仪式 &nbsp;&nbsp; 中华人民共和国外交部",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGp1RkRVc0lkeV9SbTVKZkdBbU9IYVpwU1FPcVZTYTZaSkVtREw1NWdvNDY0UVJSMkE2anNyNXExSzhTb29vc2Q4VkI4aXRaeXVJMzZVeGRFSmhtSDlUcTNvMnFQZkhlZTFPM2ZEb01ValBWUHl6NG5QNEZKLWtfVlBYRE9iRlk?oc=5",
+   "published_at": "2026-11-04T12:31:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGp1RkRVc0lkeV9SbTVKZkdBbU9IYVpwU1FPcVZTYTZaSkVtREw1NWdvNDY0UVJSMkE2anNyNXExSzhTb29vc2Q4VkI4aXRaeXVJMzZVeGRFSmhtSDlUcTNvMnFQZkhlZTFPM2ZEb01ValBWUHl6NG5QNEZKLWtfVlBYRE9iRlk?oc=5\" target=\"_blank\">驻坦桑尼亚大使陈明健出席中非广电视听人工智能应用培训班开班仪式</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中华人民共和国外交部</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-876-e106fbd7e8",
+   "source_id": "news",
+   "source_name": "雪球",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "为什么华尔街开始重估AI大模型的资本回报 - 雪球",
+   "summary": "为什么华尔街开始重估AI大模型的资本回报 &nbsp;&nbsp; 雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XdE9rS1REaFRHal9aV0lQMklDVlNpeHVmdWxHSGZQR2RTaU1peXA3b09uRVlYU1RaMHMwLVpDSHBvd3BYYnU2dnEtdHNkNEU3?oc=5",
+   "published_at": "2026-11-04T12:12:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XdE9rS1REaFRHal9aV0lQMklDVlNpeHVmdWxHSGZQR2RTaU1peXA3b09uRVlYU1RaMHMwLVpDSHBvd3BYYnU2dnEtdHNkNEU3?oc=5\" target=\"_blank\">为什么华尔街开始重估AI大模型的资本回报</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-615-c38aa93e4f",
+   "source_id": "news",
+   "source_name": "The Lufkin Daily News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "AI sales startup Nooks secures $500 million in funding for expansion - The Lufkin Daily News",
+   "summary": "AI sales startup Nooks secures $500 million in funding for expansion &nbsp;&nbsp; The Lufkin Daily News",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNHRTeVdwVVBUMjRDZzlKbUtyWDhtUndnbjhQeXdKSzF1WjNWQjVBcW13TGtvQ0QzUlJCZWttQzNDUG1kTkJaNkNXZHgyZnpVZjBuQzVvUVVzd2hldHN6bDJNTURsdWNHcnZYRXotMk4tVUhma25RN2U1a0plaXR5bVZLNTF4Wk02MlZiYTM1anE4ellDaEp0ZTVJckVTMEdfSFMwVExlcUF0d0d4ZTZzZDRTaHFuY29OWXNkeFdPX0pSWExUUEhYZnotZ1BoWGJTdk52UEVDOVBId2N2cFdjd0pDZnZKNzlPWXZlNmtZc0dBcVFCaWJ0Rm5pQQ?oc=5",
+   "published_at": "2026-11-04T11:31:49+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNHRTeVdwVVBUMjRDZzlKbUtyWDhtUndnbjhQeXdKSzF1WjNWQjVBcW13TGtvQ0QzUlJCZWttQzNDUG1kTkJaNkNXZHgyZnpVZjBuQzVvUVVzd2hldHN6bDJNTURsdWNHcnZYRXotMk4tVUhma25RN2U1a0plaXR5bVZLNTF4Wk02MlZiYTM1anE4ellDaEp0ZTVJckVTMEdfSFMwVExlcUF0d0d4ZTZzZDRTaHFuY29OWXNkeFdPX0pSWExUUEhYZnotZ1BoWGJTdk52UEVDOVBId2N2cFdjd0pDZnZKNzlPWXZlNmtZc0dBcVFCaWJ0Rm5pQQ?oc=5\" target=\"_blank\">AI sales startup Nooks secures $500 million in funding for expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Lufkin Daily News</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-168-85be0c8ba5",
+   "source_id": "news",
+   "source_name": "Boston Consulting Group",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Rethinking KYC with AI Agents: Lessons from Building an 11-Agent KYC System - Boston Consulting Group",
+   "summary": "Rethinking KYC with AI Agents: Lessons from Building an 11-Agent KYC System &nbsp;&nbsp; Boston Consulting Group",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ocEFEblhCNjhpTU1fMy1aeHZGWndSYXVaUjZSaUlibU5kd202OU92dm9HU2s1MlRGM0tYVy00ekF1dnRfaWpnRHBFSFBaZXhya000Q0E3eldxaTZFRTFTcjJmRnBVbU53c19UdkkzeElXdzdpWW9yQWtFRQ?oc=5",
+   "published_at": "2026-11-04T11:01:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5ocEFEblhCNjhpTU1fMy1aeHZGWndSYXVaUjZSaUlibU5kd202OU92dm9HU2s1MlRGM0tYVy00ekF1dnRfaWpnRHBFSFBaZXhya000Q0E3eldxaTZFRTFTcjJmRnBVbU53c19UdkkzeElXdzdpWW9yQWtFRQ?oc=5\" target=\"_blank\">Rethinking KYC with AI Agents: Lessons from Building an 11-Agent KYC System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boston Consulting Group</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-470-da5544d853",
+   "source_id": "news",
+   "source_name": "The Decoder",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs - The Decoder",
+   "summary": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs &nbsp;&nbsp; The Decoder",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVUyb2p4WG15VmhsQmQ5NVM1S21wZWlHM185X2h3YnFHbEdWc05nbkZBQXdqbnBWY2hqYnVnTks2Z3lPd2lOa3F5aGdnZXhfVTlGLVJNS0xoeXE2YlBKRTZfTWNhSTdId0ZzWE5GejhYTzZWNTFSQkRMcmtFblJDeXh5N1dVM0l2R1NFcE01T0lUd0E5blgxdkNwMGxMamwxVmtXcXFqcWJUWnJXUWl3?oc=5",
+   "published_at": "2026-11-04T10:07:42+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVUyb2p4WG15VmhsQmQ5NVM1S21wZWlHM185X2h3YnFHbEdWc05nbkZBQXdqbnBWY2hqYnVnTks2Z3lPd2lOa3F5aGdnZXhfVTlGLVJNS0xoeXE2YlBKRTZfTWNhSTdId0ZzWE5GejhYTzZWNTFSQkRMcmtFblJDeXh5N1dVM0l2R1NFcE01T0lUd0E5blgxdkNwMGxMamwxVmtXcXFqcWJUWnJXUWl3?oc=5\" target=\"_blank\">Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Decoder</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-269-ddd96b95a2",
+   "source_id": "news",
+   "source_name": "Pandaily",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Tencent’s Hy4 Adds Vision and Computer Use, Joining the Top Tier of Open-Weight Models - Pandaily",
+   "summary": "Tencent’s Hy4 Adds Vision and Computer Use, Joining the Top Tier of Open-Weight Models &nbsp;&nbsp; Pandaily",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVGpuV1NkQUxqVGhFOEhiTTczVUFXVlY0SmJQQlQzRTNtazJGQ2ZhaGctNmVqV25RbXJGOU9KNWhOMGtMOUxoMlNycUlPTjlxZ3k0aEYzSFFYckEySlFPREZTX1FSQnUxRDlBd0l3UHNLNXFCT3hPcGRSYm1OQjc1aWpid3liODA?oc=5",
+   "published_at": "2026-11-04T09:26:49+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOVGpuV1NkQUxqVGhFOEhiTTczVUFXVlY0SmJQQlQzRTNtazJGQ2ZhaGctNmVqV25RbXJGOU9KNWhOMGtMOUxoMlNycUlPTjlxZ3k0aEYzSFFYckEySlFPREZTX1FSQnUxRDlBd0l3UHNLNXFCT3hPcGRSYm1OQjc1aWpid3liODA?oc=5\" target=\"_blank\">Tencent’s Hy4 Adds Vision and Computer Use, Joining the Top Tier of Open-Weight Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pandaily</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-868-73d2ae36bb",
+   "source_id": "news",
+   "source_name": "中国青年网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "乌镇峰会观察：中国开源AI大模型持续“圈粉” - 中国青年网",
+   "summary": "乌镇峰会观察：中国开源AI大模型持续“圈粉” &nbsp;&nbsp; 中国青年网",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DQ29pN2JxZW1vdXo0cTgxcFh4WThocFprOS1wRXI0bWx6STdlSzZXM0ttOXRYSkV2cE5qaURKa2VuR08ySzdXdldRQkI0WWYtRTJ0eEhLYUNRQUoyekRXZnRVc0haUEoz?oc=5",
+   "published_at": "2026-11-04T08:19:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DQ29pN2JxZW1vdXo0cTgxcFh4WThocFprOS1wRXI0bWx6STdlSzZXM0ttOXRYSkV2cE5qaURKa2VuR08ySzdXdldRQkI0WWYtRTJ0eEhLYUNRQUoyekRXZnRVc0haUEoz?oc=5\" target=\"_blank\">乌镇峰会观察：中国开源AI大模型持续“圈粉”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国青年网</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-455-0384ac58ce",
+   "source_id": "news",
+   "source_name": "The Decoder",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic's text watermark is easy to bypass on several older Claude models - The Decoder",
+   "summary": "Anthropic's text watermark is easy to bypass on several older Claude models &nbsp;&nbsp; The Decoder",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON21xVHlTUEVsSW5hLTUyWkg4dmlDVmVBX3lQaXJTSVhYZUR5anhxVDBHbkpZUnV1SWFydi04S1pUSUQzMk9OSnJIQnJqalZiZ3M5Z3JLX2JROUVZUEsxZTNiZkNyRzgzRFFLZTg1ay1tY0RESk4xWmFVSU82Mk1iVFRvSzFXWUxiVkJJQnJhR3FGYVpaZ0RESVk0MTFNNEdU?oc=5",
+   "published_at": "2026-11-04T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxON21xVHlTUEVsSW5hLTUyWkg4dmlDVmVBX3lQaXJTSVhYZUR5anhxVDBHbkpZUnV1SWFydi04S1pUSUQzMk9OSnJIQnJqalZiZ3M5Z3JLX2JROUVZUEsxZTNiZkNyRzgzRFFLZTg1ay1tY0RESk4xWmFVSU82Mk1iVFRvSzFXWUxiVkJJQnJhR3FGYVpaZ0RESVk0MTFNNEdU?oc=5\" target=\"_blank\">Anthropic's text watermark is easy to bypass on several older Claude models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Decoder</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-628-f9ce72aa5b",
+   "source_id": "news",
+   "source_name": "SiliconANGLE",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Autonomous site reliability engineering startup Traversal bags $120M in funding at a $1B valuation - SiliconANGLE",
+   "summary": "Autonomous site reliability engineering startup Traversal bags $120M in funding at a $1B valuation &nbsp;&nbsp; SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbU1BNDN2UEFScGVQX1R6RFAxcldNRVE0ampGcy16S2R0RVBNLWhjUU43VXFhVmNKUlVQWkJDd0N6Z0MxOC1tV2hxYnNOdG1IZzdyQ2xmV0JLNXNDZTJIRjAwOV9BeGp6X2lCeExqNzlnSGZvZ2gyTTdNN091N3BXRlBVSzBfNVdMTFIwc05VUHBBRjBYLU9NeUtuOEhlNDcwRGJ2TXVQZzBmUlFNUlg5Ymp3QjJndEM2N2FrVFpVZTQ2VEZLY0VjLXE0WjRDdw?oc=5",
+   "published_at": "2026-11-04T03:47:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQbU1BNDN2UEFScGVQX1R6RFAxcldNRVE0ampGcy16S2R0RVBNLWhjUU43VXFhVmNKUlVQWkJDd0N6Z0MxOC1tV2hxYnNOdG1IZzdyQ2xmV0JLNXNDZTJIRjAwOV9BeGp6X2lCeExqNzlnSGZvZ2gyTTdNN091N3BXRlBVSzBfNVdMTFIwc05VUHBBRjBYLU9NeUtuOEhlNDcwRGJ2TXVQZzBmUlFNUlg5Ymp3QjJndEM2N2FrVFpVZTQ2VEZLY0VjLXE0WjRDdw?oc=5\" target=\"_blank\">Autonomous site reliability engineering startup Traversal bags $120M in funding at a $1B valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-259-8d6231c690",
+   "source_id": "36kr",
+   "source_name": "36氪",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.8,
+   "title": "GPT-6 Astra Revolutionizes Qwen Brain: 0.016% Parameter Tuning Drives Explosive Math Performance Breakthrough - 36氪",
+   "summary": "GPT-6 Astra Revolutionizes Qwen Brain: 0.016% Parameter Tuning Drives Explosive Math Performance Breakthrough &nbsp;&nbsp; 36氪",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBVWotM2RycWVlQWhNeWNYN3l4dGduajZYTXY4MlB2Ry1yTUp3cGR4WVkyQWxITDloaXhXWHplVEVNbUlqbVNQMlJjZWZxX2xvRGg4?oc=5",
+   "published_at": "2026-11-04T01:23:17+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBVWotM2RycWVlQWhNeWNYN3l4dGduajZYTXY4MlB2Ry1yTUp3cGR4WVkyQWxITDloaXhXWHplVEVNbUlqbVNQMlJjZWZxX2xvRGg4?oc=5\" target=\"_blank\">GPT-6 Astra Revolutionizes Qwen Brain: 0.016% Parameter Tuning Drives Explosive Math Performance Breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36氪</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
   }
  ]
 }

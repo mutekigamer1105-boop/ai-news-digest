@@ -86,6 +86,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rS2xYRnJxOV9fQjgxWkl0OHlJRFhxMktsVmtTdGV6dnhPTXQzSXcwRE5hQXhOUGdVMXNwVVBZb01wYTVlY0tCT3VKZTBVQzZtVXRGY25XME5rUQ?oc=5\" target=\"_blank\">Introducing Claude Opus 4.7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-10-25T08:51:01+00:00"
+  },
+  {
+   "id": "web-745-4f709e931b",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing GPT-Rosalind for life sciences research - OpenAI",
+   "summary": "Introducing GPT-Rosalind for life sciences research &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnekQySHJOSlZjVnlZbEhDMGJQeGpEaGs1bU1hMm1wWGtXNlQxZVRQVFRITVFUa2YtZi1Tb3ZpbUExMFdyd2EzYnNJSWpQT3JLUU5KTDEySjEtX0lFYkpF?oc=5",
+   "published_at": "2026-04-16T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnekQySHJOSlZjVnlZbEhDMGJQeGpEaGs1bU1hMm1wWGtXNlQxZVRQVFRITVFUa2YtZi1Tb3ZpbUExMFdyd2EzYnNJSWpQT3JLUU5KTDEySjEtX0lFYkpF?oc=5\" target=\"_blank\">Introducing GPT-Rosalind for life sciences research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
   }
  ]
 }

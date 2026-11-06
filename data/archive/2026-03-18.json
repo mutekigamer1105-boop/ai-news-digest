@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWJxVXFYZlVSX0RSRldzS0dhZmhQVWU4LXR0bXcxbHhwM2xMN0p0R2RTQ09BdFhkZE9WeWFSZ1kwckFXQ0R6YmFCRURyZjN2STZ1UVNobG5YUFcyNmdCWFh3SHRuVm42UF9vcWdva2VRM2ludzhhajJ2VzljY3NWa2JCeHM2a3RHQUE?oc=5\" target=\"_blank\">AI startup funding hits $220 billion in two months ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eeNews Europe</font>",
    "fetched_at": "2026-09-03T18:46:51+00:00"
+  },
+  {
+   "id": "web-905-b256d34dbe",
+   "source_id": "news",
+   "source_name": "21财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI“投毒”灰产链曝光，暴露大模型背后算法高危漏洞 - 21财经",
+   "summary": "AI“投毒”灰产链曝光，暴露大模型背后算法高危漏洞 &nbsp;&nbsp; 21财经",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOTctOHVxc3ZsMGpKaGJ4V205RXZaUnE0ZG42LXJzNzd0S2hjYVJJcUUzTmVpdmk3VXExeGdwbFNNbnpmX0FZRzdrWWJFSHdxMjJKdDVsTXFkUG5DY25EVE9kc0ZLLUJSNVBfbjVaMnZUWG50U09tMjkyVjVFcUlXZjdQZlUzdw?oc=5",
+   "published_at": "2026-03-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNOTctOHVxc3ZsMGpKaGJ4V205RXZaUnE0ZG42LXJzNzd0S2hjYVJJcUUzTmVpdmk3VXExeGdwbFNNbnpmX0FZRzdrWWJFSHdxMjJKdDVsTXFkUG5DY25EVE9kc0ZLLUJSNVBfbjVaMnZUWG50U09tMjkyVjVFcUlXZjdQZlUzdw?oc=5\" target=\"_blank\">AI“投毒”灰产链曝光，暴露大模型背后算法高危漏洞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+   "fetched_at": "2026-11-06T11:42:17+00:00"
   }
  ]
 }
