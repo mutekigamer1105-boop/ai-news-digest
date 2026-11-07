@@ -13419,6 +13419,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yODhrSUswTUNKdzN1Y2tmWDhVZl9DbzFKaVJ4dVV0MXF0WTM5SkJMZU1xa05uY0dMakVwNkpBZ2h2WVVtNEE?oc=5\" target=\"_blank\">智能体失控风险引爆担忧？苹果警告：AI行事方式“不可预测”！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社电报</font>",
    "fetched_at": "2026-11-06T11:42:17+00:00"
+  },
+  {
+   "id": "web-471-77b7323e48",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Anthropic is still grappling with the economics of compute - TechCrunch",
+   "summary": "Anthropic is still grappling with the economics of compute &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVNOUEtckp5ZnZwTmRXOVVSejA4blBNT1VOdmpOUmhOTE93cUhJRE1wbVRydUMyQTBiVHZENDhGVER1eGY4cDJlRGRMR0xuN3Y1YTNxamdZNmtNMlNBU0szOEVMcFp3N2tsdXBBeTA2Ulp5amtGcndSbnhhVEdXVkg3Z2djLUgzSjdmUmZfSkFWdnNBcDM5TQ?oc=5",
+   "published_at": "2026-11-03T17:07:01+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXVNOUEtckp5ZnZwTmRXOVVSejA4blBNT1VOdmpOUmhOTE93cUhJRE1wbVRydUMyQTBiVHZENDhGVER1eGY4cDJlRGRMR0xuN3Y1YTNxamdZNmtNMlNBU0szOEVMcFp3N2tsdXBBeTA2Ulp5amtGcndSbnhhVEdXVkg3Z2djLUgzSjdmUmZfSkFWdnNBcDM5TQ?oc=5\" target=\"_blank\">Anthropic is still grappling with the economics of compute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-11-07T10:49:16+00:00"
   }
  ]
 }
