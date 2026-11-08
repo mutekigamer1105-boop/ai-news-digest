@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBzaU5ZbzVlSzkxMGg2cHhZQUdBSVowSldVSFBfc3ZzYmtEXzBXMHJZaDd2SF94TGF3ZVRuamhpb0dta1ZDWHp0TzN4eTNrR0dqOFpXNU4xNl8xMkNSZm5IRWFobktydUg2TFYwQ0xEei1EU2drNkNSQ21QOVc?oc=5\" target=\"_blank\">每日一词 | 人工智能大模型 large AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国日报网</font>",
    "fetched_at": "2026-10-27T09:28:56+00:00"
+  },
+  {
+   "id": "web-756-f4b3663d8a",
+   "source_id": "news",
+   "source_name": "AI News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Leak suggests OpenAI’s open-source AI model release is imminent - AI News",
+   "summary": "Leak suggests OpenAI’s open-source AI model release is imminent &nbsp;&nbsp; AI News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVpqSFpZeDF0UWFfMGg0aVpKY2FlWkNpeWUyV051NkZ4eUpNM3FWLXo3aEJvSmttTXVsT3I3cVdCcWZYZXhDVnZacGN2TE1NeGc1QmxoNDBVNDVHa3h1Nms5UHpHbEQwMDBwT1lNYkdtMEJheDJUejVWa0xPd1RIYlhtc3lXRG9YbGthbmJpMUpUalBXRFQ4SjFVaGF5QmxB?oc=5",
+   "published_at": "2025-08-01T12:04:08+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVpqSFpZeDF0UWFfMGg0aVpKY2FlWkNpeWUyV051NkZ4eUpNM3FWLXo3aEJvSmttTXVsT3I3cVdCcWZYZXhDVnZacGN2TE1NeGc1QmxoNDBVNDVHa3h1Nms5UHpHbEQwMDBwT1lNYkdtMEJheDJUejVWa0xPd1RIYlhtc3lXRG9YbGthbmJpMUpUalBXRFQ4SjFVaGF5QmxB?oc=5\" target=\"_blank\">Leak suggests OpenAI’s open-source AI model release is imminent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+   "fetched_at": "2026-11-08T10:56:37+00:00"
   }
  ]
 }

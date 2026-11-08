@@ -64,6 +64,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA5ZU9LR3cwVzN0ZURFYUtSMkhsX1RPLWdnYl9WY2ZIa01XZk8yYWtCQXc3NVg1alBTaWotcjhpM2VnYnhCbkpGYUVaUG1uRkYtYUVIWURVRFdjaUpuckIzcVRZN21JOFlGQWFKRE5sa2Q?oc=5\" target=\"_blank\">Top AI Startup Funding in January 2026 | Biggest Deals & Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Funding Tracker</font>",
    "fetched_at": "2026-10-25T08:51:01+00:00"
+  },
+  {
+   "id": "web-1024-6b2e19b535",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "深入解析 Codex 智能体循环 - OpenAI",
+   "summary": "深入解析 Codex 智能体循环 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtU1VjakxBWkN6bjkxak91Z1h3WFg2M3kyT1h0OHZKTEJpa2VQQkZGRndjNGVBU2U4RjRWRUIzLWpTdzdqU1VFOGItaDVhT0s2Yk5ncWVtaDFzYVlXZTZkcDk1UUZSTmE0YjFMRy1fQzVFRVlDLVE?oc=5",
+   "published_at": "2026-01-23T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAtU1VjakxBWkN6bjkxak91Z1h3WFg2M3kyT1h0OHZKTEJpa2VQQkZGRndjNGVBU2U4RjRWRUIzLWpTdzdqU1VFOGItaDVhT0s2Yk5ncWVtaDFzYVlXZTZkcDk1UUZSTmE0YjFMRy1fQzVFRVlDLVE?oc=5\" target=\"_blank\">深入解析 Codex 智能体循环</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-08T10:56:37+00:00"
   }
  ]
 }

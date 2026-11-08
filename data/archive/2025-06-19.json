@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-1021-a3dc8d5809",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "直播 - OpenAI",
+   "summary": "直播 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rdUJ5M292VjlBczBQNjRwbDRBZmNYRExYQ2VtQ0RfRjhLQVNTbExiM0VVb21pcEp1WDBHdDhpdDNTX2lRc3VRMDJuOA?oc=5",
+   "published_at": "2025-06-19T09:41:21+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rdUJ5M292VjlBczBQNjRwbDRBZmNYRExYQ2VtQ0RfRjhLQVNTbExiM0VVb21pcEp1WDBHdDhpdDNTX2lRc3VRMDJuOA?oc=5\" target=\"_blank\">直播</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-08T10:56:37+00:00"
+  }
+ ]
+}

@@ -10877,6 +10877,50 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1CSnAxVExJOEpQdC03TDhXQkd3SzVpVDExLXNJVFBJZW9Lc0lYWk9GTk4wVkluNGM1bG5YMEo4VjJjVGVnR3RkQkoxVndnNjdTc1RYV0NXNnAyODBUZWl4NU9lWHM1MUtMMUMw?oc=5\" target=\"_blank\">图像 2.6 隆重登场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-11-07T10:49:16+00:00"
+  },
+  {
+   "id": "web-181-4b1e0f9d88",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What Is Walmart (WMT) Betting On With Its New AI Shopping Agent? - Yahoo Finance",
+   "summary": "What Is Walmart (WMT) Betting On With Its New AI Shopping Agent? &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTzMtOW5EOVhfb1k0NHBxbHppNHdsVkhXWXRSOTh5VE5qNzhJYW9ISDZPbUpWZERMdjN3ajE2dDNKQW5FZ2MwU2hmNVVmcnpvbXVsTVRPVF83VTZXRDRXeGw4aXY5RFh5a2Q2U0tnZHNRQ19JenVxZWFqN3RNekFBT1BxZjdxcWtXaDlPc1lCaVh2WFUwd3NPeVdwVQ?oc=5",
+   "published_at": "2026-11-04T23:16:46+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNTzMtOW5EOVhfb1k0NHBxbHppNHdsVkhXWXRSOTh5VE5qNzhJYW9ISDZPbUpWZERMdjN3ajE2dDNKQW5FZ2MwU2hmNVVmcnpvbXVsTVRPVF83VTZXRDRXeGw4aXY5RFh5a2Q2U0tnZHNRQ19JenVxZWFqN3RNekFBT1BxZjdxcWtXaDlPc1lCaVh2WFUwd3NPeVdwVQ?oc=5\" target=\"_blank\">What Is Walmart (WMT) Betting On With Its New AI Shopping Agent?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-11-08T10:56:37+00:00"
+  },
+  {
+   "id": "web-724-8ff9ad73fa",
+   "source_id": "news",
+   "source_name": "Business Day",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Tencent releases new AI model, pledges safeguards against cyberattack use - Business Day",
+   "summary": "Tencent releases new AI model, pledges safeguards against cyberattack use &nbsp;&nbsp; Business Day",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFozUjBWalA5bjV1ZmhoNk9aNmpWazdiMW0zaUNCWXZaNmxGTElOUzVmY1JLMXc4bWVhX3psUEkteENEYi16QzVwbHI5Qk13NlFicU40UVhvV01LZEJXNWxjSFJsMEZxX19DaFYtM3NQMFNjWkFSWU1VSUpDdGN3cFRta2d0MmdWaVpkMVh2RmFkcXhsX0ZsZjhDRDJUdWZSSUZhY2tPUGJISkdEYnhGbW5yVmh0RnBuSlVSWVVBWXJCeFRZUm92aDkwZ1hzdVNvNTBwQlptd1AzbTRo?oc=5",
+   "published_at": "2026-11-04T13:57:08+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFozUjBWalA5bjV1ZmhoNk9aNmpWazdiMW0zaUNCWXZaNmxGTElOUzVmY1JLMXc4bWVhX3psUEkteENEYi16QzVwbHI5Qk13NlFicU40UVhvV01LZEJXNWxjSFJsMEZxX19DaFYtM3NQMFNjWkFSWU1VSUpDdGN3cFRta2d0MmdWaVpkMVh2RmFkcXhsX0ZsZjhDRDJUdWZSSUZhY2tPUGJISkdEYnhGbW5yVmh0RnBuSlVSWVVBWXJCeFRZUm92aDkwZ1hzdVNvNTBwQlptd1AzbTRo?oc=5\" target=\"_blank\">Tencent releases new AI model, pledges safeguards against cyberattack use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Day</font>",
+   "fetched_at": "2026-11-08T10:56:37+00:00"
   }
  ]
 }
