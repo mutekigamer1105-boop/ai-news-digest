@@ -21,6 +21,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ0xRT2VSTVQ5TTNaNGc3aGQzSlVrQzhCS2Y1Wkowb2J5LU00Mi1lTmR0blpSaE8zMVBsMHNVcmRDdjN0VEYyaTdLZ0hXb04ybzJnXy10VjFlSjhhNVVWdldMbnhBSkxBRlViZmRINGswYjdnNGRpX0EyMEE2dG5tMjc4WVBLTGs2TUZqTkVYdnItQkk?oc=5\" target=\"_blank\">Manufacturing AI Startup Tractian Locks Up $120M Series C</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
    "fetched_at": "2026-10-27T09:28:56+00:00"
+  },
+  {
+   "id": "web-822-e58a400476",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "了解不同类型的人工智能 - IBM",
+   "summary": "了解不同类型的人工智能 &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wbXdyUkZWVU1mZy1aTFhJVWdRNmYxRmpielhvcTdkT2pmdFRQWnMtUlJxSElfRzl3UU40d0VHMWJQczVrZjEtTVVEMmJJM0hoOVV2NzB6V2MzZ3V3TW9kR0RkWkxIRUNZZjVjSUJqR0dPdVVNd2xj?oc=5",
+   "published_at": "2024-12-05T07:47:46+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5wbXdyUkZWVU1mZy1aTFhJVWdRNmYxRmpielhvcTdkT2pmdFRQWnMtUlJxSElfRzl3UU40d0VHMWJQczVrZjEtTVVEMmJJM0hoOVV2NzB6V2MzZ3V3TW9kR0RkWkxIRUNZZjVjSUJqR0dPdVVNd2xj?oc=5\" target=\"_blank\">了解不同类型的人工智能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-11-09T12:23:07+00:00"
   }
  ]
 }

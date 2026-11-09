@@ -13582,6 +13582,94 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQRDljTWtmRUlEZEpHRHRnbFVQSk5yM3g4X19WY1Rfb1ZwOVZvU0xZeE5vVzNoSERUS1YxbzNiSlJtMFNyVUZpa0VWaEpTQUNWamlZSUprejdnaGV0T2t2SDhuN0VmdFhzRGFIYnEzWjB2X0R6WEU2OFdwMVEwbFV3ZmNxNHE0Mmk0dUowdnJzaHRDMGRiRGtaOS1wcEQ5WkNCV2pWQm1Nc3ZPZDF5ajF0WGlYR0hrblBOWHVUM3ltYWIzc2VX?oc=5\" target=\"_blank\">Tencent shares jump 6% to three-week high after Hunyuan AI model launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
    "fetched_at": "2026-11-08T10:56:37+00:00"
+  },
+  {
+   "id": "web-435-af16d63843",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic partners with Plaid for AI financial advice tool - Yahoo Finance",
+   "summary": "Anthropic partners with Plaid for AI financial advice tool &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2pjdGkzSE1wQ0wzU2tlTExmNEotUWpaQ2VNTmtXdmtEdVpTeEx5WV9XcDJGT3JvOVlGeXBrenZfanF2RTFwRXk4M01XV3dndEdJdm11bmp4TGc4TGpwQkNmQXNHSVM1UW5yVjJvMHhfRGdJbFNlellyYU5Cc25DSU5fMnhONENxV3NpUUNMd2Ytd1N6UG9XT2FPWTkxM0ZLR3Vj?oc=5",
+   "published_at": "2026-11-05T18:50:30+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2pjdGkzSE1wQ0wzU2tlTExmNEotUWpaQ2VNTmtXdmtEdVpTeEx5WV9XcDJGT3JvOVlGeXBrenZfanF2RTFwRXk4M01XV3dndEdJdm11bmp4TGc4TGpwQkNmQXNHSVM1UW5yVjJvMHhfRGdJbFNlellyYU5Cc25DSU5fMnhONENxV3NpUUNMd2Ytd1N6UG9XT2FPWTkxM0ZLR3Vj?oc=5\" target=\"_blank\">Anthropic partners with Plaid for AI financial advice tool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-11-09T12:23:07+00:00"
+  },
+  {
+   "id": "web-582-fab14470ed",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "AI-powered insurance startup Kalepa valued at $470 million in new funding round - Reuters",
+   "summary": "AI-powered insurance startup Kalepa valued at $470 million in new funding round &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXBCdXJGdnN1M0xnMmZpdGo5T0ZhSF9GYmh0OVNiYTlSNXJuVm52bTVNUnRxc1F5eHNpNzlUVUE3UEdhaUt0emRWc0Vwa29MSURrRmZ6TjJKeU05Y1lvQk1HZi1JT2c3N2hNcW9oYnhmR05WQ0dBY1JPZHZJd09wMkJ1U1lpOWtYcGY3T3JYR0RVMnV0VWRpZGVXRVRwZV9pLU14Z19sU0UwYTRDY2hLMkdrMmZCLUU4SG1xUjJndE1ZU0cwLXNB?oc=5",
+   "published_at": "2026-11-05T12:13:28+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXBCdXJGdnN1M0xnMmZpdGo5T0ZhSF9GYmh0OVNiYTlSNXJuVm52bTVNUnRxc1F5eHNpNzlUVUE3UEdhaUt0emRWc0Vwa29MSURrRmZ6TjJKeU05Y1lvQk1HZi1JT2c3N2hNcW9oYnhmR05WQ0dBY1JPZHZJd09wMkJ1U1lpOWtYcGY3T3JYR0RVMnV0VWRpZGVXRVRwZV9pLU14Z19sU0UwYTRDY2hLMkdrMmZCLUU4SG1xUjJndE1ZU0cwLXNB?oc=5\" target=\"_blank\">AI-powered insurance startup Kalepa valued at $470 million in new funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-11-09T12:23:07+00:00"
+  },
+  {
+   "id": "web-320-8c8f17168f",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke - CNBC",
+   "summary": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZThLcjRmNUduOEJ4aUt0bmF0OXI4T0xhb0hQMk9BMjlYb3YzYWx1V05CaFRjR2xuMTROU1l3NUd6M0phTWE4ZG9hSHEzS21KTGVrUGxBWVBsRFA4UWtZVEtxVjM1V2x4NGFzY01UVkMzcEQzSW9pc013MDc3RXZRSFM4TENWcmxRbGExTHAwQzRHYlE3UEZlaHZvWldTTUVyNEZkWWZ5VQ?oc=5",
+   "published_at": "2026-11-05T10:00:01+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZThLcjRmNUduOEJ4aUt0bmF0OXI4T0xhb0hQMk9BMjlYb3YzYWx1V05CaFRjR2xuMTROU1l3NUd6M0phTWE4ZG9hSHEzS21KTGVrUGxBWVBsRFA4UWtZVEtxVjM1V2x4NGFzY01UVkMzcEQzSW9pc013MDc3RXZRSFM4TENWcmxRbGExTHAwQzRHYlE3UEZlaHZvWldTTUVyNEZkWWZ5VQ?oc=5\" target=\"_blank\">OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-11-09T12:23:07+00:00"
+  },
+  {
+   "id": "web-310-a16ae2fb3d",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Images 2.6 I n t r o d u c i n g I m a g e s 2 6 - OpenAI",
+   "summary": "Introducing Images 2.6 I n t r o d u c i n g I m a g e s 2 6 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aRllmMHFwSmtFNVhMV0dnNXpZa0RkejJ2bDkzYUlTLXRBaHF5TXd0VldHSEZxbWEyQ25EdlM1azgxV2p5dGs0cnZ2dG56ekEzQTJDY1FFWjN5MzZh?oc=5",
+   "published_at": "2026-11-05T02:29:04+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aRllmMHFwSmtFNVhMV0dnNXpZa0RkejJ2bDkzYUlTLXRBaHF5TXd0VldHSEZxbWEyQ25EdlM1azgxV2p5dGs0cnZ2dG56ekEzQTJDY1FFWjN5MzZh?oc=5\" target=\"_blank\">Introducing Images 2.6 I n t r o d u c i n g I m a g e s 2 6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-09T12:23:07+00:00"
   }
  ]
 }

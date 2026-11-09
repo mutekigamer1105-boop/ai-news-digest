@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-819-008c1c31fe",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "人工智能成为全民赋能的最强力量 - OpenAI",
+   "summary": "人工智能成为全民赋能的最强力量 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVnlZSmxyR3g1Zndmd2FjYU1Bb1E1UEU2VXBGNldrSXBjWDc4SS10cEtjRmk5R2pKcjQ5dklEOVdpSThWWVRaa0lDeEVPenZIME5pNWZsOGd3b0ZHWmFpaWh0VDlaYUJfSDBteVJDbE9TNEd6Sk1ZSHNiXzBjVklHbHJrODc2MmFBVmFpZWxB?oc=5",
+   "published_at": "2025-07-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVnlZSmxyR3g1Zndmd2FjYU1Bb1E1UEU2VXBGNldrSXBjWDc4SS10cEtjRmk5R2pKcjQ5dklEOVdpSThWWVRaa0lDeEVPenZIME5pNWZsOGd3b0ZHWmFpaWh0VDlaYUJfSDBteVJDbE9TNEd6Sk1ZSHNiXzBjVklHbHJrODc2MmFBVmFpZWxB?oc=5\" target=\"_blank\">人工智能成为全民赋能的最强力量</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-09T12:23:07+00:00"
+  }
+ ]
+}

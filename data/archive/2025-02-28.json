@@ -21,6 +21,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uTThSaGhIUlhnNEs3OWhBVS1valBMYUwtTGxicE8wMGxBNnR4RWVRLWV5S0NHZmV6TjRNc1NETC02V1RYOFpDR01tUkl3WlNBdXUxWGszVEQ?oc=5\" target=\"_blank\">什么是 GPT-4o？| GPT-4o 中文解读：多模态大语言模型的企业级应用趋势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-821-958b637115",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "人工智能的未来 - IBM",
+   "summary": "人工智能的未来 &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Rb1VVRmlxOHZ3WUZQcXozbXdwSU5mWFA5T3NxZGtYX21wMzduWUtpUzhoUEx4TVU0d3VhWUcwVWltT01oYjN0dlB1cy1HOXRtcnVHWGt2eXd3WTZ1NEJtOWszZWxvZVV4V1dxX1FmRktGSDd1Qko0MmNmZw?oc=5",
+   "published_at": "2025-02-28T16:34:56+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5Rb1VVRmlxOHZ3WUZQcXozbXdwSU5mWFA5T3NxZGtYX21wMzduWUtpUzhoUEx4TVU0d3VhWUcwVWltT01oYjN0dlB1cy1HOXRtcnVHWGt2eXd3WTZ1NEJtOWszZWxvZVV4V1dxX1FmRktGSDd1Qko0MmNmZw?oc=5\" target=\"_blank\">人工智能的未来</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-11-09T12:23:07+00:00"
   }
  ]
 }
