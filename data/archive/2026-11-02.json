@@ -12232,6 +12232,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSF95T0JCdmtoY0tXWjhTc1FVMTNFcjFaTl91bjhnRklKMUVja2hYUnE0RzdoOHdpbzJhQmQ3eGEyaTlYdmhIZDdVT0ZXbzNLWjJDeUxJNk1GRE5kSjUwYzNWa2J3XzR0TTFMWUMycXg3ZmwzS0FqVkFKZTgxbUp0TkZEQjJMbVNZSVQ4bDVGakd2dF9OLXRpd1lfRlVzcE4xNERSWDBZMEI?oc=5\" target=\"_blank\">Anthropic’s Claude slashes pharmaceutical document review times by 89%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
    "fetched_at": "2026-11-05T11:44:47+00:00"
+  },
+  {
+   "id": "web-208-a19d731a67",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Progress on provable inference for large language models - Anthropic",
+   "summary": "Progress on provable inference for large language models &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
+   "published_at": "2026-11-02T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5\" target=\"_blank\">Progress on provable inference for large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-11-10T11:58:14+00:00"
   }
  ]
 }

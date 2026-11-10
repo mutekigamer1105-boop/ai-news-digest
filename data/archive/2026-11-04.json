@@ -10921,6 +10921,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFozUjBWalA5bjV1ZmhoNk9aNmpWazdiMW0zaUNCWXZaNmxGTElOUzVmY1JLMXc4bWVhX3psUEkteENEYi16QzVwbHI5Qk13NlFicU40UVhvV01LZEJXNWxjSFJsMEZxX19DaFYtM3NQMFNjWkFSWU1VSUpDdGN3cFRta2d0MmdWaVpkMVh2RmFkcXhsX0ZsZjhDRDJUdWZSSUZhY2tPUGJISkdEYnhGbW5yVmh0RnBuSlVSWVVBWXJCeFRZUm92aDkwZ1hzdVNvNTBwQlptd1AzbTRo?oc=5\" target=\"_blank\">Tencent releases new AI model, pledges safeguards against cyberattack use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Day</font>",
    "fetched_at": "2026-11-08T10:56:37+00:00"
+  },
+  {
+   "id": "web-314-3d5b78c2cc",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "A thousand fewer paths to root - OpenAI",
+   "summary": "A thousand fewer paths to root &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YNndWbW1YdWJ1bFpGb3cyOGcyamlnWV9keHhVSV9NQ0poX0JTSzNMckF1TkNEZ05wdTNObGFXS04xU2xzVlIteXRFSkxfSnFsQVlnY0dLcUpGa1doY0NvX0VVNEVGYjg?oc=5",
+   "published_at": "2026-11-04T22:21:42+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YNndWbW1YdWJ1bFpGb3cyOGcyamlnWV9keHhVSV9NQ0poX0JTSzNMckF1TkNEZ05wdTNObGFXS04xU2xzVlIteXRFSkxfSnFsQVlnY0dLcUpGa1doY0NvX0VVNEVGYjg?oc=5\" target=\"_blank\">A thousand fewer paths to root</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-10T11:58:14+00:00"
   }
  ]
 }

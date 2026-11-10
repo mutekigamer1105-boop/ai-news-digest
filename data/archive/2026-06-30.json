@@ -129,6 +129,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5\" target=\"_blank\">Introducing Claude Sonnet 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-09-18T04:05:23+00:00"
+  },
+  {
+   "id": "web-1007-fb186942af",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "预览 GPT-5.6 Sol：新一代模型 - OpenAI",
+   "summary": "预览 GPT-5.6 Sol：新一代模型 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DYVdnUFM0M3pOQjFTd0RHdG1fbms3aDdfUjJVcW44VEdjYUxLR2xnUU51YXBTTDQtc2JuRTZYRjd2N3pUQmpaSmxHbzJ1bGd5ZnBqWEpKbW4waTZmOTRZdGFrcHJMU1RQcTN3?oc=5",
+   "published_at": "2026-06-30T20:29:33+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9DYVdnUFM0M3pOQjFTd0RHdG1fbms3aDdfUjJVcW44VEdjYUxLR2xnUU51YXBTTDQtc2JuRTZYRjd2N3pUQmpaSmxHbzJ1bGd5ZnBqWEpKbW4waTZmOTRZdGFrcHJMU1RQcTN3?oc=5\" target=\"_blank\">预览 GPT-5.6 Sol：新一代模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-10T11:58:14+00:00"
   }
  ]
 }

@@ -4431,6 +4431,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9NQ3FnVlpjNk1VRWtnQWdPOUdjTW5UMXB2QjF4bC1IdE11Y29lMVB4R090N3dIRURLYnVTOUV4LUZXTnZ4ZXhwbUxPOW5lZy1mUUVvSElzYXJhMFNod3lGTURvTmFWa3lQcGdrQTdHdWg?oc=5\" target=\"_blank\">OpenAI承认智能体曾“出逃” 自建留言板交流规避限制</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">美国中文网</font>",
    "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-693-a41e3c075f",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
+   "summary": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFE?oc=5",
+   "published_at": "2026-09-06T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFE?oc=5\" target=\"_blank\">‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-11-10T11:58:14+00:00"
   }
  ]
 }

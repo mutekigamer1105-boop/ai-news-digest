@@ -5457,6 +5457,116 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1CeEpBZmQyVThObnBYOWR2VUJxX0ZMMlRSd0o1SzRmbERZS1czZC1EN2VaUGFoam9UNHEtX3hGV1MtS3ZLSHJvUFZ3bzJadDc2UVBhSkZaVWpGWlFDV21Gb1VjdF96VzdkWW1feVA0Y1dmSjZ2OGc?oc=5\" target=\"_blank\">《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告发布</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">习近平外交思想和新时代中国外交</font>",
    "fetched_at": "2026-11-09T12:23:07+00:00"
+  },
+  {
+   "id": "web-586-e20b2cc923",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang - The New York Times",
+   "summary": "What to Know About Nvidia’s Investigation of CEO Jensen Huang &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVkxZjg5UmtfRlNGbHF6VGlMMFBaWHY0SVl6QkdtUEJYT3hid0JWdWJrTE1iaFZDYzdYcmwzNzN3NFFfdzJLQjlnN2xDTnRkSVdmLXF3SXpkN2t6c0JtaXhOUUZTenBTMzUwYWN5OTRkLTh1VFdSbUZDbVlLeW1TOHVPcEpsWUlzNGZCUw?oc=5",
+   "published_at": "2026-11-08T22:26:09+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVkxZjg5UmtfRlNGbHF6VGlMMFBaWHY0SVl6QkdtUEJYT3hid0JWdWJrTE1iaFZDYzdYcmwzNzN3NFFfdzJLQjlnN2xDTnRkSVdmLXF3SXpkN2t6c0JtaXhOUUZTenBTMzUwYWN5OTRkLTh1VFdSbUZDbVlLeW1TOHVPcEpsWUlzNGZCUw?oc=5\" target=\"_blank\">What to Know About Nvidia’s Investigation of CEO Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-11-10T11:58:14+00:00"
+  },
+  {
+   "id": "web-520-5d4b64a38c",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy - The New York Times",
+   "summary": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
+   "published_at": "2026-11-08T20:01:02+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5\" target=\"_blank\">Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-11-10T11:58:14+00:00"
+  },
+  {
+   "id": "web-4-8f7d80b505",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia Scandal Creates Risk for Entire AI Industry, Not Just CEO - Bloomberg.com",
+   "summary": "Nvidia Scandal Creates Risk for Entire AI Industry, Not Just CEO &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5",
+   "published_at": "2026-11-08T20:00:02+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5\" target=\"_blank\">Nvidia Scandal Creates Risk for Entire AI Industry, Not Just CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-11-10T11:58:14+00:00"
+  },
+  {
+   "id": "web-427-c40e022b20",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports - Reuters",
+   "summary": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
+   "published_at": "2026-11-08T12:54:10+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5\" target=\"_blank\">Anthropic secures $3.4 billion generator deal for AI data centers, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-11-10T11:58:14+00:00"
+  },
+  {
+   "id": "web-1019-86bf8bde96",
+   "source_id": "news",
+   "source_name": "Mezha.net",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "Google 和 Microsoft 加入 OpenAI 与 Anthropic，共同支持一项供 robots.txt 使用的 AI 训练信号 - Mezha.net",
+   "summary": "Google 和 Microsoft 加入 OpenAI 与 Anthropic，共同支持一项供 robots.txt 使用的 AI 训练信号 &nbsp;&nbsp; Mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUxSWFA3S2p3X3JGSm54Wk5tZThoRnRsb2JyVTROZkpEbDZnOWRJbDdmRkx0bGliZ1BIQ1lCd2hSaUZQdTJUOUNsSVYybDdsa2liTkg0NzE0bU53dS1kam05VjlvdU9Ia1A0ZnRoU1BxUmYyNW5xZnlNbXB1QnZPLTVoZXVmZVp1eHJUYXMySHJLTXl0cENQU1JB?oc=5",
+   "published_at": "2026-11-08T11:14:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUxSWFA3S2p3X3JGSm54Wk5tZThoRnRsb2JyVTROZkpEbDZnOWRJbDdmRkx0bGliZ1BIQ1lCd2hSaUZQdTJUOUNsSVYybDdsa2liTkg0NzE0bU53dS1kam05VjlvdU9Ia1A0ZnRoU1BxUmYyNW5xZnlNbXB1QnZPLTVoZXVmZVp1eHJUYXMySHJLTXl0cENQU1JB?oc=5\" target=\"_blank\">Google 和 Microsoft 加入 OpenAI 与 Anthropic，共同支持一项供 robots.txt 使用的 AI 训练信号</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha.net</font>",
+   "fetched_at": "2026-11-10T11:58:14+00:00"
   }
  ]
 }

@@ -1,0 +1,25 @@
+{
+ "items": [
+  {
+   "id": "web-741-f758081597",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Claude 3.5 Sonnet - Anthropic",
+   "summary": "Introducing Claude 3.5 Sonnet &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nRG1hbTF0cU56dHRMWEd1cmQ0Sy1JM2ZaT0tnUjV3UE9yVmlyejZrdWdKSHZQWUdRZWE0VWlYaGtJaFc2dFk3Yzg3TVZ6NF9RcklFZjF1ZW1UbFJn?oc=5",
+   "published_at": "2024-06-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nRG1hbTF0cU56dHRMWEd1cmQ0Sy1JM2ZaT0tnUjV3UE9yVmlyejZrdWdKSHZQWUdRZWE0VWlYaGtJaFc2dFk3Yzg3TVZ6NF9RcklFZjF1ZW1UbFJn?oc=5\" target=\"_blank\">Introducing Claude 3.5 Sonnet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-11-10T11:58:14+00:00"
+  }
+ ]
+}
