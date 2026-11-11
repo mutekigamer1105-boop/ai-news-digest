@@ -12717,6 +12717,246 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aeDUxcE1BY1VqUWFlWmRvUUpZRXZuYjRYQ2JRbkhVNVZEZlF3aTBmYk5fR3hxb2tWSGZGbzhjRDg3VjFQb3NCeE5R?oc=5\" target=\"_blank\">英伟达称AI智能体将成下一代计算平台加速布局企业市场_CNMO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNMO</font>",
    "fetched_at": "2026-11-10T11:58:14+00:00"
+  },
+  {
+   "id": "web-66-b62c676e7b",
+   "source_id": "news",
+   "source_name": "CASRAI",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Augmented vs. Artificial Intelligence in Medicine - CASRAI",
+   "summary": "Augmented vs. Artificial Intelligence in Medicine &nbsp;&nbsp; CASRAI",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGpDclhScm4xVkdpdXQ3ZHo1RW80bGk4MDFsOWpnbHJncDZYX2JmUS1hRG9FMzFkSWhrSzduZGg3QTdtZFoyZXRuVkM2ZDh6Rmt1STMwdGxFdU9OVWlEdTA4TDhTc1V1bURCYmF3SGFHMGYxbDlmcXY2U1FQdmczNA?oc=5",
+   "published_at": "2026-11-09T23:47:20+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGpDclhScm4xVkdpdXQ3ZHo1RW80bGk4MDFsOWpnbHJncDZYX2JmUS1hRG9FMzFkSWhrSzduZGg3QTdtZFoyZXRuVkM2ZDh6Rmt1STMwdGxFdU9OVWlEdTA4TDhTc1V1bURCYmF3SGFHMGYxbDlmcXY2U1FQdmczNA?oc=5\" target=\"_blank\">Augmented vs. Artificial Intelligence in Medicine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CASRAI</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-436-db84f0be1f",
+   "source_id": "news",
+   "source_name": "Mashable",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic announces Claude Fable 5.2 and Mythos 5.2. They'e already solved black hole physics problems. - Mashable",
+   "summary": "Anthropic announces Claude Fable 5.2 and Mythos 5.2. They'e already solved black hole physics problems. &nbsp;&nbsp; Mashable",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGw3UFZ0ZUxYWk1VSm9nMXJUNkVIamQxQ1VsVlMtOElpV3ozckEwRWRlVkdrZUdDSkZwV1ZpODQtV1RYR2MxM0Z1UUo1LW9fSXBtZ3RJZ1RkT2hJRnJMQU5KRVZiQ3ZVSFBvM09sNG4taThSb3VKcjdiaEtGTWRDXw?oc=5",
+   "published_at": "2026-11-09T21:37:54+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGw3UFZ0ZUxYWk1VSm9nMXJUNkVIamQxQ1VsVlMtOElpV3ozckEwRWRlVkdrZUdDSkZwV1ZpODQtV1RYR2MxM0Z1UUo1LW9fSXBtZ3RJZ1RkT2hJRnJMQU5KRVZiQ3ZVSFBvM09sNG4taThSb3VKcjdiaEtGTWRDXw?oc=5\" target=\"_blank\">Anthropic announces Claude Fable 5.2 and Mythos 5.2. They'e already solved black hole physics problems.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-591-8f7d80b505",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia Scandal Creates Risk for Entire AI Industry, Not Just CEO - Bloomberg.com",
+   "summary": "Nvidia Scandal Creates Risk for Entire AI Industry, Not Just CEO &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5",
+   "published_at": "2026-11-09T21:29:22+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5\" target=\"_blank\">Nvidia Scandal Creates Risk for Entire AI Industry, Not Just CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-424-9565b01787",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "Anthropic must face lawsuit over Claude subscription marketing - Reuters",
+   "summary": "Anthropic must face lawsuit over Claude subscription marketing &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1ZtZzZWNUh2ejlBRmZIQ2prdlNzWnlNTFFkOFZXRWJCaXpBdzVtaUk3cDBXZG1uUXdEaEdqZHNtSWF5N2o4Ni1xdjkzVHp0azBKQTFZb0k0ZVpDYU5id2l3ZTdtNlltZVJyNUhRZjIxWDluWHd4TW5YLXhCcHNlejNyamFlZjZUbWJsaS1yb0VGZDJFQnJXZUhaNmNoUEJjM2s3TWltbFREMmNMVkdDbkNLaXNJQQ?oc=5",
+   "published_at": "2026-11-09T19:38:42+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1ZtZzZWNUh2ejlBRmZIQ2prdlNzWnlNTFFkOFZXRWJCaXpBdzVtaUk3cDBXZG1uUXdEaEdqZHNtSWF5N2o4Ni1xdjkzVHp0azBKQTFZb0k0ZVpDYU5id2l3ZTdtNlltZVJyNUhRZjIxWDluWHd4TW5YLXhCcHNlejNyamFlZjZUbWJsaS1yb0VGZDJFQnJXZUhaNmNoUEJjM2s3TWltbFREMmNMVkdDbkNLaXNJQQ?oc=5\" target=\"_blank\">Anthropic must face lawsuit over Claude subscription marketing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-425-7a495d8554",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears - Yahoo Finance",
+   "summary": "Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUxtR3VZQVJjcnhWLW1rb3RBdG1vMlFJRlpGeG9iTmdtZ0RrVTBDRkJITUQtM3FjZkhrZHQtb3J4cGNsLUs0SllMR05JcENTWFVOZjJLUUM0c0k2aXlhZGJKNFdnUFd2ZUVtcmp3WWdudFhpWG41by11a3lDZWI1b3Z1VHppTzBteEt4amNJeXc0Y0diSkxnMUdGeVVwNXQ2Y3RUeC1qS3V6cU04eUJtUUg2WHBPVk5pWXB5Vlp1YktpOWxY?oc=5",
+   "published_at": "2026-11-09T19:04:05+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxORUxtR3VZQVJjcnhWLW1rb3RBdG1vMlFJRlpGeG9iTmdtZ0RrVTBDRkJITUQtM3FjZkhrZHQtb3J4cGNsLUs0SllMR05JcENTWFVOZjJLUUM0c0k2aXlhZGJKNFdnUFd2ZUVtcmp3WWdudFhpWG41by11a3lDZWI1b3Z1VHppTzBteEt4amNJeXc0Y0diSkxnMUdGeVVwNXQ2Y3RUeC1qS3V6cU04eUJtUUg2WHBPVk5pWXB5Vlp1YktpOWxY?oc=5\" target=\"_blank\">Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-437-95fd06b571",
+   "source_id": "the-verge",
+   "source_name": "The Verge",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.92,
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models - The Verge",
+   "summary": "Anthropic launches new Claude Fable and Mythos 5.2 models &nbsp;&nbsp; The Verge",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWctMWdSek1tY1pVaWg4SXBfcHFRR0VYTHprRUI4OHFNZWs1VGp2YU5yUVJQdDNSVkVXS01uMmx0b0dOemlFZjFQNUVibmN3UkU2VkpvWDFkUG1qNnpobDZiVkF3VjlUOVBfdzNfVWJLcm52a2VIcjhJMDY0ZUg1dnJjR2dqZTdxQjh2N18wY3BhS2ctN0k3RA?oc=5",
+   "published_at": "2026-11-09T19:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWctMWdSek1tY1pVaWg4SXBfcHFRR0VYTHprRUI4OHFNZWs1VGp2YU5yUVJQdDNSVkVXS01uMmx0b0dOemlFZjFQNUVibmN3UkU2VkpvWDFkUG1qNnpobDZiVkF3VjlUOVBfdzNfVWJLcm52a2VIcjhJMDY0ZUg1dnJjR2dqZTdxQjh2N18wY3BhS2ctN0k3RA?oc=5\" target=\"_blank\">Anthropic launches new Claude Fable and Mythos 5.2 models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-337-95f8198631",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "CodeRabbit scales agentic software development and ships 20x more - OpenAI",
+   "summary": "CodeRabbit scales agentic software development and ships 20x more &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
+   "published_at": "2026-11-09T18:30:12+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5\" target=\"_blank\">CodeRabbit scales agentic software development and ships 20x more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-528-89555ce1ab",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang - Reuters",
+   "summary": "'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMERscVA0bmtmSTlEYWRSTzV1bzVFVnFOQnR4ZjMtMzgyR0o0aFpzVmZDTklKMjUxZ2ptTTU2ZlA3UzRiNU1HUFIzd2gycHliSlo3ZkpOMk93akxqcjdQX05iSWZuQU9ZWlV2Q2o5cV80TTBqckFzOFlOREtOTHR4dVpFb29ZRkRTbDl3RGJrN0FrNEp1aGdTeVN2bkR3UlNYa0padDRqTTNINlNNdzVzTG9CcjlZV2tUaFV2SHlxcENUS28?oc=5",
+   "published_at": "2026-11-09T18:09:43+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMERscVA0bmtmSTlEYWRSTzV1bzVFVnFOQnR4ZjMtMzgyR0o0aFpzVmZDTklKMjUxZ2ptTTU2ZlA3UzRiNU1HUFIzd2gycHliSlo3ZkpOMk93akxqcjdQX05iSWZuQU9ZWlV2Q2o5cV80TTBqckFzOFlOREtOTHR4dVpFb29ZRkRTbDl3RGJrN0FrNEp1aGdTeVN2bkR3UlNYa0padDRqTTNINlNNdzVzTG9CcjlZV2tUaFV2SHlxcENUS28?oc=5\" target=\"_blank\">'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-240-16ab5f2082",
+   "source_id": "news",
+   "source_name": "alphaXiv",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "An LLM Erases a Concept by Editing Diffusion Weights Directly, Without Gradients - alphaXiv",
+   "summary": "An LLM Erases a Concept by Editing Diffusion Weights Directly, Without Gradients &nbsp;&nbsp; alphaXiv",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xbU1zdWdlTmJyYlZhUkVNZVBESmx6bmtjX0FfTHNpWUNSc0h5NmVvRWQ4c2FxY1g0MUYwX0pleDRuTC1icHdtc3haSEJ1dWNHVlQtSVBPMjg0MXdQaUIwZ24xU3VGNlNUR1RIcjVWYWhuTWZuV0xzblFxb1M?oc=5",
+   "published_at": "2026-11-09T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5xbU1zdWdlTmJyYlZhUkVNZVBESmx6bmtjX0FfTHNpWUNSc0h5NmVvRWQ4c2FxY1g0MUYwX0pleDRuTC1icHdtc3haSEJ1dWNHVlQtSVBPMjg0MXdQaUIwZ24xU3VGNlNUR1RIcjVWYWhuTWZuV0xzblFxb1M?oc=5\" target=\"_blank\">An LLM Erases a Concept by Editing Diffusion Weights Directly, Without Gradients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alphaXiv</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-255-6c58d32cb8",
+   "source_id": "news",
+   "source_name": "alphaXiv",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "GARL: Efficient Dual-Agent Mathematical Reasoning via Guidance-Aware Reinforcement Learning - alphaXiv",
+   "summary": "GARL: Efficient Dual-Agent Mathematical Reasoning via Guidance-Aware Reinforcement Learning &nbsp;&nbsp; alphaXiv",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN20tZ08zV3BJZWM1aUZVOWZDU2V0akVYT3U3OGRBU1RKTjBua0VySDVaV0ZhLTAwQzQtN01yUFA5bzc0SWFqZ0JKS1RuVWIxY2YyVGRWTzB0YkJxaklxUUhGSkVvQmZIOUt4ejBtOFZmSm9IME9iLWkyaWVNSWItclNBNnhKc2NS?oc=5",
+   "published_at": "2026-11-09T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN20tZ08zV3BJZWM1aUZVOWZDU2V0akVYT3U3OGRBU1RKTjBua0VySDVaV0ZhLTAwQzQtN01yUFA5bzc0SWFqZ0JKS1RuVWIxY2YyVGRWTzB0YkJxaklxUUhGSkVvQmZIOUt4ejBtOFZmSm9IME9iLWkyaWVNSWItclNBNnhKc2NS?oc=5\" target=\"_blank\">GARL: Efficient Dual-Agent Mathematical Reasoning via Guidance-Aware Reinforcement Learning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alphaXiv</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-854-a8341543b0",
+   "source_id": "news",
+   "source_name": "21财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "全球AI大模型周调用量榜单中国产品拿下前五中四席，Q3公募基金加仓大模型龙头丨盘中雷达 - 21财经",
+   "summary": "全球AI大模型周调用量榜单中国产品拿下前五中四席，Q3公募基金加仓大模型龙头丨盘中雷达 &nbsp;&nbsp; 21财经",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMDBkSlBmbTR2eXdGdFhEdmI5WWVnR1RqdWlhTzlSSzA3am9WdkoybEZSdk52ZkV3MEQ3VzlVS1pBNElQOGloVkJDZ0h4ZkttVXA2WDdDdzJJWG5OS3JoMUN4Y0g5N2IwZWwwNVp1ZXB4elM2SjFyUW5NNk8wczl3REVDeFoyNXdtZnpjYWlOSktfSnJ1?oc=5",
+   "published_at": "2026-11-09T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMDBkSlBmbTR2eXdGdFhEdmI5WWVnR1RqdWlhTzlSSzA3am9WdkoybEZSdk52ZkV3MEQ3VzlVS1pBNElQOGloVkJDZ0h4ZkttVXA2WDdDdzJJWG5OS3JoMUN4Y0g5N2IwZWwwNVp1ZXB4elM2SjFyUW5NNk8wczl3REVDeFoyNXdtZnpjYWlOSktfSnJ1?oc=5\" target=\"_blank\">全球AI大模型周调用量榜单中国产品拿下前五中四席，Q3公募基金加仓大模型龙头丨盘中雷达</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
   }
  ]
 }

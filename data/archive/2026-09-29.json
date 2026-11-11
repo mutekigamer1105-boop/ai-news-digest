@@ -14508,6 +14508,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVJfX183NjFqMFpFRXBWWkVmSnU0MEdxelEyUWhzekp0MUhlM2NwdjFjWk9zcERaMzUwakdCem9STjRmdXVnNEN4Y0NUQTFOMDZTQVItY081VUFGXzRyS1BQOTBsTER0VkJLOUlZZFl4YzRDb2p5Tjc2UVI3c25HamJWY0dGWmFtVkdhSg?oc=5\" target=\"_blank\">OpenAI unveils low-cost AI model, a day after shelving Astra upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
    "fetched_at": "2026-10-26T09:32:04+00:00"
+  },
+  {
+   "id": "web-1021-54521d2013",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "dot 正式登场 - OpenAI",
+   "summary": "dot 正式登场 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fZERxY1N6eUV3bkF3OVJVdEl4bWdsSDhlSFJGMWF3SVRqUk5Dc0Zhd0xzSHIxN1NSdU5YbmZxY2M2MzUxa1pOZk1teFJHUU5GT0xfUS1QblJidC1JdHkxNFRKaw?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fZERxY1N6eUV3bkF3OVJVdEl4bWdsSDhlSFJGMWF3SVRqUk5Dc0Zhd0xzSHIxN1NSdU5YbmZxY2M2MzUxa1pOZk1teFJHUU5GT0xfUS1QblJidC1JdHkxNFRKaw?oc=5\" target=\"_blank\">dot 正式登场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
   }
  ]
 }

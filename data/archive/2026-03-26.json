@@ -86,6 +86,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBKNWhoTi1EZG01ekhkMkFhdElpb3NxQ0dEcEY1bGxOSV85RGVPdkR2VXdfSFFzY0prOE9MTHZ1akZZTFVQUEwtVEhfTE5rRmpxdkVDNGJ4QWUtdUtkd2ZOZ0doMVpzRFRWUnNv?oc=5\" target=\"_blank\">中国AI大模型，全球爆火！官宣“词元”来了，催生哪些机遇？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">央广网</font>",
    "fetched_at": "2026-09-03T20:18:43+00:00"
+  },
+  {
+   "id": "web-727-34fbdf1734",
+   "source_id": "news",
+   "source_name": "Fortune",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’ - Fortune",
+   "summary": "Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’ &nbsp;&nbsp; Fortune",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEVBdDhIajZlV21pdUwwaktqc0tnSWdqRUhzS3Q5RGktMEsxSndfazRFd29zZ3pZMjROa0ZfTGw1dnJyekswcFpxeTBaTmk2c21ZUFdBeGVmQjdtWXhVTFd3SGdrXzRsaEtmXzJFMnJmcGo5aklUbGJFNk94ZERMcGdWdndxVkxYX25zRVlDcDNLcksxSi1UaEMtTXd2REU0X1FEUnk5QlVvalB4Ymw4M0plR2pOZUhwcGluRjFLY0lYRnJEU1RNR0NZQ2VWSkNDSVBwb0tRWnExTDhpcjAybWNfOA?oc=5",
+   "published_at": "2026-03-26T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEVBdDhIajZlV21pdUwwaktqc0tnSWdqRUhzS3Q5RGktMEsxSndfazRFd29zZ3pZMjROa0ZfTGw1dnJyekswcFpxeTBaTmk2c21ZUFdBeGVmQjdtWXhVTFd3SGdrXzRsaEtmXzJFMnJmcGo5aklUbGJFNk94ZERMcGdWdndxVkxYX25zRVlDcDNLcksxSi1UaEMtTXd2REU0X1FEUnk5QlVvalB4Ymw4M0plR2pOZUhwcGluRjFLY0lYRnJEU1RNR0NZQ2VWSkNDSVBwb0tRWnExTDhpcjAybWNfOA?oc=5\" target=\"_blank\">Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
   }
  ]
 }

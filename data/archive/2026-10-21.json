@@ -13042,6 +13042,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9ORjZOSF9RbVJsc2NOd3R4VW5rV1RvbjlBLUdQYU5ROHdtVmFYZ09NTUtCb1FGNjVlcVU4cEpGS000cWwtTE95S2hDYkEyQmk4cWhhVEw3VzVWcUd6eU9KOUlqUVMxQXBXVWNzd0x3Sk43dw?oc=5\" target=\"_blank\">视频丨AI答案靠不住？GEO给大模型配上“参考书”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
    "fetched_at": "2026-11-04T11:46:32+00:00"
+  },
+  {
+   "id": "web-1005-8ce2532f78",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体可自发形成一套词汇体系 - 新华网",
+   "summary": "AI智能体可自发形成一套词汇体系 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZlhaQjhBMDlKN25WTG1DYWZFTG01V1RTTTZKVmlhQ3JJVEdxOVpieWdjeUo5dnM4QU5HS1pvZFhpYWVPVjVyTDBVUzQzVk5RNFk4UEhKOVJqSVFCeFZISkYzUjM3WlQ1Uk1FZV9acUdmWFdXYUNYX0NyYmpvbVVvLUtn?oc=5",
+   "published_at": "2026-10-21T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZlhaQjhBMDlKN25WTG1DYWZFTG01V1RTTTZKVmlhQ3JJVEdxOVpieWdjeUo5dnM4QU5HS1pvZFhpYWVPVjVyTDBVUzQzVk5RNFk4UEhKOVJqSVFCeFZISkYzUjM3WlQ1Uk1FZV9acUdmWFdXYUNYX0NyYmpvbVVvLUtn?oc=5\" target=\"_blank\">AI智能体可自发形成一套词汇体系</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
   }
  ]
 }

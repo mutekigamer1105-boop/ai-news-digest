@@ -13930,6 +13930,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWThXdnB2TE9RM3M4SUQ2NTZhc1Y0SVBveGpsQm9ySU54VFFRTWJmVjdodEJYLWlmemwzeWlfdnlUcUdfU2JmUm1EdGFXRzdVZzNPcUpEV0dmVDhPRDVidzRZVzVkM1NnWi02NTMwekRRN01YLXZ4RmNYekpvSW54cUlPR2VIX2hJTW1kOGd5ZV9pUldRMExwTjE1dE5Ea0hYT0FhdnFR?oc=5\" target=\"_blank\">Meta introduces Spaces, a new way to collaborate with your Muse agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
    "fetched_at": "2026-11-10T11:58:14+00:00"
+  },
+  {
+   "id": "web-932-d59b6ae13c",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "衡量 AI 智能体处理日常湿实验室科研工作的能力 - OpenAI",
+   "summary": "衡量 AI 智能体处理日常湿实验室科研工作的能力 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdlJDQ1Q4RTZrR2VYeE85NUdfUUZjMnhXWVVDa3pTaUVTVHRqV3ZIUWNrT01IVTFyU1BTaTYyZXJraDRaY1lhMl9EZVZ2U29VektxeEFJc0F6d3ZrMUVCdUJ6ZlU3dDE5aTVvUTR4UzdITl8wd3hSdC1Sd0hvOFFBdTJBbVFUVVlvd2lN?oc=5",
+   "published_at": "2026-11-06T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdlJDQ1Q4RTZrR2VYeE85NUdfUUZjMnhXWVVDa3pTaUVTVHRqV3ZIUWNrT01IVTFyU1BTaTYyZXJraDRaY1lhMl9EZVZ2U29VektxeEFJc0F6d3ZrMUVCdUJ6ZlU3dDE5aTVvUTR4UzdITl8wd3hSdC1Sd0hvOFFBdTJBbVFUVVlvd2lN?oc=5\" target=\"_blank\">衡量 AI 智能体处理日常湿实验室科研工作的能力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-11T11:37:18+00:00"
   }
  ]
 }
