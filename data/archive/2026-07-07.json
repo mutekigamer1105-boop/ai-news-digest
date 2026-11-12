@@ -153,6 +153,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUzRlMWFHbjFYN25LVUk2dFdTdEtKWEJZZzZUaUFEaEZMY1hxTlhEUU1oX2Fsb29Qd2tjdTNQLVRaTDlfbkVOUWJXbXBSUTlYT2RDWmpJVkJFSThUSUUzQ0Y2MWtRV1YtZVFqb1hpOTBwcWhfdS1RRlBxOU9xOWRUZm5iblA2dmdDYXplX3ozWEJRQQ?oc=5\" target=\"_blank\">Legal AI startup Norm Ai hits $1.2 billion valuation after $120 million funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
    "fetched_at": "2026-09-15T04:06:01+00:00"
+  },
+  {
+   "id": "web-726-bd0196c52a",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC",
+   "summary": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDQ?oc=5",
+   "published_at": "2026-07-07T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDQ?oc=5\" target=\"_blank\">Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
   }
  ]
 }

@@ -9026,6 +9026,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQYWM2Uk53M3M4ZS00UnFYNGpWaHBKWE5lWXNNbVNaTFR2dHowdEdSQ0RvcmxOZzdYbmZPZEZCZ01maVVjT0NKeEt0cE5qLW5iRTRnSlhjTTFjZ0F0QVdlUkhtM3hDSm44MklxV01lNUlPT053OGpIdmtUV2lmNWw4eXFocjlpYURVblJrM3JSblc?oc=5\" target=\"_blank\">Scientists find signal that suggests AI is about to go rogue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
    "fetched_at": "2026-11-01T10:55:34+00:00"
+  },
+  {
+   "id": "web-623-f20e04156d",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "AI startup Manus raises $500 million in first funding round since Meta breakup - CNBC",
+   "summary": "AI startup Manus raises $500 million in first funding round since Meta breakup &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uQ0VSTzk3TG13RFFpcl80ZVVteDlyU1pNdng1Q0JHeEtCNUc4cExjX002RjEtMHFSd1pCQm1OTFVYdVpFU2FuNnQxZWhzeHNkcGdKWkFkYnI1bHhHeHhZeW5vVlJVbF9YSlByQ0FkVHdsaHpQbGJMQzJMbw?oc=5",
+   "published_at": "2026-10-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1uQ0VSTzk3TG13RFFpcl80ZVVteDlyU1pNdng1Q0JHeEtCNUc4cExjX002RjEtMHFSd1pCQm1OTFVYdVpFU2FuNnQxZWhzeHNkcGdKWkFkYnI1bHhHeHhZeW5vVlJVbF9YSlByQ0FkVHdsaHpQbGJMQzJMbw?oc=5\" target=\"_blank\">AI startup Manus raises $500 million in first funding round since Meta breakup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
   }
  ]
 }

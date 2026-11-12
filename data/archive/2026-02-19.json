@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFVPU09VcDFya0FRQVZjc3k2VUZ5SnlGNE1SQ0hUNkdvMWxQc3BiSHFjMUotdkpDSHFTVFV5clY2dFA5QzlhdmVPd3V3eHhRU0Fac001eENzdlJVQ045UV9fanpGNEdVLTNZMTZwTTVQdTAyMTVVRWNJczl2b09pVlBuU2VIOTROUnFLbEE0djBlVTNzUkN6aHVCOA?oc=5\" target=\"_blank\">Exposing biases, moods, personalities, and abstract concepts hidden in large language models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT News</font>",
    "fetched_at": "2026-09-05T04:05:06+00:00"
+  },
+  {
+   "id": "web-1024-cffb456d0f",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "推进 AI 对齐领域的独立研究 - OpenAI",
+   "summary": "推进 AI 对齐领域的独立研究 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0pvc1NDT1R4bDNaQk1pdWlzenRmQXdfd3VvcGgzb3B0cGpwMzhBc0Ryc0xJLTJHTlNFWV9yai1YOFc0WEhuc1V3c2FRTzA2aEVfc0xobDhrN2hKM1czUnJqS09GQ1Vfc2hxeEEyb3Z5bEYyWDIzSjRpMU1PNVZMYUZYVU1EZmc?oc=5",
+   "published_at": "2026-02-19T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0pvc1NDT1R4bDNaQk1pdWlzenRmQXdfd3VvcGgzb3B0cGpwMzhBc0Ryc0xJLTJHTlNFWV9yai1YOFc0WEhuc1V3c2FRTzA2aEVfc0xobDhrN2hKM1czUnJqS09GQ1Vfc2hxeEEyb3Z5bEYyWDIzSjRpMU1PNVZMYUZYVU1EZmc?oc=5\" target=\"_blank\">推进 AI 对齐领域的独立研究</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
   }
  ]
 }

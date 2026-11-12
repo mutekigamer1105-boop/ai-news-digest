@@ -14026,6 +14026,288 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw?oc=5\" target=\"_blank\">Stocks jump as oil tumbles, Nvidia falls amid internal probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
    "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-962-71b4da3336",
+   "source_id": "news",
+   "source_name": "DoNews",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体 - DoNews",
+   "summary": "OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体 &nbsp;&nbsp; DoNews",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HeUU2UFFxU3lab29sVDQ0SkdwRVpyMkxoYXVaNnlJN24zNDMzTTAyTHBUZEJvNFB3OUhqN3hiS1VOcnd6dUZDRm1YMnBoQ2hhZFhBTXdHZVUtSjJWSkE?oc=5",
+   "published_at": "2026-11-10T23:32:53+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HeUU2UFFxU3lab29sVDQ0SkdwRVpyMkxoYXVaNnlJN24zNDMzTTAyTHBUZEJvNFB3OUhqN3hiS1VOcnd6dUZDRm1YMnBoQ2hhZFhBTXdHZVUtSjJWSkE?oc=5\" target=\"_blank\">OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DoNews</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-601-50f62124ad",
+   "source_id": "news",
+   "source_name": "Forbes",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "The World’s Youngest Self-Made Billionaires Just Doubled Their Fortunes - Forbes",
+   "summary": "The World’s Youngest Self-Made Billionaires Just Doubled Their Fortunes &nbsp;&nbsp; Forbes",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXpoYzJPNnRzcGRVakhiek5BOVNqUUhOeXhpUlRSdHZ5TnExX2Rubk1xVjZVT016OHEtV2dsb0Zxdi1HS0hqTG00OU5sSy11SEJOZ1VpUkVhVmtIaE9ERjl0TXJKZ3RuVTM0bklINENvS2Y1YjQ1MlJ0empyTFRoeUc1RV9jUzV4Vzl5TGsydU15YXVWQjZHbjVlYlMzd1JfZzhPSDhCNjU2YmdSM2JhN2tud2ZIZDVXQVFQWGVXcw?oc=5",
+   "published_at": "2026-11-10T21:58:52+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXpoYzJPNnRzcGRVakhiek5BOVNqUUhOeXhpUlRSdHZ5TnExX2Rubk1xVjZVT016OHEtV2dsb0Zxdi1HS0hqTG00OU5sSy11SEJOZ1VpUkVhVmtIaE9ERjl0TXJKZ3RuVTM0bklINENvS2Y1YjQ1MlJ0empyTFRoeUc1RV9jUzV4Vzl5TGsydU15YXVWQjZHbjVlYlMzd1JfZzhPSDhCNjU2YmdSM2JhN2tud2ZIZDVXQVFQWGVXcw?oc=5\" target=\"_blank\">The World’s Youngest Self-Made Billionaires Just Doubled Their Fortunes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-596-8c78937a10",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development - TechCrunch",
+   "summary": "Proximal Ventures raises debut fund to back startups bringing AI to drug development &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMnZ4ZEhPVXhaUEY3T2VicFVkTklITlVsb2RTTm9kLTN5NXd5ekZWRmNVQU1TR3ZuS1JyUjd2eUotaENka0k0bU1oUThtRVk4TW9ZeVQwSDhpelJnX3I5dE1MaFFjOGh0Qndib2U2cVRYc0RIanFla1RVMVduaWxtek1jV2ZPaVQ3elJVRHc3Q2N6dlItcVdzLVhYZFRtQlllWHRRbTFJMlB3b0t4dnBmd2VLT1ZfMG40ckpF?oc=5",
+   "published_at": "2026-11-10T20:47:05+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMnZ4ZEhPVXhaUEY3T2VicFVkTklITlVsb2RTTm9kLTN5NXd5ekZWRmNVQU1TR3ZuS1JyUjd2eUotaENka0k0bU1oUThtRVk4TW9ZeVQwSDhpelJnX3I5dE1MaFFjOGh0Qndib2U2cVRYc0RIanFla1RVMVduaWxtek1jV2ZPaVQ3elJVRHc3Q2N6dlItcVdzLVhYZFRtQlllWHRRbTFJMlB3b0t4dnBmd2VLT1ZfMG40ckpF?oc=5\" target=\"_blank\">Proximal Ventures raises debut fund to back startups bringing AI to drug development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-340-f77a7ee213",
+   "source_id": "news",
+   "source_name": "PhocusWire",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI acquires AI travel agent Odessia - PhocusWire",
+   "summary": "OpenAI acquires AI travel agent Odessia &nbsp;&nbsp; PhocusWire",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVS1HcFNFU3laT3lqWTQ0cnNlSFN0Wko3a0w1dTNrRi1QZjQwV0ZmV1NyQjVzX1hpZWttTXdhSG1RZ2NIY2UxdERKS01fLURYMVg2aHlXVE5udUNKRnRkeTFaNE9GSW1QczVMV3VyVFVYT0lXUnBoX3RvOXFkM0gtM19NaWtCb00?oc=5",
+   "published_at": "2026-11-10T20:03:29+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOVS1HcFNFU3laT3lqWTQ0cnNlSFN0Wko3a0w1dTNrRi1QZjQwV0ZmV1NyQjVzX1hpZWttTXdhSG1RZ2NIY2UxdERKS01fLURYMVg2aHlXVE5udUNKRnRkeTFaNE9GSW1QczVMV3VyVFVYT0lXUnBoX3RvOXFkM0gtM19NaWtCb00?oc=5\" target=\"_blank\">OpenAI acquires AI travel agent Odessia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhocusWire</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-607-5b76c936eb",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M - TechCrunch",
+   "summary": "Oura to acquire AI-native primary care startup Counsel Health for $625M &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkN3bE9kbEZlZTJMZmVZM2xfclJ6OHp6X3kwdVNfX0MtZmF4THg1cWlQRkRIRno5UmFUVEI0WWh0SVQydmt2N2U4VWt2N0p4bjFlOTFVbTU4cG5ZdHNuS0NHVzFvRU9MUFdoVnpyWFpTRDRPUmxHbi1KYl8wc1Y2ejRianBXbm5pX005cUZQWENrZ24td243Z2J6NlV4UVlNd0ZLQjEzUUw?oc=5",
+   "published_at": "2026-11-10T19:23:34+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkN3bE9kbEZlZTJMZmVZM2xfclJ6OHp6X3kwdVNfX0MtZmF4THg1cWlQRkRIRno5UmFUVEI0WWh0SVQydmt2N2U4VWt2N0p4bjFlOTFVbTU4cG5ZdHNuS0NHVzFvRU9MUFdoVnpyWFpTRDRPUmxHbi1KYl8wc1Y2ejRianBXbm5pX005cUZQWENrZ24td243Z2J6NlV4UVlNd0ZLQjEzUUw?oc=5\" target=\"_blank\">Oura to acquire AI-native primary care startup Counsel Health for $625M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-96-69e0b208bb",
+   "source_id": "news",
+   "source_name": "The Motley Fool",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead? - The Motley Fool",
+   "summary": "Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead? &nbsp;&nbsp; The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjNTVExHOXNVMzNGNzBKQWdlUmYxVm8wYmF5cS1UOXRUNGdqeFlESThWUmt3T2gxeVVVTzYweW1XUG53YnlDVkROSG96U3JCV0lwcDd0bjBReEtsSWRONWVTQ3FsM3I0czFHT2drWDdYMUp1TWU1WDZmamZubXVaajRMV3d4VVRHUVNHSmhxb29lamh2OFBfWg?oc=5",
+   "published_at": "2026-11-10T19:10:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjNTVExHOXNVMzNGNzBKQWdlUmYxVm8wYmF5cS1UOXRUNGdqeFlESThWUmt3T2gxeVVVTzYweW1XUG53YnlDVkROSG96U3JCV0lwcDd0bjBReEtsSWRONWVTQ3FsM3I0czFHT2drWDdYMUp1TWU1WDZmamZubXVaajRMV3d4VVRHUVNHSmhxb29lamh2OFBfWg?oc=5\" target=\"_blank\">Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-428-1ebc9ede55",
+   "source_id": "the-verge",
+   "source_name": "The Verge",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.92,
+   "title": "Anthropic has its own AI-powered office suite now - The Verge",
+   "summary": "Anthropic has its own AI-powered office suite now &nbsp;&nbsp; The Verge",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjc0QUZNb0FYTVFPN2d1Vld4eTZPWk52NHNKN1Jiblc5MW9ZNkV2Tm0xWU8zR0VtazQ1NV9LQlk2QnJPelVvaXp2QWJDVUxicmowX2Z5TWVhdjE0RlhnanNaSm9ITndEMFpJUjlCUXpVdHljRFY4N2VuRm44cmwxRU1aMnNrTElDeVN3ZGR4YXVBeWNWX29sSzFfYjRlVDNrTEFaU1llSkljU0VQRnc?oc=5",
+   "published_at": "2026-11-10T17:30:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjc0QUZNb0FYTVFPN2d1Vld4eTZPWk52NHNKN1Jiblc5MW9ZNkV2Tm0xWU8zR0VtazQ1NV9LQlk2QnJPelVvaXp2QWJDVUxicmowX2Z5TWVhdjE0RlhnanNaSm9ITndEMFpJUjlCUXpVdHljRFY4N2VuRm44cmwxRU1aMnNrTElDeVN3ZGR4YXVBeWNWX29sSzFfYjRlVDNrTEFaU1llSkljU0VQRnc?oc=5\" target=\"_blank\">Anthropic has its own AI-powered office suite now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-694-4b4a1cf293",
+   "source_id": "news",
+   "source_name": "SQ Magazine",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Google Unleashes Gemini 4 Carbon, Its Most Powerful AI Model - SQ Magazine",
+   "summary": "Google Unleashes Gemini 4 Carbon, Its Most Powerful AI Model &nbsp;&nbsp; SQ Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPanR6WXRKN1RURHZJT1pVYjVwMjB0ejNhSWJERDV1UGpTYmNiem53T0NHVFh2OTcwUEpETjZ5ZDBCU0JCRF9FaTlTRTVzams4QndBaGRrd3M3eFdCYS1kVHVKQVB5bm5H?oc=5",
+   "published_at": "2026-11-10T17:29:37+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPanR6WXRKN1RURHZJT1pVYjVwMjB0ejNhSWJERDV1UGpTYmNiem53T0NHVFh2OTcwUEpETjZ5ZDBCU0JCRF9FaTlTRTVzams4QndBaGRrd3M3eFdCYS1kVHVKQVB5bm5H?oc=5\" target=\"_blank\">Google Unleashes Gemini 4 Carbon, Its Most Powerful AI Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SQ Magazine</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-394-34073d6079",
+   "source_id": "news",
+   "source_name": "Bloomberg.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Unveils Office Tools Ahead of IPO, Taking on Microsoft - Bloomberg.com",
+   "summary": "Anthropic Unveils Office Tools Ahead of IPO, Taking on Microsoft &nbsp;&nbsp; Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlMwX3dzdHpVbEFBcTlGVWlibGtMcDBYOGJwbVJaaWs5X2xiVWM3ZUVDZHBoM1dyM0t1NjNYdVpzTHlYVHhKYTRHbXJTSmpRSFRLZ3FENE9kcXRFcHZVVTloYVJybUJaWWJ0a0ZGcVZpWXA1U2dZNmp1ZjRtbEJWSEtSc1RRbXdsSnh3bjV2WE90SHpBeGJkQ1hfUUtnZV9ldW14RUJoRVFMMFZmVGxBemNXSlM?oc=5",
+   "published_at": "2026-11-10T17:21:08+00:00",
+   "author_handle": null,
+   "builder_id": "satya-nadella",
+   "builder_name": "Satya Nadella",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlMwX3dzdHpVbEFBcTlGVWlibGtMcDBYOGJwbVJaaWs5X2xiVWM3ZUVDZHBoM1dyM0t1NjNYdVpzTHlYVHhKYTRHbXJTSmpRSFRLZ3FENE9kcXRFcHZVVTloYVJybUJaWWJ0a0ZGcVZpWXA1U2dZNmp1ZjRtbEJWSEtSc1RRbXdsSnh3bjV2WE90SHpBeGJkQ1hfUUtnZV9ldW14RUJoRVFMMFZmVGxBemNXSlM?oc=5\" target=\"_blank\">Anthropic Unveils Office Tools Ahead of IPO, Taking on Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-133-ce1e7b8b0e",
+   "source_id": "news",
+   "source_name": "wiz.io",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "How to Evaluate AI Agent Cybersecurity Capabilities - wiz.io",
+   "summary": "How to Evaluate AI Agent Cybersecurity Capabilities &nbsp;&nbsp; wiz.io",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ndWtvSXNreXRsT3dnZVIwelFKaGhaOHp3UU1kS243MUl4VFlucU82b0NTLUF6T3JPVHcxSlNCWlBnS1dxMWVydWFRZlF0enBYS1ZsR1hMbmpFdGlEQ3FzRzhPTHA?oc=5",
+   "published_at": "2026-11-10T16:03:25+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ndWtvSXNreXRsT3dnZVIwelFKaGhaOHp3UU1kS243MUl4VFlucU82b0NTLUF6T3JPVHcxSlNCWlBnS1dxMWVydWFRZlF0enBYS1ZsR1hMbmpFdGlEQ3FzRzhPTHA?oc=5\" target=\"_blank\">How to Evaluate AI Agent Cybersecurity Capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wiz.io</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-860-cc4b1e07d4",
+   "source_id": "news",
+   "source_name": "财联社",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "19:26:53【国产AI大模型密集迭代，科创创业人工智能ETF易方达（159140）标的指数涨超4%、实现三连涨】 - 财联社",
+   "summary": "19:26:53【国产AI大模型密集迭代，科创创业人工智能ETF易方达（159140）标的指数涨超4%、实现三连涨】 &nbsp;&nbsp; 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMUnZSR2lxUTA5Qnh3NDNqNEJoa2V3b2ZjeGItdDV0NDFBUkE4MnphZmFpWE81dVRaYVEyeXBTbzRwWG8xZFJrWg?oc=5",
+   "published_at": "2026-11-10T09:16:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMUnZSR2lxUTA5Qnh3NDNqNEJoa2V3b2ZjeGItdDV0NDFBUkE4MnphZmFpWE81dVRaYVEyeXBTbzRwWG8xZFJrWg?oc=5\" target=\"_blank\">19:26:53【国产AI大模型密集迭代，科创创业人工智能ETF易方达（159140）标的指数涨超4%、实现三连涨】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-480-bc136af381",
+   "source_id": "news",
+   "source_name": "Resultsense",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic launches Claude Fable 5.2 and Mythos 5.2 at lower prices - Resultsense",
+   "summary": "Anthropic launches Claude Fable 5.2 and Mythos 5.2 at lower prices &nbsp;&nbsp; Resultsense",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHZuNzhGMFY0bzBmclBwdGdWUUZDM2l1aUdWX3otYU96alA1YkYxLVVvTmFPeDBuX2FEMjFBek90R1ZXekNzU1hSR1NwQW13Tl9SOEVjS2doMjFDekVnTkJjdWZkY2tsVERLTy1sMEIydS1pNlY2V2p4TG5fVmo1YQ?oc=5",
+   "published_at": "2026-11-10T09:10:51+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxONHZuNzhGMFY0bzBmclBwdGdWUUZDM2l1aUdWX3otYU96alA1YkYxLVVvTmFPeDBuX2FEMjFBek90R1ZXekNzU1hSR1NwQW13Tl9SOEVjS2doMjFDekVnTkJjdWZkY2tsVERLTy1sMEIydS1pNlY2V2p4TG5fVmo1YQ?oc=5\" target=\"_blank\">Anthropic launches Claude Fable 5.2 and Mythos 5.2 at lower prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Resultsense</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-393-cefcbaa47b",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Claude can design electronic prototypes from start to finish - Anthropic",
+   "summary": "Claude can design electronic prototypes from start to finish &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmk0c0tyNmVjUlFGNGlCZUtLSkxDQS13Unc1LUVXanhOVmt2a2xTLUQ2Vm5LZ2RLQnMzVUhUQXFLTVBfd1VQZi01V0ppVkZLU0VIcXNJT3V3Ul9ZSEFUS3l6S2ZLY0tHOVgxNw?oc=5",
+   "published_at": "2026-11-10T02:49:04+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmk0c0tyNmVjUlFGNGlCZUtLSkxDQS13Unc1LUVXanhOVmt2a2xTLUQ2Vm5LZ2RLQnMzVUhUQXFLTVBfd1VQZi01V0ppVkZLU0VIcXNJT3V3Ul9ZSEFUS3l6S2ZLY0tHOVgxNw?oc=5\" target=\"_blank\">Claude can design electronic prototypes from start to finish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-11-12T12:00:17+00:00"
   }
  ]
 }
