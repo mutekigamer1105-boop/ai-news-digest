@@ -11188,6 +11188,287 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRDhDaVpHZTR4QzFGMnM1bVhVOUJVM2FkeU1wTUxKYUUzMldHbEVGVC1XR25iZ3hrdGhIbHdheUJhd1Q2T0tqX3cycXFhU0ppemhfZ3dHcG11RDdaS2JPVU5vSThNZmUtYWdveWNiOUplbG1MTFFCY2hLenNVRUxhQ2xibktrUzNaU2pVMVk3UlVqWFhGQllxcGtYclZfMlF5a1pTR2x3ZkhhUkNSNUE?oc=5\" target=\"_blank\">OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
    "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-42-81e0d07f96",
+   "source_id": "news",
+   "source_name": "Amazon Web Services (AWS)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "OpenAI Codex on Amazon Bedrock | Artificial Intelligence - Amazon Web Services (AWS)",
+   "summary": "OpenAI Codex on Amazon Bedrock | Artificial Intelligence &nbsp;&nbsp; Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaTMtak5LN2ZUam9haGF5ekhPR1hvdFNyU2lybEN0YU0xdWtnNFBEZ2o4clJNT050OXZXWXJtRm9iOFZLVHI5SEc1aWdmb3NHM1Y4UE5MdUc5MlNPaGE2SEJ6cjhyeUlEaGFNeUxUeVRYTGQzeUZNdDB4YmZfNENOVDVsZw?oc=5",
+   "published_at": "2026-11-11T23:35:47+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNaTMtak5LN2ZUam9haGF5ekhPR1hvdFNyU2lybEN0YU0xdWtnNFBEZ2o4clJNT050OXZXWXJtRm9iOFZLVHI5SEc1aWdmb3NHM1Y4UE5MdUc5MlNPaGE2SEJ6cjhyeUlEaGFNeUxUeVRYTGQzeUZNdDB4YmZfNENOVDVsZw?oc=5\" target=\"_blank\">OpenAI Codex on Amazon Bedrock | Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+   "fetched_at": "2026-11-13T11:45:27+00:00"
+  },
+  {
+   "id": "web-85-0a326f0f65",
+   "source_id": "news",
+   "source_name": "Amazon Web Services (AWS)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Semantic diffing of formal policies with anti-unification - Amazon Web Services (AWS)",
+   "summary": "Semantic diffing of formal policies with anti-unification &nbsp;&nbsp; Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0JJNjRsdDh4SHF3TTJtQ3pueG9pbGJHdlI1U1dCNlVteV9oNHhTOTVCTEgtZG5CWllVUjRCR1hwdFN5WVRqVVhjTnZzc2g2akxWRTlJNUhfS3Qxdlh2MjdVTTFpOVdLYTZIcExlcjFxd0hGZF9WbVF3Q2RVTDZYM2xxTjRQMVUweEdFQ1hWbDdKbXB3akJkVFZiVkRLNUo3ejNlb054bw?oc=5",
+   "published_at": "2026-11-11T23:33:03+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0JJNjRsdDh4SHF3TTJtQ3pueG9pbGJHdlI1U1dCNlVteV9oNHhTOTVCTEgtZG5CWllVUjRCR1hwdFN5WVRqVVhjTnZzc2g2akxWRTlJNUhfS3Qxdlh2MjdVTTFpOVdLYTZIcExlcjFxd0hGZF9WbVF3Q2RVTDZYM2xxTjRQMVUweEdFQ1hWbDdKbXB3akJkVFZiVkRLNUo3ejNlb054bw?oc=5\" target=\"_blank\">Semantic diffing of formal policies with anti-unification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-444-78525def7f",
+   "source_id": "news",
+   "source_name": "Morningstar",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic: We See the Stock as Undervalued in the IPO Pricing Range - Morningstar",
+   "summary": "Anthropic: We See the Stock as Undervalued in the IPO Pricing Range &nbsp;&nbsp; Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnU4YmpTb3AxQWJUZ3BmVjRuMTctbElqVWlpNWp6SlhTLUJqNGUweGo2YlJZYWpjbHdORUxDWHhnNWhQRHhCdE43SzZlZlJwQ0lZRTVsQVZzV2NRV0NrNUhHNklsa1dYWnFrSElyLVZPTTc2a3BNMFNzaW03SXF2WDIyUVF6cUpyNGQ1MzM2NkFLNWloOWNJYlhwME4?oc=5",
+   "published_at": "2026-11-11T21:41:09+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnU4YmpTb3AxQWJUZ3BmVjRuMTctbElqVWlpNWp6SlhTLUJqNGUweGo2YlJZYWpjbHdORUxDWHhnNWhQRHhCdE43SzZlZlJwQ0lZRTVsQVZzV2NRV0NrNUhHNklsa1dYWnFrSElyLVZPTTc2a3BNMFNzaW03SXF2WDIyUVF6cUpyNGQ1MzM2NkFLNWloOWNJYlhwME4?oc=5\" target=\"_blank\">Anthropic: We See the Stock as Undervalued in the IPO Pricing Range</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-491-08e147f132",
+   "source_id": "news",
+   "source_name": "Yahoo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Is Reserving 20% of Its IPO for Retail Investors. Here’s What Claude Thinks. - Yahoo Finance",
+   "summary": "Anthropic Is Reserving 20% of Its IPO for Retail Investors. Here’s What Claude Thinks. &nbsp;&nbsp; Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGdWQkw5aEppZGZaU010cEZVZUtWNGs5VXBWSXpvZXktZ25mVFZ5Vk9IQkJfUjFDd3JNV0d4X203YUxGTnJTczBRTGVHNlMybkRjNzNucTlaRTV3YlRJd3VwZ2lnYUJ2cERwbnpxSmdmWkY5RWVfVVlUZHpkQ1l3Q1VaSXRFSHhMZmFqdl9Tc1hRYmJzd1EzTFppck9wdTg?oc=5",
+   "published_at": "2026-11-11T21:39:04+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGdWQkw5aEppZGZaU010cEZVZUtWNGs5VXBWSXpvZXktZ25mVFZ5Vk9IQkJfUjFDd3JNV0d4X203YUxGTnJTczBRTGVHNlMybkRjNzNucTlaRTV3YlRJd3VwZ2lnYUJ2cERwbnpxSmdmWkY5RWVfVVlUZHpkQ1l3Q1VaSXRFSHhMZmFqdl9Tc1hRYmJzd1EzTFppck9wdTg?oc=5\" target=\"_blank\">Anthropic Is Reserving 20% of Its IPO for Retail Investors. Here’s What Claude Thinks.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-604-bb54c4d6ab",
+   "source_id": "techcrunch",
+   "source_name": "TechCrunch",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.95,
+   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips - TechCrunch",
+   "summary": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips &nbsp;&nbsp; TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUt2N3V3R3cxNk1zakZ6bkN0MGtCakhueGlEaG5pZlhHVFpjYTRmTWZvTUgxNUZkV0k0SFVsckJLVWhySDg5OWxLNDlQOGZxUzI0bEtCMEpjdjE3ZF9iNFZGc3EwZVJlaUNFNVNSZk9GM2NHU1QtTkN2dEw1Zlh0QkZhemd4OEhhNWtRVDItRmZxQ0RfbW1DczdmMlVGcDFhS2RzTkRfVFRENW8?oc=5",
+   "published_at": "2026-11-11T19:34:55+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUt2N3V3R3cxNk1zakZ6bkN0MGtCakhueGlEaG5pZlhHVFpjYTRmTWZvTUgxNUZkV0k0SFVsckJLVWhySDg5OWxLNDlQOGZxUzI0bEtCMEpjdjE3ZF9iNFZGc3EwZVJlaUNFNVNSZk9GM2NHU1QtTkN2dEw1Zlh0QkZhemd4OEhhNWtRVDItRmZxQ0RfbW1DczdmMlVGcDFhS2RzTkRfVFRENW8?oc=5\" target=\"_blank\">With $720M round, Britain’s Fractile gets a leg up in the race for AI chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-708-3986e4b6fc",
+   "source_id": "news",
+   "source_name": "blog.google",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions - blog.google",
+   "summary": "Gemini Decisions API: Fast, calibrated multimodal decisions &nbsp;&nbsp; blog.google",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGVFa0w0cmk4aTZOc0dVWnc5bm5lSzRZOE9aQldlcTZZUGc4MGNNWGlTbDFJYUlibHJoQ2xpOEdrUFpPODBQOGluNUhVQWxvY2ZuWE84TVN3NVJza04xVXlBcW1kVkl1WjZMM2RxREktM2Z3bVVqbTBkUnJuTy0tRl9KSkxuT2pzY0Zib1dKV24?oc=5",
+   "published_at": "2026-11-11T18:22:43+00:00",
+   "author_handle": null,
+   "builder_id": "demis-hassabis",
+   "builder_name": "Demis Hassabis",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGVFa0w0cmk4aTZOc0dVWnc5bm5lSzRZOE9aQldlcTZZUGc4MGNNWGlTbDFJYUlibHJoQ2xpOEdrUFpPODBQOGluNUhVQWxvY2ZuWE84TVN3NVJza04xVXlBcW1kVkl1WjZMM2RxREktM2Z3bVVqbTBkUnJuTy0tRl9KSkxuT2pzY0Zib1dKV24?oc=5\" target=\"_blank\">Gemini Decisions API: Fast, calibrated multimodal decisions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-512-2f111f0cba",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’ - CNBC",
+   "summary": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’ &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXhKWElWbF84SlAwVHhHTjBZQ044MTBtVFZJVjFqR3czZFB4RVRGZ1lmcGJjWGZfZTl3T3lUNk5Ucy1CRDhmREpBN1E4OGpHWlhHN2ZEZFhSV0E1ekZubEtEVmVMTjRZamRtREdPeDhtWHNmaUU2d3YyaGxqa19HSERTVERTV3Nr0gGOAUFVX3lxTE1tUzJvZlVHRUVzOVpIamFOWjNRaDNKSGNGZ2hNSHplSnlJTGs5Y0w5bDBkcW81U01DbVpJaExjRWh3elVLbFNGUWxLaHdBVmhnZEw3THdVOThyakk2OVZvNGJnZG1vNGRMWTEtV2J3c2dOeEZlSlMyQVZMS3BkTVllYlZLaDVXMVhDU3d5Ymc?oc=5",
+   "published_at": "2026-11-11T18:09:50+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXhKWElWbF84SlAwVHhHTjBZQ044MTBtVFZJVjFqR3czZFB4RVRGZ1lmcGJjWGZfZTl3T3lUNk5Ucy1CRDhmREpBN1E4OGpHWlhHN2ZEZFhSV0E1ekZubEtEVmVMTjRZamRtREdPeDhtWHNmaUU2d3YyaGxqa19HSERTVERTV3Nr0gGOAUFVX3lxTE1tUzJvZlVHRUVzOVpIamFOWjNRaDNKSGNGZ2hNSHplSnlJTGs5Y0w5bDBkcW81U01DbVpJaExjRWh3elVLbFNGUWxLaHdBVmhnZEw3THdVOThyakk2OVZvNGJnZG1vNGRMWTEtV2J3c2dOeEZlSlMyQVZMS3BkTVllYlZLaDVXMVhDU3d5Ymc?oc=5\" target=\"_blank\">Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-1003-af2bb7d276",
+   "source_id": "news",
+   "source_name": "36Kr",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "联合航空禁止Muse、Instinct等AI智能体预订航班 - 36Kr",
+   "summary": "联合航空禁止Muse、Instinct等AI智能体预订航班 &nbsp;&nbsp; 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PYVNaQVg5UDdEYmZFaktVU3Y5dDVRaHI4c3ZhV2dKbTFiUGxrblQwWkIxMzViTWpSQnJ6SjVLSjROM3FndkpzMmVEZmx0cWZhYlJrT2dRRjE?oc=5",
+   "published_at": "2026-11-11T17:52:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PYVNaQVg5UDdEYmZFaktVU3Y5dDVRaHI4c3ZhV2dKbTFiUGxrblQwWkIxMzViTWpSQnJ6SjVLSjROM3FndkpzMmVEZmx0cWZhYlJrT2dRRjE?oc=5\" target=\"_blank\">联合航空禁止Muse、Instinct等AI智能体预订航班</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-70-5539ddc397",
+   "source_id": "news",
+   "source_name": "The Motley Fool",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "3 Artificial Intelligence (AI) Stocks to Buy on the Post-Election Dip and Hold for 5 Years - The Motley Fool",
+   "summary": "3 Artificial Intelligence (AI) Stocks to Buy on the Post-Election Dip and Hold for 5 Years &nbsp;&nbsp; The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORlA3a05aSDZidHFSZzlXSnd2UklPSmFjb3VnV0JDZ1RHa3FxcFJzakxORDd3c05rMF9DWVFpWU02bzVsUHBfcGZPeEFnNkVFRnNJbjZVSUM3VHdzRExBbHIyV0tyenowdTY5LWgxd0xkTUR0SmYxMnQxVjFveVJTdmpWNjFNdjVyMW55YWxDcVdYRnBVY3hVbGg3YzY5LTNiM2NFSnFvd1B2R1Nrbk90V1RuS3BXNk1Ud2hGVnE2V1FwSFBqdFdQeGZfRQ?oc=5",
+   "published_at": "2026-11-11T15:01:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxORlA3a05aSDZidHFSZzlXSnd2UklPSmFjb3VnV0JDZ1RHa3FxcFJzakxORDd3c05rMF9DWVFpWU02bzVsUHBfcGZPeEFnNkVFRnNJbjZVSUM3VHdzRExBbHIyV0tyenowdTY5LWgxd0xkTUR0SmYxMnQxVjFveVJTdmpWNjFNdjVyMW55YWxDcVdYRnBVY3hVbGg3YzY5LTNiM2NFSnFvd1B2R1Nrbk90V1RuS3BXNk1Ud2hGVnE2V1FwSFBqdFdQeGZfRQ?oc=5\" target=\"_blank\">3 Artificial Intelligence (AI) Stocks to Buy on the Post-Election Dip and Hold for 5 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-37-715f00fed0",
+   "source_id": "news",
+   "source_name": "Daily Nous",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What May Artificial Intelligence Do for Writers? (updated) - Daily Nous",
+   "summary": "What May Artificial Intelligence Do for Writers? (updated) &nbsp;&nbsp; Daily Nous",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2tGcm9maEVBcHRJRDZfRG1qU1F4Q213ZHRnM3FoaDlfdTAzdWJTVFpHdFVNbDB5ZXNkb09uQnFRX1ItUnBlai1yS0tHa0EtRHpPSXl4SWVFeThMQnd5Tm9wbk9CSkE0Q3I5dXZlel9BZHJJcmJSdGFvZ3FtQ0ZyeUFDT05zTmd0?oc=5",
+   "published_at": "2026-11-11T14:21:54+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2tGcm9maEVBcHRJRDZfRG1qU1F4Q213ZHRnM3FoaDlfdTAzdWJTVFpHdFVNbDB5ZXNkb09uQnFRX1ItUnBlai1yS0tHa0EtRHpPSXl4SWVFeThMQnd5Tm9wbk9CSkE0Q3I5dXZlel9BZHJJcmJSdGFvZ3FtQ0ZyeUFDT05zTmd0?oc=5\" target=\"_blank\">What May Artificial Intelligence Do for Writers? (updated)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Nous</font>",
+   "fetched_at": "2026-11-13T11:45:27+00:00"
+  },
+  {
+   "id": "web-208-64a1943659",
+   "source_id": "news",
+   "source_name": "alphaXiv",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Ordinary-Use Harm From Large Language Models in AI Risk Literature and Incident Records - alphaXiv",
+   "summary": "Ordinary-Use Harm From Large Language Models in AI Risk Literature and Incident Records &nbsp;&nbsp; alphaXiv",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aRU5qUUtoaEY3RHJMdXlPaWFCWmFnRlhkd3VOS2ctdnVkMFYweXk1bmdEYlVYSGkxaUx4TmlJNTdqaVNnNHFsMFZlNHJPVlAyekdxM3dwWE55Qjl6RmN2VEl0Slhjdw?oc=5",
+   "published_at": "2026-11-11T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aRU5qUUtoaEY3RHJMdXlPaWFCWmFnRlhkd3VOS2ctdnVkMFYweXk1bmdEYlVYSGkxaUx4TmlJNTdqaVNnNHFsMFZlNHJPVlAyekdxM3dwWE55Qjl6RmN2VEl0Slhjdw?oc=5\" target=\"_blank\">Ordinary-Use Harm From Large Language Models in AI Risk Literature and Incident Records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alphaXiv</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-633-16b00da567",
+   "source_id": "news",
+   "source_name": "Telecompaper",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "UK AI chip start-up Fractile valued at GBP 7 bln in latest funding round - Telecompaper",
+   "summary": "UK AI chip start-up Fractile valued at GBP 7 bln in latest funding round &nbsp;&nbsp; Telecompaper",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2dlV19SWDRhS1Rvc1J3M0E0MXBNaU9FcUxmRmQtLU1PemhTSWJ4dG41ajhmcGtnMEFlTTBqTkZ4SDBVcmM5aWgwdTJ4NmhTdEdEOUktSkl2NUl1V2lHcVB6bFNDTk14T00wcFBjcUF0cjl5T1ZMSTZZeVFiMUc3RzktWVZreVdzQUN0czdibkI2bVhaVGxSV25MMGdwUzBTclJrUTI3ZWZJbkhscGwyS0RndzZsUQ?oc=5",
+   "published_at": "2026-11-11T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "算力",
+    "融资"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2dlV19SWDRhS1Rvc1J3M0E0MXBNaU9FcUxmRmQtLU1PemhTSWJ4dG41ajhmcGtnMEFlTTBqTkZ4SDBVcmM5aWgwdTJ4NmhTdEdEOUktSkl2NUl1V2lHcVB6bFNDTk14T00wcFBjcUF0cjl5T1ZMSTZZeVFiMUc3RzktWVZreVdzQUN0czdibkI2bVhaVGxSV25MMGdwUzBTclJrUTI3ZWZJbkhscGwyS0RndzZsUQ?oc=5\" target=\"_blank\">UK AI chip start-up Fractile valued at GBP 7 bln in latest funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telecompaper</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-974-27befe79e9",
+   "source_id": "news",
+   "source_name": "HKUST",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "科大研发亚洲首个AI智能体「ASD Super Agent」提供一站式自闭症支持| 香港科大 - HKUST",
+   "summary": "科大研发亚洲首个AI智能体「ASD Super Agent」提供一站式自闭症支持| 香港科大 &nbsp;&nbsp; HKUST",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDVhNk5JemZySFpqRmVVR2NOVktSTVI4N2laOC1LejNhYzU4UkVmajNOc3ktTk9ta2pISm5OSUdWRDB5QXFqVjdqaU1WaEhnWi15RXNwMGFUOGtSNVdQNEJBSlM1a0c4UndBQW05M3ZlNE9MLUxTRG9TcGwtSGFIeE1OUHctbHhLamNFSUZBSVA2QjZ3OWZublhuVW54WHpJMTJKMVZtWWw5UFJUeG56dg?oc=5",
+   "published_at": "2026-11-11T05:12:30+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRDVhNk5JemZySFpqRmVVR2NOVktSTVI4N2laOC1LejNhYzU4UkVmajNOc3ktTk9ta2pISm5OSUdWRDB5QXFqVjdqaU1WaEhnWi15RXNwMGFUOGtSNVdQNEJBSlM1a0c4UndBQW05M3ZlNE9MLUxTRG9TcGwtSGFIeE1OUHctbHhLamNFSUZBSVA2QjZ3OWZublhuVW54WHpJMTJKMVZtWWw5UFJUeG56dg?oc=5\" target=\"_blank\">科大研发亚洲首个AI智能体「ASD Super Agent」提供一站式自闭症支持| 香港科大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HKUST</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
   }
  ]
 }

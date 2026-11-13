@@ -14308,6 +14308,177 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmk0c0tyNmVjUlFGNGlCZUtLSkxDQS13Unc1LUVXanhOVmt2a2xTLUQ2Vm5LZ2RLQnMzVUhUQXFLTVBfd1VQZi01V0ppVkZLU0VIcXNJT3V3Ul9ZSEFUS3l6S2ZLY0tHOVgxNw?oc=5\" target=\"_blank\">Claude can design electronic prototypes from start to finish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-420-deaa6d3af7",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor - Reuters",
+   "summary": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
+   "published_at": "2026-11-10T19:49:05+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5\" target=\"_blank\">EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-10-82f3eef599",
+   "source_id": "news",
+   "source_name": "Department of Energy (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "DOE Explains...Artificial Intelligence - Department of Energy (.gov)",
+   "summary": "DOE Explains...Artificial Intelligence &nbsp;&nbsp; Department of Energy (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41OVprOE5tN2lBVzZuck52RDRvRU9FU0JvNThpald0enFRaUNzSHBxY0QzVmVhWnJMMHNEUXAzUlNrRnFmOFBtNkpTUVhTQ1lkdFVFeXJpRUZodHAwWTZwMDQ1UzNfMThKTFZqSjZuWkxtOEl2?oc=5",
+   "published_at": "2026-11-10T18:13:51+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE41OVprOE5tN2lBVzZuck52RDRvRU9FU0JvNThpald0enFRaUNzSHBxY0QzVmVhWnJMMHNEUXAzUlNrRnFmOFBtNkpTUVhTQ1lkdFVFeXJpRUZodHAwWTZwMDQ1UzNfMThKTFZqSjZuWkxtOEl2?oc=5\" target=\"_blank\">DOE Explains...Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+   "fetched_at": "2026-11-13T11:45:27+00:00"
+  },
+  {
+   "id": "web-322-10e8800c7e",
+   "source_id": "reuters-tech",
+   "source_name": "Reuters Technology",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.9,
+   "title": "TSMC to invest up to $1 billion in Anthropic, OpenAI - Reuters",
+   "summary": "TSMC to invest up to $1 billion in Anthropic, OpenAI &nbsp;&nbsp; Reuters",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2I3VHRfaEF6T19qN28tZEVhN0piNERjTFpJRVlDMFdTLXJUZTlNdGJXblVLTVpEY0QzUVdvay1IazlCNTBmbGFWQ3NlNkIxRzBZSTIwSEJGUnJKTjl2YkZrUVdLVzB3T1V2WkRhRVAzcmVCVFJ6RjRfUEJveDZnWTlFYTBRZl9sMFlIUGZZaXlibmc?oc=5",
+   "published_at": "2026-11-10T14:16:09+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2I3VHRfaEF6T19qN28tZEVhN0piNERjTFpJRVlDMFdTLXJUZTlNdGJXblVLTVpEY0QzUVdvay1IazlCNTBmbGFWQ3NlNkIxRzBZSTIwSEJGUnJKTjl2YkZrUVdLVzB3T1V2WkRhRVAzcmVCVFJ6RjRfUEJveDZnWTlFYTBRZl9sMFlIUGZZaXlibmc?oc=5\" target=\"_blank\">TSMC to invest up to $1 billion in Anthropic, OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-100-271c16ef8c",
+   "source_id": "news",
+   "source_name": "IBM Newsroom",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation - IBM Newsroom",
+   "summary": "IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation &nbsp;&nbsp; IBM Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmlzcVoyeUhXT1RZT3l6WFh6S0d0TnY2aDdwTU16S3dRUk4xbE9HaVphcHduV3ZObGE3R3JpNTRTaVFINjdJeXdQUnExdDRmZmpMckYySnlwQjVqX2UxODRfVUlVRXJIaVVrMnRfTDdzTkZ4eUFHa185RTlEcktaM0tTTUw3SEU3NTFDM3EwV2x1d1YzQTh5bXJGa2dZcGZ6dzFSNDRUTnUxRllELW9ZejJsMEE3dGQ2UHBpcFNvc0xTeFJMdXhlSkNtMXU?oc=5",
+   "published_at": "2026-11-10T13:05:23+00:00",
+   "author_handle": null,
+   "builder_id": "satya-nadella",
+   "builder_name": "Satya Nadella",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmlzcVoyeUhXT1RZT3l6WFh6S0d0TnY2aDdwTU16S3dRUk4xbE9HaVphcHduV3ZObGE3R3JpNTRTaVFINjdJeXdQUnExdDRmZmpMckYySnlwQjVqX2UxODRfVUlVRXJIaVVrMnRfTDdzTkZ4eUFHa185RTlEcktaM0tTTUw3SEU3NTFDM3EwV2x1d1YzQTh5bXJGa2dZcGZ6dzFSNDRUTnUxRllELW9ZejJsMEE3dGQ2UHBpcFNvc0xTeFJMdXhlSkNtMXU?oc=5\" target=\"_blank\">IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM Newsroom</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-445-5f8e8560d0",
+   "source_id": "news",
+   "source_name": "SEC.gov",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic, PBC - S-1/A-2 - SEC.gov",
+   "summary": "Anthropic, PBC - S-1/A-2 &nbsp;&nbsp; SEC.gov",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzRpNndKenZsMXJpVWZiWGpMeDd5M2xteFpISmp6UlVDSy14d01HYVdlZ0x2dlFzSXQ2SmVMbEoyM3JaZHFJZnR6a0UtOXRQN0IwOEpkSV9zY29TX2pndHBsTXEwQ2VNSUlLVzFVaVlhUjZhUzlFeHlhMEJjM0lJd3FlbThkNGJVVmRQRVgtdFhJa3NN?oc=5",
+   "published_at": "2026-11-10T12:00:44+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzRpNndKenZsMXJpVWZiWGpMeDd5M2xteFpISmp6UlVDSy14d01HYVdlZ0x2dlFzSXQ2SmVMbEoyM3JaZHFJZnR6a0UtOXRQN0IwOEpkSV9zY29TX2pndHBsTXEwQ2VNSUlLVzFVaVlhUjZhUzlFeHlhMEJjM0lJd3FlbThkNGJVVmRQRVgtdFhJa3NN?oc=5\" target=\"_blank\">Anthropic, PBC - S-1/A-2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SEC.gov</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-447-317622865f",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say - CNBC",
+   "summary": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRndodzlpaTVnaEdjdDBCMHNyQlVjclVGb0tXV0xEdkU4YUIxbE83eTdHUFpRN1VYQ3UybWRYckJ4Q0s5UlhZSHRILXgzN0g4MHRveHVrbUlfZnhvcV85dWs3WjI0Y1VPeXBaakY1RTlJazBsZ2NPeFBEcGVLcHRtNXl3UzZ3ZzRDN1JEcUV4dWRMN0NhY1HSAZsBQVVfeXFMTkJzemsxZUVncWxxcVJhNnc2VE5PVklGeEF3a3hmbmJlY25Ed2JxTE1kcDVwLVJzRkFxUHJVbHVHeWUxb0ZxUlZoZlNobkQyT1Z3QU9uX09QdmRyMUFMaVJ2bUJSTTczeFFER1RrelFLYTJfdG5iWDk3Um9QYTI1Q0hteEUyNnlPUENETHNxeU81VDM0Mm85NUs1ODg?oc=5",
+   "published_at": "2026-11-10T11:40:11+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQRndodzlpaTVnaEdjdDBCMHNyQlVjclVGb0tXV0xEdkU4YUIxbE83eTdHUFpRN1VYQ3UybWRYckJ4Q0s5UlhZSHRILXgzN0g4MHRveHVrbUlfZnhvcV85dWs3WjI0Y1VPeXBaakY1RTlJazBsZ2NPeFBEcGVLcHRtNXl3UzZ3ZzRDN1JEcUV4dWRMN0NhY1HSAZsBQVVfeXFMTkJzemsxZUVncWxxcVJhNnc2VE5PVklGeEF3a3hmbmJlY25Ed2JxTE1kcDVwLVJzRkFxUHJVbHVHeWUxb0ZxUlZoZlNobkQyT1Z3QU9uX09QdmRyMUFMaVJ2bUJSTTczeFFER1RrelFLYTJfdG5iWDk3Um9QYTI1Q0hteEUyNnlPUENETHNxeU81VDM0Mm85NUs1ODg?oc=5\" target=\"_blank\">Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-686-6f8660f7ff",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+   "summary": "Introducing GPT-6 Sol and Luna &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+   "published_at": "2026-11-10T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5\" target=\"_blank\">Introducing GPT-6 Sol and Luna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-395-7cae400503",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 - Anthropic",
+   "summary": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5",
+   "published_at": "2026-11-10T02:08:56+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5\" target=\"_blank\">Introducing Claude Fable 5.2 and Claude Mythos 5.2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
   }
  ]
 }

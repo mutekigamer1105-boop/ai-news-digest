@@ -8773,6 +8773,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsX0xrbjBnWThaNERlSGFEaTZKNEdGYWVDS2JjMTloN0pvLUV4UFc5U2VuUGlPamxndFpTbnYtaTZvVVpXQm9VWEdFRC1IUQ?oc=5\" target=\"_blank\">四川省肿瘤医院参与研发的AI大模型登上《自然·医学》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbgc.scol.com.cn</font>",
    "fetched_at": "2026-10-02T04:06:25+00:00"
+  },
+  {
+   "id": "web-257-9f45f7ccb2",
+   "source_id": "news",
+   "source_name": "Coursera",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "What Are Large Language Models (LLMs)? - Coursera",
+   "summary": "What Are Large Language Models (LLMs)? &nbsp;&nbsp; Coursera",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MXdsZ2J6cjJhZFRLMjlFanMxQnBTUjFwZFZvNmxQSUVpZ0FfVl9FOEtuaVJUVC1IcGM3YXZzWmFMQkN0N1RxVlBBb2lHUWdJZXZaYVdGc1k4dU5nQzJHN0xOaEFIQQ?oc=5",
+   "published_at": "2026-09-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MXdsZ2J6cjJhZFRLMjlFanMxQnBTUjFwZFZvNmxQSUVpZ0FfVl9FOEtuaVJUVC1IcGM3YXZzWmFMQkN0N1RxVlBBb2lHUWdJZXZaYVdGc1k4dU5nQzJHN0xOaEFIQQ?oc=5\" target=\"_blank\">What Are Large Language Models (LLMs)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coursera</font>",
+   "fetched_at": "2026-11-13T11:45:28+00:00"
   }
  ]
 }
