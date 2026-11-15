@@ -11598,6 +11598,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOemcxaS1wZzZyUGhITkh5Unh5cnVndFpLa3cxc1ZwLUxVeDFmUVBjREdnVlU2NFJIMWxhYW5OX243TVhJRUVCeXFFY0ZrelJWVzMyLTJ2R1BVUnQySmtsck5xWWJNUU5RX21HMHF4bVNBMERHSGxQWEppbnJVay11dDFCb2c?oc=5\" target=\"_blank\">Anthropic bankers prepare to increase IPO valuation to $1.5tn or more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
    "fetched_at": "2026-11-14T11:07:00+00:00"
+  },
+  {
+   "id": "web-157-4125fb2804",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "United Airlines moves to block AI agents from its platform over security concerns - CNBC",
+   "summary": "United Airlines moves to block AI agents from its platform over security concerns &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sUlY3UW5HVV9CZXk5TG9CeGNyZnN2aGViT2lvcFJHa1lDQTB0c0xvN3NFcmJrdlRaSmdoNk9MWmRRenFBX3RidklYWTVPZGtUZHFRUnZ3RzNrWThBXzJvQ0JRTm5ua3JDTEc1cHQ4TdIBdEFVX3lxTE44MHItRk83bzdkejFDRTRENHU1WkV6cVlFa0psT0poQllxSUhyaFJ3Y1JzUVROUVJRbHBrNGlwSjhzeDl1Njk2d0xQQW5mQVZ1WDBmWE5nbWl3SVA3eVBBbHdSWHFnbDZhRGc1eXloVEZtbS1z?oc=5",
+   "published_at": "2026-11-11T20:02:20+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9sUlY3UW5HVV9CZXk5TG9CeGNyZnN2aGViT2lvcFJHa1lDQTB0c0xvN3NFcmJrdlRaSmdoNk9MWmRRenFBX3RidklYWTVPZGtUZHFRUnZ3RzNrWThBXzJvQ0JRTm5ua3JDTEc1cHQ4TdIBdEFVX3lxTE44MHItRk83bzdkejFDRTRENHU1WkV6cVlFa0psT0poQllxSUhyaFJ3Y1JzUVROUVJRbHBrNGlwSjhzeDl1Njk2d0xQQW5mQVZ1WDBmWE5nbWl3SVA3eVBBbHdSWHFnbDZhRGc1eXloVEZtbS1z?oc=5\" target=\"_blank\">United Airlines moves to block AI agents from its platform over security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
   }
  ]
 }

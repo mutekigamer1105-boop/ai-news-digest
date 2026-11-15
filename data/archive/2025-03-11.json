@@ -1,0 +1,27 @@
+{
+ "items": [
+  {
+   "id": "web-991-c1eaa05adb",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "构建智能体的新工具 - OpenAI",
+   "summary": "构建智能体的新工具 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yTzVCeWNuQlFCbnRWdkxNY0Z4dmZmVnBnRTU4czY2bmVTdGdzYXpaSjFGVmJhTk00YzAtbzd6eGp1RmdDbDRPQzhhLTdfbVQxaWxlcHB1dkc5SmZtNElFdzdGNFR6VVZTV29hQjE2S3JRX3Uz?oc=5",
+   "published_at": "2025-03-11T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4yTzVCeWNuQlFCbnRWdkxNY0Z4dmZmVnBnRTU4czY2bmVTdGdzYXpaSjFGVmJhTk00YzAtbzd6eGp1RmdDbDRPQzhhLTdfbVQxaWxlcHB1dkc5SmZtNElFdzdGNFR6VVZTV29hQjE2S3JRX3Uz?oc=5\" target=\"_blank\">构建智能体的新工具</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
+  }
+ ]
+}

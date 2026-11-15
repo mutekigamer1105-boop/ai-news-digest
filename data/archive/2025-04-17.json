@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-990-5b119a1779",
+   "source_id": "news",
+   "source_name": "IBM",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "什么是 ReAct 智能体？ - IBM",
+   "summary": "什么是 ReAct 智能体？ &nbsp;&nbsp; IBM",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaOUF2bW02NTBrMHRNdWZxQllFd01nVUtVVHZPMWhjczZaeC1zRUUtTzNtVGpyOTRWU1g4MEZXMThwNEQ5QUNESVlVeUhPQTZ3dFA4Yi1BZU9lSUdHYURz?oc=5",
+   "published_at": "2025-04-17T17:29:03+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaOUF2bW02NTBrMHRNdWZxQllFd01nVUtVVHZPMWhjczZaeC1zRUUtTzNtVGpyOTRWU1g4MEZXMThwNEQ5QUNESVlVeUhPQTZ3dFA4Yi1BZU9lSUdHYURz?oc=5\" target=\"_blank\">什么是 ReAct 智能体？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
+  }
+ ]
+}

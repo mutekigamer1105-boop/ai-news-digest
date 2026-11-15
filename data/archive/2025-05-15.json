@@ -87,6 +87,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9CNDEwblVvMVRFcEt6UmdZLUdZRkx2aGc1NU9ISjl4YkNpSFNmaTlkZkZtZ0VpWUNCeG5hVHA4T3h6Z196YXhqX1BsbENsM1BmTzdCa25wQmIwR3RVREVkWDRybU15NFFwOEVVZg?oc=5\" target=\"_blank\">AI智能体应用加速落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国经济网</font>",
    "fetched_at": "2026-09-03T19:42:44+00:00"
+  },
+  {
+   "id": "web-992-e7eff0f107",
+   "source_id": "news",
+   "source_name": "新华网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI智能体应用加速落地 - 新华网",
+   "summary": "AI智能体应用加速落地 &nbsp;&nbsp; 新华网",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWDI1Wk56STU1c01BZk1xTUJ2N1FpZEFqYVpGVk9VRHltZFBQcU56ZDVkUC03WFBqYWpLNC1Dbzh6SG1VQVdnZUl5aXpsVG02Y0lVLWZqdXUzTFhtbHA5Rm9vSDdobUg2Uk9oY0JtM2ZMU1JzdExfeUdJclBSSS1PeHJhb24?oc=5",
+   "published_at": "2025-05-15T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQWDI1Wk56STU1c01BZk1xTUJ2N1FpZEFqYVpGVk9VRHltZFBQcU56ZDVkUC03WFBqYWpLNC1Dbzh6SG1VQVdnZUl5aXpsVG02Y0lVLWZqdXUzTFhtbHA5Rm9vSDdobUg2Uk9oY0JtM2ZMU1JzdExfeUdJclBSSS1PeHJhb24?oc=5\" target=\"_blank\">AI智能体应用加速落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新华网</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
   }
  ]
 }

@@ -14479,6 +14479,49 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5\" target=\"_blank\">Introducing Claude Fable 5.2 and Claude Mythos 5.2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-11-13T11:45:28+00:00"
+  },
+  {
+   "id": "web-484-046d78b813",
+   "source_id": "news",
+   "source_name": "BBC",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning - BBC",
+   "summary": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning &nbsp;&nbsp; BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ISWNuSndac0x1Ync1WkRad0JDMHZXSWtKVFJyWEViMFRVcVpNT2Nad0pQZDQ1Yjk2dDBKUi1aZVFmNmNRSzVIRDBVM0NIb2xrS0N5QzQ3S1ZRZzlFc3c?oc=5",
+   "published_at": "2026-11-10T12:47:18+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ISWNuSndac0x1Ync1WkRad0JDMHZXSWtKVFJyWEViMFRVcVpNT2Nad0pQZDQ1Yjk2dDBKUi1aZVFmNmNRSzVIRDBVM0NIb2xrS0N5QzQ3S1ZRZzlFc3c?oc=5\" target=\"_blank\">Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
+  },
+  {
+   "id": "web-1008-47e685b9fc",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "zh",
+   "source_credibility": 1.0,
+   "title": "推出 ChatGPT 商家功能 - OpenAI",
+   "summary": "推出 ChatGPT 商家功能 &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Xc1VyMDFnOFNOcEMzVjFnZG1CNk5lS1RXMU1TaFJLb2RMMDJMMnZYekJTU1RoMFhQSGpidFJkWl9SemNVSzBQMGc5UllnWFhGRHMwTkZDbndaMzI5OWVEMm5LTF9qQ2t3ZXd2TnRnMlRPQmxKakE?oc=5",
+   "published_at": "2026-11-10T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1Xc1VyMDFnOFNOcEMzVjFnZG1CNk5lS1RXMU1TaFJLb2RMMDJMMnZYekJTU1RoMFhQSGpidFJkWl9SemNVSzBQMGc5UllnWFhGRHMwTkZDbndaMzI5OWVEMm5LTF9qQ2t3ZXd2TnRnMlRPQmxKakE?oc=5\" target=\"_blank\">推出 ChatGPT 商家功能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
   }
  ]
 }

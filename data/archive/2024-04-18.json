@@ -1,0 +1,26 @@
+{
+ "items": [
+  {
+   "id": "web-736-a2685be93a",
+   "source_id": "news",
+   "source_name": "AI at Meta",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Introducing Meta Llama 3: The most capable openly available LLM to date - AI at Meta",
+   "summary": "Introducing Meta Llama 3: The most capable openly available LLM to date &nbsp;&nbsp; AI at Meta",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5",
+   "published_at": "2024-04-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iUFIyR3dDdTFNSGNjNjQyVVcyUnhfYVJ0THo0Z2VnM1RQcXZZSXZrTVJVWVlNX1QwZm1kWnFyQ2FlNzIyNHFzcnFON3FnVW8?oc=5\" target=\"_blank\">Introducing Meta Llama 3: The most capable openly available LLM to date</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI at Meta</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
+  }
+ ]
+}

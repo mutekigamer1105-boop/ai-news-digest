@@ -13495,6 +13495,178 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LSFlOaVoxQ3VpdmNyRHdQQzhORm9EM2JVRnR1bUZDWE82Z2drMTNqRE0tMWUzNlVFSERZS2RaTzJ5VGY3OXF2Q0JJU2Z6czA?oc=5\" target=\"_blank\">百度把AI下一幕押在智能组织，全栈能力如何转化为企业生产力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">热点科技</font>",
    "fetched_at": "2026-11-14T11:07:00+00:00"
+  },
+  {
+   "id": "web-558-148ef6c067",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "With Jensen Huang Out, the A.I. Industry Loses Its Strongest Booster in Washington - The New York Times",
+   "summary": "With Jensen Huang Out, the A.I. Industry Loses Its Strongest Booster in Washington &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZWw0MUNzRXdSYktGVGo3bk1POGk2aW0yUlVTdjlpcEh6UzlGbmtwRmhwRVhRRVRtNjB3QzRpYllHb1FlaWVfdjU5RUpqZk5CeTI0Q0EtSFQtNkswZXNfbFU5bmxqTG1VSlB3SXVBOHFhNFdtQjNpd2ctSmlzbFZKN2ZZaw?oc=5",
+   "published_at": "2026-11-12T23:54:24+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQZWw0MUNzRXdSYktGVGo3bk1POGk2aW0yUlVTdjlpcEh6UzlGbmtwRmhwRVhRRVRtNjB3QzRpYllHb1FlaWVfdjU5RUpqZk5CeTI0Q0EtSFQtNkswZXNfbFU5bmxqTG1VSlB3SXVBOHFhNFdtQjNpd2ctSmlzbFZKN2ZZaw?oc=5\" target=\"_blank\">With Jensen Huang Out, the A.I. Industry Loses Its Strongest Booster in Washington</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
+  },
+  {
+   "id": "web-247-c7f98a725b",
+   "source_id": "news",
+   "source_name": "Amazon Web Services (AWS)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "A coordination framework for formal proof development with Kiro - Amazon Web Services (AWS)",
+   "summary": "A coordination framework for formal proof development with Kiro &nbsp;&nbsp; Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWRpUlhlZXJINVBMdVpXQ2Z5Zm94M1BCeWx4Ul92MEVuTDVnLU5OLUVjRjBLaW1zM3VkcjJiVjlSd0ZCOU9oNnVpVjRnTm1qempjWU11RHR6b0ZBMzJzbjFLWGZWSVRuTDhaMjlJZUM4SzZnXzJyREt5RGpYWFgwRV94cTRRNTJ4MldBbzYwMWtnRFB2LXVIWVdpRXFIUnVUMHc?oc=5",
+   "published_at": "2026-11-12T18:31:29+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWRpUlhlZXJINVBMdVpXQ2Z5Zm94M1BCeWx4Ul92MEVuTDVnLU5OLUVjRjBLaW1zM3VkcjJiVjlSd0ZCOU9oNnVpVjRnTm1qempjWU11RHR6b0ZBMzJzbjFLWGZWSVRuTDhaMjlJZUM4SzZnXzJyREt5RGpYWFgwRV94cTRRNTJ4MldBbzYwMWtnRFB2LXVIWVdpRXFIUnVUMHc?oc=5\" target=\"_blank\">A coordination framework for formal proof development with Kiro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
+  },
+  {
+   "id": "web-524-2b52ddf577",
+   "source_id": "news",
+   "source_name": "WSJ",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Jensen Huang Built Nvidia. Its Chips Made the AI Boom Possible. - WSJ",
+   "summary": "Jensen Huang Built Nvidia. Its Chips Made the AI Boom Possible. &nbsp;&nbsp; WSJ",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MOHRYci13aWFVQTZaTU1YaWhNamhHdjBmUEsxRk1vZlVVM0JwaUdLTldZc3M3MnlGRzRENm9QeUNRLXVNcFBTV2hYSk9NVjM1TE5JOFlIeXhybHZQYmJjcTdXdkdPSEZzTUVBM3I4bFY2aHlVMmdz?oc=5",
+   "published_at": "2026-11-12T17:57:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5MOHRYci13aWFVQTZaTU1YaWhNamhHdjBmUEsxRk1vZlVVM0JwaUdLTldZc3M3MnlGRzRENm9QeUNRLXVNcFBTV2hYSk9NVjM1TE5JOFlIeXhybHZQYmJjcTdXdkdPSEZzTUVBM3I4bFY2aHlVMmdz?oc=5\" target=\"_blank\">Jensen Huang Built Nvidia. Its Chips Made the AI Boom Possible.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
+  },
+  {
+   "id": "web-360-efa6451ecb",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "Faber Report: OpenAI raised $15B at $.125 valuation - CNBC",
+   "summary": "Faber Report: OpenAI raised $15B at $.125 valuation &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZHRLbUxyc3RYdGRNU1pQaC1sX01NT1IzdzUtNFNwSTBIdldKVmJUWjVpcVZZS2c0d0J1cTdYT0xIN2F3aXRLVXdLa18wYWtRX2ZfUzFEODNqZ3haTWd2Zl94eUt5STZPLUpLZ3J6cFVabElnNkxJd18wMk02aXZIeF9DYklsLVdhdTg3TUdXeUxkRDF1amNCLXhnMVg?oc=5",
+   "published_at": "2026-11-12T15:06:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZHRLbUxyc3RYdGRNU1pQaC1sX01NT1IzdzUtNFNwSTBIdldKVmJUWjVpcVZZS2c0d0J1cTdYT0xIN2F3aXRLVXdLa18wYWtRX2ZfUzFEODNqZ3haTWd2Zl94eUt5STZPLUpLZ3J6cFVabElnNkxJd18wMk02aXZIeF9DYklsLVdhdTg3TUdXeUxkRDF1amNCLXhnMVg?oc=5\" target=\"_blank\">Faber Report: OpenAI raised $15B at $.125 valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
+  },
+  {
+   "id": "web-190-6273ba7160",
+   "source_id": "news",
+   "source_name": "Morningstar",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "New Vida Survey Finds Businesses Racing to Build an AI Agent Workforce, but Traditional Management Practices Still Catching Up - Morningstar",
+   "summary": "New Vida Survey Finds Businesses Racing to Build an AI Agent Workforce, but Traditional Management Practices Still Catching Up &nbsp;&nbsp; Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUzluSHFwTEI3SHoxc0JJemgySmRaMVJKUUtmVzBYa0h4aXlDQzZKb3hIczBwTnN5N09ta3E1WEx2VjJfVDVXR3JnQ2hQYlQtTmZRVHFySmEtMkxnVXdjTFBudmZfbXE4RVowdi1KQTB0aVkyejB4Z2lPUkN3TjJYdmM4bDdEWTFxSjhONks1SUtTbVNWNmYwc1VQZTBOa0wxT0RTTXJ5TlBWbWdXTmk3TTZhLXExeTFZdHVVLVJ1dllIVlh3d1dCV0VXNXpVSmN4U3VfVVM1bmxNRFNVVlJ6TWpMdjhwVWtKX0t4Y2EyNlptZ0M3REtEaVpqMG9TZGxtUGtjSThLaVVZQXpEZURhR1FUNmhnZw?oc=5",
+   "published_at": "2026-11-12T14:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxNUzluSHFwTEI3SHoxc0JJemgySmRaMVJKUUtmVzBYa0h4aXlDQzZKb3hIczBwTnN5N09ta3E1WEx2VjJfVDVXR3JnQ2hQYlQtTmZRVHFySmEtMkxnVXdjTFBudmZfbXE4RVowdi1KQTB0aVkyejB4Z2lPUkN3TjJYdmM4bDdEWTFxSjhONks1SUtTbVNWNmYwc1VQZTBOa0wxT0RTTXJ5TlBWbWdXTmk3TTZhLXExeTFZdHVVLVJ1dllIVlh3d1dCV0VXNXpVSmN4U3VfVVM1bmxNRFNVVlJ6TWpMdjhwVWtKX0t4Y2EyNlptZ0M3REtEaVpqMG9TZGxtUGtjSThLaVVZQXpEZURhR1FUNmhnZw?oc=5\" target=\"_blank\">New Vida Survey Finds Businesses Racing to Build an AI Agent Workforce, but Traditional Management Practices Still Catching Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
+  },
+  {
+   "id": "web-237-3f09a6ea2b",
+   "source_id": "news",
+   "source_name": "Telecompaper",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Plume study highlights US adoption path for language AI models - Telecompaper",
+   "summary": "Plume study highlights US adoption path for language AI models &nbsp;&nbsp; Telecompaper",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEFnRmt2cm90Qm5ZQnZaZV9oeHVkVXAwS0luRlJXclE4UEVWVzN5VmY3a2dyNXgtME90M1F1YnhOemxreWFSOXlOTU43RWV2M0Nld3NiZDZSYjl2YkxlQ25IVTgzSnVUbmVMQlRZX3Fvam5hbjcyZTl5M1NHZjI4ZXA0THIzb3pVdTMycmFpcUd2RzJIQTdCcG02M19fRFZVeXRJWFdGRFk?oc=5",
+   "published_at": "2026-11-12T13:52:03+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEFnRmt2cm90Qm5ZQnZaZV9oeHVkVXAwS0luRlJXclE4UEVWVzN5VmY3a2dyNXgtME90M1F1YnhOemxreWFSOXlOTU43RWV2M0Nld3NiZDZSYjl2YkxlQ25IVTgzSnVUbmVMQlRZX3Fvam5hbjcyZTl5M1NHZjI4ZXA0THIzb3pVdTMycmFpcUd2RzJIQTdCcG02M19fRFZVeXRJWFdGRFk?oc=5\" target=\"_blank\">Plume study highlights US adoption path for language AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telecompaper</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
+  },
+  {
+   "id": "web-474-0f494a4524",
+   "source_id": "news",
+   "source_name": "Yahoo Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Expands Claude's Workplace Arsenal to Rival Google and Microsoft: What Its New AI Tools Can Do Differently - Yahoo Tech",
+   "summary": "Anthropic Expands Claude's Workplace Arsenal to Rival Google and Microsoft: What Its New AI Tools Can Do Differently &nbsp;&nbsp; Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFlKazMzeXpYWmVXT1dIaXE3ZUtaVHB1NHItY09pUVptSmtOYlBtZTRBUVprZ0pQaVRxQ0hhVGVrM0NYZkIwYWhxTXRnMkFfVlNaYTczR3EwYUdtNlVKQ1AtOExhcHhKcDUwckRudlNFVldkRVBKal96VU5QTk9ZM1ZYRzBVcGx5RWN2Y1VEZXgwX2xTSk9DclI5QlNlc0VmeFE?oc=5",
+   "published_at": "2026-11-12T13:30:07+00:00",
+   "author_handle": null,
+   "builder_id": "satya-nadella",
+   "builder_name": "Satya Nadella",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFlKazMzeXpYWmVXT1dIaXE3ZUtaVHB1NHItY09pUVptSmtOYlBtZTRBUVprZ0pQaVRxQ0hhVGVrM0NYZkIwYWhxTXRnMkFfVlNaYTczR3EwYUdtNlVKQ1AtOExhcHhKcDUwckRudlNFVldkRVBKal96VU5QTk9ZM1ZYRzBVcGx5RWN2Y1VEZXgwX2xTSk9DclI5QlNlc0VmeFE?oc=5\" target=\"_blank\">Anthropic Expands Claude's Workplace Arsenal to Rival Google and Microsoft: What Its New AI Tools Can Do Differently</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
+  },
+  {
+   "id": "web-388-871d71570d",
+   "source_id": "news",
+   "source_name": "Inc.com",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Your Next Customer May Never Visit Google. Here's What Every Business Owner Needs to Do Now - Inc.com",
+   "summary": "Your Next Customer May Never Visit Google. Here's What Every Business Owner Needs to Do Now &nbsp;&nbsp; Inc.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3g4U3lITC03bWNuSUh5QnZyaDBTc2tTRjhtUE84cWZTdEhYTUxIbDRyUTJzcnhiUjRfNTRkbUNfN3hJUmN4dHhxTlFjbGxpQTZnX21PbzhIejc0SHlvaDFuQWdXRDZTNUZyaU54YTF1cTlMRkFPSXZkVUZmWWZqVHpQTkhvQXY4Wi1Oa1JoRzA1UW5uUVNjbw?oc=5",
+   "published_at": "2026-11-12T12:09:07+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3g4U3lITC03bWNuSUh5QnZyaDBTc2tTRjhtUE84cWZTdEhYTUxIbDRyUTJzcnhiUjRfNTRkbUNfN3hJUmN4dHhxTlFjbGxpQTZnX21PbzhIejc0SHlvaDFuQWdXRDZTNUZyaU54YTF1cTlMRkFPSXZkVUZmWWZqVHpQTkhvQXY4Wi1Oa1JoRzA1UW5uUVNjbw?oc=5\" target=\"_blank\">Your Next Customer May Never Visit Google. Here's What Every Business Owner Needs to Do Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inc.com</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
   }
  ]
 }

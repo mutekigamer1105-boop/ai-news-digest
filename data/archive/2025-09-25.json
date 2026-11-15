@@ -21,6 +21,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE94bzAzTUZiR29RbHFqUDJpSzIzdkVDNkV6bEtMNTBKWjB4OC1IcjVhVndmbzUyUjhwTy1LMm01R1ZDX1NwREczV3l4QUZCXy1mWkF0aFZPeXdWLU1FQ3dxNWZzU2FWYUNVeGFvUHRxQQ?oc=5\" target=\"_blank\">隆重推出 ChatGPT Pulse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openai.com</font>",
    "fetched_at": "2026-09-03T18:46:52+00:00"
+  },
+  {
+   "id": "web-988-b902e71935",
+   "source_id": "news",
+   "source_name": "Deloitte",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "银行业如何借助AI智能体实现智能自动化跃迁| 德勤中国 - Deloitte",
+   "summary": "银行业如何借助AI智能体实现智能自动化跃迁| 德勤中国 &nbsp;&nbsp; Deloitte",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGljb1VPUUhGWVZqMlk3QXJhNmdWVTQ0U0xTZHUzc0ZSNWRRQ0c5NnhvVlVwN2g5TElzQm5qb0hhZ2pBaE8zTDFFcXJEQV9na0hrRHFUdUJyWjRsQ2NvNVoyckI1MVYwVmoxWnhFSHoxM0xkRzBHY3ZxWHRUS1hKMEw5dFlCbFYzNElqbFpfcW5kei1GUzVFclpRX1RxZw?oc=5",
+   "published_at": "2025-09-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRGljb1VPUUhGWVZqMlk3QXJhNmdWVTQ0U0xTZHUzc0ZSNWRRQ0c5NnhvVlVwN2g5TElzQm5qb0hhZ2pBaE8zTDFFcXJEQV9na0hrRHFUdUJyWjRsQ2NvNVoyckI1MVYwVmoxWnhFSHoxM0xkRzBHY3ZxWHRUS1hKMEw5dFlCbFYzNElqbFpfcW5kei1GUzVFclpRX1RxZw?oc=5\" target=\"_blank\">银行业如何借助AI智能体实现智能自动化跃迁| 德勤中国</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>",
+   "fetched_at": "2026-11-15T11:41:26+00:00"
   }
  ]
 }
