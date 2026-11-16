@@ -11620,6 +11620,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9sUlY3UW5HVV9CZXk5TG9CeGNyZnN2aGViT2lvcFJHa1lDQTB0c0xvN3NFcmJrdlRaSmdoNk9MWmRRenFBX3RidklYWTVPZGtUZHFRUnZ3RzNrWThBXzJvQ0JRTm5ua3JDTEc1cHQ4TdIBdEFVX3lxTE44MHItRk83bzdkejFDRTRENHU1WkV6cVlFa0psT0poQllxSUhyaFJ3Y1JzUVROUVJRbHBrNGlwSjhzeDl1Njk2d0xQQW5mQVZ1WDBmWE5nbWl3SVA3eVBBbHdSWHFnbDZhRGc1eXloVEZtbS1z?oc=5\" target=\"_blank\">United Airlines moves to block AI agents from its platform over security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-11-15T11:41:26+00:00"
+  },
+  {
+   "id": "web-381-ba08034615",
+   "source_id": "news",
+   "source_name": "The Harvard Crimson",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Sequoia, OpenAI, and Citadel Host Pokerbot Tournament at Harvard - The Harvard Crimson",
+   "summary": "Sequoia, OpenAI, and Citadel Host Pokerbot Tournament at Harvard &nbsp;&nbsp; The Harvard Crimson",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmaHdwQll0bm1hR1laU3JpMHNFdlBOcnFzM3N4Y3NDaXY3el9OWUxkMXlnZmU1aXJxd01NR091cVUzN2xCRkVvLUtZREo3ZEVBZGw4TzdHX3VnQWRWNjZDNFBmeXlCR01LakZJM1k1V29UelNWRXB4dlJTMEk?oc=5",
+   "published_at": "2026-11-11T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBmaHdwQll0bm1hR1laU3JpMHNFdlBOcnFzM3N4Y3NDaXY3el9OWUxkMXlnZmU1aXJxd01NR091cVUzN2xCRkVvLUtZREo3ZEVBZGw4TzdHX3VnQWRWNjZDNFBmeXlCR01LakZJM1k1V29UelNWRXB4dlJTMEk?oc=5\" target=\"_blank\">Sequoia, OpenAI, and Citadel Host Pokerbot Tournament at Harvard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Harvard Crimson</font>",
+   "fetched_at": "2026-11-16T12:19:32+00:00"
   }
  ]
 }

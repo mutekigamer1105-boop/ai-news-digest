@@ -6379,6 +6379,155 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYks3OWkwb3ZCQlFxMDVjSXJOdDdCUmljWWt4U3E2M0tLcjB6bWhDNjdRWnVwMk9nV1ZpblJGN1hCeGdqbXo1RnVMVFdsTmNvdWwwb0g2UGs0Vm5Sc1hDMGJuS2R0dEQxVlFxamRjVW1RZll5VTg1Z0otazBiOHJDa1RzOFVOYldrWlpZV3d6ZS1OS2FtZE96Z0xHSzdYUVMtTjcxdzF6NzQ?oc=5\" target=\"_blank\">Claude智能体平台开放自托管部署：企业级AI落地的合规难题迎来新解法</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">积墨 AI</font>",
    "fetched_at": "2026-11-15T11:41:26+00:00"
+  },
+  {
+   "id": "web-442-5b622551fd",
+   "source_id": "news",
+   "source_name": "BleepingComputer",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Cursor confirms security breach led to malicious Claude Code extension - BleepingComputer",
+   "summary": "Cursor confirms security breach led to malicious Claude Code extension &nbsp;&nbsp; BleepingComputer",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZ6cDY2N1VKakpFcW9sN0NqTkJBck9xMGxNbGdzTDJQUmt0cmNmdzlBdWdaQ2tzbEF4U1JoZVBsWGFQTWxuZUN4WHVNcGhTMjBCOE85eWVLdFZnRk9JV0c3QWRXUnl1Y0JkM3dPNGlyNHNnR29PT3J6eU95cHZ3SW1WOHEwcUM4ZG1FR3BPSHkzaUdDc0Z0TExMSHRlV2c1OFg4REhaeGphZHd6cTR1YUliWnBFRFVlWUE?oc=5",
+   "published_at": "2026-11-14T17:27:25+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZ6cDY2N1VKakpFcW9sN0NqTkJBck9xMGxNbGdzTDJQUmt0cmNmdzlBdWdaQ2tzbEF4U1JoZVBsWGFQTWxuZUN4WHVNcGhTMjBCOE85eWVLdFZnRk9JV0c3QWRXUnl1Y0JkM3dPNGlyNHNnR29PT3J6eU95cHZ3SW1WOHEwcUM4ZG1FR3BPSHkzaUdDc0Z0TExMSHRlV2c1OFg4REhaeGphZHd6cTR1YUliWnBFRFVlWUE?oc=5\" target=\"_blank\">Cursor confirms security breach led to malicious Claude Code extension</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+   "fetched_at": "2026-11-16T12:19:32+00:00"
+  },
+  {
+   "id": "web-965-3e5240d3f3",
+   "source_id": "news",
+   "source_name": "QQ News",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "亚马逊拟建全球商品知识图谱 供AI智能体使用 - QQ News",
+   "summary": "亚马逊拟建全球商品知识图谱 供AI智能体使用 &nbsp;&nbsp; QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QODgwZXA4ZlZ6VFN5eGFhOW1pVzRMZjcyaXNPMEVBNldlSmF3bms1b0VlYXBzUlJOMVg2SkRXTWJSblFzLTJ2Q21yMU9GQWFnYUpQV2Z3?oc=5",
+   "published_at": "2026-11-14T16:29:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QODgwZXA4ZlZ6VFN5eGFhOW1pVzRMZjcyaXNPMEVBNldlSmF3bms1b0VlYXBzUlJOMVg2SkRXTWJSblFzLTJ2Q21yMU9GQWFnYUpQV2Z3?oc=5\" target=\"_blank\">亚马逊拟建全球商品知识图谱 供AI智能体使用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QQ News</font>",
+   "fetched_at": "2026-11-16T12:19:32+00:00"
+  },
+  {
+   "id": "web-476-9f058283cd",
+   "source_id": "news",
+   "source_name": "BigGo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic Stake Sold Off in FTX Bankruptcy Would Be Worth ¥5.9 Trillion Today as IPO Reveals Massive Opportunity Cost - BigGo Finance",
+   "summary": "Anthropic Stake Sold Off in FTX Bankruptcy Would Be Worth ¥5.9 Trillion Today as IPO Reveals Massive Opportunity Cost &nbsp;&nbsp; BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DdGFnTThqN1NXUGp5a1RfamV2aDhhSXlzcl8xUkNFT2Mza09UT3RzSTdRbnRsUS1UVmdzUlROSVhaU2ptRE5IaXdFQ0RQWExreURrZ1lhU2lsSkVaVnpFanpfTUFiX0lmVEN6VlZuUTN0dDgtemc?oc=5",
+   "published_at": "2026-11-14T14:35:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5DdGFnTThqN1NXUGp5a1RfamV2aDhhSXlzcl8xUkNFT2Mza09UT3RzSTdRbnRsUS1UVmdzUlROSVhaU2ptRE5IaXdFQ0RQWExreURrZ1lhU2lsSkVaVnpFanpfTUFiX0lmVEN6VlZuUTN0dDgtemc?oc=5\" target=\"_blank\">Anthropic Stake Sold Off in FTX Bankruptcy Would Be Worth ¥5.9 Trillion Today as IPO Reveals Massive Opportunity Cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo Finance</font>",
+   "fetched_at": "2026-11-16T12:19:32+00:00"
+  },
+  {
+   "id": "web-472-fef6ca69a7",
+   "source_id": "news",
+   "source_name": "BigGo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic's Amodei Says He Turns Down Brilliant Jerks as IPO Nears $1.4 Trillion Valuation - BigGo Finance",
+   "summary": "Anthropic's Amodei Says He Turns Down Brilliant Jerks as IPO Nears $1.4 Trillion Valuation &nbsp;&nbsp; BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZN3NoUURzMWpadUZYSFlPQUR0NXlDMXhneDNnM3dPdnc1dGJCRDN1dER6UkxrX2kxdzFmRkMxZmJaUmxVRG5QX1dDRzIzTmZ4T2FWMGlOeXVwZ3VWNUY5MmNoMlF6WE5FNlRLUHBQX1FKZy0xQUE?oc=5",
+   "published_at": "2026-11-14T10:35:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZN3NoUURzMWpadUZYSFlPQUR0NXlDMXhneDNnM3dPdnc1dGJCRDN1dER6UkxrX2kxdzFmRkMxZmJaUmxVRG5QX1dDRzIzTmZ4T2FWMGlOeXVwZ3VWNUY5MmNoMlF6WE5FNlRLUHBQX1FKZy0xQUE?oc=5\" target=\"_blank\">Anthropic's Amodei Says He Turns Down Brilliant Jerks as IPO Nears $1.4 Trillion Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo Finance</font>",
+   "fetched_at": "2026-11-16T12:19:32+00:00"
+  },
+  {
+   "id": "web-471-6b1fbd1f17",
+   "source_id": "news",
+   "source_name": "BigGo Finance",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia Earnings and Anthropic's Debut Set Up a Pivotal Nov. 18 for AI Stocks - BigGo Finance",
+   "summary": "Nvidia Earnings and Anthropic's Debut Set Up a Pivotal Nov. 18 for AI Stocks &nbsp;&nbsp; BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ib21XdzE2NHJoRG1SazMzTVl0SzVZVFhHcnh4V3ZPalpzZEszX25lYVZiQ3BnTDBDZk9NY3FJd1VjWFcta2FKWHFqUkprRU50U1pKMFc5dEM5bTZpTWF4bzJVLTh6ZjFiNUlPRGwxb1BmQUJDNnc?oc=5",
+   "published_at": "2026-11-14T10:25:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ib21XdzE2NHJoRG1SazMzTVl0SzVZVFhHcnh4V3ZPalpzZEszX25lYVZiQ3BnTDBDZk9NY3FJd1VjWFcta2FKWHFqUkprRU50U1pKMFc5dEM5bTZpTWF4bzJVLTh6ZjFiNUlPRGwxb1BmQUJDNnc?oc=5\" target=\"_blank\">Nvidia Earnings and Anthropic's Debut Set Up a Pivotal Nov. 18 for AI Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo Finance</font>",
+   "fetched_at": "2026-11-16T12:19:32+00:00"
+  },
+  {
+   "id": "web-460-5f1176420c",
+   "source_id": "news",
+   "source_name": "CASRAI",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Claude launches Whiteboards, Sheets and Data - CASRAI",
+   "summary": "Claude launches Whiteboards, Sheets and Data &nbsp;&nbsp; CASRAI",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRHpHZWdwR1VmNWdubEdSVU5JOHJHX3pYZzZmZTYwOWRjUkF6Tld6Yk45cWQ5aTVRTGx3RDNmMnBuWUtwUHZSdTZXVjAySXBnZE00S0VUejN0d2d6MDJpMlhOUTYtR3hEUGlOVVVveVcwN2hsYVdFUmlNTGdYWGVOUDlR?oc=5",
+   "published_at": "2026-11-14T07:23:32+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRHpHZWdwR1VmNWdubEdSVU5JOHJHX3pYZzZmZTYwOWRjUkF6Tld6Yk45cWQ5aTVRTGx3RDNmMnBuWUtwUHZSdTZXVjAySXBnZE00S0VUejN0d2d6MDJpMlhOUTYtR3hEUGlOVVVveVcwN2hsYVdFUmlNTGdYWGVOUDlR?oc=5\" target=\"_blank\">Claude launches Whiteboards, Sheets and Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CASRAI</font>",
+   "fetched_at": "2026-11-16T12:19:32+00:00"
+  },
+  {
+   "id": "web-397-d6cecee14f",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Building strong safety evaluations - Anthropic",
+   "summary": "Building strong safety evaluations &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5",
+   "published_at": "2026-11-14T01:40:13+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5\" target=\"_blank\">Building strong safety evaluations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-11-16T12:19:32+00:00"
   }
  ]
 }
