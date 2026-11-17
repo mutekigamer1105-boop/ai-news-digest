@@ -6528,6 +6528,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5\" target=\"_blank\">Building strong safety evaluations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
    "fetched_at": "2026-11-16T12:19:32+00:00"
+  },
+  {
+   "id": "web-354-3f65b61f31",
+   "source_id": "the-verge",
+   "source_name": "The Verge",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.92,
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs - The Verge",
+   "summary": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs &nbsp;&nbsp; The Verge",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbENpWmtGaVYwc3pOU2FrLTV3TlJVcTI5TkF6bVZRTE5Qc2NpRkZKMm9XcEdBUlNZZU1YX3BvZXV0czlPTWJBQy1wVDBwdkVEY0ZRaF84MkNoeXJfc0lZemx4cHVUci1MeE5MbHM1dFlfYUw3b3dadHlPaU5tTXlfNEUxUmNBS0E0dkFacDlwajZJdkVxSmc?oc=5",
+   "published_at": "2026-11-14T15:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbENpWmtGaVYwc3pOU2FrLTV3TlJVcTI5TkF6bVZRTE5Qc2NpRkZKMm9XcEdBUlNZZU1YX3BvZXV0czlPTWJBQy1wVDBwdkVEY0ZRaF84MkNoeXJfc0lZemx4cHVUci1MeE5MbHM1dFlfYUw3b3dadHlPaU5tTXlfNEUxUmNBS0E0dkFacDlwajZJdkVxSmc?oc=5\" target=\"_blank\">The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+   "fetched_at": "2026-11-17T12:39:30+00:00"
   }
  ]
 }
