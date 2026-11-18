@@ -5320,6 +5320,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50VmZEZnVlTW1uSlRZdzF6UkxCUmJqU1BPRjdKVG9WaEI0SmtvUV9OU3B2QTQ5cmh5UXpuM0U1WUJ0UU5acGxvMnFjNnhhNTlMZ0dCdGpFd1ZyMF92TkRUZXZuMEN0b0g3LWJoSDU4NlZjY21zVTlXeHFHNjREekU?oc=5\" target=\"_blank\">Controlling Foundation Models via Internal Interventions: A Survey of Inference-Time Methods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alphaXiv</font>",
    "fetched_at": "2026-11-17T12:39:30+00:00"
+  },
+  {
+   "id": "web-379-342bf0b933",
+   "source_id": "news",
+   "source_name": "Mezha.net",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Meet Boris Cherny, the engineer behind Anthropic’s Claude Code - and its miso hobbyist - Mezha.net",
+   "summary": "Meet Boris Cherny, the engineer behind Anthropic’s Claude Code - and its miso hobbyist &nbsp;&nbsp; Mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTjUtckI5X3hMbE1kcDJzN19LWWRFa1YtNDJEeTFuVldxc1Q3UVBILTBwX1FQSFdwTXdiSUY2eG5aY0VnVkZTRGZjby1vZFF4UnVSZjZPYlF3ZW1VMEFnNk1RbXBXaDRQWUNHekNBV2NXdFpJNjdXQ1FBd1VPc1lCN0J3?oc=5",
+   "published_at": "2026-11-15T17:09:36+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTjUtckI5X3hMbE1kcDJzN19LWWRFa1YtNDJEeTFuVldxc1Q3UVBILTBwX1FQSFdwTXdiSUY2eG5aY0VnVkZTRGZjby1vZFF4UnVSZjZPYlF3ZW1VMEFnNk1RbXBXaDRQWUNHekNBV2NXdFpJNjdXQ1FBd1VPc1lCN0J3?oc=5\" target=\"_blank\">Meet Boris Cherny, the engineer behind Anthropic’s Claude Code - and its miso hobbyist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha.net</font>",
+   "fetched_at": "2026-11-18T12:30:41+00:00"
   }
  ]
 }

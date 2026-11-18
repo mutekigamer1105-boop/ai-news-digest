@@ -22,6 +22,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA3YV9KMGhVZWd1MUxwbWMwUHJXU20tM3lWdDBUNjBDT3U2OHdhM29fU0N6MjBQRnMwcENlMENGeWtybkVMek0zV2ZublRucjU4MnpaR0s3WnhoMWRZMEZrUjdsNlluMXVMUTAyUGJoaU0tYlFMc3c?oc=5\" target=\"_blank\">洞悉 Omniverse：智慧城市 AI 智能体如何转变城市运营</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
    "fetched_at": "2026-10-21T09:00:53+00:00"
+  },
+  {
+   "id": "web-807-b57ca51dd8",
+   "source_id": "news",
+   "source_name": "清华大学智能产业研究院",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AIR学术｜芮勇：AI Agent 的九问——从大模型局限到未来智能的探索 - 清华大学智能产业研究院",
+   "summary": "AIR学术｜芮勇：AI Agent 的九问——从大模型局限到未来智能的探索 &nbsp;&nbsp; 清华大学智能产业研究院",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55bENIcWttR1NWRUN5UUlPUjBmUmR4Ri1IcTlNMUJFbFd2TDdjanp2QWdMNGkxdm5IUlB6YWUyd193Y2hzSWpzTEhhTEhpUUs2T0lnd1NCa2ZHQQ?oc=5",
+   "published_at": "2025-11-20T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE55bENIcWttR1NWRUN5UUlPUjBmUmR4Ri1IcTlNMUJFbFd2TDdjanp2QWdMNGkxdm5IUlB6YWUyd193Y2hzSWpzTEhhTEhpUUs2T0lnd1NCa2ZHQQ?oc=5\" target=\"_blank\">AIR学术｜芮勇：AI Agent 的九问——从大模型局限到未来智能的探索</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">清华大学智能产业研究院</font>",
+   "fetched_at": "2026-11-18T12:30:41+00:00"
   }
  ]
 }

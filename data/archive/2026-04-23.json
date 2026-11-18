@@ -173,6 +173,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOLU5pNUh0cTVtMVNlempZdm12RnY0VkZ3TFdnbTA5TGo1dThSMUd1LVJEa2xITEJKVDRacWtaRWdCcHh3aHBKMUZrei1VbWg3bWp3NGwyWEUzSXFycHd4MU5XSlJ3MUx6RVhqWmc5YTFHNzhEWFd6SmNXa2dRcml6YkJMWG5lT29LbVZoREY5RnV2TGJNSjNGdHB6alFmT3o1dk95bm9R?oc=5\" target=\"_blank\">OpenAI 似乎正在挖角 Coinbase 的市场营销团队</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
    "fetched_at": "2026-09-27T04:05:04+00:00"
+  },
+  {
+   "id": "web-299-077b5d9d3e",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "An update on recent Claude Code quality reports - Anthropic",
+   "summary": "An update on recent Claude Code quality reports &nbsp;&nbsp; Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbGtBekJzZUdTdWREenUzZnNsOFQwU0VUaFpOM0dOQ25KRUREYnBVbFlWYkVIdk5BWkV2SlZmNnVXMmh2ZkZ3ZTBxNklkMFk5eGFoZy1XZlZBUEJ5ZGhpb2JubU8?oc=5",
+   "published_at": "2026-04-23T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbGtBekJzZUdTdWREenUzZnNsOFQwU0VUaFpOM0dOQ25KRUREYnBVbFlWYkVIdk5BWkV2SlZmNnVXMmh2ZkZ3ZTBxNklkMFk5eGFoZy1XZlZBUEJ5ZGhpb2JubU8?oc=5\" target=\"_blank\">An update on recent Claude Code quality reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+   "fetched_at": "2026-11-18T12:30:41+00:00"
   }
  ]
 }
