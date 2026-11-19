@@ -503,6 +503,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQnhJcW51aG9mbFN1MldFSTFvWldQZ0p3Y1hkaU0wMm9EMW9zanEzZ3lRQnZvSV9yTmlEZVBYSmxPUzk3bjNTbnJMejNYYTRORmxlRGdVcDc0ZTltRVFpSEJEdXRKT0ZPMGYyVmtmeXFnQk9CSVR5aW1JNlZ0TGUyWjVHRHUtMGh5T25ERVJJWmhienBGMEIyYWFURVFoSVBMdWtCT3RncnpiVWk2OGZFZjM5WElRY3hOMVRXVHpXTDh3ZGVobE9MUmpUWVJwRHhhcWhobDRiOVMyYlk?oc=5\" target=\"_blank\">JUST IN: Large Language Models Lack Utility for Military Missions, DARPA Official Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Defense Magazine</font>",
    "fetched_at": "2026-10-29T10:36:48+00:00"
+  },
+  {
+   "id": "web-626-95e1ef25db",
+   "source_id": "news",
+   "source_name": "Crunchbase News",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape - Crunchbase News",
+   "summary": "VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape &nbsp;&nbsp; Crunchbase News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdjZzRxUElYQXVyMVVmeE41NFpIeDlMMGZXSHdnNW5xVlpsa1dxLTdpSVlQeTdmeHBzN3hLODRhWUVjdFVRZ1g1Q2xsNGhlWWFYOUdjN2lsX1NOeDgyNzZKM3hwR2hiMGZXdWlYTW01T2VEd1dYOTJxUkhHY3FLdGtwX3NjYkhRb21pYXpDbVpuSlYtX1dF?oc=5",
+   "published_at": "2026-08-18T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGdjZzRxUElYQXVyMVVmeE41NFpIeDlMMGZXSHdnNW5xVlpsa1dxLTdpSVlQeTdmeHBzN3hLODRhWUVjdFVRZ1g1Q2xsNGhlWWFYOUdjN2lsX1NOeDgyNzZKM3hwR2hiMGZXdWlYTW01T2VEd1dYOTJxUkhHY3FLdGtwX3NjYkhRb21pYXpDbVpuSlYtX1dF?oc=5\" target=\"_blank\">VCs Pour Billions Into Physical AI As The Next Wave Of AI Investing Takes Shape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crunchbase News</font>",
+   "fetched_at": "2026-11-19T12:21:58+00:00"
   }
  ]
 }
