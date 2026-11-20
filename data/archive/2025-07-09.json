@@ -42,6 +42,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0zYmZqVHM1RHNrMDZHTGVCb3QxV2VKckZJOWNKTHRvTDN3VkpPVjdBYmczWUxRdDJKN1QzYk5KWUR6ckkyQ0Q1SzY5S1MySzAxRFBSTllWQUZEWm5IbVpLeXZDS2s1WkEwT0Ryd3N1YkFpd1Zn?oc=5\" target=\"_blank\">立即开始使用 ChatGPT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-10-26T09:32:04+00:00"
+  },
+  {
+   "id": "web-854-4f6c88efde",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "OpenAI API - OpenAI",
+   "summary": "OpenAI API &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBZlRKdU1mTFhLZTJ2RGRnTndWWW12cnlQY3RSRnZ0dHVrZXltdk0yd1M2YVFSaEVBQ0tDZ05oSVpjeGk5Wjg3b2k4OXY2aTBpdFNkWXBySWhaUlU?oc=5",
+   "published_at": "2025-07-09T04:12:31+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBZlRKdU1mTFhLZTJ2RGRnTndWWW12cnlQY3RSRnZ0dHVrZXltdk0yd1M2YVFSaEVBQ0tDZ05oSVpjeGk5Wjg3b2k4OXY2aTBpdFNkWXBySWhaUlU?oc=5\" target=\"_blank\">OpenAI API</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-20T12:22:17+00:00"
   }
  ]
 }

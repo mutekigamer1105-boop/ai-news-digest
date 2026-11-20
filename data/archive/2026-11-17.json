@@ -12786,6 +12786,27 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBvLUltN01zNnhQWHVEUWlEbWJoUXcyVjFlRUF0SU90cXZwU2FoT1J2NnNZTGthUjZOX1ozbHBaUnB3QVc2bl9LNHFEMDRiUXZJVEktNjRBUG81M0dpSzRKbFl5cjdNaXhGeHVIVDNDV2dITFVhZlBpME1n0gF_QVVfeXFMT3ZEaUU4Z1VBUm44S2Y3MmwyRlpsUjYyejJRTFlyMnU5aklRa3pGQW41MkRHb3RqTzh5a0l0dE9MbzdSeFpTRWlBajFvRllpa0VnX3RXUDJIR0tjUE1NOGsyazJRbEc1RGcyZmt5cGdwUUxjZXFYb252N2dUU1VWRQ?oc=5\" target=\"_blank\">Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-11-19T12:21:58+00:00"
+  },
+  {
+   "id": "web-556-ef4288d13d",
+   "source_id": "news",
+   "source_name": "Vals AI",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "GPT-6.2 Astra Benchmarks, Cost and Capabilities - Vals AI",
+   "summary": "GPT-6.2 Astra Benchmarks, Cost and Capabilities &nbsp;&nbsp; Vals AI",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtVkNsM1cwUUViaS1RQzJOaXFuTmM1M2MyM21zdUx2eVc2cDlIQmlkSHlNZ05vWlcyR2VTaGdsd1VrU0MzOXpBcjlXblVpWHJOeWNzakI5a2VfRTQ?oc=5",
+   "published_at": "2026-11-17T18:01:45+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtVkNsM1cwUUViaS1RQzJOaXFuTmM1M2MyM21zdUx2eVc2cDlIQmlkSHlNZ05vWlcyR2VTaGdsd1VrU0MzOXpBcjlXblVpWHJOeWNzakI5a2VfRTQ?oc=5\" target=\"_blank\">GPT-6.2 Astra Benchmarks, Cost and Capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vals AI</font>",
+   "fetched_at": "2026-11-20T12:22:17+00:00"
   }
  ]
 }
