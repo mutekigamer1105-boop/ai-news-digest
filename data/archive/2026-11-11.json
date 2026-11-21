@@ -11642,6 +11642,51 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBmaHdwQll0bm1hR1laU3JpMHNFdlBOcnFzM3N4Y3NDaXY3el9OWUxkMXlnZmU1aXJxd01NR091cVUzN2xCRkVvLUtZREo3ZEVBZGw4TzdHX3VnQWRWNjZDNFBmeXlCR01LakZJM1k1V29UelNWRXB4dlJTMEk?oc=5\" target=\"_blank\">Sequoia, OpenAI, and Citadel Host Pokerbot Tournament at Harvard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Harvard Crimson</font>",
    "fetched_at": "2026-11-16T12:19:32+00:00"
+  },
+  {
+   "id": "web-926-4a184c6326",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "AI大模型更便宜了，机器人世界模型开始被“验真” - 东方财富",
+   "summary": "AI大模型更便宜了，机器人世界模型开始被“验真” &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wdm45cG9qT2tPNjdRSFBSZlYtTTNlcjgtaEhhSzFORHZKekU1eGJNZkxEbnU3dDdGU0REMUstTkZfMmhJSEpYY24zaVEtc21oWFBYUFNKS25RS3pCSWdnOQ?oc=5",
+   "published_at": "2026-11-11T19:29:57+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wdm45cG9qT2tPNjdRSFBSZlYtTTNlcjgtaEhhSzFORHZKekU1eGJNZkxEbnU3dDdGU0REMUstTkZfMmhJSEpYY24zaVEtc21oWFBYUFNKS25RS3pCSWdnOQ?oc=5\" target=\"_blank\">AI大模型更便宜了，机器人世界模型开始被“验真”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
+  },
+  {
+   "id": "web-918-73f95f9ae3",
+   "source_id": "news",
+   "source_name": "封面新闻",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "永信至诚AI大模型测评“数字风洞”护航AI应用安全落地 - 封面新闻",
+   "summary": "永信至诚AI大模型测评“数字风洞”护航AI应用安全落地 &nbsp;&nbsp; 封面新闻",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00b28zcTZNQzZVSDBPUVNiZUxGcjk2LTE5bUw0OXljMnRGV3h2UloxSmxHdU5fNTFYQ1pYRHJrc19PUUVSZ0hid0RuYTJrUTdGLWlSNG10TDRFOFB6dkJTRHdsWjVVSXRpdDRROUxKNjVoNlczbzIzWnliYVI?oc=5",
+   "published_at": "2026-11-11T11:06:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE00b28zcTZNQzZVSDBPUVNiZUxGcjk2LTE5bUw0OXljMnRGV3h2UloxSmxHdU5fNTFYQ1pYRHJrc19PUUVSZ0hid0RuYTJrUTdGLWlSNG10TDRFOFB6dkJTRHdsWjVVSXRpdDRROUxKNjVoNlczbzIzWnliYVI?oc=5\" target=\"_blank\">永信至诚AI大模型测评“数字风洞”护航AI应用安全落地</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">封面新闻</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
   }
  ]
 }

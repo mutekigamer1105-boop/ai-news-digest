@@ -9048,6 +9048,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1uQ0VSTzk3TG13RFFpcl80ZVVteDlyU1pNdng1Q0JHeEtCNUc4cExjX002RjEtMHFSd1pCQm1OTFVYdVpFU2FuNnQxZWhzeHNkcGdKWkFkYnI1bHhHeHhZeW5vVlJVbF9YSlByQ0FkVHdsaHpQbGJMQzJMbw?oc=5\" target=\"_blank\">AI startup Manus raises $500 million in first funding round since Meta breakup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
    "fetched_at": "2026-11-12T12:00:17+00:00"
+  },
+  {
+   "id": "web-224-360d1918d0",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Emergence of polarization in networks of large language model agents - Nature",
+   "summary": "Emergence of polarization in networks of large language model agents &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41RU5UZ3JGSXVSbk4zamFFNGx6Q2NsVmY3enJKek05NmtDaVE2WnZ2TVZaMXNrbU5ma1JHWUI0UjkyVEM5alk4eUI4Ukc5emZGcExQRl9SQXlaNm0wQ2l3?oc=5",
+   "published_at": "2026-10-08T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE41RU5UZ3JGSXVSbk4zamFFNGx6Q2NsVmY3enJKek05NmtDaVE2WnZ2TVZaMXNrbU5ma1JHWUI0UjkyVEM5alk4eUI4Ukc5emZGcExQRl9SQXlaNm0wQ2l3?oc=5\" target=\"_blank\">Emergence of polarization in networks of large language model agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
   }
  ]
 }

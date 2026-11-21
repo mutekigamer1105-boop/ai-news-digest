@@ -6550,6 +6550,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbENpWmtGaVYwc3pOU2FrLTV3TlJVcTI5TkF6bVZRTE5Qc2NpRkZKMm9XcEdBUlNZZU1YX3BvZXV0czlPTWJBQy1wVDBwdkVEY0ZRaF84MkNoeXJfc0lZemx4cHVUci1MeE5MbHM1dFlfYUw3b3dadHlPaU5tTXlfNEUxUmNBS0E0dkFacDlwajZJdkVxSmc?oc=5\" target=\"_blank\">The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
    "fetched_at": "2026-11-17T12:39:30+00:00"
+  },
+  {
+   "id": "web-924-75b546c515",
+   "source_id": "news",
+   "source_name": "第一财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "深圳国产芯片成功训练万亿级AI大模型 - 第一财经",
+   "summary": "深圳国产芯片成功训练万亿级AI大模型 &nbsp;&nbsp; 第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hencxRmFVNlhXV18wampCOTBoN2QxNmJjbDRGUi03djlyT1UzT0JaVnJjaGJpMlZZZHRDYUNIa1dCQ0tLMlVlNkhhYi10aks4a2NN?oc=5",
+   "published_at": "2026-11-14T18:25:31+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "算力",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hencxRmFVNlhXV18wampCOTBoN2QxNmJjbDRGUi03djlyT1UzT0JaVnJjaGJpMlZZZHRDYUNIa1dCQ0tLMlVlNkhhYi10aks4a2NN?oc=5\" target=\"_blank\">深圳国产芯片成功训练万亿级AI大模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
   }
  ]
 }

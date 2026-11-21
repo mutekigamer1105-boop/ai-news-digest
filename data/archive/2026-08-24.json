@@ -640,6 +640,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xrNlhIYzlaMXBfMlBYOWxTQURkMUR6Z2pYV0JhTGFhZW4wVEEweGNJMUhHQ1dsQmN3NjlON044OGhsWlBWSzA5QzJhXzFDY1hmLUZYdDIyLTZOYVIzS1ZpcUhuRWJPb0tNa09VODg3Rmg1M3R0QnVhOVdxWF82RHVGMGJXNEYzT2lqR29ZZXY?oc=5\" target=\"_blank\">Evaluating large language models as grant reviewers: a comparative study of prompt engineering strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
    "fetched_at": "2026-10-19T09:28:16+00:00"
+  },
+  {
+   "id": "web-288-4e5a53a4d5",
+   "source_id": "news",
+   "source_name": "Frontiers",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Evaluating large language models for domain-specific scholarly metadata classification - Frontiers",
+   "summary": "Evaluating large language models for domain-specific scholarly metadata classification &nbsp;&nbsp; Frontiers",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWFPVHNkT2wtQ3JnalNkY2lzeTB5Wl92aXo1Q0VBWm5IbkFGZ3R4ZWxYY0pveFZnR2VLaTM0QkJmME14S0pTS1ZyZUxjRmhsWEJqT3NKclpQczBiU053dGNrbWtRQXNybExDdlVFWE5XSWoxdXVueWUybjRhTzd0dzNNTW5Hai1XTVhEdG5IbWNDdlJyMG1EN05CLUpudDdES3Y5c3B2VkFFaDQ?oc=5",
+   "published_at": "2026-08-24T12:05:59+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWFPVHNkT2wtQ3JnalNkY2lzeTB5Wl92aXo1Q0VBWm5IbkFGZ3R4ZWxYY0pveFZnR2VLaTM0QkJmME14S0pTS1ZyZUxjRmhsWEJqT3NKclpQczBiU053dGNrbWtRQXNybExDdlVFWE5XSWoxdXVueWUybjRhTzd0dzNNTW5Hai1XTVhEdG5IbWNDdlJyMG1EN05CLUpudDdES3Y5c3B2VkFFaDQ?oc=5\" target=\"_blank\">Evaluating large language models for domain-specific scholarly metadata classification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontiers</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
   }
  ]
 }

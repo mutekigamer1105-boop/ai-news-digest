@@ -14530,6 +14530,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fZERxY1N6eUV3bkF3OVJVdEl4bWdsSDhlSFJGMWF3SVRqUk5Dc0Zhd0xzSHIxN1NSdU5YbmZxY2M2MzUxa1pOZk1teFJHUU5GT0xfUS1QblJidC1JdHkxNFRKaw?oc=5\" target=\"_blank\">dot 正式登场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-281-e252dc708a",
+   "source_id": "news",
+   "source_name": "RSNA Journals",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large Language Models in Radiology Workflow: Refinement of Differential Diagnosis—An Early Career Perspective - RSNA Journals",
+   "summary": "Large Language Models in Radiology Workflow: Refinement of Differential Diagnosis—An Early Career Perspective &nbsp;&nbsp; RSNA Journals",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LckxXMFFleEJGYWUxaGRYRUxSSWdISnd2aFNNUURGRFZ3M3dYUXFnSHpfdEp5YXB3NDg1UHhGdHh3cGpWSjJFTE0wb3BSX2w4dHdYZ0lWaTQzSGc?oc=5",
+   "published_at": "2026-09-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LckxXMFFleEJGYWUxaGRYRUxSSWdISnd2aFNNUURGRFZ3M3dYUXFnSHpfdEp5YXB3NDg1UHhGdHh3cGpWSjJFTE0wb3BSX2w4dHdYZ0lWaTQzSGc?oc=5\" target=\"_blank\">Large Language Models in Radiology Workflow: Refinement of Differential Diagnosis—An Early Career Perspective</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RSNA Journals</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
   }
  ]
 }

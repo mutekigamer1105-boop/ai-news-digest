@@ -151,6 +151,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9DYVdnUFM0M3pOQjFTd0RHdG1fbms3aDdfUjJVcW44VEdjYUxLR2xnUU51YXBTTDQtc2JuRTZYRjd2N3pUQmpaSmxHbzJ1bGd5ZnBqWEpKbW4waTZmOTRZdGFrcHJMU1RQcTN3?oc=5\" target=\"_blank\">预览 GPT-5.6 Sol：新一代模型</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-11-10T11:58:14+00:00"
+  },
+  {
+   "id": "web-291-cb54cee44d",
+   "source_id": "news",
+   "source_name": "PNAS",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Large language models accurately identify decision reasons in verbal reports - PNAS",
+   "summary": "Large language models accurately identify decision reasons in verbal reports &nbsp;&nbsp; PNAS",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13bThITFo0VC0tSzFyc3Jmek9KbFNJNndoV1h4SEdkdVZvelBodHBqdVQyREZhMGtySUc2Z0IxVVBsVmhNR3BZR2tJd3hJSFZiNDM4N1d3MWZnTHhS?oc=5",
+   "published_at": "2026-06-30T21:22:08+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE13bThITFo0VC0tSzFyc3Jmek9KbFNJNndoV1h4SEdkdVZvelBodHBqdVQyREZhMGtySUc2Z0IxVVBsVmhNR3BZR2tJd3hJSFZiNDM4N1d3MWZnTHhS?oc=5\" target=\"_blank\">Large language models accurately identify decision reasons in verbal reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PNAS</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
   }
  ]
 }

@@ -4433,6 +4433,29 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPZEpyVlltcExZLXZDZVJrRGZHc2ZTV0pab0poTVJhcjFhUXltQm05WlM5WnphWTJfQ05rZk5YeXZzekMxNldBakdkUFpuamhkai0wM0tqWlRuNmJnY2NGaUllZUFnUWtsMjVfMXhkSDllWUcwOERxUkxuZ0IyWjk5S3hhamZqTWlpMFRRb21wckNuM2ZUbzRYTnF3?oc=5\" target=\"_blank\">JB Financial Picks AI Security Startup for First Bet From New Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
    "fetched_at": "2026-11-03T11:30:51+00:00"
+  },
+  {
+   "id": "web-973-8e1e6c8ab0",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心 - 东方财富",
+   "summary": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96WERUZkdDTlpKZGg2dFhSQXFrWDUxeURSVURiN0dhTm96Z0lDa3pHOVNWSGNnRmJsaENBYTJDNm1KTnZaNGs3R0t6ckJmcVZzOS1yc21KQTFEOXJsczZRbWVsZG5lUQ?oc=5",
+   "published_at": "2026-10-25T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "治理"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE96WERUZkdDTlpKZGg2dFhSQXFrWDUxeURSVURiN0dhTm96Z0lDa3pHOVNWSGNnRmJsaENBYTJDNm1KTnZaNGs3R0t6ckJmcVZzOS1yc21KQTFEOXJsczZRbWVsZG5lUQ?oc=5\" target=\"_blank\">DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
   }
  ]
 }

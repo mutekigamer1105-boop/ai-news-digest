@@ -12807,6 +12807,96 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtVkNsM1cwUUViaS1RQzJOaXFuTmM1M2MyM21zdUx2eVc2cDlIQmlkSHlNZ05vWlcyR2VTaGdsd1VrU0MzOXpBcjlXblVpWHJOeWNzakI5a2VfRTQ?oc=5\" target=\"_blank\">GPT-6.2 Astra Benchmarks, Cost and Capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vals AI</font>",
    "fetched_at": "2026-11-20T12:22:17+00:00"
+  },
+  {
+   "id": "web-319-82628fcf40",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing ChatGPT for Sales - OpenAI",
+   "summary": "Introducing ChatGPT for Sales &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93NzFPZGpUeU84ai1xMjR0SVYxbC1MZ3Q0S1BNeU10VnoteVM2Y01ES18wWTR1cERpU2dfN2RZUFdRcXgtVkx3d1c2SEVGU0x3SEc5cGVhUThaUFBqakhid2pYR2wtZw?oc=5",
+   "published_at": "2026-11-17T21:27:46+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE93NzFPZGpUeU84ai1xMjR0SVYxbC1MZ3Q0S1BNeU10VnoteVM2Y01ES18wWTR1cERpU2dfN2RZUFdRcXgtVkx3d1c2SEVGU0x3SEc5cGVhUThaUFBqakhid2pYR2wtZw?oc=5\" target=\"_blank\">Introducing ChatGPT for Sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
+  },
+  {
+   "id": "web-733-01d18ec8ad",
+   "source_id": "news",
+   "source_name": "Yahoo! Finance Canada",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents - Yahoo! Finance Canada",
+   "summary": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents &nbsp;&nbsp; Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaDFnM2FKQklVUnBpN0pJTi1ZeVM4eUJmX090Q2ZfWUpvU2Q1Z05BczZkSjZNRU9VWENYYnFSUW5Ic0cydTJKcnREemFZZi1kOHJSUHdDR3NHLTF0M2JJUHYxeW9FRi1pWmZ2SkU4b3dBOC1ERUMtdFJxSURrWnhEZWItaVlkNGxDa21yT0dScFljU3dCZkFhVTRVMDBGdw?oc=5",
+   "published_at": "2026-11-17T18:15:00+00:00",
+   "author_handle": null,
+   "builder_id": "satya-nadella",
+   "builder_name": "Satya Nadella",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOaDFnM2FKQklVUnBpN0pJTi1ZeVM4eUJmX090Q2ZfWUpvU2Q1Z05BczZkSjZNRU9VWENYYnFSUW5Ic0cydTJKcnREemFZZi1kOHJSUHdDR3NHLTF0M2JJUHYxeW9FRi1pWmZ2SkU4b3dBOC1ERUMtdFJxSURrWnhEZWItaVlkNGxDa21yT0dScFljU3dCZkFhVTRVMDBGdw?oc=5\" target=\"_blank\">Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
+  },
+  {
+   "id": "web-563-1edf9c0336",
+   "source_id": "news",
+   "source_name": "The New York Times",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Nvidia Updates: Huang’s Resignation Reverberates Through A.I. Industry - The New York Times",
+   "summary": "Nvidia Updates: Huang’s Resignation Reverberates Through A.I. Industry &nbsp;&nbsp; The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSWxaN0tPUFI1US1TR2ppVnJqdmVuQTJLWmI0LVNDSDc0YkNOdjgxQUQ2elZjQjRQZzlyVlZuTGU4NndKOFJVT3dUeXBFNUhHV2c0d05lVndNVzZoZHZ6YWVqel8zN2l5Wnc0OXg3M3RxVWIxZ0RuMUptWm13YWRTR0dB?oc=5",
+   "published_at": "2026-11-17T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "jensen-huang",
+   "builder_name": "Jensen Huang",
+   "tags": [
+    "AI",
+    "算力"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSWxaN0tPUFI1US1TR2ppVnJqdmVuQTJLWmI0LVNDSDc0YkNOdjgxQUQ2elZjQjRQZzlyVlZuTGU4NndKOFJVT3dUeXBFNUhHV2c0d05lVndNVzZoZHZ6YWVqel8zN2l5Wnc0OXg3M3RxVWIxZ0RuMUptWm13YWRTR0dB?oc=5\" target=\"_blank\">Nvidia Updates: Huang’s Resignation Reverberates Through A.I. Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
+  },
+  {
+   "id": "web-920-3a7c394ca7",
+   "source_id": "news",
+   "source_name": "第一财经",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "大模型与AI智能体时代，金融机构如何从风险防御到价值经营？2026年“陆家嘴金融沙龙金融科技专场”9月18日开启 - 第一财经",
+   "summary": "大模型与AI智能体时代，金融机构如何从风险防御到价值经营？2026年“陆家嘴金融沙龙金融科技专场”9月18日开启 &nbsp;&nbsp; 第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yZ0U0dGRlaVZCYVliZ0pGX0s1V0pLS2lrRHYzTkhNNXA0SUtvZFFEVmpOUnZLZW11RjZkMHA3T2txY05tVnNjU1hWcWNzLXFHV180?oc=5",
+   "published_at": "2026-11-17T02:47:50+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yZ0U0dGRlaVZCYVliZ0pGX0s1V0pLS2lrRHYzTkhNNXA0SUtvZFFEVmpOUnZLZW11RjZkMHA3T2txY05tVnNjU1hWcWNzLXFHV180?oc=5\" target=\"_blank\">大模型与AI智能体时代，金融机构如何从风险防御到价值经营？2026年“陆家嘴金融沙龙金融科技专场”9月18日开启</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
   }
  ]
 }

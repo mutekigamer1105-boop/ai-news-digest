@@ -304,6 +304,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9Oa0dfNWZ3YlV0NkxXaTdScjFjWjdkQ2lsdVdleFpPenhKdUdoZEJzSjJZOEMzajZzRjN6YmZUQVo1WDBqejNwWDl0LUFwU2hXU0pnc3Izc0F1X1ZsUGRGeENhLVZYcGl0TE9Zb29mbkM?oc=5\" target=\"_blank\">AI智能体入侵“抱抱脸”事件调查报告提示：人工智能发展应敲响安防警钟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国科技网</font>",
    "fetched_at": "2026-09-24T04:05:12+00:00"
+  },
+  {
+   "id": "web-233-d0041f83a2",
+   "source_id": "news",
+   "source_name": "Nature",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Benchmarking large language models for HIV medical decision support - Nature",
+   "summary": "Benchmarking large language models for HIV medical decision support &nbsp;&nbsp; Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qemd5UWJCTE1sTUpOdmpMTjQ3V01sV2hXX0M5cXdoWWNZTVJmNzJpc0FmT1ctUjhLMnFIb0NiT1RQUmZLUWpNSzNuVExKZFpURk05Z3VSMl83aXgzUUxr?oc=5",
+   "published_at": "2026-08-29T07:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qemd5UWJCTE1sTUpOdmpMTjQ3V01sV2hXX0M5cXdoWWNZTVJmNzJpc0FmT1ctUjhLMnFIb0NiT1RQUmZLUWpNSzNuVExKZFpURk05Z3VSMl83aXgzUUxr?oc=5\" target=\"_blank\">Benchmarking large language models for HIV medical decision support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
   }
  ]
 }

@@ -13953,6 +13953,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdlJDQ1Q4RTZrR2VYeE85NUdfUUZjMnhXWVVDa3pTaUVTVHRqV3ZIUWNrT01IVTFyU1BTaTYyZXJraDRaY1lhMl9EZVZ2U29VektxeEFJc0F6d3ZrMUVCdUJ6ZlU3dDE5aTVvUTR4UzdITl8wd3hSdC1Sd0hvOFFBdTJBbVFUVVlvd2lN?oc=5\" target=\"_blank\">衡量 AI 智能体处理日常湿实验室科研工作的能力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
    "fetched_at": "2026-11-11T11:37:18+00:00"
+  },
+  {
+   "id": "web-400-19b7a6ff5d",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Introducing GPT-6.2 Astra and Sol - OpenAI",
+   "summary": "Introducing GPT-6.2 Astra and Sol &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uaG9wYm5WLWZad2xnSC12anhNVVhCQ0d2aWJUY0l5V1JFNlE3SkhjdE5JSk0zRjVhZk5Da3NzVkp5bDkwcnFnbVZ0RjV1TjFQSVZoSVNUdm5jYW13ZDZ5TTU2eVRBZw?oc=5",
+   "published_at": "2026-11-06T08:00:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uaG9wYm5WLWZad2xnSC12anhNVVhCQ0d2aWJUY0l5V1JFNlE3SkhjdE5JSk0zRjVhZk5Da3NzVkp5bDkwcnFnbVZ0RjV1TjFQSVZoSVNUdm5jYW13ZDZ5TTU2eVRBZw?oc=5\" target=\"_blank\">Introducing GPT-6.2 Astra and Sol</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
   }
  ]
 }

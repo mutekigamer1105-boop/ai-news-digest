@@ -13803,6 +13803,159 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1tS0pET2k1WE90RFR3VWZMSmZyZTdSUV9ObVNGTDA4MmFIYzhSNTJnNzFnY2hiWmVsS1pVeDMxRnNiWWtOeXIzNGNGbVYyc2lxa3g3UzZBbFBkTndtdG5YdWpDckJuUThqZW5ncDlSX2IzaUpDU0N2X3AyaDJfQVnSAX9BVV95cUxNbUtKRE9pNVhPdERUd1VmTEpmcmU3UlFfTm1TRkwwODJhSGM4UjUyZzcxZ2NoYlplbEtaVXgzMUZzYllrTnlyMzRjRm1WMnNpcWt4N1M2QWxQZE53bXRuWHVqQ3JCblE4amVuZ3A5Ul9iM2lKQ1NDdl9wMmgyX0FZ?oc=5\" target=\"_blank\">SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarkTechPost</font>",
    "fetched_at": "2026-11-20T12:22:17+00:00"
+  },
+  {
+   "id": "web-318-a82ad66ce7",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "Research acceleration: The jagged frontier - OpenAI",
+   "summary": "Research acceleration: The jagged frontier &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaWUlLUnMybWl2WE5UeHVkWU9MZUhuZjZoa09ZNHJrV0VfZVlwVVRmQXkzYk83Mk11dWpSYmVlVHRhRU5mRlZFVGNZS04zUmQyZldYdFBhRDJ2dnhxWEhlajdGV0g1OEp5UWhZVWJlRV8?oc=5",
+   "published_at": "2026-11-18T23:17:14+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaWUlLUnMybWl2WE5UeHVkWU9MZUhuZjZoa09ZNHJrV0VfZVlwVVRmQXkzYk83Mk11dWpSYmVlVHRhRU5mRlZFVGNZS04zUmQyZldYdFBhRDJ2dnhxWEhlajdGV0g1OEp5UWhZVWJlRV8?oc=5\" target=\"_blank\">Research acceleration: The jagged frontier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
+  },
+  {
+   "id": "web-1076-8b0ec5c82d",
+   "source_id": "news",
+   "source_name": "36Kr",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "OpenAI自曝递归自我提升，智能体指数级爆发，人类已成瓶颈 - 36Kr",
+   "summary": "OpenAI自曝递归自我提升，智能体指数级爆发，人类已成瓶颈 &nbsp;&nbsp; 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tbXR5d0JlTGtNVHUzRVJhc2ZrTUZuSy1XcmdvTHJoWEE5SC1rSEJrMFdZQVM2YUxISmgzcGJEZnJsbDJJSnZuXzE0SmRjdw?oc=5",
+   "published_at": "2026-11-18T21:15:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型",
+    "Agent"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tbXR5d0JlTGtNVHUzRVJhc2ZrTUZuSy1XcmdvTHJoWEE5SC1rSEJrMFdZQVM2YUxISmgzcGJEZnJsbDJJSnZuXzE0SmRjdw?oc=5\" target=\"_blank\">OpenAI自曝递归自我提升，智能体指数级爆发，人类已成瓶颈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
+  },
+  {
+   "id": "web-896-15cff7c5da",
+   "source_id": "news",
+   "source_name": "东方财富",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "TCL李东生：过去几年AI大模型已为TCL华星创造超25亿元效益 - 东方财富",
+   "summary": "TCL李东生：过去几年AI大模型已为TCL华星创造超25亿元效益 &nbsp;&nbsp; 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyclJhRXl4ampMRkR5NFNLTGp2MGpLM1d5NDJpcDhzQjViMVVQTHd3eXlVQVNLbFF6M2RfS3pHdDY0SUE4RjBDcE5HcWYyM0JvUGFJVVBKWUZGM3lsQV9pdg?oc=5",
+   "published_at": "2026-11-18T18:56:25+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyclJhRXl4ampMRkR5NFNLTGp2MGpLM1d5NDJpcDhzQjViMVVQTHd3eXlVQVNLbFF6M2RfS3pHdDY0SUE4RjBDcE5HcWYyM0JvUGFJVVBKWUZGM3lsQV9pdg?oc=5\" target=\"_blank\">TCL李东生：过去几年AI大模型已为TCL华星创造超25亿元效益</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
+  },
+  {
+   "id": "web-467-515fe585df",
+   "source_id": "news",
+   "source_name": "CNN",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Anthropic’s Wall Street debut marks a new chapter for AI - CNN",
+   "summary": "Anthropic’s Wall Street debut marks a new chapter for AI &nbsp;&nbsp; CNN",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yQVFHa2k2cVUxNWk4RThUZ0IxeHJoWHlWMjhBb3lRSHhnd2R1bWQ1OS16THpWV1dOSGEyc28ycklINlQ1MHN2ZUYxQ0hyRVktVU9CNnVEdFBHWVdKQmRnRHpGeFpjLXNpN3ZnMHFtX0pXUEhLdmhObnN4YlBjUQ?oc=5",
+   "published_at": "2026-11-18T16:48:38+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1yQVFHa2k2cVUxNWk4RThUZ0IxeHJoWHlWMjhBb3lRSHhnd2R1bWQ1OS16THpWV1dOSGEyc28ycklINlQ1MHN2ZUYxQ0hyRVktVU9CNnVEdFBHWVdKQmRnRHpGeFpjLXNpN3ZnMHFtX0pXUEhLdmhObnN4YlBjUQ?oc=5\" target=\"_blank\">Anthropic’s Wall Street debut marks a new chapter for AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
+  },
+  {
+   "id": "web-397-17142bc42b",
+   "source_id": "cnbc-tech",
+   "source_name": "CNBC Tech",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.85,
+   "title": "OpenAI CEO Sam Altman: It's hard to imagine the AI industry without Jensen Huang - CNBC",
+   "summary": "OpenAI CEO Sam Altman: It's hard to imagine the AI industry without Jensen Huang &nbsp;&nbsp; CNBC",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNV9XcFZiZXAtTlhlNmt2YmpCREQ5VWFqSkY4NV80V1B2QlBDLWZQc3J5ODBuWHpZeU02NzB4Qy1uWUtfS1ZuZ3pxcGRqZG5FS2s4RklEN19mQzRZZmlKOXpuZUxCcGxnOFlYcEJ1NlZVc3NaLVVvVUJjWFlKd0I3LWluMTZRXzBOcTRFWFE0QjdmLXVjOEtkWTJHN1czRERjcy1BaXFSQVpjMVVXQkxtX3hEdV9STDJHb3dvaWZB?oc=5",
+   "published_at": "2026-11-18T15:06:00+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQNV9XcFZiZXAtTlhlNmt2YmpCREQ5VWFqSkY4NV80V1B2QlBDLWZQc3J5ODBuWHpZeU02NzB4Qy1uWUtfS1ZuZ3pxcGRqZG5FS2s4RklEN19mQzRZZmlKOXpuZUxCcGxnOFlYcEJ1NlZVc3NaLVVvVUJjWFlKd0I3LWluMTZRXzBOcTRFWFE0QjdmLXVjOEtkWTJHN1czRERjcy1BaXFSQVpjMVVXQkxtX3hEdV9STDJHb3dvaWZB?oc=5\" target=\"_blank\">OpenAI CEO Sam Altman: It's hard to imagine the AI industry without Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
+  },
+  {
+   "id": "web-1-5e73328a75",
+   "source_id": "news",
+   "source_name": "U.S. Government Accountability Office (.gov)",
+   "source_type": "media",
+   "source_lang": "en",
+   "source_credibility": 0.62,
+   "title": "Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans - U.S. Government Accountability Office (.gov)",
+   "summary": "Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans &nbsp;&nbsp; U.S. Government Accountability Office (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kS2ctYWF5U25FR2dadGRYbVB0UlRuYVA0Q3FFWm1OUFgtenBZaHI1SnZZNTZzRUpPei1zTlhfaUUxdTA4TTVHeWE1czBySnJHM0VYbA?oc=5",
+   "published_at": "2026-11-18T13:03:42+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kS2ctYWF5U25FR2dadGRYbVB0UlRuYVA0Q3FFWm1OUFgtenBZaHI1SnZZNTZzRUpPei1zTlhfaUUxdTA4TTVHeWE1czBySnJHM0VYbA?oc=5\" target=\"_blank\">Artificial Intelligence: Covert Testing Used Common Platforms to Create Viable Attack Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Government Accountability Office (.gov)</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
+  },
+  {
+   "id": "web-902-82846f6b0a",
+   "source_id": "news",
+   "source_name": "京报网",
+   "source_type": "media",
+   "source_lang": "zh",
+   "source_credibility": 0.62,
+   "title": "TCL李东生：人和大模型AI能力结合，能够大幅提高效率 - 京报网",
+   "summary": "TCL李东生：人和大模型AI能力结合，能够大幅提高效率 &nbsp;&nbsp; 京报网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kOVZUTWlWeUVQRG1LWk5SX2JqbDRkOHZROGlHYUtFUHZqbEpNX0VOOXpuMWZoUjllUUlRZkFVdGhqWDBkQzV5VDItdG1lSi1jc200NFpncGktenI0aEdZX3VVVGlwMW05S0RHelAtUklEdw?oc=5",
+   "published_at": "2026-11-18T06:14:00+00:00",
+   "author_handle": null,
+   "builder_id": "sundar-pichai",
+   "builder_name": "Sundar Pichai",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1kOVZUTWlWeUVQRG1LWk5SX2JqbDRkOHZROGlHYUtFUHZqbEpNX0VOOXpuMWZoUjllUUlRZkFVdGhqWDBkQzV5VDItdG1lSi1jc200NFpncGktenI0aEdZX3VVVGlwMW05S0RHelAtUklEdw?oc=5\" target=\"_blank\">TCL李东生：人和大模型AI能力结合，能够大幅提高效率</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京报网</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
   }
  ]
 }

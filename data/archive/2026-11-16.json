@@ -15322,6 +15322,28 @@
    "engagement": 0.0,
    "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWDFDQjNUeUwxempBQjM2RVQtOVNYSk9EQ3JwRWd6MnNrVnI4WGlDSFE1bGh5WFE4bWJhdWJ0VHVyOVpWMEJGLXppSlRzODBHZDVPQloyamhtUmt6UEZDWGVfVEJxSUlKaHlMVDJPZllDcTkxTkVLSXlXMC1semM3ZkZtSV9FNGVrVDJzLUhjNEdqZXFsMm1mYkdfa2JyVkdsTHNGTHN3OU42WDhsYmhJMkJWN29ob3JwM05uaWVzSWFvT2I2c0pVVkhqS2YzcGJJM1FqNW5mU2RBZDczQ29ET2lQeHdLZjjSAewBQVVfeXFMTWJFVmNOX2dxekJiWFRscG9hd0lDTUk2bGlZSTNJUGlCcnFOLVdjZDJ6ODYyNE5pcHFfellPYlU4QlYxTFBhX0xWQ0lZSy1OU1ZvQndMeE93YU9yRWVqNVM5Zng3Y0pNdXpFRlhHYnF1VDlqaWdKSU9MUmR3WmRpb2FxNnVCQWFKVHdjdS1mY28xQjhlekhrUjJ3SWR2ck01YmluYzN2X3FYV193S19LaDRZQ1lmZzc1WEo3ZFdnLUNGMWhzTzA0YS1obDFOajNyb1lDemx6bFFxMjh2RWtVc1FtV21GbXphOXVldGQ?oc=5\" target=\"_blank\">India's AI startups raise $1.91 billion across 102 funding rounds in 2026 so far</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Enterprise AI</font>",
    "fetched_at": "2026-11-19T12:21:58+00:00"
+  },
+  {
+   "id": "web-331-b9e59cab46",
+   "source_id": "openai-blog",
+   "source_name": "OpenAI Blog",
+   "source_type": "official",
+   "source_lang": "en",
+   "source_credibility": 1.0,
+   "title": "LVMH’s Media Division announces strategic partnership with OpenAI - OpenAI",
+   "summary": "LVMH’s Media Division announces strategic partnership with OpenAI &nbsp;&nbsp; OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZ25YbUVjZkxVNVdVTHlNVkFkWXF3TzVyZ2MtVy11anBmNFp4eGhhXzZaMHZqNkU3eTVEWDRmZFBod3NPNUJQSldIMHlKOGVpWU82SjdKX3YyS1VUMGRkcUdGNDhtS2Nf?oc=5",
+   "published_at": "2026-11-16T09:09:45+00:00",
+   "author_handle": null,
+   "builder_id": "sam-altman",
+   "builder_name": "Sam Altman",
+   "tags": [
+    "AI",
+    "模型"
+   ],
+   "engagement": 0.0,
+   "raw_text": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZ25YbUVjZkxVNVdVTHlNVkFkWXF3TzVyZ2MtVy11anBmNFp4eGhhXzZaMHZqNkU3eTVEWDRmZFBod3NPNUJQSldIMHlKOGVpWU82SjdKX3YyS1VUMGRkcUdGNDhtS2Nf?oc=5\" target=\"_blank\">LVMH’s Media Division announces strategic partnership with OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+   "fetched_at": "2026-11-21T11:55:58+00:00"
   }
  ]
 }
